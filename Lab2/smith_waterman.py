@@ -4,7 +4,8 @@ import bl50  # file with BLOSSUM 50 scoring matrix
 import sys   # to read main arguments
 
 def traceback(F, F_sources, F_max):
-	# From each optimal matrix value in F_max, backtrack to find an optimal matching.
+	# From each optimal matrix value in F_max, backtrack to find
+	#  an optimal matching.
 	# Mark all cells as not visited
 	F_visited = []
 	for i in range(len(F)):
@@ -45,6 +46,58 @@ def traceback_rec(source, F, F_sources, F_visited, path):
 	path.pop()
 	F_visited[source[0]][source[1]] = False
 
+def print_table(S1, S2, F):
+	# print table:
+
+	# print S1 in first row
+	print(' '*8, end = '')
+	for char in S1:
+		print('{:3s}'.format(char), end=' ')
+	print('\n')
+
+
+	for i in range(len(S2) + 1):
+		# print S2 in first column
+		if i > 0:
+			print('{:2s}'.format(S2[i-1]), end='')
+		else:
+			print(' '*2, end = '')
+
+		# table values
+		for j in range(len(S1) + 1):
+			print('{:3d}'.format(F[i][j]), end=' ')
+
+		print('\n')
+
+def get_optimal_alignments(S1, S2, paths):
+	optimal_alignments = ''
+	for path in paths:
+		M1 = ''
+		M2 = ''
+		match = ''
+		lastM1 = -1
+		lastM2 = -1
+		for cell in reversed(path[:-1]):
+			if cell[1] == lastM1:
+				M1 += '-'
+				M2 += S2[cell[0]-1]
+				match += ' '
+			elif cell[0] == lastM2:
+				M2 += '-'
+				M1 += S1[cell[1]-1]
+				match += ' '
+			else:
+				M1 += S1[cell[1]-1]
+				M2 += S2[cell[0]-1]
+				match += '|'
+				lastM1 = cell[1]
+				lastM2 = cell[0]
+
+		optimal_alignments += 'S1: ' + M1 + '\n'
+		optimal_alignments += '    ' + match + '\n'
+		optimal_alignments += 'S2: ' + M2 + '\n'
+
+	return optimal_alignments
 
 def smith_waterman(S1, S2, gap_pen):
 	F = []          # matrix values indexed i, j, i in S2, j in S1.
@@ -69,7 +122,8 @@ def smith_waterman(S1, S2, gap_pen):
 			# get score from BLOSSUM 50 scoring matrix
 			score = bl50.scores.get((S1[j-1], S2[i-1]))
 
-			# BLOSSUM 50 scoring matrix is not mirrored. Try the inverse combination
+			# BLOSSUM 50 scoring matrix is not mirrored.
+			# Try the inverse combination
 			if score is None:
 				score = bl50.scores.get((S2[i-1], S1[j-1]))
 
@@ -78,7 +132,8 @@ def smith_waterman(S1, S2, gap_pen):
 				raise Exception('Score between {} and {} not available'\
 					.format(S2[i-1], S1[j-1]))
 
-			F[i][j] = max(F[i-1][j-1] + score, F[i-1][j] - gap_pen, F[i][j-1] - gap_pen, 0)
+			F[i][j] = max(F[i-1][j-1] + score, F[i-1][j] - gap_pen,\
+						  F[i][j-1] - gap_pen, 0)
 
 			# save all optimal sources
 			if F[i][j] == F[i-1][j-1] + score:
@@ -95,62 +150,17 @@ def smith_waterman(S1, S2, gap_pen):
 				F_max = [(i, j)]
 				F_max_val = F[i][j]
 
-	# print table:
-
-	# print S1 in first row
-	print(' '*8, end = '')
-	for char in S1:
-		print('{:3s}'.format(char), end=' ')
-	print('\n')
-
-
-	for i in range(len(S2) + 1):
-		# print S2 in first column
-		if i > 0:
-			print('{:2s}'.format(S2[i-1]), end='')
-		else:
-			print(' '*2, end = '')
-
-		# table values
-		for j in range(len(S1) + 1):
-			print('{:3d}'.format(F[i][j]), end=' ')
-
-		print('\n')
-		#print(u'↖')
+	print_table(S1, S2, F)
 
 	paths = traceback(F, F_sources, F_max)
+	print(paths)
 
-	M1 = ''
-	M2 = ''
-	match = ''
-	lastM1 = -1
-	lastM2 = -1
-	for path in paths:
-		for cell in reversed(path[:-1]):
-			if cell[1] == lastM1:
-				M1 += '-'
-				M2 += S2[cell[0]-1]
-				match += ' '
-			elif cell[0] == lastM2:
-				M2 += '-'
-				M1 += S1[cell[1]-1]
-				match += ' '
-			else:
-				M1 += S1[cell[1]-1]
-				M2 += S2[cell[0]-1]
-				match += '|'
-				lastM1 = cell[1]
-				lastM2 = cell[0]
-			
-
-
-	optimal_alignments =  'S1: ' + M1 + '\n'
-	optimal_alignments += '    ' + match + '\n'
-	optimal_alignments += 'S2: ' + M2 + '\n'
-
-
+	optimal_alignments = get_optimal_alignments(S1, S2, paths)
 
 	return F_max_val, optimal_alignments
+
+
+
 
 if __name__ == "__main__":
 	if len(sys.argv) == 1:
