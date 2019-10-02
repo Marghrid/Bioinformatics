@@ -1,28 +1,29 @@
 # Smith-Waterman algorithm
 
-import bl50  # file with BLOSSUM 50 scoring matrix
+import bl50  # file with BLOSUM 50 scoring matrix
 import sys   # to read main arguments
 
 def traceback(F, F_sources, F_max):
 	# From each optimal matrix value in F_max, backtrack to find
 	#  an optimal matching.
-	# Mark all cells as not visited
-	F_visited = []
-	for i in range(len(F)):
-		F_visited.append([False] * len(F[0]))
-
-	path = []
 	paths = []
 
-	# Call the recursive helper function to print all paths
 	for F_max_i in F_max:
+		
+		# Mark all cells as not visited
+		F_visited = []
+		for i in range(len(F)):
+			F_visited.append([False] * len(F[0]))
+
+		path = []
+		# Call the recursive helper function to get all paths
 		traceback_rec(F_max_i, F, F_sources, F_visited, path)
 		paths.append(path)
 
 	return paths
 
 
-# A recursive function to print all optimal path from source. 
+# A recursive helper function to print all optimal paths from source. 
 # F_visited[] keeps track of vertices in current path. 
 # path[] stores actual vertices.
 def traceback_rec(source, F, F_sources, F_visited, path):
@@ -40,7 +41,8 @@ def traceback_rec(source, F, F_sources, F_visited, path):
 		# Recur for all the vertices adjacent to current vertex 
 		for prev in F_sources[source[0]][source[1]]:
 			if not F_visited[prev[0]][prev[1]]:
-				return traceback_rec(prev, F, F_sources, F_visited, path)
+				traceback_rec(prev, F, F_sources, F_visited, path)
+				return
   
 	# Remove current vertex from path[] and mark it as unvisited 
 	path.pop()
@@ -69,6 +71,7 @@ def print_table(S1, S2, F):
 
 		print('\n')
 
+# Converts the paths found into a string showing the optimal local alignments.
 def get_optimal_alignments(S1, S2, paths):
 	optimal_alignments = ''
 	for path in paths:
@@ -163,13 +166,25 @@ def smith_waterman(S1, S2, gap_pen):
 
 
 if __name__ == "__main__":
-	if len(sys.argv) == 1:
-		sol = smith_waterman('HEAGAWGHEE', 'PAWHEAE', 8)
-	elif len(sys.argv) == 4:
-		sol = smith_waterman(sys.argv[1], sys.argv[2], int(sys.argv[3]))
+	S1 = 'HEAGAWGHEE'
+	S2 = 'PAWHEAE'
+	gap_pen = 8
+
+	if len(sys.argv) > 2:
+		S1 = sys.argv[1]
+		S2 = sys.argv[2]
+
+	if len(sys.argv) > 3:
+		gap_pen = int(sys.argv[3])
+
+	print("Smith-Waterman Algorithms -- find all optimal local alignments")
+	print("S1:", S1)
+	print("S2:", S2)
+	print("Gap penalty:", gap_pen)
+
+	sol = smith_waterman(S1, S2, gap_pen)
+	
 	print('Score of optimal alignment(s):', sol[0])
 	print('Optimal alignment(s):')
 	print(sol[1])
-
-
 
