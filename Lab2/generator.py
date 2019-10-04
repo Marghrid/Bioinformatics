@@ -1,31 +1,48 @@
+#!/bin/python
+
 import bl50
 import random
-import time
 import subprocess
-import os
+
+executable = './smith_waterman.py'
 
 instances_per_size = 10
 min_size = 10
 max_size = 1000
-size_int = 10
-file_name = "results.txt"
+step = 10
 
-open("results.csv", "w+")
+samples = 18
+jobs = 6
 
-for i in range(instances_per_size):
-	for size in range(min_size, max_size + 1, size_int):
-		S1 = ''
-		S2 = ''
-		for c in range(size):
-			pair = random.choice(list(bl50.scores.keys()))
-			S1 += pair[0]
-			S2 += pair[1]
-		
-		with open(os.devnull, "w") as fnull:
-			start_time = time.time()
-			subprocess.call(["python3", "smith_waterman.py", S1, S2, "8"], stdout = fnull)
-			end_time = time.time() - start_time
-		with open(file_name, "a") as fres:
-			fres.write("{} {}\n".format(size, end_time))
+result = open("results.data", "w+")
 
-	print(i+1, "done")
+
+for size in range(min_size, max_size + 1, step):
+	print("Running for size", size)
+
+	for i in range(0, samples, jobs):
+		processes = []
+		for j in range(0, jobs):
+			S1 = ''
+			S2 = ''
+			for c in range(size):
+				pair = random.choice(list(bl50.scores.keys()))
+				S1 += pair[0]
+				S2 += pair[1]
+
+			processes.append(
+				subprocess.Popen(['/usr/bin/time -f "%e %M" ' + executable + ' ' + S1 + ' ' + S2 + ' 8 > /dev/null'],
+								 stdout=subprocess.DEVNULL, stderr=subprocess.PIPE, universal_newlines=True,
+								 shell=True))
+
+		for j in range(0, jobs):
+			processes[j].wait()
+			time_output = processes[j].stderr.read().split()
+
+			result.write(
+				str(size) + " "
+				+ "{0:.5f}".format(float(time_output[0])) + " "
+				+ "{0:.5f}".format(float(time_output[1])) + "\n")
+			result.flush()
+
+result.close()

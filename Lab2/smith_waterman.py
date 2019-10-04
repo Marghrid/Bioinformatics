@@ -1,3 +1,4 @@
+#!/bin/python
 # Smith-Waterman algorithm
 
 import bl50  # file with BLOSUM 50 scoring matrix
