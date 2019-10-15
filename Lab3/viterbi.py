@@ -28,10 +28,14 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='Computes the most likely sequence of states, given a sequence of DNA.')
     parser.add_argument('sequence', metavar='S', type=str, help='the sequence')
+    parser.add_argument('--prob', action='store_true', help='compute the probability of the sequence of states')
     args = parser.parse_args()
     S = args.sequence
 
+    print("S = ", S)
+
     traces = np.zeros((len(S), len(states)), dtype=int)
+    pi = np.zeros((len(S),), dtype=int)
 
     # Forward pass
     m = np.diag(emission_probabilities[:, hidden_states.index(S[0])]).dot(starting_distribution)
@@ -42,7 +46,6 @@ if __name__ == "__main__":
         m = m_new
 
     # Find max at the end
-    pi = np.zeros((len(S),), dtype=int)
     pi[len(S) - 1] = np.argmax(m)
 
     # Traceback
@@ -50,5 +53,15 @@ if __name__ == "__main__":
         pi[t] = traces[t + 1][pi[t + 1]]
 
     # Output optimal path
+    print('π* = ', end='')
     for s in pi:
-        print(states[s], end=" ")
+        print(states[s], end='')
+    print()
+
+    # Compute P[S] using the forward algorithm
+    if args.prob:
+        a = np.diag(emission_probabilities[:, hidden_states.index(S[0])]).dot(starting_distribution)
+        for t in range(1, len(S)):
+            a = np.diag(emission_probabilities[:, hidden_states.index(S[t])]).dot(transitions_probabilities.T).dot(a)
+
+        print("P[S] = ", np.sum(a))
