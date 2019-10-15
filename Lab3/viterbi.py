@@ -32,7 +32,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     S = args.sequence
 
-    print("S = ", S)
+    print("S    =", S)
 
     traces = np.zeros((len(S), len(states)), dtype=int)
     pi = np.zeros((len(S),), dtype=int)
@@ -53,7 +53,7 @@ if __name__ == "__main__":
         pi[t] = traces[t + 1][pi[t + 1]]
 
     # Output optimal path
-    print('π* = ', end='')
+    print('π*   = ', end='')
     for s in pi:
         print(states[s], end='')
     print()
@@ -64,4 +64,4 @@ if __name__ == "__main__":
         for t in range(1, len(S)):
             a = np.diag(emission_probabilities[:, hidden_states.index(S[t])]).dot(transitions_probabilities.T).dot(a)
 
-        print("P[S] = ", np.sum(a))
+        print("P[S] =", np.sum(a))
