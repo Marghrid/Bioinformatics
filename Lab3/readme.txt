@@ -1,5 +1,7 @@
 viterbi.py implements the algorithms asked in section III of the problem statement.
 
+The package numpy is required to run the script.
+
 Usage:
 python3 viterbi.py [--prob] S
 
