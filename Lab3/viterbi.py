@@ -29,10 +29,11 @@ if __name__ == "__main__":
         description='Computes the most likely sequence of states, given a sequence of DNA.')
     parser.add_argument('sequence', metavar='S', type=str, help='the sequence')
     parser.add_argument('--prob', action='store_true', help='compute the probability of the sequence of states')
+    parser.add_argument('--post', type=int)
     args = parser.parse_args()
     S = args.sequence
 
-    print("S    =", S)
+    print("S       =", S)
 
     traces = np.zeros((len(S), len(states)), dtype=int)
     pi = np.zeros((len(S),), dtype=int)
@@ -53,7 +54,7 @@ if __name__ == "__main__":
         pi[t] = traces[t + 1][pi[t + 1]]
 
     # Output optimal path
-    print('π*   = ', end='')
+    print('π*      = ', end='')
     for s in pi:
         print(states[s], end='')
     print()
@@ -64,4 +65,20 @@ if __name__ == "__main__":
         for t in range(1, len(S)):
             a = np.diag(emission_probabilities[:, hidden_states.index(S[t])]).dot(transitions_probabilities.T).dot(a)
 
-        print("P[S] =", np.sum(a))
+        print("P[S]    =", np.sum(a))
+
+    # Compute P[π_T|X] using the backward algorithm
+    if args.post:
+        T = args.post
+
+        a = np.diag(emission_probabilities[:, hidden_states.index(S[0])]).dot(starting_distribution)
+        b = np.ones(a.shape)
+        for t in range(1, T):
+            a = np.diag(emission_probabilities[:, hidden_states.index(S[t])]).dot(transitions_probabilities.T).dot(a)
+        for t in range(len(S)-2, T-1, -1):
+            b = transitions_probabilities.dot(np.diag(emission_probabilities[:, hidden_states.index(S[t+1])])).dot(b)
+
+        result = a * b / (a.T.dot(b))
+        print("P[π" + str(T) + "|X] =", result)
+        print("π*[" + str(T) + "]   =", states[pi[T]])
+        print("π^[" + str(T) + "]   =", states[np.argmax(result)])
