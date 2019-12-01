@@ -5,7 +5,9 @@ Link to the Lab2 report: https://www.overleaf.com/3371685559zdrrgqtypwfb
 
 Link to the Lab3 report: https://www.overleaf.com/6768739354wgrmvqwhnvkq
 
-Link to the paper's report: https://www.overleaf.com/2163599773qzzdnfkqqrqf
+Link to the Lab6 report: https://www.overleaf.com/project/5de407b62c8c1f0001a96193
+
+Link to the paper's report: https://www.overleaf.com/2689677849sngtjznhnfgp
 
 ------
 
