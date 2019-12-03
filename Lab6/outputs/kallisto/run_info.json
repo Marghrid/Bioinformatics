@@ -1,0 +1,13 @@
+{
+	"n_targets": 190069,
+	"n_bootstraps": 0,
+	"n_processed": 62114547,
+	"n_pseudoaligned": 55752674,
+	"n_unique": 15710806,
+	"p_pseudoaligned": 89.8,
+	"p_unique": 25.3,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Mon Dec  2 13:18:40 2019",
+	"call": "./kallisto quant -i human.idx -o out ../../Downloads/CompBioISTLab6/TCGA-C8-A138-01_1.fastq ../../Downloads/CompBioISTLab6/TCGA-C8-A138-01_2.fastq"
+}
