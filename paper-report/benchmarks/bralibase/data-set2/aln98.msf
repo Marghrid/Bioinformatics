@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln98.msf MSF: 72 Type: N 07/12/19 CompCheck: 4471 ..
+
+  Name: X04175     Len: 72  Check: 7299 Weight: 1.00
+  Name: AF396436   Len: 72  Check: 7172 Weight: 1.00
+
+//
+
+           1                                               50
+X04175     AGGGGAGUAGUUCAACGGAAAAACUUUAGUCUUCAAAACUGAC.AUCGUG
+AF396436   GCCGCUUGGAUGGU.....UCCGGUGUGGGCUCAUUUCCCAUAACUAUAA
+
+           51                  72
+X04175     GGUUCGACUCCCGCCUCCCUUG
+AF396436   AGUUCGAUUCUUUAAAGUGGCU
+

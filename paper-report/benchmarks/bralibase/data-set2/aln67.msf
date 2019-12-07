@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln67.msf MSF: 90 Type: N 07/12/19 CompCheck: 9501 ..
+
+  Name: U67528     Len: 90  Check: 2991 Weight: 1.00
+  Name: M32222     Len: 90  Check: 6510 Weight: 1.00
+
+//
+
+           1                                               50
+U67528     GCCUCGGUAGCUCAGCCU.GGCGGAGCGCCUGCUUGGUAAGCAGGAG...
+M32222     GCCGGGGUGGCCCAGCC.UGGUAGGGCGUCGGCCUGCUAAGCCGAU.GAU
+
+           51                                    90
+U67528     ............GUCGCGGGUUCAAACCCCGCCCGAGGCU
+M32222     CCGUUAAGGAUCG.CGCGGGUUCAAAUCCCGUCCCCGGCG
+

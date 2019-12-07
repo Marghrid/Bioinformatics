@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln91.msf MSF: 75 Type: N 07/12/19 CompCheck: 9850 ..
+
+  Name: X12977     Len: 75  Check:  828 Weight: 1.00
+  Name: X61063     Len: 75  Check: 9022 Weight: 1.00
+
+//
+
+           1                                               50
+X12977     CGGUGAUUAGCGCAGCCCGGU.AGCGCAUCUGGUUUGGGACCAGAGGGUC
+X61063     GUCGGUGUCGUAUAU...GGUUAUUAC.AGGCCUUGCCAAGGCUUAGA.C
+
+           51                     75
+X12977     AAAGGUUCGAAUCCUUUAUCACCGA
+X61063     GGCAGUUCGAUCCUGCUCACCGGCU
+

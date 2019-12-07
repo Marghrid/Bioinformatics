@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln42.msf MSF: 74 Type: N 07/12/19 CompCheck: 7075 ..
+
+  Name: K02528     Len: 74  Check: 9460 Weight: 1.00
+  Name: AE000965   Len: 74  Check: 7615 Weight: 1.00
+
+//
+
+           1                                               50
+K02528     GGGGCUGUGGCCAAUCCCGGCAUGGCGACUGACUCCAGAUCAGUCGAUCG
+AE000965   GGGCUCGUAGCUCAGC..GGGAGAGCGCCGCCUUUGCGAGGCGGAGGCCG
+
+           51                    74
+K02528     GGGGUUCGAAUCCCUCCGGCCCCA
+AE000965   CGGGUUCAAAUCCCGCCGAGUCCA
+

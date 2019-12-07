@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln95.msf MSF: 72 Type: N 07/12/19 CompCheck: 3323 ..
+
+  Name: M14092     Len: 72  Check: 7804 Weight: 1.00
+  Name: AE000965   Len: 72  Check: 5519 Weight: 1.00
+
+//
+
+           1                                               50
+M14092     GCUGCUUGAAUGGU.....UUCAGUGUGGGCUCAUUUCCCAUUACUAUAA
+AE000965   GGGCUCGUAGCUCAGCGGGAGAGCGCCGCCUUUGCGAGGCGGAGGCCGCG
+
+           51                  72
+M14092     AGUUCGAUUCUUUAAAGCGGCC
+AE000965   GGUUCAAAUCCCGCCGAGUCCA
+

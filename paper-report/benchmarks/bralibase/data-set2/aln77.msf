@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln77.msf MSF: 86 Type: N 07/12/19 CompCheck: 3643 ..
+
+  Name: X61068     Len: 86  Check: 4761 Weight: 1.00
+  Name: AB031211   Len: 86  Check: 8882 Weight: 1.00
+
+//
+
+           1                                               50
+X61068     GCCCGGGUGGUGAAAUCGGUAGACACGCAGGACUUAAAAUCCUGUGGCA.
+AB031211   GCCGGGGUGGUGGAAUUGGCAGACACACAGGACUUAAAAUCCUGCGGUAG
+
+           51                                86
+X61068     UAAA.AGCCAUGUCGGUUCAAGUCCGACCCCGGGCA
+AB031211   GUGACUACCGUGCCGGUUCAAGUCCGGCCCUCGGCA
+

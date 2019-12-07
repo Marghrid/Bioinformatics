@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln76.msf MSF: 89 Type: N 07/12/19 CompCheck: 5122 ..
+
+  Name: D17540     Len: 89  Check:  501 Weight: 1.00
+  Name: M32222     Len: 89  Check: 4621 Weight: 1.00
+
+//
+
+           1                                               50
+D17540     GCGGGAGUAGCUCAGUU.GGUAGAGCAUCGGCUUCCCAAGCCGAGG....
+M32222     GCCGGGGUGGCCCAGCCUGGUAGGGCGUCGGCCUGCUAAGCCGAU.GAUC
+
+           51                                   89
+D17540     ...........GUCGCGGGUUCGAGUCCCGUCUCCCGCU
+M32222     CGUUAAGGAUCG.CGCGGGUUCAAAUCCCGUCCCCGGCG
+

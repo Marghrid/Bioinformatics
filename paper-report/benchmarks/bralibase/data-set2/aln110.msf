@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln110.msf MSF: 72 Type: N 07/12/19 CompCheck: 3804 ..
+
+  Name: X00432     Len: 72  Check: 7485 Weight: 1.00
+  Name: Z75101     Len: 72  Check: 6319 Weight: 1.00
+
+//
+
+           1                                               50
+X00432     AUUUAUAUAGUUUAAAAU.AAAACCUUACAUUUUCAUUGUAAUAA.UAAA
+Z75101     AGCGCCGUGGCGCAGUGGAAGCGCGCAGGGCUCAUAACCCUGAUGUCCUC
+
+           51                  72
+X00432     AU.AAUUU.AUUUUUAUAAAUU
+Z75101     GGAUCGAAACCGAGCGGCGCUA
+

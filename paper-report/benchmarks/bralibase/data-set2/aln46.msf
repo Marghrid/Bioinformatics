@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln46.msf MSF: 86 Type: N 07/12/19 CompCheck: 4243 ..
+
+  Name: M26978     Len: 86  Check: 8956 Weight: 1.00
+  Name: AP000063   Len: 86  Check: 5287 Weight: 1.00
+
+//
+
+           1                                               50
+M26978     GCGGGGGUGCCCGAGU..GGUCAAAGGGGACAGGCUUAGGACCUGUUGGC
+AP000063   GCGGGGGUGCCCGAGCCUGGCCAAAGGGGUCGGGCUCAGGACCCGAUGGC
+
+           51                                86
+M26978     GUUAGGCUU.CCAGGGUUCGAAUCCCUGCCCCCGCA
+AP000063   GUAG.GCCUGCGUGGGUUCAAAUCCCACCCCCCGCA
+

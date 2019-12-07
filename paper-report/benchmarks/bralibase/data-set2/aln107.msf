@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln107.msf MSF: 74 Type: N 07/12/19 CompCheck: 3047 ..
+
+  Name: D10745     Len: 74  Check: 4600 Weight: 1.00
+  Name: AF396436   Len: 74  Check: 8447 Weight: 1.00
+
+//
+
+           1                                               50
+D10745     UGAAUUGUAGACUAAUAGGUAAGUCCCCAAAAUUUGAGUUUGGCUUAUGG
+AF396436   GCCGCUUGGAUGGU......UCCGGUGUGGGCUCAUUUCCCAUAA.CUAU
+
+           51                    74
+D10745     UGUGUUCGAAUCACCCCAAUUCAA
+AF396436   AAAGUUCGAUUCUUUAAAGUGGCU
+

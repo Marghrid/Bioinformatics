@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln27.msf MSF: 87 Type: N 07/12/19 CompCheck: 9005 ..
+
+  Name: M87833     Len: 87  Check: 9751 Weight: 1.00
+  Name: AP000989   Len: 87  Check: 9254 Weight: 1.00
+
+//
+
+           1                                               50
+M87833     GCAGGGAUAGCCAAGUU.UGGCCAACGGCGCAGCGUUCAGGGCGCUGU.C
+AP000989   GCGGCCGUCGUCUAGUCU.GGAUUAGGACGCUGGCCUUCCAAGCCAGUA.
+
+           51                                 87
+M87833     CCGUAGGGGUCCGCAGGUUCAAAUCCUGCUCCCUGCA
+AP000989   .........AUCCCGGGUUCAAAUCCCGGCGGCCGCA
+

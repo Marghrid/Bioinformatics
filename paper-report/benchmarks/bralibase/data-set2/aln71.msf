@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln71.msf MSF: 74 Type: N 07/12/19 CompCheck:  298 ..
+
+  Name: X65556     Len: 74  Check:  130 Weight: 1.00
+  Name: X68198     Len: 74  Check:  168 Weight: 1.00
+
+//
+
+           1                                               50
+X65556     GCGGACGUAGCUCAGUU.GGUAGAGCGCAACCUUGCCAAGGUUGAGGUCG
+X68198     AGCGGGGUGGGGUAGUCAGGAAAUCCGAUGGGCUCAUAACCCGUAGAUCG
+
+           51                    74
+X65556     CGAGUUCGAGCCUCGUCGUCCGCU
+X68198     AUGGUUCAAAUCCAUCCCCCGCUA
+

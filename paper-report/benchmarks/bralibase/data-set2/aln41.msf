@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln41.msf MSF: 86 Type: N 07/12/19 CompCheck:  313 ..
+
+  Name: K02528     Len: 86  Check: 4847 Weight: 1.00
+  Name: AP000063   Len: 86  Check: 5466 Weight: 1.00
+
+//
+
+           1                                               50
+K02528     GGGGCUGUGGCCAAUCCCGGC..AUGGCGACUGACUCCAGAUCAGUCG..
+AP000063   GCGGGGGUGCCCGAGCCUGGCCAAAGGGGUCGGGCUCAGGACCCGAU.GG
+
+           51                                86
+K02528     ........AUCGGGGGUUCGAAUCCCUCCGGCCCCA
+AP000063   CGUAGGCCUGCGUGGGUUCAAAUCCCACCCCCCGCA
+

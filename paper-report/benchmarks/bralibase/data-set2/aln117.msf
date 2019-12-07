@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln117.msf MSF: 88 Type: N 07/12/19 CompCheck: 4610 ..
+
+  Name: X15901     Len: 88  Check: 6931 Weight: 1.00
+  Name: X07924     Len: 88  Check: 7679 Weight: 1.00
+
+//
+
+           1                                               50
+X15901     GGAGAGAUGGCCGAGCGGUUCAAGGCGUAGCAUUGGAACUGCUAUGUAGA
+X07924     GGAGAGAUGGCCGAGUGGUUGAAGGCGCAGCACUGGAAAUGCUGUUUAAG
+
+           51                                  88
+X15901     CUUUU.GUUUACCGAGGGUUCGAAUCCCUCUCUUUCCG
+X07924     GUUUUCCCUUAACGAGGGUUCGAAUCCCUCUCUCUCCG
+

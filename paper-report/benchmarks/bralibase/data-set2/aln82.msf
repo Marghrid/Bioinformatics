@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln82.msf MSF: 84 Type: N 07/12/19 CompCheck: 9524 ..
+
+  Name: D00550     Len: 84  Check: 3009 Weight: 1.00
+  Name: AF008220   Len: 84  Check: 6515 Weight: 1.00
+
+//
+
+           1                                               50
+D00550     GGGGGAUUGGCGGAAUUGGCAGACGCACUAGACUUAGGAUCUAGCGUC.U
+AF008220   GCGGAUGUGGCGGAAUUGGCAGACGCGCUAGAAUCAGGCUCUAGUGUCUU
+
+           51                              84
+D00550     UU..GACGUAAGGGUUCAAGUCCCUUAUCCCCCA
+AF008220   UACAGACGUGGGGGUUCAAGUCCCUUCAUCCGCA
+

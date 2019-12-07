@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln87.msf MSF: 92 Type: N 07/12/19 CompCheck: 6516 ..
+
+  Name: X16763     Len: 92  Check: 1068 Weight: 1.00
+  Name: M91385     Len: 92  Check: 5448 Weight: 1.00
+
+//
+
+           1                                               50
+X16763     GGAAGAUUACCCAAGUC.CGGCUGAAGGGAUCGGUCUUGAAAACCGAGA.
+M91385     GGAAGUAUACCCAAGUCUCGGUUGAAGGGGGCGGUCUCGAAAACCGUUAG
+
+           51                                      92
+X16763     GUCGGGGAAACCGAG.CGGGGGUUCGAAUCCCUCAUCUUCCG
+M91385     AUGGAGUAA.UCCAUGCAAGAGUUCGAAUCUCUUUACUUCCG
+

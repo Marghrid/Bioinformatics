@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln33.msf MSF: 77 Type: N 07/12/19 CompCheck: 3161 ..
+
+  Name: AE005128   Len: 77  Check: 1285 Weight: 1.00
+  Name: AP000989   Len: 77  Check: 1876 Weight: 1.00
+
+//
+
+           1                                               50
+AE005128   GCCAAGGUGGCAGAGUU.CGGCCUAACGCGGCGGCCUGCAGAGCCGCUCA
+AP000989   GCGGCCGUCGUCUAGUCU.GGAUUAGGACGCUGGCCUUCCAAGCCAGUAA
+
+           51                       77
+AE005128   UCGCCGGUUCAAAUCCGGCCCUUGGCU
+AP000989   UCCCGGGUUCAAAUCCCGGCGGCCGCA
+

@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln112.msf MSF: 84 Type: N 07/12/19 CompCheck: 6198 ..
+
+  Name: AE003556   Len: 84  Check: 6589 Weight: 1.00
+  Name: X03240     Len: 84  Check: 9609 Weight: 1.00
+
+//
+
+           1                                               50
+AE003556   GUCAGGAUGGCCGAGUGGUCUAAGGCGCUGCGUUCAGGUCGCAGU.CUAC
+X03240     AAGGCUUUAAGUUAA.CU...AAACUAAUAGCCUUCAAAGCUGUAA....
+
+           51                              84
+AE003556   UCUGUAGGCGUGGGUUCGAAUCCCACUUCUGACA
+X03240     .......AUAAAGG.GUAUU.CCUUUAAGUCUUA
+

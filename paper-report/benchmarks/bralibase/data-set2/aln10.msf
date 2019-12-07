@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln10.msf MSF: 76 Type: N 07/12/19 CompCheck: 2323 ..
+
+  Name: X14835     Len: 76  Check: 2251 Weight: 1.00
+  Name: AE006696   Len: 76  Check:   72 Weight: 1.00
+
+//
+
+           1                                               50
+X14835     GCCGGGGUCGCCUAGCCUGGUCAAGGGCGCCGGACUCAUAAUCCGGUCUU
+AE006696   GCCGCCGUAGCUCAGCCCGGG..AGAGCGCCCGGCUGAAGACCGGGUUGU
+
+           51                      76
+X14835     CCCGGGUUCGAAUCCCGGCCCCGGCA
+AE006696   CCGGGGUUCAAGUCCCCGCGGCGGCA
+

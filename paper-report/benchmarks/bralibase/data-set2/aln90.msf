@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln90.msf MSF: 74 Type: N 07/12/19 CompCheck: 9846 ..
+
+  Name: L00194     Len: 74  Check:  200 Weight: 1.00
+  Name: M26978     Len: 74  Check: 9646 Weight: 1.00
+
+//
+
+           1                                               50
+L00194     AGGCCUGUAGCUCAGGUGGUUAGAGCGUACGCCUGAUAAGCGUAAGGUCG
+M26978     GCCGGGGUGGGGUAGUUGGCCAUCCUUCGGGACUGUGGAUCCCGCGA.CU
+
+           51                    74
+L00194     GCAGUUCGAGUCUGCCUAGGCCUA
+M26978     CGGGUUCAAAUCCCGGCCCUGGCC
+

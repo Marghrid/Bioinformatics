@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln96.msf MSF: 72 Type: N 07/12/19 CompCheck: 6111 ..
+
+  Name: M14092     Len: 72  Check: 7804 Weight: 1.00
+  Name: AB003409   Len: 72  Check: 8307 Weight: 1.00
+
+//
+
+           1                                               50
+M14092     GCUGCUUGAAUGGU.....UUCAGUGUGGGCUCAUUUCCCAUUACUAUAA
+AB003409   GGGCCCAUAGCUCAGUGGUAGAGUGCCUCCUUUGCAAGGAGGAUGCCCUG
+
+           51                  72
+M14092     AGUUCGAUUCUUUAAAGCGGCC
+AB003409   GGUUCGAAUCCCAGUGGGUCCA
+

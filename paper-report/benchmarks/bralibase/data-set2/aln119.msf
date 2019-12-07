@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln119.msf MSF: 87 Type: N 07/12/19 CompCheck: 8173 ..
+
+  Name: X00476     Len: 87  Check: 8192 Weight: 1.00
+  Name: M20957     Len: 87  Check: 9981 Weight: 1.00
+
+//
+
+           1                                               50
+X00476     GGGGAUAUGGCGAAAUUGGUAGACGCUACGGACUUAAAAUCCGUCGACU.
+M20957     GGGGGUAUGGCGAAAUUGGUAGACGCUGCGGACUUAAAAUCCGUUGGCUU
+
+           51                                 87
+X00476     UAAGA.AAUCAUGAGGGUUCAAGUCCCUCUAUCCCCA
+M20957     UAA..AGACCGUGAGGGUUCAAGUCCCUCUACCCCCA
+

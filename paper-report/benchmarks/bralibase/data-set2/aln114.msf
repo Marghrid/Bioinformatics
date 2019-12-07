@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln114.msf MSF: 72 Type: N 07/12/19 CompCheck: 3059 ..
+
+  Name: AC099014   Len: 72  Check: 7639 Weight: 1.00
+  Name: AF164586   Len: 72  Check: 5420 Weight: 1.00
+
+//
+
+           1                                               50
+AC099014   GCCGUGAUCGUCUAGUGGUUAGGACCCCACGUUGUGGCCGUGGUAACCCA
+AF164586   AGUUAAUGAGCUUG..AA..CAAGCGUAUGUUUUGAAAACAUAAGAUAGA
+
+           51                  72
+AC099014   GGUUCGAAUCCUGGUCACGGCA
+AF164586   A.UUUAAUU.UUCUAUUAACUU
+

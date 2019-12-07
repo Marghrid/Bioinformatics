@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln104.msf MSF: 74 Type: N 07/12/19 CompCheck: 1514 ..
+
+  Name: X12890     Len: 74  Check: 1758 Weight: 1.00
+  Name: M14092     Len: 74  Check: 9756 Weight: 1.00
+
+//
+
+           1                                               50
+X12890     GGGCUAUUAGCUCAGUUGGUUAGAGCAUACCCUUGAUAAGGGUAAGGUCG
+M14092     GCUGCUUGAAUGGU.......UUCAGUGUGGGCUCAUUUCCCAUUACUAU
+
+           51                    74
+X12890     CUAGUUCAAGUCUAGCAUGGCCCU
+M14092     AAAGUUCGAUUCUUUAAAGCGGCC
+

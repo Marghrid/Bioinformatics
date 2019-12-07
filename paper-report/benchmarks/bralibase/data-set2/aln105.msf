@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln105.msf MSF: 73 Type: N 07/12/19 CompCheck: 2899 ..
+
+  Name: X14822     Len: 73  Check: 3971 Weight: 1.00
+  Name: M14092     Len: 73  Check: 8928 Weight: 1.00
+
+//
+
+           1                                               50
+X14822     UGAAUCGUAGACUAAUAGGUAAGUCACCAAAAUUUGAGUUUGGAAUUUGU
+M14092     GCUGCUUGAAUGGU......UUCAGUGUGGGCUCAUUUCCCAUUACUAUA
+
+           51                   73
+X14822     UUGUUCGAAUCAAACCGGUUCAA
+M14092     AAGUUCGAUUCUUUAAAGCGGCC
+

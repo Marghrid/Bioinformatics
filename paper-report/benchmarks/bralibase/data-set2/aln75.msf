@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln75.msf MSF: 73 Type: N 07/12/19 CompCheck: 9569 ..
+
+  Name: X51824     Len: 73  Check: 8589 Weight: 1.00
+  Name: X53649     Len: 73  Check:  980 Weight: 1.00
+
+//
+
+           1                                               50
+X51824     GCUCGCGUAGCUCAGCAGGUAGAGCACACCCUUGGUAAGGGUGAGGUCGC
+X53649     UGGGCUAUGGUGUAAUUGGCAGCACGACUGAUUCUGGUUCAGUUAG.UCU
+
+           51                   73
+X51824     CGGUUCGAGCCCGGCCGCGAGCU
+X53649     AGGUUCGAGUCCUGGUAGCCCAG
+

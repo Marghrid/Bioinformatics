@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln94.msf MSF: 88 Type: N 07/12/19 CompCheck: 9987 ..
+
+  Name: AE008883   Len: 88  Check: 9392 Weight: 1.00
+  Name: AF008220   Len: 88  Check:  595 Weight: 1.00
+
+//
+
+           1                                               50
+AE008883   GCGAAGGUGGCGGAAUUGGUAGACGCGCUAGCUUCAGGUGUUAGUGUCCU
+AF008220   GCGGAUGUGGCGGAAUUGGCAGACGCGCUAGAAUCAGGCUCUAGUGUCU.
+
+           51                                  88
+AE008883   U....ACGGACGUGGGGGUUCAAGU~~~~~~~~~~~~~
+AF008220   .UUAC..AGACGUGGGGGUUCAAGUCCCUUCAUCCGCA
+

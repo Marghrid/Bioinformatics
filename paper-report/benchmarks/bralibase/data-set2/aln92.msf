@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln92.msf MSF: 75 Type: N 07/12/19 CompCheck: 9340 ..
+
+  Name: AE005314   Len: 75  Check: 7117 Weight: 1.00
+  Name: AF142677   Len: 75  Check: 2223 Weight: 1.00
+
+//
+
+           1                                               50
+AE005314   GGUGAGGUGUCCGAGU.GGCUGAAGGAGCACGCCUGGAAAGUGUGU.A.U
+AF142677   GAGCCAUUAGCUCAGUUGGU..AGAGCAUCUGACUUUUAAUCAGAGGGUC
+
+           51                     75
+AE005314   ACGGCAACGUAUCGGGGGUUCGAAU
+AF142677   GAAGGUUCGAGUCCUUCAUGGCUCA
+

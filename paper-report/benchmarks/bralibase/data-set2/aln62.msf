@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln62.msf MSF: 73 Type: N 07/12/19 CompCheck: 7387 ..
+
+  Name: U67517     Len: 73  Check: 8098 Weight: 1.00
+  Name: M26978     Len: 73  Check: 9289 Weight: 1.00
+
+//
+
+           1                                               50
+U67517     GCCGGGGUGGGGUAGU.GGCCAUCCUGGGGGACUGUGGAUCCCCUGACCC
+M26978     GCCGGGGUGGGGUAGUUGGCCAUCCUUCGGGACUGUGGAUCCCGCGACUC
+
+           51                   73
+U67517     GGGUUCAAUUCCCGGUCCCGGCC
+M26978     GGGUUCAAAUCCCGGCCCUGGCC
+

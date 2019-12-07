@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln28.msf MSF: 86 Type: N 07/12/19 CompCheck: 2423 ..
+
+  Name: M87833     Len: 86  Check: 8066 Weight: 1.00
+  Name: AE006696   Len: 86  Check: 4357 Weight: 1.00
+
+//
+
+           1                                               50
+M87833     GCAGGGAUAGCCAAGUUUGGCCAACGGCGCAGCGUUCAGGGCGCUGU.CC
+AE006696   GCCGCCGUAGCUCAGCCCGGG..AGAGCGCCCGGCUGAAGACCGGGUU..
+
+           51                                86
+M87833     CGUAGGGGUCCGCAGGUUCAAAUCCUGCUCCCUGCA
+AE006696   ........GUCCGGGGUUCAAGUCCCCGCGGCGGCA
+

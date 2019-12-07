@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln81.msf MSF: 75 Type: N 07/12/19 CompCheck:  951 ..
+
+  Name: X03715     Len: 75  Check: 2018 Weight: 1.00
+  Name: X61063     Len: 75  Check: 8933 Weight: 1.00
+
+//
+
+           1                                               50
+X03715     GGACCCUUAGCUCAGUUGGUU.AGAGCAUCCGGCUCAUAACCGGAUGGUC
+X61063     GUCGGUGUCGUAUAU..GGU.UAUUAC.AGGCCUUGCCAAGGCUUAGA.C
+
+           51                     75
+X03715     ACUGGUUCAAGUCCAGUAGGGUCCA
+X61063     GGCAGUUCGAUCCUGCUCACCGGCU
+

@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln84.msf MSF: 86 Type: N 07/12/19 CompCheck: 7146 ..
+
+  Name: X17113     Len: 86  Check: 7190 Weight: 1.00
+  Name: X16754     Len: 86  Check: 9956 Weight: 1.00
+
+//
+
+           1                                               50
+X17113     GCCCAAGUGGCGGAAU.GGUAGACGCAUGGGAUUUAAGAUCCCACGCUAG
+X16754     CCCCAAGUGGCGGAAUAGGUAGACGCAUUGGACUUAAAAUCCAACGGGCU
+
+           51                                86
+X17113     CAA.UAGCG.UGCCGGUUCAAGUCCGGCUUUGGGCA
+X16754     UAAUAUCCUGUGCCGGUUCAAGUCCGGCCUUGGGGA
+

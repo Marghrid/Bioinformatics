@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln116.msf MSF: 74 Type: N 07/12/19 CompCheck:  732 ..
+
+  Name: X03499     Len: 74  Check: 1488 Weight: 1.00
+  Name: L76657     Len: 74  Check: 9244 Weight: 1.00
+
+//
+
+           1                                               50
+X03499     GGUCGGAUGGUGUAGUCGGUUAUCACGGUUGCUUUACACGCAACAGGUCU
+L76657     UUAAUUGAAACCAAA..AA..GAGGUAUAUCACUGUUAAUGAUAUAAUUG
+
+           51                    74
+X03499     CGAGUUCGAUCCUCGGUCGGAUCA
+L76657     AAUA.UUAU..UAUUCCAAUUAAG
+

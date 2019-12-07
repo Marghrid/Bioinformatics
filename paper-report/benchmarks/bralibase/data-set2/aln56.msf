@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln56.msf MSF: 75 Type: N 07/12/19 CompCheck: 1425 ..
+
+  Name: M26978     Len: 75  Check:  438 Weight: 1.00
+  Name: AE006699   Len: 75  Check:  987 Weight: 1.00
+
+//
+
+           1                                               50
+M26978     GGGCCCAUAGCUUAGCC.AGGUAGAGCGCCCGGCUCAUAACCGGGCGGUC
+AE006699   GGGCCCGUAGCUUAGCUC.GGUAGAGCGCUCGGCUCAUAACCGAGUGGUC
+
+           51                     75
+M26978     AUGGGUUCGAAUCCCAUUGGGCCCA
+AE006699   AGGGGUUCAAAUCCCCUCGGGCCCA
+

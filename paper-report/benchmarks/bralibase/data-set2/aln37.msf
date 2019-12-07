@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln37.msf MSF: 77 Type: N 07/12/19 CompCheck: 9006 ..
+
+  Name: X02584     Len: 77  Check: 9603 Weight: 1.00
+  Name: AE006696   Len: 77  Check: 9403 Weight: 1.00
+
+//
+
+           1                                               50
+X02584     GCCAAGGUGGCAGAGUUCGGCCCAACGCAUCCGCCUGCAGAGCGGAACCC
+AE006696   GCCGCCGUAGCUCAGCCCGGG..AGAGCGCCCGGCUGAAGACCGGGUUGU
+
+           51                       77
+X02584     CCGCCGGUUCAAAUCCGGCCCUUGGCU
+AE006696   .CCGGGGUUCAAGUCCCCGCGGCGGCA
+

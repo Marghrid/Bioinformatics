@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln102.msf MSF: 74 Type: N 07/12/19 CompCheck: 7738 ..
+
+  Name: M22010     Len: 74  Check: 7982 Weight: 1.00
+  Name: M14092     Len: 74  Check: 9756 Weight: 1.00
+
+//
+
+           1                                               50
+M22010     GCCCCCAUCGUCUAGAGGCCUAGGACAUCUCCCUUUCACGGAGGCAA.CG
+M14092     GCUGCUUGAAUGGU.......UUCAGUGUGGGCUCAUUUCCCAUUACUAU
+
+           51                    74
+M22010     GGGAUUCGAAUUCCCCUGGGGGUA
+M14092     AAAGUUCGAUUCUUUAAAGCGGCC
+

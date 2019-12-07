@@ -1,0 +1,17 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/bralibase/data-set2/structural/aln89.msf MSF: 74 Type: N 07/12/19 CompCheck: 1699 ..
+
+  Name: D00552     Len: 74  Check: 9960 Weight: 1.00
+  Name: X53649     Len: 74  Check: 1739 Weight: 1.00
+
+//
+
+           1                                               50
+D00552     GCCCAUGUAGCUCAGUAGGAUAGAGCACGCGCCUUCUAAGCGUGAGGUCG
+X53649     UGGGCUAUGGUGUAAUUGGC.AGCACGACUGAUUCUGGUUCAGUUAG.UC
+
+           51                    74
+D00552     GAAGUUCGAGCCUUCUCGUGGGCA
+X53649     UAGGUUCGAGUCCUGGUAGCCCAG
+
