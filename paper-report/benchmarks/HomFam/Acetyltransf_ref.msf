@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/Acetyltransf_ref.msf MSF:  229 Type: P 07/12/19 CompCheck: 4655 ..
+
+  Name: 1bo4a      Len: 229  Check: 9210 Weight: 1.00
+  Name: 1cm0a      Len: 229  Check: 2230 Weight: 1.00
+  Name: 1ygha      Len: 229  Check: 2144 Weight: 1.00
+  Name: 1qsta      Len: 229  Check: 4556 Weight: 1.00
+  Name: 1b87a      Len: 229  Check: 9062 Weight: 1.00
+  Name: 1cjwa      Len: 229  Check: 7453 Weight: 1.00
+
+//
+
+           1                                               50
+1bo4a      ~~~GIIRTCRLGPD........QVKSMRAALDLFGREFGDVATYSQHQPD
+1cm0a      K...VIEFHVVGNSLNQKPNKKILMWLVGLQNVFSHQL..P......RMP
+1ygha      ~~~~KIEFRVVNND....NTKENMMVLTGLKNIFQKQL..P......KMP
+1qsta      ~~~~~LDFDILTN....DGTHRNMKLLIDLKNIFSRQL..P......KMP
+1b87a      ~~~~~MIISEFDRN........NPVLKDQLSDLLRLTW..PEEYG.....
+1cjwa      HTLPANEFRCLT...........PEDAAGVFEIEREAF..ISVSGNCPLN
+
+           51                                             100
+1bo4a      SDYLGNLLR...SKTFIALAAFDQE.AVVGALAAYVL.PKFEQ.......
+1cm0a      KEYITRLVF...DPKHKTLALIKDG.RVIGGICFRMFP............
+1ygha      KEYIARLVY...DRSHLSMAVIRKPLTVVGGITYRPFD............
+1qsta      KEYIVKLVF...DRHHESMVILKNKQKVIGGICFRQYK............
+1b87a      .DSSAEEVEEMMNPERIAVAAVDQ.DELVGFIGAIPQ.YG..........
+1cjwa      LDEVQHFLTLC.PEL..SLGWFVEG.RLVAFIIGSLWDEERLTQESLALH
+
+           101                                            150
+1bo4a      ..PRSEIYIYDLAVSGEHRRQGIATALINLLKHEANAL.GAYVIYVQADY
+1cm0a      ..SQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEYHIKH.DILNFLTYADE
+1ygha      ..KREFAEIVFCAISSTEQVRGYGAHLMNHLKDYVRNTSNIKYFLTYADN
+1qsta      ..PQRFAEVAFLAVTANEQVRGYGTRLMNKFKDHMQKQ.NIEYLLTYADN
+1b87a      ...ITGWELHPLVVESSRRKNQIGTRLVNYLEKEVASR.GGITIYLGTDD
+1cjwa      RPRGHSAHLHALAVHRSFRQQGKGSVLLWRYLHHVGAQPAVRRAVLMCED
+
+           151                                            200
+1bo4a      GDDPA.............................................
+1cm0a      ............................YAIGYFKKQGFSK..EIKIPKT
+1ygha      ............................YAIGYFKKQGFTK..EITLDKS
+1qsta      ............................FAIGYFKKQGFTK..EHRMPQE
+1b87a      LDHGTTLSQTDLYEHTFDKVASIQNLREHPYEFYEKLGYKIVGVLPNANG
+1cjwa      ............................ALVPFYQRFGFHPAGPCAIVVG
+
+           201                       229
+1bo4a      ............VALYTKL~~~~~~~~~~
+1cm0a      KYVGYIKDYE..GATLMGCELNPR~~~~~
+1ygha      IWMGYIKDYE..GGTLMQCSMLPRIRYLD
+1qsta      KWKGYIKDYD..GGTLMECYIHPYVDY~~
+1b87a      .........WDKPDIWMAKTIIP..RPDS
+1cjwa      ..........SLTFTEMHCSL~~~~~~~~
+

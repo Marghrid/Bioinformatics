@@ -1,0 +1,19 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/ChtBD_ref.msf MSF:  45 Type: P 07/12/19 CompCheck: 5866 ..
+
+  Name: 1wgta1     Len: 45  Check: 5853 Weight: 1.00
+  Name: 1wgta3     Len: 45  Check: 4457 Weight: 1.00
+  Name: 1wgta2     Len: 45  Check: 3389 Weight: 1.00
+  Name: 1wgta4     Len: 45  Check: 6701 Weight: 1.00
+  Name: 1hev       Len: 45  Check: 5466 Weight: 1.00
+
+//
+
+           1                                          45
+1wgta1     ~RCGEQGSGMECPNNLCCSQYGYCGMGGDYCGK..GCQNGACWTS
+1wgta3     IKCGSQAGGKLCPNNLCCSQWGYCGLGSEFCGE..GCQNGACSTD
+1wgta2     KRCGSQAGGKTCPNNHCCSQYGHCGFGAEYCGA..GCQGGPCRAD
+1wgta4     KPCGKDAGGRVCTNNYCCSKWGSCGIGPGYCGA..GCQSGGCDG~
+1hev       EQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQS.NCK.D
+

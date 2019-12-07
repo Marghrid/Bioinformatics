@@ -1,0 +1,26 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/hip_ref.msf MSF:  88 Type: P 07/12/19 CompCheck: 2358 ..
+
+  Name: 1hpi       Len: 88  Check: 3866 Weight: 1.00
+  Name: 2hipa      Len: 88  Check:  362 Weight: 1.00
+  Name: 1ckua      Len: 88  Check: 7428 Weight: 1.00
+  Name: 1isua      Len: 88  Check: 4709 Weight: 1.00
+  Name: 3hipa      Len: 88  Check: 5993 Weight: 1.00
+
+//
+
+           1                                               50
+1hpi       ~~~MERLSEDDPAAQALEYRHDASSVQH.PAYE.....EGQTCLNCLLYT
+2hipa      ~~~EPRAEDG....HAHDYVNEAADASGHPRYQ.....EGQLCENCAFWG
+1ckua      SAPANAVAADDATAIALKYNQDATKSERVAAARPGLPPEEQHCANCQFMQ
+1isua      ~~~~GTNA...AMRKAFNYQDTAKN..............GKKCSGCAQFV
+3hipa      ~VPANAVTESDPAAVALKYHRDAASSERVAAARPGLPPEEQHCENCQFMN
+
+           51                                  88
+1hpi       DAS...AQDWGPCS..VFPGK.LVSANGWCTAWVAR~~
+2hipa      EAVQ...DGWGRCTHPDFDEV.LVKAEGWCSVYAPAS~
+1ckua      ADAAGATDEWKGCQ..LFPGK.LINVNGWCASWTLKAG
+1isua      PGASP..TAAGGCK..VIPGDNQIAPGGYCDAFIVKK~
+3hipa      PDS..AAADWKGCQ..LFPGK.LINLSGWCASWTLRAG
+

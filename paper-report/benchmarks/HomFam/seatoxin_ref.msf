@@ -1,0 +1,26 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/seatoxin_ref.msf MSF:  54 Type: P 07/12/19 CompCheck: 1986 ..
+
+  Name: 1apf       Len: 54  Check: 4292 Weight: 1.00
+  Name: 1ahl       Len: 54  Check: 5348 Weight: 1.00
+  Name: 1atx       Len: 54  Check: 1521 Weight: 1.00
+  Name: 1sh1       Len: 54  Check: 6627 Weight: 1.00
+  Name: 1bds       Len: 54  Check: 4198 Weight: 1.00
+
+//
+
+           1                                               50
+1apf       GVPCLCDSDGPRPRGNTLSGILWFYPSGCPS..GWH.NCKAHGPNIGWCC
+1ahl       GVSCLCDSDGPSVRGNTLSGTLWLYPSGCPS..GWH.NCKAHGPTIGWCC
+1atx       GAACLCKSDGPNTRGNSMSGTIWVF..GCPS..GWN.NCEGRA.IIGYCC
+1sh1       ~AACKCDDEGPDIRTAPLTGTVDLG..SCNA..GWE.KCASYYTIIADCC
+1bds       AAPCFCSGKP.......GRGDLWILRGTCPGGYGYTSNCYK..WPNICCY
+
+           51
+1apf       KK~~
+1ahl       KQ~~
+1atx       KQ~~
+1sh1       RKKK
+1bds       PH~~
+

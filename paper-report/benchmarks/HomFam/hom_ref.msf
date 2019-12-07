@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/hom_ref.msf MSF:  98 Type: P 07/12/19 CompCheck: 3343 ..
+
+  Name: 1ftz       Len: 98  Check: 5330 Weight: 1.00
+  Name: 1hom       Len: 98  Check: 7460 Weight: 1.00
+  Name: 2hdda      Len: 98  Check: 2647 Weight: 1.00
+  Name: 1ftt       Len: 98  Check: 7550 Weight: 1.00
+  Name: 1nk3p      Len: 98  Check: 7431 Weight: 1.00
+  Name: 1akha      Len: 98  Check: 6731 Weight: 1.00
+  Name: 1b8ib      Len: 98  Check: 4234 Weight: 1.00
+  Name: 1lfb       Len: 98  Check: 1960 Weight: 1.00
+
+//
+
+           1                                               50
+1ftz       MDSKRTRQTYTRYQTLELEKEFHFN...RYITRRRRIDIANALS......
+1hom       M.RKRGRQTYTRYQTLELEKEFHFN...RYLTRRRRIEIAHALC......
+2hdda      ~~~~~~RTAFSSEQLARLKREFNEN...RYLTERRRQQLSSELG......
+1ftt       MRRKR.RVLFSQAQVYELERRFKQQ...KYLSAPEREHLASMIH......
+1nk3p      KKRKR.RVLFTKAQTYELERRFRQQ...RYLSAPEREHLASLIR......
+1akha      ~~~~~~~~~ISPQARAFLEEVFRRK...QSLNSKEKEEVAKKCG......
+1b8ib      ~~~~~~RRNFSKQASEILNEYFYSHLSNPYPSEEAKEELARKCG......
+1lfb       ~~~~~~RFKWGPASQQILFQAYERQ...KNPSKEERETLVEECNRAECIQ
+
+           51                                            98
+1ftz       ...............LSERQIKIWFQNRRMKSKKDR....TLDSSPEH
+1hom       ...............LTERQIKIWFQNRRMKWKKENKTKGEPG~~~~~
+2hdda      ...............LNEAQIKIWFKNKRAKIKKS~~~~~~~~~~~~~
+1ftt       ...............LTPTQVKIWFQNHRYKMKRQAKDKAAQQ~~~~~
+1nk3p      ...............LTPTQVKIWFQNHRYKTKRAQNE~~~~~~~~~~
+1akha      ...............ITPLQVRVWFINKRMRS~~~~~~~~~~~~~~~~
+1b8ib      ...............ITVSQVSNWFGNKRIRYKKN~~~~~~~~~~~~~
+1lfb       RGVSPSQAQGLGSNLVTEVRVYNWFANRRKEEAFRH~~~~~~~~~~~~
+

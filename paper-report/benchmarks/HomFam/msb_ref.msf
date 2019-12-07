@@ -1,0 +1,55 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/msb_ref.msf MSF:  158 Type: P 07/12/19 CompCheck: 5939 ..
+
+  Name: 1esl       Len: 158  Check: 6613 Weight: 1.00
+  Name: 1rdo1      Len: 158  Check: 8531 Weight: 1.00
+  Name: 1msba      Len: 158  Check:  473 Weight: 1.00
+  Name: 1tn3       Len: 158  Check: 7278 Weight: 1.00
+  Name: 2afp       Len: 158  Check:  492 Weight: 1.00
+  Name: 1qdda      Len: 158  Check:   60 Weight: 1.00
+  Name: 1ixxa      Len: 158  Check: 6514 Weight: 1.00
+  Name: 1ixxb      Len: 158  Check: 5978 Weight: 1.00
+
+//
+
+           1                                               50
+1esl       ~~~~~~~~~~~~~~~~~~~~~~~WSYNTSTEAMTYDEASAYCQQR..YTH
+1rdo1      ~~~~~~~~~~~~~~~~~~~~~~~KYFMSSVRRMPLNRAKALCSEL..QGT
+1msba      ~~~~~~~~~~~~~~~~~~~~SGKKFFVTNHERMPFSKVKALCSEL..RGT
+1tn3       ~~~~~~~~~ALQTVCLKGTKVHMKCFLAFTQTKTFHEASEDCISR..GGT
+2afp       ~~~~~~~QRAGPNCPAGWQPLGDRCIYYETTAMTWALAETNCMKL..GGH
+1qdda      QAAATELPAAAASCPEGTNAYRSYCYYFNEDRETWVDADLYCQNMN.SGN
+1ixxa      ~~~~~~~~~~~~DCLSGWSSYEGHCYKAFEKYKTWEDAERVCTEQAKGAH
+1ixxb      ~~~~~~~~~~~~DCPSDWSSYEGHCYKPFSEPKNWADAENFCTQQHAGGH
+
+           51                                             100
+1esl       LVAIQNKEEIEYLNSILS....YSPSYYWIGIRKVN....NVWVWVGTQK
+1rdo1      VATPRNAEENRAIQNVAK.......DVAFLGITDQRTE..NVFEDL.TGN
+1msba      VAIPRNAEENKAIQEVAK.......TSAFLGITDEVTE..GQFMYV.TGG
+1tn3       LSTPQTGSENDALYEYLRQSV.GNEAEIWLGLNDMAAE..GTWVDM.TGA
+2afp       LASIHSQEEHSFIQTL.......NAGVVWIGGSACLQ..AGAWTWS.DGT
+1qdda      LVSVLTQAEGAFVASLIKES.GTDDFNVWIGLHDP..KKNRAWHWS.SGS
+1ixxa      LVSIESSGEADFVAQLVTQNMKRLDFYIWIGLRVQGKVKQCNSEWS.DGS
+1ixxb      LVSFQSSEEADFVVKLAFQTF..GHSIFWMGLSNV..WNQCNWQWS.NAA
+
+           101                                            150
+1esl       PLTEEAKNWAP...GEPNNRQKDEDCVEIYIKREKDVGMWNDERCSKKKL
+1rdo1      RVR..YTNWNE...GEPNNVGSGENCVVLLT.....NGKWNDVPCSDSFL
+1msba      RLT..YSNWKK...DEPNDHGSGEDCVTIVD.....NGLWNDISCQASHT
+1tn3       RIA..YKNWETEITAQPDG.GKTENCAVLSGA...ANGKWFDKRCRDQLP
+2afp       PMN..FRSWC...STKPDDV.LAACCMQMTAAAD.Q..CWDDLPCPASHK
+1qdda      LVS..YKSWG...IGAPSSV.NPGYCVSLTSSTGFQ..KWKDVPCEDKFS
+1ixxa      SVS..YENWI........EA.ESKTCLGLEKETDFR..KWVNIYCGQQNP
+1ixxb      MLR..YKAW..........A.EESYCVYFKST..NN..KWRSRACRMMAQ
+
+           151  158
+1esl       ALCYTA~~
+1rdo1      VVCEFS~~
+1msba      AVCEFPA~
+1tn3       YICQFGIV
+2afp       SVCAMTF~
+1qdda      FVCKFKN~
+1ixxa      FVCEA~~~
+1ixxb      FVCEFQA~
+

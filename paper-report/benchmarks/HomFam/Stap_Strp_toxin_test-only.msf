@@ -1,0 +1,1913 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/Stap_Strp_toxin_test-only.msf MSF:  100 Type: P 07/12/19 CompCheck: 2063 ..
+
+  Name: A5A505_STRPY_10-95  Len: 100  Check:  895 Weight: 1.00
+  Name: Q9LAE1_STRPY_10-95  Len: 100  Check: 1540 Weight: 1.00
+  Name: Q1JJS8_STRPC_58-144 Len: 100  Check:  299 Weight: 1.00
+  Name: Q1J9M9_STRPB_33-119 Len: 100  Check:  299 Weight: 1.00
+  Name: Q76MJ7_STRPY_33-119 Len: 100  Check:  299 Weight: 1.00
+  Name: Q9LAD6_STRPY_10-95  Len: 100  Check: 1428 Weight: 1.00
+  Name: Q9LAC6_STRPY_10-95  Len: 100  Check: 1428 Weight: 1.00
+  Name: Q9LAC3_STRPY_10-95  Len: 100  Check: 1428 Weight: 1.00
+  Name: Q56D15_STRPY_1-78   Len: 100  Check: 1441 Weight: 1.00
+  Name: Q4ZJR6_STRPY_1-80   Len: 100  Check: 9704 Weight: 1.00
+  Name: B0LVF8_STRPY_1-80   Len: 100  Check: 9648 Weight: 1.00
+  Name: Q9F0L7_STAAU_32-110 Len: 100  Check: 4375 Weight: 1.00
+  Name: D2UJH1_STAAU_32-110 Len: 100  Check: 4375 Weight: 1.00
+  Name: Q7A4K9_STAAN_32-110 Len: 100  Check: 4375 Weight: 1.00
+  Name: Q7A2N9_STAAM_32-110 Len: 100  Check: 4375 Weight: 1.00
+  Name: Q8NXJ5_STAAW_32-110 Len: 100  Check: 4375 Weight: 1.00
+  Name: A7X4G7_STAA1_32-110 Len: 100  Check: 4375 Weight: 1.00
+  Name: Q2YVN8_STAAB_32-110 Len: 100  Check: 4375 Weight: 1.00
+  Name: C5QHH7_STAAU_32-110 Len: 100  Check: 4141 Weight: 1.00
+  Name: Q6R2F8_STAAU_1-40   Len: 100  Check: 6795 Weight: 1.00
+  Name: A8Z1F0_STAAT_32-110 Len: 100  Check: 3463 Weight: 1.00
+  Name: Q2FIH7_STAA3_32-110 Len: 100  Check: 3463 Weight: 1.00
+  Name: Q8VLW7_STAAU_46-124 Len: 100  Check: 3093 Weight: 1.00
+  Name: Q93CC6_STAAU_32-110 Len: 100  Check: 3093 Weight: 1.00
+  Name: D1QCY3_STAAU_32-110 Len: 100  Check: 3093 Weight: 1.00
+  Name: D1GR65_STAA0_46-124 Len: 100  Check: 3093 Weight: 1.00
+  Name: Q5HHJ9_STAAC_32-110 Len: 100  Check: 3093 Weight: 1.00
+  Name: D3YNW2_STAAU_6-84   Len: 100  Check: 3093 Weight: 1.00
+  Name: C8KPR4_STAAU_32-110 Len: 100  Check: 3093 Weight: 1.00
+  Name: Q8NVM3_STAAW_32-110 Len: 100  Check: 3213 Weight: 1.00
+  Name: Q6G7U1_STAAS_32-110 Len: 100  Check: 3213 Weight: 1.00
+  Name: C5QKU6_STAAU_34-112 Len: 100  Check: 3213 Weight: 1.00
+  Name: D2JDI2_STAAU_33-111 Len: 100  Check: 2077 Weight: 1.00
+  Name: C8MCL3_STAAU_28-107 Len: 100  Check: 1375 Weight: 1.00
+  Name: A0FKY6_STAAU_28-107 Len: 100  Check: 1339 Weight: 1.00
+  Name: C8LV21_STAAU_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: C8ML96_STAAU_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: C8N0I3_STAAU_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: A7X3T1_STAA1_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: D3EXM3_STAA4_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: C5Q5N9_STAAU_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: C8M7Q8_STAAU_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: D1QJY7_STAAU_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: C8LH29_STAAU_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: A6U2T2_STAA2_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: Q99T47_STAAM_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: D0K667_STAAD_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: Q7A4W7_STAAN_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: A5ITZ4_STAA9_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: C8MXA9_STAAU_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: C8L2Z8_STAAU_28-107 Len: 100  Check: 1856 Weight: 1.00
+  Name: Q9EZM7_STAAU_28-107 Len: 100  Check: 1562 Weight: 1.00
+  Name: D1QYG0_STAAU_28-107 Len: 100  Check: 1730 Weight: 1.00
+  Name: C8M0M1_STAAU_28-107 Len: 100  Check: 1730 Weight: 1.00
+  Name: C2GB79_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: D2GSM3_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: A5JNM2_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: Q6GFM8_STAAR_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: D2F893_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: C8AT70_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: D2GHH3_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: C8AD57_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: C7ZY52_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: D2UT88_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: C2K7X3_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: C8AJD8_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: C8A577_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: D2FWH3_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: D2GAE3_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: D2G1J5_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: D2FED3_STAAU_28-107 Len: 100  Check: 2557 Weight: 1.00
+  Name: D2UNB3_STAAU_28-107 Len: 100  Check: 2775 Weight: 1.00
+  Name: D2FN14_STAAU_28-107 Len: 100  Check: 2775 Weight: 1.00
+  Name: Q6R1Y7_STAAU_1-53   Len: 100  Check: 8024 Weight: 1.00
+  Name: D0EZI0_STREQ_1-71   Len: 100  Check:  932 Weight: 1.00
+  Name: C0M9V6_STRE4_42-128 Len: 100  Check: 2678 Weight: 1.00
+  Name: Q9L921_9STRE_8-94   Len: 100  Check: 2678 Weight: 1.00
+  Name: Q1CQP3_STRPC_42-128 Len: 100  Check: 2837 Weight: 1.00
+  Name: Q8VVW1_STRPY_8-94   Len: 100  Check: 2837 Weight: 1.00
+  Name: Q99ZZ1_STRP1_8-94   Len: 100  Check: 2837 Weight: 1.00
+  Name: Q007A7_STAAU_20-108 Len: 100  Check: 6054 Weight: 1.00
+  Name: ETXH_STAAW_37-125   Len: 100  Check: 6274 Weight: 1.00
+  Name: ETXH_STAAU_37-125   Len: 100  Check: 6274 Weight: 1.00
+  Name: Q334J6_STAAU_37-125 Len: 100  Check: 6274 Weight: 1.00
+  Name: Q6GD45_STAAS_37-125 Len: 100  Check: 6274 Weight: 1.00
+  Name: Q8RR76_STAAU_13-101 Len: 100  Check: 6274 Weight: 1.00
+  Name: C5QEN0_STAAU_37-125 Len: 100  Check: 6274 Weight: 1.00
+  Name: D2FQX2_STAAU_37-125 Len: 100  Check: 6279 Weight: 1.00
+  Name: D2GMP4_STAAU_37-125 Len: 100  Check: 6279 Weight: 1.00
+  Name: D2UIL8_STAAU_37-125 Len: 100  Check: 6279 Weight: 1.00
+  Name: Q6VAM8_STAAU_37-125 Len: 100  Check: 6279 Weight: 1.00
+  Name: D2FHC8_STAAU_37-125 Len: 100  Check: 6279 Weight: 1.00
+  Name: B0I1V7_STAAU_53-144 Len: 100  Check: 2383 Weight: 1.00
+  Name: D2J8S9_STAAU_53-144 Len: 100  Check: 2383 Weight: 1.00
+  Name: D2JDI1_STAAU_49-140 Len: 100  Check: 2122 Weight: 1.00
+  Name: D0K663_STAAD_1-49   Len: 100  Check: 6039 Weight: 1.00
+  Name: C8M7Q5_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: C8MXA6_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: C8LV18_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: Q9EZM4_STAAU_51-142 Len: 100  Check: 4721 Weight: 1.00
+  Name: Q7A2Q6_STAAM_51-142 Len: 100  Check: 4721 Weight: 1.00
+  Name: C8N0I6_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: D1QJY3_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: C5Q5P2_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: D3EXL9_STAA4_51-142 Len: 100  Check: 4721 Weight: 1.00
+  Name: A7X3S6_STAA1_51-142 Len: 100  Check: 4721 Weight: 1.00
+  Name: A5ITZ2_STAA9_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: C8ML93_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: C8L2Z4_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: A6U2T0_STAA2_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: C8LH32_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: C8M0L8_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: D1QYF6_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: Q7A4X1_STAAN_51-142 Len: 100  Check: 4721 Weight: 1.00
+  Name: C8MCL0_STAAU_44-135 Len: 100  Check: 4721 Weight: 1.00
+  Name: D2FWH0_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: D2F890_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: D2UT85_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: C8AD54_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: C2GB82_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: C8A574_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: D2GAE0_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: C8AT67_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: D2GSM0_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: Q6YCN3_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: D2GHH0_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: C8AJD5_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: D2FED0_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: C7ZY49_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: C2K7X0_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: D2G1J2_STAAU_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: Q6GFN1_STAAR_44-135 Len: 100  Check: 5197 Weight: 1.00
+  Name: D2UNA9_STAAU_44-135 Len: 100  Check: 4031 Weight: 1.00
+  Name: D2FN11_STAAU_44-135 Len: 100  Check: 4031 Weight: 1.00
+  Name: Q2YTP3_STAAB_44-135 Len: 100  Check: 3723 Weight: 1.00
+  Name: A5JJ08_STAAU_44-135 Len: 100  Check: 3723 Weight: 1.00
+  Name: A5JJ09_STAAU_44-135 Len: 100  Check: 3884 Weight: 1.00
+  Name: C8MCL4_STAAU_45-139 Len: 100  Check: 6841 Weight: 1.00
+  Name: D1QYG1_STAAU_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: Q99T46_STAAM_51-145 Len: 100  Check: 7191 Weight: 1.00
+  Name: C8N0I2_STAAU_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: Q7A4W6_STAAN_51-145 Len: 100  Check: 7191 Weight: 1.00
+  Name: D0EMB4_STAAU_25-119 Len: 100  Check: 7191 Weight: 1.00
+  Name: C8LV22_STAAU_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: C8M7Q9_STAAU_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: C8L2Z9_STAAU_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: D3EXM4_STAA4_51-145 Len: 100  Check: 7191 Weight: 1.00
+  Name: C8M0M2_STAAU_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: C8LH28_STAAU_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: C8ML97_STAAU_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: D0K668_STAAD_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: A7X3T3_STAA1_51-145 Len: 100  Check: 7191 Weight: 1.00
+  Name: A5ITZ5_STAA9_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: Q9EZM8_STAAU_52-146 Len: 100  Check: 7191 Weight: 1.00
+  Name: D1QJY8_STAAU_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: C8MXB0_STAAU_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: A6U2T3_STAA2_45-139 Len: 100  Check: 7191 Weight: 1.00
+  Name: C5Q5N8_STAAU_45-139 Len: 100  Check: 7449 Weight: 1.00
+  Name: C8AT71_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: D2UT89_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: C2GB78_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: D2GSM4_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: D2G1J6_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: Q6GFM7_STAAR_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: D2F894_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: C2K7X4_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: D2FED4_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: C7ZY53_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: D2GAE4_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: C8AJD9_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: D2GHH4_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: C8A578_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: C8AD58_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: D2FWH4_STAAU_45-139 Len: 100  Check: 7513 Weight: 1.00
+  Name: Q2YTT8_STAAB_45-139 Len: 100  Check: 7364 Weight: 1.00
+  Name: D2FN15_STAAU_45-139 Len: 100  Check: 8114 Weight: 1.00
+  Name: D2UNB4_STAAU_45-139 Len: 100  Check: 7232 Weight: 1.00
+  Name: C2K6U0_STAAU_1-42   Len: 100  Check: 3429 Weight: 1.00
+  Name: C5PZJ2_STAAU_41-135 Len: 100  Check: 6330 Weight: 1.00
+  Name: C8A4K8_STAAU_45-135 Len: 100  Check: 2672 Weight: 1.00
+  Name: C8ACJ0_STAAU_29-119 Len: 100  Check: 2672 Weight: 1.00
+  Name: D2FVV7_STAAU_29-119 Len: 100  Check: 2672 Weight: 1.00
+  Name: D2GGV5_STAAU_29-119 Len: 100  Check: 2672 Weight: 1.00
+  Name: D2G2G9_STAAU_29-119 Len: 100  Check: 2672 Weight: 1.00
+  Name: C8AIS6_STAAU_29-119 Len: 100  Check: 2672 Weight: 1.00
+  Name: C8ASK6_STAAU_29-119 Len: 100  Check: 2672 Weight: 1.00
+  Name: C2GBV3_STAAU_45-135 Len: 100  Check: 2672 Weight: 1.00
+  Name: D2G9R8_STAAU_29-119 Len: 100  Check: 2672 Weight: 1.00
+  Name: D2FDS0_STAAU_29-119 Len: 100  Check: 2672 Weight: 1.00
+  Name: D2F7M8_STAAU_29-119 Len: 100  Check: 2672 Weight: 1.00
+  Name: C7ZXI6_STAAU_29-119 Len: 100  Check: 2672 Weight: 1.00
+  Name: D2GS02_STAAU_29-119 Len: 100  Check: 2672 Weight: 1.00
+  Name: Q2FXX5_STAA8_30-119 Len: 100  Check: 4514 Weight: 1.00
+  Name: A8Z4E1_STAAT_30-119 Len: 100  Check: 4514 Weight: 1.00
+  Name: A6QHE3_STAAE_30-119 Len: 100  Check: 4514 Weight: 1.00
+  Name: C8L874_STAAU_30-119 Len: 100  Check: 4514 Weight: 1.00
+  Name: D1Q6M4_STAAU_30-119 Len: 100  Check: 4514 Weight: 1.00
+  Name: Q5HFG0_STAAC_30-119 Len: 100  Check: 4514 Weight: 1.00
+  Name: Q8NW97_STAAW_25-114 Len: 100  Check: 4514 Weight: 1.00
+  Name: Q6G8W7_STAAS_25-114 Len: 100  Check: 4514 Weight: 1.00
+  Name: D1GMC8_STAA0_46-135 Len: 100  Check: 4514 Weight: 1.00
+  Name: Q2FGC4_STAA3_30-119 Len: 100  Check: 4514 Weight: 1.00
+  Name: C5QJV5_STAAU_29-119 Len: 100  Check: 2624 Weight: 1.00
+  Name: C8MF73_STAAU_45-135 Len: 100  Check: 2471 Weight: 1.00
+  Name: D2N7U2_STAA5_43-135 Len: 100  Check: 8661 Weight: 1.00
+  Name: D2UMM6_STAAU_30-119 Len: 100  Check: 4268 Weight: 1.00
+  Name: D2FME0_STAAU_30-119 Len: 100  Check: 4268 Weight: 1.00
+  Name: Q99TP7_STAAM_66-154 Len: 100  Check: 6798 Weight: 1.00
+  Name: Q7A5A7_STAAN_66-154 Len: 100  Check: 6798 Weight: 1.00
+  Name: A5ITC8_STAA9_66-154 Len: 100  Check: 6798 Weight: 1.00
+  Name: D0K5I2_STAAD_47-135 Len: 100  Check: 6798 Weight: 1.00
+  Name: C8M010_STAAU_66-154 Len: 100  Check: 6798 Weight: 1.00
+  Name: C8LTR9_STAAU_19-107 Len: 100  Check: 6798 Weight: 1.00
+  Name: A7X309_STAA1_66-154 Len: 100  Check: 6798 Weight: 1.00
+  Name: C8LIL2_STAAU_31-119 Len: 100  Check: 6798 Weight: 1.00
+  Name: C5N629_STAA3_47-135 Len: 100  Check: 6798 Weight: 1.00
+  Name: D1QXU1_STAAU_66-154 Len: 100  Check: 6798 Weight: 1.00
+  Name: D1QJ70_STAAU_31-119 Len: 100  Check: 6798 Weight: 1.00
+  Name: C8MUR1_STAAU_47-135 Len: 100  Check: 6798 Weight: 1.00
+  Name: C8M7G2_STAAU_31-119 Len: 100  Check: 6798 Weight: 1.00
+  Name: C8MJP3_STAAU_66-154 Len: 100  Check: 6798 Weight: 1.00
+  Name: C8L121_STAAU_66-154 Len: 100  Check: 6798 Weight: 1.00
+  Name: C8N048_STAAU_31-119 Len: 100  Check: 6798 Weight: 1.00
+  Name: D3EWZ8_STAA4_66-154 Len: 100  Check: 6798 Weight: 1.00
+  Name: Q6R2F9_STAAU_1-36   Len: 100  Check: 4505 Weight: 1.00
+  Name: D2JBQ9_STAAU_50-140 Len: 100  Check: 2890 Weight: 1.00
+  Name: C8N2F9_STAAU_35-125 Len: 100  Check: 3044 Weight: 1.00
+  Name: C8LZ26_STAAU_50-140 Len: 100  Check: 3044 Weight: 1.00
+  Name: D2J813_STAAU_50-140 Len: 100  Check: 3044 Weight: 1.00
+  Name: D2J5W7_STAAU_50-140 Len: 100  Check: 3044 Weight: 1.00
+  Name: Q197X4_STAAU_1-89   Len: 100  Check: 6864 Weight: 1.00
+  Name: Q52075_9ZZZZ_50-140 Len: 100  Check: 3164 Weight: 1.00
+  Name: ETXD_STAAU_50-140   Len: 100  Check: 3164 Weight: 1.00
+  Name: D1R3R6_STAAU_1-90   Len: 100  Check: 5161 Weight: 1.00
+  Name: D2J7F2_STAAU_41-132 Len: 100  Check: 4259 Weight: 1.00
+  Name: A1KWT9_STAAU_41-132 Len: 100  Check: 4259 Weight: 1.00
+  Name: C8N2I1_STAAU_42-132 Len: 100  Check: 6071 Weight: 1.00
+  Name: C8LZ07_STAAU_42-132 Len: 100  Check: 6071 Weight: 1.00
+  Name: D1R3R4_STAAU_38-128 Len: 100  Check: 6071 Weight: 1.00
+  Name: O85217_STAAU_49-139 Len: 100  Check: 6071 Weight: 1.00
+  Name: Q76LS7_STAAU_49-139 Len: 100  Check: 6071 Weight: 1.00
+  Name: D2J8S6_STAAU_49-139 Len: 100  Check: 6071 Weight: 1.00
+  Name: Q007A5_STAAU_28-118 Len: 100  Check: 6335 Weight: 1.00
+  Name: A5X5S8_STAAU_1-41   Len: 100  Check: 4758 Weight: 1.00
+  Name: A5X5R0_9STAP_1-41   Len: 100  Check: 5598 Weight: 1.00
+  Name: A5X5Q4_9STAP_1-41   Len: 100  Check: 5099 Weight: 1.00
+  Name: A5X5S2_STAAU_1-41   Len: 100  Check: 5528 Weight: 1.00
+  Name: A5X5Q9_9STAP_1-41   Len: 100  Check: 5198 Weight: 1.00
+  Name: A5X5S0_STAAU_1-41   Len: 100  Check: 5198 Weight: 1.00
+  Name: A5X5Q5_9STAP_1-41   Len: 100  Check: 5198 Weight: 1.00
+  Name: A5X5P7_9STAP_1-41   Len: 100  Check: 5198 Weight: 1.00
+  Name: A5X5P8_9STAP_1-41   Len: 100  Check: 5198 Weight: 1.00
+  Name: D1QIX5_STAAU_8-49   Len: 100  Check: 3276 Weight: 1.00
+  Name: C8M4D8_STAAU_52-142 Len: 100  Check: 5694 Weight: 1.00
+  Name: C8LGA8_STAAU_52-142 Len: 100  Check: 5694 Weight: 1.00
+  Name: Q99SU3_STAAN_52-142 Len: 100  Check: 5694 Weight: 1.00
+  Name: C8L3Q3_STAAU_52-142 Len: 100  Check: 5694 Weight: 1.00
+  Name: D3EXZ7_STAA4_52-142 Len: 100  Check: 5694 Weight: 1.00
+  Name: C5MYV3_STAA3_52-142 Len: 100  Check: 5694 Weight: 1.00
+  Name: A5HJW3_STAAU_33-123 Len: 100  Check: 5694 Weight: 1.00
+  Name: C8MWH6_STAAU_52-142 Len: 100  Check: 5694 Weight: 1.00
+  Name: A5HJW2_STAAU_33-123 Len: 100  Check: 5466 Weight: 1.00
+  Name: A5X5R8_STAAU_1-41   Len: 100  Check: 4649 Weight: 1.00
+  Name: A5X5R1_STAAU_1-41   Len: 100  Check: 4649 Weight: 1.00
+  Name: A5X5P6_9STAP_1-41   Len: 100  Check: 4649 Weight: 1.00
+  Name: A5X5R4_STAAU_1-41   Len: 100  Check: 4649 Weight: 1.00
+  Name: A5X5R3_STAAU_1-41   Len: 100  Check: 4649 Weight: 1.00
+  Name: A5X5R6_STAAU_1-41   Len: 100  Check: 4649 Weight: 1.00
+  Name: A5X5P4_9STAP_1-41   Len: 100  Check: 4649 Weight: 1.00
+  Name: A5X5P5_9STAP_1-41   Len: 100  Check: 4649 Weight: 1.00
+  Name: A5X5Q0_9STAP_1-41   Len: 100  Check: 4649 Weight: 1.00
+  Name: Q6XZE9_STAAU_18-108 Len: 100  Check: 4980 Weight: 1.00
+  Name: ETXE_STAAU_49-139   Len: 100  Check: 5324 Weight: 1.00
+  Name: Q6R2G0_STAAU_1-40   Len: 100  Check: 6703 Weight: 1.00
+  Name: C5QKZ6_STAAU_49-139 Len: 100  Check: 5031 Weight: 1.00
+  Name: ETXA_STAAU_49-139   Len: 100  Check: 5031 Weight: 1.00
+  Name: Q6G7Y7_STAAS_49-139 Len: 100  Check: 5031 Weight: 1.00
+  Name: Q931M4_STAAM_52-142 Len: 100  Check: 5031 Weight: 1.00
+  Name: ETXA_STAAW_49-139   Len: 100  Check: 5031 Weight: 1.00
+  Name: D1QCQ9_STAAU_52-142 Len: 100  Check: 5031 Weight: 1.00
+  Name: D1GPD7_STAA0_49-139 Len: 100  Check: 5031 Weight: 1.00
+  Name: A7X491_STAA1_52-142 Len: 100  Check: 5031 Weight: 1.00
+  Name: Q5PSP6_STAAU_52-142 Len: 100  Check: 5031 Weight: 1.00
+  Name: Q6GFA8_STAAR_49-139 Len: 100  Check: 5391 Weight: 1.00
+  Name: A5A2I3_STAAU_49-139 Len: 100  Check: 5391 Weight: 1.00
+  Name: D0EMB3_STAAU_25-115 Len: 100  Check: 5391 Weight: 1.00
+  Name: A6QIH3_STAAE_49-139 Len: 100  Check: 5391 Weight: 1.00
+  Name: B8Y8C1_STAAU_49-139 Len: 100  Check: 5391 Weight: 1.00
+  Name: A0EX09_9CAUD_49-139 Len: 100  Check: 5391 Weight: 1.00
+  Name: C2K6A4_STAAU_49-139 Len: 100  Check: 5391 Weight: 1.00
+  Name: Q4EVY5_STRPY_1-20   Len: 100  Check: 6897 Weight: 1.00
+  Name: Q4EVY3_STRPY_1-20   Len: 100  Check: 6689 Weight: 1.00
+  Name: Q4EVY4_STRPY_1-20   Len: 100  Check: 7137 Weight: 1.00
+  Name: A9LN29_STRPY_27-110 Len: 100  Check: 6136 Weight: 1.00
+  Name: Q48YF8_STRP1_49-137 Len: 100  Check: 8777 Weight: 1.00
+  Name: Q57453_STRPY_41-129 Len: 100  Check: 8777 Weight: 1.00
+  Name: Q9R931_STRPY_29-117 Len: 100  Check: 8717 Weight: 1.00
+  Name: Q79AQ0_STRPY_41-129 Len: 100  Check: 8717 Weight: 1.00
+  Name: SPEA_STRPY_49-137   Len: 100  Check: 8717 Weight: 1.00
+  Name: SPEA_STRP8_49-137   Len: 100  Check: 8717 Weight: 1.00
+  Name: P97163_STRPY_41-129 Len: 100  Check: 8717 Weight: 1.00
+  Name: Q5XCI7_STRP6_52-142 Len: 100  Check: 7354 Weight: 1.00
+  Name: Q9S5Z4_STRPY_27-117 Len: 100  Check: 7354 Weight: 1.00
+  Name: Q938P4_STREQ_27-117 Len: 100  Check: 7354 Weight: 1.00
+  Name: Q54696_STRPY_39-129 Len: 100  Check: 7354 Weight: 1.00
+  Name: Q8K6K5_STRP3_49-137 Len: 100  Check: 8704 Weight: 1.00
+  Name: Q54779_STRPY_41-129 Len: 100  Check: 8704 Weight: 1.00
+  Name: C8LZ08_STAAU_50-143 Len: 100  Check: 9006 Weight: 1.00
+  Name: D2J5X0_STAAU_50-143 Len: 100  Check: 9006 Weight: 1.00
+  Name: C8N2I0_STAAU_50-143 Len: 100  Check: 9006 Weight: 1.00
+  Name: D1R3R3_STAAU_50-143 Len: 100  Check: 9006 Weight: 1.00
+  Name: Q76LS8_STAAU_50-143 Len: 100  Check: 9006 Weight: 1.00
+  Name: Q06B22_STAAU_1-88   Len: 100  Check:  251 Weight: 1.00
+  Name: C8AT66_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: D2FEC9_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: D2G1J1_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: D2GAD9_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: C2K7W9_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: D2GHG9_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: Q5D1K7_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: D0EMB6_STAAU_24-117 Len: 100  Check: 1049 Weight: 1.00
+  Name: Q6GFN2_STAAR_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: Q9ZNF2_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: C2GB83_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: D2GSL9_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: D2FWG9_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: Q6YCN2_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: Q7X0E4_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: C8AD53_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: D2F889_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: C8AJD4_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: C8A573_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: C7ZY48_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: D2UT84_STAAU_49-142 Len: 100  Check: 1049 Weight: 1.00
+  Name: D2FN10_STAAU_49-142 Len: 100  Check:  543 Weight: 1.00
+  Name: Q0PRM8_STAAU_49-142 Len: 100  Check:  543 Weight: 1.00
+  Name: D2UNA8_STAAU_49-142 Len: 100  Check:  543 Weight: 1.00
+  Name: Q2YTP4_STAAB_49-142 Len: 100  Check: 1189 Weight: 1.00
+  Name: Q52TA2_STAAU_16-109 Len: 100  Check:  887 Weight: 1.00
+  Name: D3EXL8_STAA4_49-142 Len: 100  Check:  366 Weight: 1.00
+  Name: D1QYF5_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: A6U2S9_STAA2_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: C8M7Q4_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: C8M0L7_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: Q8RR77_STAAU_24-117 Len: 100  Check:  936 Weight: 1.00
+  Name: C8LV17_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: C8L2Z3_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: D1QJY2_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: A5ITZ1_STAA9_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: C8MXA5_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: Q9EZM3_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: ETXG_STAAM_49-142   Len: 100  Check:  936 Weight: 1.00
+  Name: C8MCK9_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: ETXG_STAAN_49-142   Len: 100  Check:  936 Weight: 1.00
+  Name: A7X3S4_STAA1_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: ETXG_STAAU_49-142   Len: 100  Check:  936 Weight: 1.00
+  Name: Q7X0E5_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: C8N0I7_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: C8LH33_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: D0K662_STAAD_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: C8ML92_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: Q5D1K4_STAAU_49-142 Len: 100  Check:  936 Weight: 1.00
+  Name: Q79IV2_STAAU_49-142 Len: 100  Check:  858 Weight: 1.00
+  Name: C5Q5P3_STAAU_49-142 Len: 100  Check:  858 Weight: 1.00
+  Name: Q7WS59_STAAU_49-142 Len: 100  Check:  858 Weight: 1.00
+  Name: Q936G4_STAAU_47-145 Len: 100  Check: 9647 Weight: 1.00
+  Name: Q2YUP5_STAAB_47-145 Len: 100  Check: 9468 Weight: 1.00
+  Name: D0K665_STAAD_23-108 Len: 100  Check: 4057 Weight: 1.00
+  Name: A7X3S9_STAA1_41-126 Len: 100  Check: 4057 Weight: 1.00
+  Name: Q7A4W9_STAAN_41-126 Len: 100  Check: 4057 Weight: 1.00
+  Name: C8LH31_STAAU_50-135 Len: 100  Check: 4057 Weight: 1.00
+  Name: C8LV19_STAAU_19-104 Len: 100  Check: 4057 Weight: 1.00
+  Name: C8L2Z6_STAAU_41-126 Len: 100  Check: 4057 Weight: 1.00
+  Name: D1QYF8_STAAU_41-126 Len: 100  Check: 4057 Weight: 1.00
+  Name: D3EXM1_STAA4_41-126 Len: 100  Check: 4057 Weight: 1.00
+  Name: Q99T48_STAAM_41-126 Len: 100  Check: 4057 Weight: 1.00
+  Name: C8N0I5_STAAU_41-126 Len: 100  Check: 4057 Weight: 1.00
+  Name: D1QJY5_STAAU_41-126 Len: 100  Check: 4057 Weight: 1.00
+  Name: Q9EZM6_STAAU_41-126 Len: 100  Check: 4057 Weight: 1.00
+  Name: C8MCL1_STAAU_41-134 Len: 100  Check: 9779 Weight: 1.00
+  Name: C5Q5P1_STAAU_23-116 Len: 100  Check:   22 Weight: 1.00
+  Name: A0FKY7_STAAU_41-134 Len: 100  Check:   22 Weight: 1.00
+  Name: Q6XXM4_STAAU_41-139 Len: 100  Check: 9390 Weight: 1.00
+  Name: Q6YCN4_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: D2GSM1_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: D2F891_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: D2GAE1_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: C8A575_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: C2K7X1_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: C7ZY50_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: Q6GFN0_STAAR_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: B6D993_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: B6D995_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: B6D991_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: C8AD55_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: C2GB81_STAAU_23-121 Len: 100  Check: 9098 Weight: 1.00
+  Name: C8AJD6_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: D2FWH1_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: D2FED1_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: D2UT86_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: C8AT68_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: D2GHH1_STAAU_41-139 Len: 100  Check: 9098 Weight: 1.00
+  Name: D2G1J3_STAAU_23-121 Len: 100  Check: 9098 Weight: 1.00
+  Name: D2UNB1_STAAU_41-139 Len: 100  Check: 9012 Weight: 1.00
+  Name: D0EMB5_STAAU_12-110 Len: 100  Check: 9012 Weight: 1.00
+  Name: Q6XXM5_STAAU_41-139 Len: 100  Check: 9012 Weight: 1.00
+  Name: D2FN12_STAAU_41-139 Len: 100  Check: 9012 Weight: 1.00
+  Name: Q6XXM3_STAAU_41-139 Len: 100  Check: 9012 Weight: 1.00
+  Name: Q2YTR7_STAAB_41-139 Len: 100  Check: 9012 Weight: 1.00
+  Name: Q79X14_STRP3_49-143 Len: 100  Check: 8218 Weight: 1.00
+  Name: Q54738_STRPY_49-143 Len: 100  Check: 8218 Weight: 1.00
+  Name: Q1CP76_STRPF_49-143 Len: 100  Check: 8218 Weight: 1.00
+  Name: Q54739_STRPY_49-143 Len: 100  Check: 8218 Weight: 1.00
+  Name: Q54971_STRPY_49-143 Len: 100  Check: 9225 Weight: 1.00
+  Name: Q764P6_STAIN_50-146 Len: 100  Check: 3627 Weight: 1.00
+  Name: Q06535_STAAU_23-119 Len: 100  Check: 4551 Weight: 1.00
+  Name: Q06531_STAAU_23-119 Len: 100  Check: 4227 Weight: 1.00
+  Name: O05157_STAIN_23-119 Len: 100  Check: 4047 Weight: 1.00
+  Name: ENTC1_STAAU_50-146  Len: 100  Check: 4120 Weight: 1.00
+  Name: D2UJH0_STAAU_55-151 Len: 100  Check: 4120 Weight: 1.00
+  Name: Q9F0L6_STAAU_55-151 Len: 100  Check: 4060 Weight: 1.00
+  Name: Q53678_STAAU_23-119 Len: 100  Check: 4060 Weight: 1.00
+  Name: Q2YVN9_STAAB_55-151 Len: 100  Check: 4060 Weight: 1.00
+  Name: Q6XZE7_STAAU_16-112 Len: 100  Check: 4060 Weight: 1.00
+  Name: Q6XZE8_STAAU_15-111 Len: 100  Check: 3730 Weight: 1.00
+  Name: Q06534_STAAU_23-119 Len: 100  Check: 3730 Weight: 1.00
+  Name: A7X4G8_STAA1_50-146 Len: 100  Check: 3982 Weight: 1.00
+  Name: C5QHH6_STAAU_65-161 Len: 100  Check: 3982 Weight: 1.00
+  Name: Q06533_STAAU_23-119 Len: 100  Check: 3982 Weight: 1.00
+  Name: Q8NXJ6_STAAW_50-146 Len: 100  Check: 3982 Weight: 1.00
+  Name: Q06532_STAAU_23-119 Len: 100  Check: 3982 Weight: 1.00
+  Name: Q54A76_STAAU_50-146 Len: 100  Check: 3982 Weight: 1.00
+  Name: ENTC3_STAAU_50-146  Len: 100  Check: 3982 Weight: 1.00
+  Name: ENTC3_STAAM_50-146  Len: 100  Check: 3982 Weight: 1.00
+  Name: ENTC3_STAAN_50-146  Len: 100  Check: 3982 Weight: 1.00
+  Name: A7E1C4_STAAU_23-119 Len: 100  Check: 4016 Weight: 1.00
+  Name: ENTC2_STAAU_50-146  Len: 100  Check: 4016 Weight: 1.00
+  Name: Q53X04_STAAU_50-146 Len: 100  Check: 4016 Weight: 1.00
+  Name: C9E454_STAAU_23-119 Len: 100  Check: 4016 Weight: 1.00
+  Name: Q6ST49_STAAU_23-119 Len: 100  Check: 4016 Weight: 1.00
+  Name: Q6R2G1_STAAU_1-48   Len: 100  Check:  274 Weight: 1.00
+  Name: Q2WBR3_STAAU_38-137 Len: 100  Check: 8545 Weight: 1.00
+  Name: A0FI85_STAAU_48-147 Len: 100  Check: 8545 Weight: 1.00
+  Name: Q5MAA8_STAAU_34-133 Len: 100  Check: 8545 Weight: 1.00
+  Name: D2FAC0_STAAU_50-149 Len: 100  Check: 8545 Weight: 1.00
+  Name: A0FI86_STAAU_50-149 Len: 100  Check: 8545 Weight: 1.00
+  Name: Q6XZE6_STAAU_15-114 Len: 100  Check: 8545 Weight: 1.00
+  Name: D1Q9E1_STAAU_50-149 Len: 100  Check: 8545 Weight: 1.00
+  Name: Q5MAB7_STAAU_23-122 Len: 100  Check: 8545 Weight: 1.00
+  Name: ETXB_STAAU_50-149   Len: 100  Check: 8545 Weight: 1.00
+  Name: Q7BBY8_STAAU_50-149 Len: 100  Check: 8545 Weight: 1.00
+  Name: D2FJ38_STAAU_50-149 Len: 100  Check: 8545 Weight: 1.00
+  Name: Q199U3_STAAU_23-122 Len: 100  Check: 8545 Weight: 1.00
+  Name: A0FI84_STAAU_38-137 Len: 100  Check: 8545 Weight: 1.00
+  Name: Q5HHH9_STAAC_50-149 Len: 100  Check: 8545 Weight: 1.00
+  Name: A0FI83_STAAU_23-122 Len: 100  Check: 8545 Weight: 1.00
+  Name: C0STJ9_STAAU_50-149 Len: 100  Check: 8437 Weight: 1.00
+  Name: A5JJ18_STAAU_45-132 Len: 100  Check: 3577 Weight: 1.00
+  Name: Q7A2N8_STAAM_45-132 Len: 100  Check: 2804 Weight: 1.00
+  Name: O54462_STAAU_45-132 Len: 100  Check: 2804 Weight: 1.00
+  Name: Q8RSX9_STAAU_45-132 Len: 100  Check: 2804 Weight: 1.00
+  Name: TSST_STAAU_45-132   Len: 100  Check: 2804 Weight: 1.00
+  Name: A0FIN2_STAAU_45-132 Len: 100  Check: 2804 Weight: 1.00
+  Name: A7X4H0_STAA1_45-132 Len: 100  Check: 2804 Weight: 1.00
+  Name: C2K6H6_STAAU_45-132 Len: 100  Check: 2804 Weight: 1.00
+  Name: D2UTW0_STAAU_45-132 Len: 100  Check: 2804 Weight: 1.00
+  Name: D2GTD1_STAAU_45-132 Len: 100  Check: 2804 Weight: 1.00
+  Name: Q7A4K7_STAAN_45-132 Len: 100  Check: 2804 Weight: 1.00
+  Name: D2FEQ4_STAAU_45-132 Len: 100  Check: 2804 Weight: 1.00
+  Name: D2GHU7_STAAU_45-132 Len: 100  Check: 2804 Weight: 1.00
+  Name: Q2YVP2_STAAB_45-132 Len: 100  Check: 3397 Weight: 1.00
+  Name: Q9F0L4_STAAU_45-132 Len: 100  Check: 3397 Weight: 1.00
+  Name: A5JJ19_STAAU_45-132 Len: 100  Check: 3457 Weight: 1.00
+  Name: SPEH_STRP1_42-126   Len: 100  Check: 4577 Weight: 1.00
+  Name: Q1CQP2_STRPC_42-126 Len: 100  Check: 4577 Weight: 1.00
+  Name: SPEH_STRPY_42-126   Len: 100  Check: 4577 Weight: 1.00
+  Name: A2RES2_STRPG_42-126 Len: 100  Check: 4577 Weight: 1.00
+  Name: C0M9V5_STRE4_42-126 Len: 100  Check: 4367 Weight: 1.00
+  Name: Q9L920_9STRE_42-126 Len: 100  Check: 4367 Weight: 1.00
+  Name: B5XL92_STRPZ_42-126 Len: 100  Check: 4367 Weight: 1.00
+  Name: Q2FIH8_STAA3_31-109 Len: 100  Check: 2608 Weight: 1.00
+  Name: A8Z1E9_STAAT_31-109 Len: 100  Check: 2608 Weight: 1.00
+  Name: C8KPR5_STAAU_31-109 Len: 100  Check: 2113 Weight: 1.00
+  Name: O54476_STAAU_31-109 Len: 100  Check: 2113 Weight: 1.00
+  Name: Q5HHK0_STAAC_31-109 Len: 100  Check: 2113 Weight: 1.00
+  Name: D0EMB7_STAAU_8-86   Len: 100  Check: 2113 Weight: 1.00
+  Name: Q93CC5_STAAU_31-109 Len: 100  Check: 2113 Weight: 1.00
+  Name: D1GR64_STAA0_31-109 Len: 100  Check: 2113 Weight: 1.00
+  Name: C7FFG6_STAAU_31-109 Len: 100  Check: 2113 Weight: 1.00
+  Name: D1QCY2_STAAU_31-109 Len: 100  Check: 2113 Weight: 1.00
+  Name: Q8NVM2_STAAW_31-109 Len: 100  Check: 1853 Weight: 1.00
+  Name: Q6G7U0_STAAS_31-109 Len: 100  Check: 1853 Weight: 1.00
+  Name: C5QKU5_STAAU_31-109 Len: 100  Check: 1853 Weight: 1.00
+  Name: D2FN13_STAAU_32-110 Len: 100  Check: 2299 Weight: 1.00
+  Name: Q0PRM7_STAAU_32-110 Len: 100  Check: 1858 Weight: 1.00
+  Name: D2UNB2_STAAU_32-110 Len: 100  Check: 1858 Weight: 1.00
+  Name: Q7X0E8_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: D2G1J4_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: D2UT87_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: D2F892_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: D2FED2_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: D2GSM2_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: D2FWH2_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: C8A576_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: C8AJD7_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: C2GB80_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: C8AD56_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: C2K7X2_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: D2GHH2_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: Q6GFM9_STAAR_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: C7ZY51_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: D2GAE2_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: C8AT69_STAAU_32-110 Len: 100  Check: 1546 Weight: 1.00
+  Name: Q52TA0_STAAU_2-77   Len: 100  Check: 3790 Weight: 1.00
+  Name: D3EXM2_STAA4_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: C8L2Z7_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: D0K666_STAAD_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: C8N0I4_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: C8ML95_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: A7X3T0_STAA1_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: C8MXA8_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: Q7A4W8_STAAN_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: A6U2T1_STAA2_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: C8M7Q7_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: Q5D1J9_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: Q7A2Q5_STAAM_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: C8LH30_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: A5ITZ3_STAA9_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: D1QYF9_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: Q7X0E7_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: C8M0M0_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: O85383_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: C8LV20_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: Q7X0E6_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: D1QJY6_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: C5Q5P0_STAAU_32-110 Len: 100  Check: 1327 Weight: 1.00
+  Name: C8MCL2_STAAU_32-110 Len: 100  Check: 1042 Weight: 1.00
+  Name: Q007A6_STAAU_8-86   Len: 100  Check: 1042 Weight: 1.00
+  Name: Q8RR75_STAAU_8-86   Len: 100  Check: 1042 Weight: 1.00
+  Name: Q2YTT9_STAAB_32-110 Len: 100  Check: 1608 Weight: 1.00
+  Name: Q52T97_STAAU_1-78   Len: 100  Check: 1577 Weight: 1.00
+  Name: Q52T95_STAAU_8-86   Len: 100  Check:  825 Weight: 1.00
+  Name: Q1CPQ4_STRPB_41-121 Len: 100  Check: 1928 Weight: 1.00
+  Name: SPEC_STRP1_41-121   Len: 100  Check: 1928 Weight: 1.00
+  Name: Q54512_STRPY_21-101 Len: 100  Check: 1928 Weight: 1.00
+  Name: Q7BTR4_STRPY_8-88   Len: 100  Check: 1928 Weight: 1.00
+  Name: D0EZH7_STREQ_1-66   Len: 100  Check: 4044 Weight: 1.00
+  Name: Q1CQV0_STRPC_41-121 Len: 100  Check: 1798 Weight: 1.00
+  Name: SPEC_STRP6_41-121   Len: 100  Check: 1798 Weight: 1.00
+  Name: Q76MJ3_STRPY_41-121 Len: 100  Check: 1798 Weight: 1.00
+  Name: Q6LD36_STRPY_21-101 Len: 100  Check: 1798 Weight: 1.00
+  Name: A2RFG0_STRPG_41-121 Len: 100  Check: 1798 Weight: 1.00
+  Name: Q48T78_STRPM_41-121 Len: 100  Check: 1798 Weight: 1.00
+  Name: Q1CPD8_STRPF_41-121 Len: 100  Check: 1798 Weight: 1.00
+  Name: SPEC_STRP8_41-121   Len: 100  Check: 1798 Weight: 1.00
+  Name: Q71US9_STRPY_8-88   Len: 100  Check: 1798 Weight: 1.00
+  Name: Q1CQC6_STRPD_41-121 Len: 100  Check: 1798 Weight: 1.00
+  Name: Q99QN1_STRP1_36-116 Len: 100  Check: 4974 Weight: 1.00
+  Name: Q7BAE3_STRPY_36-116 Len: 100  Check: 4974 Weight: 1.00
+  Name: Q48UZ7_STRPM_36-116 Len: 100  Check: 5401 Weight: 1.00
+  Name: B5XJL9_STRPZ_36-117 Len: 100  Check: 9682 Weight: 1.00
+  Name: Q1JNM7_STRPC_36-117 Len: 100  Check:  144 Weight: 1.00
+  Name: SPEG_STRP1_36-117   Len: 100  Check:  144 Weight: 1.00
+  Name: SPEG_STRP3_36-117   Len: 100  Check:  144 Weight: 1.00
+  Name: Q1JDR1_STRPB_36-117 Len: 100  Check:  144 Weight: 1.00
+  Name: Q1JIS3_STRPD_36-117 Len: 100  Check:  144 Weight: 1.00
+  Name: D0EZH8_STREQ_17-98  Len: 100  Check:  144 Weight: 1.00
+  Name: Q9K2G9_STRPY_12-93  Len: 100  Check:  144 Weight: 1.00
+  Name: Q48VG2_STRPM_36-117 Len: 100  Check:  144 Weight: 1.00
+  Name: Q8P2R5_STRP8_42-123 Len: 100  Check:   25 Weight: 1.00
+  Name: C7G4C4_STREQ_36-117 Len: 100  Check:  680 Weight: 1.00
+  Name: Q76FM5_STREQ_36-117 Len: 100  Check:  680 Weight: 1.00
+  Name: Q76FM9_STREQ_36-117 Len: 100  Check:  680 Weight: 1.00
+  Name: C5WJA8_STRDG_36-117 Len: 100  Check:  680 Weight: 1.00
+  Name: Q8G9K7_STREQ_36-117 Len: 100  Check:  680 Weight: 1.00
+  Name: Q76FM7_STREQ_36-117 Len: 100  Check:  680 Weight: 1.00
+  Name: Q76FM8_STREQ_36-117 Len: 100  Check:  680 Weight: 1.00
+  Name: Q93RR9_STREQ_36-117 Len: 100  Check:  680 Weight: 1.00
+  Name: B9A7E4_STRDY_36-117 Len: 100  Check: 1291 Weight: 1.00
+  Name: A9YF52_STREQ_7-88   Len: 100  Check: 1291 Weight: 1.00
+  Name: B3Y898_STREQ_36-117 Len: 100  Check: 1291 Weight: 1.00
+  Name: Q76FM2_STRDY_36-117 Len: 100  Check: 1291 Weight: 1.00
+  Name: Q76FN0_STREQ_36-117 Len: 100  Check: 1291 Weight: 1.00
+  Name: Q76FM3_STRDY_36-117 Len: 100  Check: 1291 Weight: 1.00
+  Name: B6ZLK8_STRDY_36-117 Len: 100  Check: 1291 Weight: 1.00
+  Name: A9YF45_STRCB_36-117 Len: 100  Check: 1291 Weight: 1.00
+  Name: B7XH23_STRDY_36-117 Len: 100  Check:  823 Weight: 1.00
+  Name: Q56D04_STRPY_1-78   Len: 100  Check: 1327 Weight: 1.00
+  Name: Q6DTL6_STRPY_1-77   Len: 100  Check: 2709 Weight: 1.00
+  Name: Q6DTL4_STRPY_1-77   Len: 100  Check: 2709 Weight: 1.00
+  Name: Q6DTL3_STRPY_1-80   Len: 100  Check: 9752 Weight: 1.00
+  Name: D0EZH6_STREQ_1-75   Len: 100  Check: 5485 Weight: 1.00
+  Name: Q5Q043_STRPY_10-95  Len: 100  Check: 2415 Weight: 1.00
+  Name: Q56D03_STRPY_1-80   Len: 100  Check: 9275 Weight: 1.00
+  Name: Q6DTL1_STRPY_1-80   Len: 100  Check:  102 Weight: 1.00
+  Name: Q6DTL5_STRPY_1-80   Len: 100  Check:  102 Weight: 1.00
+  Name: Q9LAC4_STRPY_10-95  Len: 100  Check: 1820 Weight: 1.00
+  Name: A5A507_STRPY_10-95  Len: 100  Check: 1820 Weight: 1.00
+  Name: Q7WY99_STRCB_9-94   Len: 100  Check: 1820 Weight: 1.00
+  Name: Q9LAC9_STRPY_10-95  Len: 100  Check: 1820 Weight: 1.00
+  Name: A5A500_STRPY_10-95  Len: 100  Check: 1820 Weight: 1.00
+  Name: Q9LAC8_STRPY_10-95  Len: 100  Check: 1820 Weight: 1.00
+  Name: Q9X9R8_STRPY_56-142 Len: 100  Check:  579 Weight: 1.00
+  Name: Q5X9R9_STRP6_58-144 Len: 100  Check:  579 Weight: 1.00
+  Name: Q48R63_STRPM_33-119 Len: 100  Check:  579 Weight: 1.00
+  Name: Q9S1H9_STRPY_56-142 Len: 100  Check:  579 Weight: 1.00
+  Name: Q6VBI7_STRCB_33-119 Len: 100  Check:  579 Weight: 1.00
+  Name: Q9LAD4_STRPY_10-95  Len: 100  Check: 2145 Weight: 1.00
+  Name: A5A503_STRPY_10-95  Len: 100  Check: 1410 Weight: 1.00
+  Name: Q9LAD8_STRPY_10-95  Len: 100  Check: 1344 Weight: 1.00
+  Name: A2RGL0_STRPG_33-119 Len: 100  Check: 1041 Weight: 1.00
+  Name: Q9S1H8_STRPY_56-142 Len: 100  Check: 1041 Weight: 1.00
+  Name: Q9RQQ5_STRPY_10-95  Len: 100  Check: 2281 Weight: 1.00
+  Name: A5A501_STRPY_10-95  Len: 100  Check: 2552 Weight: 1.00
+  Name: Q9LAC7_STRPY_10-95  Len: 100  Check: 2704 Weight: 1.00
+  Name: Q9LAE0_STRPY_10-95  Len: 100  Check: 1503 Weight: 1.00
+  Name: Q9LAD5_STRPY_10-95  Len: 100  Check:  855 Weight: 1.00
+  Name: A5A506_STRPY_10-95  Len: 100  Check: 1404 Weight: 1.00
+  Name: Q9LAD0_STRPY_10-95  Len: 100  Check: 1404 Weight: 1.00
+  Name: Q5Q044_STRPY_10-95  Len: 100  Check: 1387 Weight: 1.00
+  Name: Q99XW1_STRP1_33-119 Len: 100  Check:  120 Weight: 1.00
+  Name: Q8NZ89_STRP8_33-119 Len: 100  Check:   39 Weight: 1.00
+  Name: Q4ZJR7_STRPY_1-80   Len: 100  Check: 9294 Weight: 1.00
+  Name: Q9LAD9_STRPY_10-95  Len: 100  Check: 1142 Weight: 1.00
+  Name: Q5Q045_STRPY_10-95  Len: 100  Check: 1531 Weight: 1.00
+  Name: Q9LAC5_STRPY_10-95  Len: 100  Check: 2153 Weight: 1.00
+  Name: Q7CEP3_STRP3_12-89  Len: 100  Check:  176 Weight: 1.00
+  Name: Q9LAD1_STRPY_9-95   Len: 100  Check: 9640 Weight: 1.00
+  Name: Q9LAD2_STRPY_9-95   Len: 100  Check: 9800 Weight: 1.00
+  Name: A5A504_STRPY_9-95   Len: 100  Check: 9800 Weight: 1.00
+  Name: Q9LAD7_STRPY_10-95  Len: 100  Check: 1246 Weight: 1.00
+  Name: A5A502_STRPY_10-95  Len: 100  Check: 1246 Weight: 1.00
+  Name: Q9LAD3_STRPY_10-95  Len: 100  Check: 1246 Weight: 1.00
+  Name: Q1J4J1_STRPF_33-119 Len: 100  Check: 9985 Weight: 1.00
+
+//
+
+           1                                               50
+A5A505_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINFEMDEYAAND
+Q9LAE1_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q1JJS8_STRPC_58-144 LRNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q1J9M9_STRPB_33-119 LRNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q76MJ7_STRPY_33-119 LRNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q9LAD6_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q9LAC6_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q9LAC3_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q56D15_STRPY_1-78   YEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAANDFKAGDRIA
+Q4ZJR6_STRPY_1-80   IVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAANDFKAGDK
+B0LVF8_STRPY_1-80   IVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAANDFKAGDK
+Q9F0L7_STAAU_32-110 NLRNFYTKYEYVNLKNVKDKNSPESHRLEYSYKNDTLYAEFDNEYITSDL
+D2UJH1_STAAU_32-110 NLRNFYTKYEYVNLKNVKDKNSPESHRLEYSYKNDTLYAEFDNEYITSDL
+Q7A4K9_STAAN_32-110 NLRNFYTKYEYVNLKNVKDKNSPESHRLEYSYKNDTLYAEFDNEYITSDL
+Q7A2N9_STAAM_32-110 NLRNFYTKYEYVNLKNVKDKNSPESHRLEYSYKNDTLYAEFDNEYITSDL
+Q8NXJ5_STAAW_32-110 NLRNFYTKYEYVNLKNVKDKNSPESHRLEYSYKNDTLYAEFDNEYITSDL
+A7X4G7_STAA1_32-110 NLRNFYTKYEYVNLKNVKDKNSPESHRLEYSYKNDTLYAEFDNEYITSDL
+Q2YVN8_STAAB_32-110 NLRNFYTKYEYVNLKNVKDKNSPESHRLEYSYKNDTLYAEFDNEYITSDL
+C5QHH7_STAAU_32-110 NLRNFYTKYEYVNLKNVKDKNSPESHRLEYSYKNDTLYAEFDNEYITSDL
+Q6R2F8_STAAU_1-40   QFHNEYEAKRLKDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~
+A8Z1F0_STAAT_32-110 NLRNFYTNYQPETLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+Q2FIH7_STAA3_32-110 NLRNFYTNYQPETLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+Q8VLW7_STAAU_46-124 NLRNFYANYEPEKLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+Q93CC6_STAAU_32-110 NLRNFYANYEPEKLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+D1QCY3_STAAU_32-110 NLRNFYANYEPEKLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+D1GR65_STAA0_46-124 NLRNFYANYEPEKLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+Q5HHJ9_STAAC_32-110 NLRNFYANYEPEKLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+D3YNW2_STAAU_6-84   NLRNFYANYEPEKLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+C8KPR4_STAAU_32-110 NLRNFYANYEPEKLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+Q8NVM3_STAAW_32-110 NLRNFYANYQPEKLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+Q6G7U1_STAAS_32-110 NLRNFYANYQPEKLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+C5QKU6_STAAU_34-112 NLRNFYANYQPEKLQGVSSGNFSTSHQLEYIDGKYTLYSQFHNEYEAKRL
+D2JDI2_STAAU_33-111 NLRNFYGSYSFEDHKSIDTLNNPLTHELTFNMGNYQLNSEMQNDFDVAKF
+C8MCL3_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTITAEFKNVDDVKKF
+A0FKY6_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSSITAEFKNVDDVKKF
+C8LV21_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+C8ML96_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+C8N0I3_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+A7X3T1_STAA1_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+D3EXM3_STAA4_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+C5Q5N9_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+C8M7Q8_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+D1QJY7_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+C8LH29_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+A6U2T2_STAA2_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+Q99T47_STAAM_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+D0K667_STAAD_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+Q7A4W7_STAAN_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+A5ITZ4_STAA9_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+C8MXA9_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+C8L2Z8_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+Q9EZM7_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKEF
+D1QYG0_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+C8M0M1_STAAU_28-107 NLRNYYGSYPIEDHQSINPENNHLSHQLVFSMDNSTVTAEFKNVDDVKKF
+C2GB79_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+D2GSM3_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+A5JNM2_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+Q6GFM8_STAAR_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+D2F893_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+C8AT70_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+D2GHH3_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+C8AD57_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+C7ZY52_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+D2UT88_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+C2K7X3_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+C8AJD8_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+C8A577_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+D2FWH3_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+D2GAE3_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+D2G1J5_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+D2FED3_STAAU_28-107 NLRNYYGSYPIEDHQNINPDNNRLSHQLVFSKDNSTVTAEFKNVEDVKKF
+D2UNB3_STAAU_28-107 NLRNYYGSYPIESHQNINPDNNSLSHQLVFSKDNSTVTAEFKNVEDVKKF
+D2FN14_STAAU_28-107 NLRNYYGSYPIESHQNINPDNNSLSHQLVFSKDNSTVTAEFKNVEDVKKF
+Q6R1Y7_STAAU_1-53   LVFSKDNSTVTAEFKNVEDVKKFKNRAVDVYGLSYSGYCLKNKYMYGGVT
+D0EZI0_STREQ_1-71   GKINEGPPFSGSLFYKNIPYGNSSIELKVELNSVEKANFFSGKRVDIFTL
+C0M9V6_STRE4_42-128 NLRNLYSTYDPTEVKGKINEGPPFSGSLFYKNIPYGNSSIELKVELNSVE
+Q9L921_9STRE_8-94   NLRNLYSTYDPTEVKGKINEGPPFSGSLFYKNIPYGNSSIELKVELNSVE
+Q1CQP3_STRPC_42-128 NLRNLYSTYDPTEVKGKINEGPPFSGSLFYKNIPYGNSSIELKVELNSVE
+Q8VVW1_STRPY_8-94   NLRNLYSTYDPTEVKGKINEGPPFSGSLFYKNIPYGNSSIELKVELNSVE
+Q99ZZ1_STRP1_8-94   NLRNLYSTYDPTEVKGKINEGPPFSGSLFYKNIPYGNSSIELKVELNSVE
+Q007A7_STAAU_20-108 ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+ETXH_STAAW_37-125   ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+ETXH_STAAU_37-125   ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+Q334J6_STAAU_37-125 ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+Q6GD45_STAAS_37-125 ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+Q8RR76_STAAU_13-101 ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+C5QEN0_STAAU_37-125 ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+D2FQX2_STAAU_37-125 ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+D2GMP4_STAAU_37-125 ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+D2UIL8_STAAU_37-125 ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+Q6VAM8_STAAU_37-125 ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+D2FHC8_STAAU_37-125 ALANAYGQYNHPFIKENIKSDEISGEKDLIFRNQGDSGNDLRVKFATADL
+B0I1V7_STAAU_53-144 NIKTSYSQDNIILDIKNKTNSTQLLSNDLIFDDITLKEWNKNSLKTEFNS
+D2J8S9_STAAU_53-144 NIKTSYSQDNIILDIKNKTNSTQLLSNDLIFDDITLKEWNKNSLKTEFNS
+D2JDI1_STAAU_49-140 NLSNFYKSAEWHTDIHNKVNKNQLLATDLIFGDIHQSSLMTNALKVEFQN
+D0K663_STAAD_1-49   MKVEFNSSDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~
+C8M7Q5_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+C8MXA6_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+C8LV18_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+Q9EZM4_STAAU_51-142 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+Q7A2Q6_STAAM_51-142 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+C8N0I6_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+D1QJY3_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+C5Q5P2_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+D3EXL9_STAA4_51-142 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+A7X3S6_STAA1_51-142 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+A5ITZ2_STAA9_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+C8ML93_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+C8L2Z4_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+A6U2T0_STAA2_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+C8LH32_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+C8M0L8_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+D1QYF6_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+Q7A4X1_STAAN_51-142 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+C8MCL0_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+D2FWH0_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+D2F890_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+D2UT85_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+C8AD54_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+C2GB82_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+C8A574_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+D2GAE0_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+C8AT67_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+D2GSM0_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+Q6YCN3_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+D2GHH0_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+C8AJD5_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+D2FED0_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+C7ZY49_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+C2K7X0_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+D2G1J2_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+Q6GFN1_STAAR_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKDIDISVLKTSSLKVEFNS
+D2UNA9_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+D2FN11_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+Q2YTP3_STAAB_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+A5JJ08_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+A5JJ09_STAAU_44-135 NLTSYYTDITWQLDESNKISTDQLLNNTIILKNIDISVLKTSSLKVEFNS
+C8MCL4_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSIDWLDGISAEFKDLKVE
+D1QYG1_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+Q99T46_STAAM_51-145 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+C8N0I2_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+Q7A4W6_STAAN_51-145 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+D0EMB4_STAAU_25-119 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+C8LV22_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+C8M7Q9_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+C8L2Z9_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+D3EXM4_STAA4_51-145 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+C8M0M2_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+C8LH28_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+C8ML97_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+D0K668_STAAD_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+A7X3T3_STAA1_51-145 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+A5ITZ5_STAA9_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+Q9EZM8_STAAU_52-146 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+D1QJY8_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+C8MXB0_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+A6U2T3_STAA2_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAEFKDLKVE
+C5Q5N8_STAAU_45-139 NINDDYINNRFTTVKSIVSTTEKFLDFDLLFKSINWLDGISAKFKDLKVE
+C8AT71_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+D2UT89_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+C2GB78_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+D2GSM4_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+D2G1J6_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+Q6GFM7_STAAR_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+D2F894_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+C2K7X4_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+D2FED4_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+C7ZY53_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+D2GAE4_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+C8AJD9_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+D2GHH4_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+C8A578_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+C8AD58_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+D2FWH4_STAAU_45-139 NIDKDYMTNRFTINESTVLTTEKFLDIDLLFKNFTWLDGKSAEFKDLKVE
+Q2YTT8_STAAB_45-139 NIDKDYMTNRFTINESPVLTTEKFLDFDLLFKNFTWLDGKSAEFKDLKVE
+D2FN15_STAAU_45-139 NIDKDYMTNRFIINESPVLTTEKFLDFDLLFKNFTWLDGKSVEFKDLKVE
+D2UNB4_STAAU_45-139 NIDKDYMTNRFIINESPVLTTEKFLDFDLLFKNFTWLDGKSAEFKDLKVE
+C2K6U0_STAAU_1-42   EALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~
+C5PZJ2_STAAU_41-135 NSKRLYNAKLSFANPTDLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVE
+C8A4K8_STAAU_45-135 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+C8ACJ0_STAAU_29-119 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+D2FVV7_STAAU_29-119 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+D2GGV5_STAAU_29-119 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+D2G2G9_STAAU_29-119 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+C8AIS6_STAAU_29-119 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+C8ASK6_STAAU_29-119 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+C2GBV3_STAAU_45-135 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+D2G9R8_STAAU_29-119 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+D2FDS0_STAAU_29-119 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+D2F7M8_STAAU_29-119 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+C7ZXI6_STAAU_29-119 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+D2GS02_STAAU_29-119 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFLNDAWKKDLKVEFENE
+Q2FXX5_STAA8_30-119 SNAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENEA
+A8Z4E1_STAAT_30-119 SNAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENEA
+A6QHE3_STAAE_30-119 SNAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENEA
+C8L874_STAAU_30-119 SNAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENEA
+D1Q6M4_STAAU_30-119 SNAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENEA
+Q5HFG0_STAAC_30-119 SNAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENEA
+Q8NW97_STAAW_25-114 SNAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENEA
+Q6G8W7_STAAS_25-114 SNAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENEA
+D1GMC8_STAA0_46-135 SNAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENEA
+Q2FGC4_STAA3_30-119 SNAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENEA
+C5QJV5_STAAU_29-119 LSNAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENE
+C8MF73_STAAU_45-135 LYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFVNDDWKKDFKVEFENE
+D2N7U2_STAA5_43-135 KRLYNAKVSFANPTDLENKKTNDRLLKHDLLFHDMFVNDDWKKDFKVEFE
+D2UMM6_STAAU_30-119 SNAKMSFINPTQLENKKTNDRLLTHDLLFHDMFLNDASKKDFKVEFENEA
+D2FME0_STAAU_30-119 SNAKMSFINPTQLENKKTNDRLLTHDLLFHDMFLNDASKKDFKVEFENEA
+Q99TP7_STAAM_66-154 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+Q7A5A7_STAAN_66-154 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+A5ITC8_STAA9_66-154 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+D0K5I2_STAAD_47-135 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+C8M010_STAAU_66-154 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+C8LTR9_STAAU_19-107 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+A7X309_STAA1_66-154 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+C8LIL2_STAAU_31-119 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+C5N629_STAA3_47-135 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+D1QXU1_STAAU_66-154 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+D1QJ70_STAAU_31-119 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+C8MUR1_STAAU_47-135 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+C8M7G2_STAAU_31-119 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+C8MJP3_STAAU_66-154 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+C8L121_STAAU_66-154 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+C8N048_STAAU_31-119 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+D3EWZ8_STAA4_66-154 NAKMSFINPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEAL
+Q6R2F9_STAAU_1-36   FKSKNVDVYAIRYSINCYGGEIDRTACTYGGVTPHE~~~~~~~~~~~~~~
+D2JBQ9_STAAU_50-140 NMKHSYADKNPIIGENKSTGDQFLENTLLYKKFFTDLINFEDLLINFNSK
+C8N2F9_STAAU_35-125 NMKHSYADKNPIIGENKSTGDQFLENTLLYKKFFTDLINFEDLLINFNSK
+C8LZ26_STAAU_50-140 NMKHSYADKNPIIGENKSTGDQFLENTLLYKKFFTDLINFEDLLINFNSK
+D2J813_STAAU_50-140 NMKHSYADKNPIIGENKSTGDQFLENTLLYKKFFTDLINFEDLLINFNSK
+D2J5W7_STAAU_50-140 NMKHSYADKNPIIGENKSTGDQFLENTLLYKKFFTDLINFEDLLINFNSK
+Q197X4_STAAU_1-89   KHSYADKNPIIGENKSTGDQFLENTLLYKKFFTDLINFEDLLINFNSKEM
+Q52075_9ZZZZ_50-140 NMKHSYADKNPIIGENKSTGDQFLENTLLYKKFFTDLINFEDLLINFNSK
+ETXD_STAAU_50-140   NMKHSYADKNPIIGENKSTGDQFLENTLLYKKFFTDLINFEDLLINFNSK
+D1R3R6_STAAU_1-90   MKHSYADKNPIIGENKSTGDQFLENTLLYKKFFTDLINFEDLLINFNSKE
+D2J7F2_STAAU_41-132 NMRHNYFHRWPPVKGENKITNDQFLANTLLFKDFLTNHQYYNDLLVQFNS
+A1KWT9_STAAU_41-132 NMRHNYFHRWPPVKGENKITNDQFLANTLLFKDFLTNHQYYNDLLVQFNS
+C8N2I1_STAAU_42-132 NLRHIYFFNEKGISEKIMTEDQFLDYTLLFKSFFISHSQYNDLLVQFDSK
+C8LZ07_STAAU_42-132 NLRHIYFFNEKGISEKIMTEDQFLDYTLLFKSFFISHSQYNDLLVQFDSK
+D1R3R4_STAAU_38-128 NLRHIYFFNEKGISEKIMTEDQFLDYTLLFKSFFISHSQYNDLLVQFDSK
+O85217_STAAU_49-139 NLRHIYFFNEKGISEKIMTEDQFLDYTLLFKSFFISHSQYNDLLVQFDSK
+Q76LS7_STAAU_49-139 NLRHIYFFNEKGISEKIMTEDQFLDYTLLFKSFFISHSQYNDLLVQFDSK
+D2J8S6_STAAU_49-139 NLRHIYFFNEKGISEKIMTEDQFLDYTLLFKSFFISHSQYNDLLVQFDSK
+Q007A5_STAAU_28-118 NLRHIYFSNEKGISEKIMTEDQFLDYTLLFKSFFISHSQYNDLLVQFDSK
+A5X5S8_STAAU_1-41   DIVDKYKGKKVDLYGVYYGCQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+A5X5R0_9STAP_1-41   DIVDKYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLRD~~~~~~~~~
+A5X5Q4_9STAP_1-41   DIVDKYKGKKMDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+A5X5S2_STAAU_1-41   DIVDKYKGKKVDLYGVYYGYQRTGGTPFKTACMYGGVTLHD~~~~~~~~~
+A5X5Q9_9STAP_1-41   DIVDKYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+A5X5S0_STAAU_1-41   DIVDKYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+A5X5Q5_9STAP_1-41   DIVDKYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+A5X5P7_9STAP_1-41   DIVDKYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+A5X5P8_9STAP_1-41   DIVDKYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+D1QIX5_STAAU_8-49   KRHRQYIQREKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~
+C8M4D8_STAAU_52-142 NLRQTYYHNGSAIIENKESNDQFLKNTILFNDFFTGHQWYNDLLVDLGSK
+C8LGA8_STAAU_52-142 NLRQTYYHNGSAIIENKESNDQFLKNTILFNDFFTGHQWYNDLLVDLGSK
+Q99SU3_STAAN_52-142 NLRQTYYHNGSAIIENKESNDQFLKNTILFNDFFTGHQWYNDLLVDLGSK
+C8L3Q3_STAAU_52-142 NLRQTYYHNGSAIIENKESNDQFLKNTILFNDFFTGHQWYNDLLVDLGSK
+D3EXZ7_STAA4_52-142 NLRQTYYHNGSAIIENKESNDQFLKNTILFNDFFTGHQWYNDLLVDLGSK
+C5MYV3_STAA3_52-142 NLRQTYYHNGSAIIENKESNDQFLKNTILFNDFFTGHQWYNDLLVDLGSK
+A5HJW3_STAAU_33-123 NLRQTYYHNGSAIIENKESNDQFLKNTILFNDFFTGHQWYNDLLVDLGSK
+C8MWH6_STAAU_52-142 NLRQTYYHNGSAIIENKESNDQFLKNTILFNDFFTGHQWYNDLLVDLGSK
+A5HJW2_STAAU_33-123 NLRQTYYHNGSAIIENKEGNDQFLKNTILFNDFFTGHQWYNDLLVDLGSK
+A5X5R8_STAAU_1-41   DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A5X5R1_STAAU_1-41   DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A5X5P6_9STAP_1-41   DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A5X5R4_STAAU_1-41   DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A5X5R3_STAAU_1-41   DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A5X5R6_STAAU_1-41   DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A5X5P4_9STAP_1-41   DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A5X5P5_9STAP_1-41   DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A5X5Q0_9STAP_1-41   DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+Q6XZE9_STAAU_18-108 NLRQIYYHNGKAITENKESDNQFLQHTILFNGFFTDHPWYNDLLVDFDSK
+ETXE_STAAU_49-139   NLRQIYYYNEKAITENKESDDQFLENTLLFKGFFTGHPWYNDLLVDLGSK
+Q6R2G0_STAAU_1-40   ATNKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~~
+C5QKZ6_STAAU_49-139 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTDHSWYNDLLVDFDSK
+ETXA_STAAU_49-139   NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTDHSWYNDLLVDFDSK
+Q6G7Y7_STAAS_49-139 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTDHSWYNDLLVDFDSK
+Q931M4_STAAM_52-142 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTDHSWYNDLLVDFDSK
+ETXA_STAAW_49-139   NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTDHSWYNDLLVDFDSK
+D1QCQ9_STAAU_52-142 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTDHSWYNDLLVDFDSK
+D1GPD7_STAA0_49-139 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTDHSWYNDLLVDFDSK
+A7X491_STAA1_52-142 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTDHSWYNDLLVDFDSK
+Q5PSP6_STAAU_52-142 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTDHSWYNDLLVDFDSK
+Q6GFA8_STAAR_49-139 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTNHSWYNDLLVDFDSK
+A5A2I3_STAAU_49-139 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTNHSWYNDLLVDFDSK
+D0EMB3_STAAU_25-115 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTNHSWYNDLLVDFDSK
+A6QIH3_STAAE_49-139 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTNHSWYNDLLVDFDSK
+B8Y8C1_STAAU_49-139 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTNHSWYNDLLVDFDSK
+A0EX09_9CAUD_49-139 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTNHSWYNDLLVDFDSK
+C2K6A4_STAAU_49-139 NLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFTNHSWYNDLLVDFDSK
+Q4EVY5_STRPY_1-20   ELKNQEMATLFKDKNVDIYG~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q4EVY3_STRPY_1-20   ELKNQEMATLFKDKNIDIYG~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q4EVY4_STRPY_1-20   ELKNQEMATLFKDKNVDIYS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A9LN29_STRPY_27-110 FDEGDLVTHENVKSVDQLLSQDPIYNVSGSKYDKLKTERKNLEMATFFKD
+Q48YF8_STRP1_49-137 QNIYFLYEGDPVTHENVKSVDQLLSHDLIYNVSGPNYDKLKTELKNQEMA
+Q57453_STRPY_41-129 QNIYFLYEGDPVTHENVKSVDQLLSHDLIYNVSGPNYDKLKTELKNQEMA
+Q9R931_STRPY_29-117 QNIYFLYEGDPVTHENVKSVDQLLSHDLIYNVSGPNYDKLKTELKNQEMA
+Q79AQ0_STRPY_41-129 QNIYFLYEGDPVTHENVKSVDQLLSHDLIYNVSGPNYDKLKTELKNQEMA
+SPEA_STRPY_49-137   QNIYFLYEGDPVTHENVKSVDQLLSHDLIYNVSGPNYDKLKTELKNQEMA
+SPEA_STRP8_49-137   QNIYFLYEGDPVTHENVKSVDQLLSHDLIYNVSGPNYDKLKTELKNQEMA
+P97163_STRPY_41-129 QNIYFLYEGDPVTHENVKSVDQLLSHDLIYNVSGPNYDKLKTELKNQEMA
+Q5XCI7_STRP6_52-142 NLQNIYFLYEGDPVVHENVKSVDQLLSHDLIYNVSGLNYDKLKTELKNRE
+Q9S5Z4_STRPY_27-117 NLQNIYFLYEGDPVVHENVKSVDQLLSHDLIYNVSGLNYDKLKTELKNRE
+Q938P4_STREQ_27-117 NLQNIYFLYEGDPVVHENVKSVDQLLSHDLIYNVSGLNYDKLKTELKNRE
+Q54696_STRPY_39-129 NLQNIYFLYEGDPVVHENVKSVDQLLSHDLIYNVSGLNYDKLKTELKNRE
+Q8K6K5_STRP3_49-137 QNIYFLYEGDPVTHENVKSVDQLLSHDLIYNVSGPNYDKLKTELKNQEMA
+Q54779_STRPY_41-129 QNIYFLYEGDPVTHENVKSVDQLLSHDLIYNVSGPNYDKLKTELKNQEMA
+C8LZ08_STAAU_50-143 NVESLYKDKAVIAENVKNTRQFLGHDLIFPIPYSEYKEVKSEFINKKTAD
+D2J5X0_STAAU_50-143 NVESLYKDKAVIAENVKNTRQFLGHDLIFPIPYSEYKEVKSEFINKKTAD
+C8N2I0_STAAU_50-143 NVESLYKDKAVIAENVKNTRQFLGHDLIFPIPYSEYKEVKSEFINKKTAD
+D1R3R3_STAAU_50-143 NVESLYKDKAVIAENVKNTRQFLGHDLIFPIPYSEYKEVKSEFINKKTAD
+Q76LS8_STAAU_50-143 NVESLYKDKAVIAENVKNTRQFLGHDLIFPIPYSEYKEVKSEFINKKTAD
+Q06B22_STAAU_1-88   TSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELANNYKDKK
+C8AT66_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D2FEC9_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D2G1J1_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D2GAD9_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C2K7W9_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D2GHG9_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q5D1K7_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D0EMB6_STAAU_24-117 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q6GFN2_STAAR_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q9ZNF2_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C2GB83_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D2GSL9_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D2FWG9_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q6YCN2_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q7X0E4_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8AD53_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D2F889_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8AJD4_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8A573_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C7ZY48_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D2UT84_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D2FN10_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENIELAN
+Q0PRM8_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENIELAN
+D2UNA8_STAAU_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENIELAN
+Q2YTP4_STAAB_49-142 NVMNLYMSPPVEGRGVINSRQFLSHDLNFPIEYKSYNEVKTELENTELAN
+Q52TA2_STAAU_16-109 NVMNLYMSPPVEGRGVINSRQFLSHDFIFPIEYKSYNEVKTELENTELAN
+D3EXL8_STAA4_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D1QYF5_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+A6U2S9_STAA2_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8M7Q4_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8M0L7_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q8RR77_STAAU_24-117 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8LV17_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8L2Z3_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D1QJY2_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+A5ITZ1_STAA9_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8MXA5_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q9EZM3_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+ETXG_STAAM_49-142   NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8MCK9_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+ETXG_STAAN_49-142   NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+A7X3S4_STAA1_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+ETXG_STAAU_49-142   NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q7X0E5_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8N0I7_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8LH33_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+D0K662_STAAD_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C8ML92_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q5D1K4_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q79IV2_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+C5Q5P3_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q7WS59_STAAU_49-142 NVMNLYTSPPVEGRGVINSRQFLSHDLIFPIEYKSYNEVKTELENTELAN
+Q936G4_STAAU_47-145 NIWYLYNSDPVNAKKIKLSDKFLSHEFIVPINNPSHYDYVKTELKDSTMA
+Q2YUP5_STAAB_47-145 NIWYLYNSDPVNAKKIKLSDKFLSHDFIVPINNPGHYDYVKTELKDSTMA
+D0K665_STAAD_23-108 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+A7X3S9_STAA1_41-126 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+Q7A4W9_STAAN_41-126 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+C8LH31_STAAU_50-135 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+C8LV19_STAAU_19-104 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+C8L2Z6_STAAU_41-126 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+D1QYF8_STAAU_41-126 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+D3EXM1_STAA4_41-126 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+Q99T48_STAAM_41-126 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+C8N0I5_STAAU_41-126 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+D1QJY5_STAAU_41-126 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+Q9EZM6_STAAU_41-126 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+C8MCL1_STAAU_41-134 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+C5Q5P1_STAAU_23-116 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+A0FKY7_STAAU_41-134 NMRYLYDDKHVSETNIKSQEKFLQHDLLFKINGSKILKTEFNNKSLSDKY
+Q6XXM4_STAAU_41-139 NMRYLYDDKHVSETNIKVQEKFLQHDLLFKINGSKIDGSKILKTEFNNKS
+Q6YCN4_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+D2GSM1_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+D2F891_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+D2GAE1_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+C8A575_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+C2K7X1_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+C7ZY50_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+Q6GFN0_STAAR_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+B6D993_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+B6D995_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+B6D991_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+C8AD55_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+C2GB81_STAAU_23-121 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+C8AJD6_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+D2FWH1_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+D2FED1_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+D2UT86_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+C8AT68_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+D2GHH1_STAAU_41-139 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+D2G1J3_STAAU_23-121 NMRYLYDDKHVSEINIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNNS
+D2UNB1_STAAU_41-139 NMRYLYDDKHVSETNIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNKS
+D0EMB5_STAAU_12-110 NMRYLYDDKHVSETNIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNKS
+Q6XXM5_STAAU_41-139 NMRYLYDDKHVSETNIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNKS
+D2FN12_STAAU_41-139 NMRYLYDDKHVSETNIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNKS
+Q6XXM3_STAAU_41-139 NMRYLYDDKHVSETNIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNKS
+Q2YTR7_STAAB_41-139 NMRYLYDDKHVSETNIKAQEKFLQHDLLFKINGSKIDGSKILKTEFNNKS
+Q79X14_STRP3_49-143 NLRCLYDNHFVEGTNVRSTGQLLQHDLIFPIKDLKLKNYDSVKTEFNSKD
+Q54738_STRPY_49-143 NLRCLYDNHFVEGTNVRSTGQLLQHDLIFPIKDLKLKNYDSVKTEFNSKD
+Q1CP76_STRPF_49-143 NLRCLYDNHFVEGTNVRSTGQLLQHDLIFPIKDLKLKNYDSVKTEFNSKD
+Q54739_STRPY_49-143 NLRCLYDNHFVEGTNVRSTGQLLQHDLIFPIKDLKLKNYDSVKTEFNSKD
+Q54971_STRPY_49-143 NLRCLYDNHFVEGTNVRSTGQLLQHDLIFPIKDLKLKNYDSVKTEFNSKD
+Q764P6_STAIN_50-146 NVKYLYDRNFISESNVKSIDSLLAHDLIFCIRESEIKEYGLVKTEFASKE
+Q06535_STAAU_23-119 NMKYLYDDHYVSATKVKSVDKFLAHDLIYNINHKKLNNYDKVKTELLNED
+Q06531_STAAU_23-119 NMKYLYDDHYVSATKVKSVDKFLAHDLIYNISDKRLKNYDKVKTELLNED
+O05157_STAIN_23-119 NMKCLYDDYYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+ENTC1_STAAU_50-146  NMKVLYDDHYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNEG
+D2UJH0_STAAU_55-151 NMKVLYDDHYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNEG
+Q9F0L6_STAAU_55-151 NMKVLYDDRYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q53678_STAAU_23-119 NMKVLYDDRYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q2YVN9_STAAB_55-151 NMKVLYDDRYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q6XZE7_STAAU_16-112 NMKVLYDDRYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q6XZE8_STAAU_15-111 NMKVLYDDRYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q06534_STAAU_23-119 NMKVLYDDRYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+A7X4G8_STAA1_50-146 NMKYLYDDHYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+C5QHH6_STAAU_65-161 NMKYLYDDHYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q06533_STAAU_23-119 NMKYLYDDHYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q8NXJ6_STAAW_50-146 NMKYLYDDHYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q06532_STAAU_23-119 NMKYLYDDHYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q54A76_STAAU_50-146 NMKYLYDDHYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+ENTC3_STAAU_50-146  NMKYLYDDHYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+ENTC3_STAAM_50-146  NMKYLYDDHYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+ENTC3_STAAN_50-146  NMKYLYDDHYVSATKVKSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+A7E1C4_STAAU_23-119 NMKYLYDDHYVSATKVMSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+ENTC2_STAAU_50-146  NMKYLYDDHYVSATKVMSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q53X04_STAAU_50-146 NMKYLYDDHYVSATKVMSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+C9E454_STAAU_23-119 NMKYLYDDHYVSATKVMSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q6ST49_STAAU_23-119 NMKYLYDDHYVSATKVMSVDKFLAHDLIYNISDKKLKNYDKVKTELLNED
+Q6R2G1_STAAU_1-48   DKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN~~
+Q2WBR3_STAAU_38-137 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+A0FI85_STAAU_48-147 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+Q5MAA8_STAAU_34-133 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+D2FAC0_STAAU_50-149 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+A0FI86_STAAU_50-149 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+Q6XZE6_STAAU_15-114 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+D1Q9E1_STAAU_50-149 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+Q5MAB7_STAAU_23-122 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+ETXB_STAAU_50-149   NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+Q7BBY8_STAAU_50-149 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+D2FJ38_STAAU_50-149 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+Q199U3_STAAU_23-122 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+A0FI84_STAAU_38-137 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+Q5HHH9_STAAC_50-149 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+A0FI83_STAAU_23-122 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+C0STJ9_STAAU_50-149 NMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKD
+A5JJ18_STAAU_45-132 NIKDLLDWYSSGSDAFTXSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+Q7A2N8_STAAM_45-132 NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+O54462_STAAU_45-132 NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+Q8RSX9_STAAU_45-132 NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+TSST_STAAU_45-132   NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+A0FIN2_STAAU_45-132 NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+A7X4H0_STAA1_45-132 NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+C2K6H6_STAAU_45-132 NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+D2UTW0_STAAU_45-132 NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+D2GTD1_STAAU_45-132 NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+Q7A4K7_STAAN_45-132 NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+D2FEQ4_STAAU_45-132 NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+D2GHU7_STAAU_45-132 NIKDLLDWYSSGSDTFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+Q2YVP2_STAAB_45-132 NIKDLLDWYSSGSDAFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+Q9F0L4_STAAU_45-132 NIKDLLDWYSSGSDAFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+A5JJ19_STAAU_45-132 NIKDXLDWYSSGSDAFTNSEVLDNSLGSMRIKNTDGSISLIIFPSPYYSP
+SPEH_STRP1_42-126   NLESLYKHDSNLIEADSIKNSPDIVTSHMLKYSVKDKNLSVFFEKDWISQ
+Q1CQP2_STRPC_42-126 NLESLYKHDSNLIEADSIKNSPDIVTSHMLKYSVKDKNLSVFFEKDWISQ
+SPEH_STRPY_42-126   NLESLYKHDSNLIEADSIKNSPDIVTSHMLKYSVKDKNLSVFFEKDWISQ
+A2RES2_STRPG_42-126 NLESLYKHDSNLIEADSIKNSPDIVTSHMLKYSVKDKNLSVFFEKDWISQ
+C0M9V5_STRE4_42-126 NLESLYKHDSNLIEADSIKNSPDIVTSHMLKYSVKDKNLSVFFEKDWISQ
+Q9L920_9STRE_42-126 NLESLYKHDSNLIEADSIKNSPDIVTSHMLKYSVKDKNLSVFFEKDWISQ
+B5XL92_STRPZ_42-126 NLESLYKHDSNLIEADSIKNSPDIVTSHMLKYSVKDKNLSVFFEKDWISQ
+Q2FIH8_STAA3_31-109 NLRNFYTKKDFVDLKDVKDNDTPIANQLQFSNVSYDLISESKDFNKFSNF
+A8Z1E9_STAAT_31-109 NLRNFYTKKDFVDLKDVKDNDTPIANQLQFSNVSYDLISESKDFNKFSNF
+C8KPR5_STAAU_31-109 NLRNFYTKKDFVDLKDVKDNDTPIANQLQFSNESYDLISESKDFNKFSNF
+O54476_STAAU_31-109 NLRNFYTKKDFVDLKDVKDNDTPIANQLQFSNESYDLISESKDFNKFSNF
+Q5HHK0_STAAC_31-109 NLRNFYTKKDFVDLKDVKDNDTPIANQLQFSNESYDLISESKDFNKFSNF
+D0EMB7_STAAU_8-86   NLRNFYTKKDFVDLKDVKDNDTPIANQLQFSNESYDLISESKDFNKFSNF
+Q93CC5_STAAU_31-109 NLRNFYTKKDFVDLKDVKDNDTPIANQLQFSNESYDLISESKDFNKFSNF
+D1GR64_STAA0_31-109 NLRNFYTKKDFVDLKDVKDNDTPIANQLQFSNESYDLISESKDFNKFSNF
+C7FFG6_STAAU_31-109 NLRNFYTKKDFVDLKDVKDNDTPIANQLQFSNESYDLISESKDFNKFSNF
+D1QCY2_STAAU_31-109 NLRNFYTKKDFVDLKDVKDNDTPIANQLQFSNESYDLISESKDFNKFSNF
+Q8NVM2_STAAW_31-109 NLRNFYTKKDFINLKDVKDNDTPIANQLQFSNESYDLISESKDFNKFSNF
+Q6G7U0_STAAS_31-109 NLRNFYTKKDFINLKDVKDNDTPIANQLQFSNESYDLISESKDFNKFSNF
+C5QKU5_STAAU_31-109 NLRNFYTKKDFINLKDVKDNDTPIANQLQFSNESYDLISESKDFNKFSNF
+D2FN13_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISTF
+Q0PRM7_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D2UNB2_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+Q7X0E8_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D2G1J4_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D2UT87_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D2F892_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D2FED2_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D2GSM2_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D2FWH2_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8A576_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8AJD7_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C2GB80_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8AD56_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C2K7X2_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D2GHH2_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+Q6GFM9_STAAR_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C7ZY51_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D2GAE2_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8AT69_STAAU_32-110 NLRNFYTKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+Q52TA0_STAAU_2-77   RISIKYDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKFKGK
+D3EXM2_STAA4_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8L2Z7_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D0K666_STAAD_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8N0I4_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8ML95_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+A7X3T0_STAA1_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8MXA8_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+Q7A4W8_STAAN_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+A6U2T1_STAA2_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8M7Q7_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+Q5D1J9_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+Q7A2Q5_STAAM_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8LH30_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+A5ITZ3_STAA9_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D1QYF9_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+Q7X0E7_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8M0M0_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+O85383_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8LV20_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+Q7X0E6_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+D1QJY6_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C5Q5P0_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+C8MCL2_STAAU_32-110 NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+Q007A6_STAAU_8-86   NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+Q8RR75_STAAU_8-86   NLRNFYTKHDYIDLKGVTDKNLPIANQLEFSTGTNDLISESNNWDEISKF
+Q2YTT9_STAAB_32-110 NLRNFYTKYDYIDLKGVTDKNLPTANQLEFSTGPNDLISESNNWDEISKF
+Q52T97_STAAU_1-78   LKKFLYKHDSIDSKGLIDKNLPSANQLEFSTGINDLISESNNWDEISKFK
+Q52T95_STAAU_8-86   NLRNFYTKHDYIDLKGLIDKNLPSANQLEFSTGINDLISESNNWDEISKF
+Q1CPQ4_STRPB_41-121 LYAYTITPYDYKNCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+SPEC_STRP1_41-121   LYAYTITPYDYKNCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+Q54512_STRPY_21-101 LYAYTITPYDYKNCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+Q7BTR4_STRPY_8-88   LYAYTITPYDYKNCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+D0EZH7_STREQ_1-66   VNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKFKRDDHVDVFGLFYIL
+Q1CQV0_STRPC_41-121 LYAYTITPYDYKDCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+SPEC_STRP6_41-121   LYAYTITPYDYKDCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+Q76MJ3_STRPY_41-121 LYAYTITPYDYKDCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+Q6LD36_STRPY_21-101 LYAYTITPYDYKDCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+A2RFG0_STRPG_41-121 LYAYTITPYDYKDCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+Q48T78_STRPM_41-121 LYAYTITPYDYKDCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+Q1CPD8_STRPF_41-121 LYAYTITPYDYKDCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+SPEC_STRP8_41-121   LYAYTITPYDYKDCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+Q71US9_STRPY_8-88   LYAYTITPYDYKDCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+Q1CQC6_STRPD_41-121 LYAYTITPYDYKDCRVNFSTTHTLNIDTQKYRGKDYYISSEMSYEASQKF
+Q99QN1_STRP1_36-116 NYAYEIIPVDYTNCNIDYLTTHDFYIDISSYKKKNFSVDSEVESYITTKF
+Q7BAE3_STRPY_36-116 NYAYEIIPVDYTNCNIDYLTTHDFYIDISSYKKKNFSVDSEVESYITTKF
+Q48UZ7_STRPM_36-116 NYAYEIRPVDYTNCNIDYLTTHDFYIDVSSYKKKNFSVDSEVESYITTKF
+B5XJL9_STRPZ_36-117 RFAYNITPCDYENVEIAFVTTNSIHINTKQKRSECILYVDSIVSLGITDQ
+Q1JNM7_STRPC_36-117 RFAYNITPCDYENVEIAFVTTNSIHINTKQKRSECILYVDSIVSLGITDQ
+SPEG_STRP1_36-117   RFAYNITPCDYENVEIAFVTTNSIHINTKQKRSECILYVDSIVSLGITDQ
+SPEG_STRP3_36-117   RFAYNITPCDYENVEIAFVTTNSIHINTKQKRSECILYVDSIVSLGITDQ
+Q1JDR1_STRPB_36-117 RFAYNITPCDYENVEIAFVTTNSIHINTKQKRSECILYVDSIVSLGITDQ
+Q1JIS3_STRPD_36-117 RFAYNITPCDYENVEIAFVTTNSIHINTKQKRSECILYVDSIVSLGITDQ
+D0EZH8_STREQ_17-98  RFAYNITPCDYENVEIAFVTTNSIHINTKQKRSECILYVDSIVSLGITDQ
+Q9K2G9_STRPY_12-93  RFAYNITPCDYENVEIAFVTTNSIHINTKQKRSECILYVDSIVSLGITDQ
+Q48VG2_STRPM_36-117 RFAYNITPCDYENVEIAFVTTNSIHINTKQKRSECILYVDSIVSLGITDQ
+Q8P2R5_STRP8_42-123 RFVYNITPCDYENIEIAFVTTNSIHINTKQKRSECILYVDSIVSLGITDQ
+C7G4C4_STREQ_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGITDN
+Q76FM5_STREQ_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGITDN
+Q76FM9_STREQ_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGITDN
+C5WJA8_STRDG_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGITDN
+Q8G9K7_STREQ_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGITDN
+Q76FM7_STREQ_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGITDN
+Q76FM8_STREQ_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGITDN
+Q93RR9_STREQ_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGITDN
+B9A7E4_STRDY_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGVTDN
+A9YF52_STREQ_7-88   RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGVTDN
+B3Y898_STREQ_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGVTDN
+Q76FM2_STRDY_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGVTDN
+Q76FN0_STREQ_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGVTDN
+Q76FM3_STRDY_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGVTDN
+B6ZLK8_STRDY_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGVTDN
+A9YF45_STRCB_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCVLYVDSIVSLGVTDN
+B7XH23_STRDY_36-117 RFAYDVTPLEYENVEITFVTTNNIHINTGQKKSGCILYVDSIVSLGVTDN
+Q56D04_STRPY_1-78   TIMYEYSDTVIDFKTSHNLVTKKLDARDFFINSEMDEYAANNFKAGDKIA
+Q6DTL6_STRPY_1-77   IVYEYSDTVIDFKTSHNLVTKKLDARDFFINSEMDEYAANDFKAGDKIAV
+Q6DTL4_STRPY_1-77   IVYEYSDTVIDFKTSHNLVTKKLDARDFFINSEMDEYAANDFKAGDKIAV
+Q6DTL3_STRPY_1-80   IVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAANDFKAGDK
+D0EZH6_STREQ_1-75   SDIVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAANDFKAGDKIAVFS
+Q5Q043_STRPY_10-95  RDIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q56D03_STRPY_1-80   IVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAANDFKAGDK
+Q6DTL1_STRPY_1-80   IVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAANDFKAGDR
+Q6DTL5_STRPY_1-80   IVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAANDFKAGDR
+Q9LAC4_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+A5A507_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q7WY99_STRCB_9-94   RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q9LAC9_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+A5A500_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q9LAC8_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q9X9R8_STRPY_56-142 LRNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q5X9R9_STRP6_58-144 LRNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q48R63_STRPM_33-119 LRNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q9S1H9_STRPY_56-142 LRNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q6VBI7_STRCB_33-119 LRNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q9LAD4_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+A5A503_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q9LAD8_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+A2RGL0_STRPG_33-119 LRNIYSTIVYEYSDIVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q9S1H8_STRPY_56-142 LRNIYSTIVYEYSDIVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q9RQQ5_STRPY_10-95  RNIYSTIVYEYSDIVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+A5A501_STRPY_10-95  RNIYSTIVYEYSDTVIEFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q9LAC7_STRPY_10-95  RNIYSTIVYEYSDTVIEFKTSHNLVTKKLDVRDARDFFINSKMDEYAAND
+Q9LAE0_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q9LAD5_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+A5A506_STRPY_10-95  RNIYSTIVYEYSDTVIEFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q9LAD0_STRPY_10-95  RNIYSTIVYEYSDTVIEFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q5Q044_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q99XW1_STRP1_33-119 LRNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q8NZ89_STRP8_33-119 LRNIYSTIMYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q4ZJR7_STRPY_1-80   IMYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAANDFKDGDK
+Q9LAD9_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDAKDFFINSEMDEYAAND
+Q5Q045_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q9LAC5_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q7CEP3_STRP3_12-89  LRNIYSTIMYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q9LAD1_STRPY_9-95   LRNIYSTIMYEYSDTLIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q9LAD2_STRPY_9-95   LRNIYSTIMYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+A5A504_STRPY_9-95   LRNIYSTIMYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+Q9LAD7_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+A5A502_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q9LAD3_STRPY_10-95  RNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAND
+Q1J4J1_STRPF_33-119 LRNIYSTIVYEYSDTVIDFKTSHNLVTKKLDVRDARDFFINSEMDEYAAN
+
+                    51                                             100
+A5A505_STRPY_10-95  FKAGDKIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q9LAE1_STRPY_10-95  FKAGDKIAVFSVPFDWNYLSKGRVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q1JJS8_STRPC_58-144 DFKAGDKIAVFSVPFDWNYLSKGRVTAYTYGGITPYQ~~~~~~~~~~~~~
+Q1J9M9_STRPB_33-119 DFKAGDKIAVFSVPFDWNYLSKGRVTAYTYGGITPYQ~~~~~~~~~~~~~
+Q76MJ7_STRPY_33-119 DFKAGDKIAVFSVPFDWNYLSKGRVTAYTYGGITPYQ~~~~~~~~~~~~~
+Q9LAD6_STRPY_10-95  FKAGDKIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q9LAC6_STRPY_10-95  FKAGDKIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q9LAC3_STRPY_10-95  FKAGDKIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q56D15_STRPY_1-78   VFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~~~~~~~~~
+Q4ZJR6_STRPY_1-80   IAVFSVPFDWNYLSEGKVTAYTYGGITPYQ~~~~~~~~~~~~~~~~~~~~
+B0LVF8_STRPY_1-80   IAVFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~~~~~~~~
+Q9F0L7_STAAU_32-110 KGKNVDVFGISYKYGSNSRTIYGGVTKAE~~~~~~~~~~~~~~~~~~~~~
+D2UJH1_STAAU_32-110 KGKNVDVFGISYKYGSNSRTIYGGVTKAE~~~~~~~~~~~~~~~~~~~~~
+Q7A4K9_STAAN_32-110 KGKNVDVFGISYKYGSNSRTIYGGVTKAE~~~~~~~~~~~~~~~~~~~~~
+Q7A2N9_STAAM_32-110 KGKNVDVFGISYKYGSNSRTIYGGVTKAE~~~~~~~~~~~~~~~~~~~~~
+Q8NXJ5_STAAW_32-110 KGKNVDVFGISYKYGSNSRTIYGGVTKAE~~~~~~~~~~~~~~~~~~~~~
+A7X4G7_STAA1_32-110 KGKNVDVFGISYKYGSNSRTIYGGVTKAE~~~~~~~~~~~~~~~~~~~~~
+Q2YVN8_STAAB_32-110 KGKNVDVFGISYKYGSNSRTIYGGVTKAE~~~~~~~~~~~~~~~~~~~~~
+C5QHH7_STAAU_32-110 KGKNVDVFGISYKYGSNSRTIYGGITKAE~~~~~~~~~~~~~~~~~~~~~
+Q6R2F8_STAAU_1-40   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A8Z1F0_STAAT_32-110 KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+Q2FIH7_STAA3_32-110 KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+Q8VLW7_STAAU_46-124 KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+Q93CC6_STAAU_32-110 KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+D1QCY3_STAAU_32-110 KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+D1GR65_STAA0_46-124 KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+Q5HHJ9_STAAC_32-110 KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+D3YNW2_STAAU_6-84   KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+C8KPR4_STAAU_32-110 KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+Q8NVM3_STAAW_32-110 KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+Q6G7U1_STAAS_32-110 KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+C5QKU6_STAAU_34-112 KDHKVDIFGISYSGLCNTKYMYGGITLAN~~~~~~~~~~~~~~~~~~~~~
+D2JDI2_STAAU_33-111 KGKKVDIFGISYKGVCGTNYMYGGVTKSD~~~~~~~~~~~~~~~~~~~~~
+C8MCL3_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+A0FKY6_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C8LV21_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C8ML96_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C8N0I3_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+A7X3T1_STAA1_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D3EXM3_STAA4_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C5Q5N9_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C8M7Q8_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D1QJY7_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C8LH29_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+A6U2T2_STAA2_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+Q99T47_STAAM_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D0K667_STAAD_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+Q7A4W7_STAAN_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+A5ITZ4_STAA9_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C8MXA9_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C8L2Z8_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+Q9EZM7_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D1QYG0_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTFAG~~~~~~~~~~~~~~~~~~~~
+C8M0M1_STAAU_28-107 KNHAVDVYGLSYSGYCLKNKYIYGGVTFAG~~~~~~~~~~~~~~~~~~~~
+C2GB79_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D2GSM3_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+A5JNM2_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+Q6GFM8_STAAR_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D2F893_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C8AT70_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D2GHH3_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C8AD57_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C7ZY52_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D2UT88_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C2K7X3_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C8AJD8_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+C8A577_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D2FWH3_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D2GAE3_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D2G1J5_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D2FED3_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D2UNB3_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+D2FN14_STAAU_28-107 KNRAVDVYGLSYSGYCLKNKYMYGGVTLAG~~~~~~~~~~~~~~~~~~~~
+Q6R1Y7_STAAU_1-53   LAG~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D0EZI0_STREQ_1-71   EYSPPCNSNIKKNSYGGITLS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C0M9V6_STRE4_42-128 KAKFFSGKRVDIFTLEYSPPCNSNIKKNSYGGITLSD~~~~~~~~~~~~~
+Q9L921_9STRE_8-94   KAKFFSGKRVDIFTLEYSPPCNSNIKKNSYGGITLSD~~~~~~~~~~~~~
+Q1CQP3_STRPC_42-128 KANFFSGKRVDIFTLEYSPPCNSNIKKNSYGGITLSD~~~~~~~~~~~~~
+Q8VVW1_STRPY_8-94   KANFFSGKRVDIFTLEYSPPCNSNIKKNSYGGITLSD~~~~~~~~~~~~~
+Q99ZZ1_STRP1_8-94   KANFFSGKRVDIFTLEYSPPCNSNIKKNSYGGITLSD~~~~~~~~~~~~~
+Q007A7_STAAU_20-108 AQKFKNKNVDIYGASFCYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+ETXH_STAAW_37-125   AQKFKNKNVDIYGASFYYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+ETXH_STAAU_37-125   AQKFKNKNVDIYGASFYYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+Q334J6_STAAU_37-125 AQKFKNKNVDIYGASFYYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+Q6GD45_STAAS_37-125 AQKFKNKNVDIYGASFYYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+Q8RR76_STAAU_13-101 AQKFKNKNVDIYGASFYYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+C5QEN0_STAAU_37-125 AQKFKNKNVDIYGASFYYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+D2FQX2_STAAU_37-125 AQKFKNKSVDIYGASFYYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+D2GMP4_STAAU_37-125 AQKFKNKSVDIYGASFYYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+D2UIL8_STAAU_37-125 AQKFKNKSVDIYGASFYYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+Q6VAM8_STAAU_37-125 AQKFKNKSVDIYGASFYYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+D2FHC8_STAAU_37-125 AQKFKNKSVDIYGASFYYKCEKISENISECLYGGTTLNS~~~~~~~~~~~
+B0I1V7_STAAU_53-144 SEIANHFKGKKVDIFGIYYGANCIGEVSKRTGCIYGGITLHE~~~~~~~~
+D2J8S9_STAAU_53-144 SEIANHFKGKKVDIFGIYYGANCIGEVSKRTGCIYGGITLHE~~~~~~~~
+D2JDI1_STAAU_49-140 SALASQFKDKKVDIYGISFANNCIGLVGDKTSCMYGGITIHD~~~~~~~~
+D0K663_STAAD_1-49   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C8M7Q5_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+C8MXA6_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+C8LV18_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+Q9EZM4_STAAU_51-142 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+Q7A2Q6_STAAM_51-142 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+C8N0I6_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+D1QJY3_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+C5Q5P2_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+D3EXL9_STAA4_51-142 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+A7X3S6_STAA1_51-142 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+A5ITZ2_STAA9_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+C8ML93_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+C8L2Z4_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+A6U2T0_STAA2_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+C8LH32_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+C8M0L8_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+D1QYF6_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+Q7A4X1_STAAN_51-142 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+C8MCL0_STAAU_44-135 SDLANQFKGKNIDIYGLYFGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+D2FWH0_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+D2F890_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+D2UT85_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+C8AD54_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+C2GB82_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+C8A574_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+D2GAE0_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+C8AT67_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+D2GSM0_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+Q6YCN3_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+D2GHH0_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+C8AJD5_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+D2FED0_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+C7ZY49_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+C2K7X0_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+D2G1J2_STAAU_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+Q6GFN1_STAAR_44-135 SDLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIYD~~~~~~~~
+D2UNA9_STAAU_44-135 ADLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+D2FN11_STAAU_44-135 ADLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLYGGVTIHD~~~~~~~~
+Q2YTP3_STAAB_44-135 ADLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLNGGVTIHD~~~~~~~~
+A5JJ08_STAAU_44-135 ADLANQFKGKNIDIYGLYYGNKCVGLTEEKTSCLNGGVTIHD~~~~~~~~
+A5JJ09_STAAU_44-135 ADLANQFKGKNIDIYGLYYGNKCVGLTEERTSCLNGGVTIHD~~~~~~~~
+C8MCL4_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+D1QYG1_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+Q99T46_STAAM_51-145 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+C8N0I2_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+Q7A4W6_STAAN_51-145 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+D0EMB4_STAAU_25-119 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+C8LV22_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+C8M7Q9_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+C8L2Z9_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+D3EXM4_STAA4_51-145 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+C8M0M2_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+C8LH28_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+C8ML97_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+D0K668_STAAD_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+A7X3T3_STAA1_51-145 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+A5ITZ5_STAA9_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+Q9EZM8_STAAU_52-146 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+D1QJY8_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+C8MXB0_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+A6U2T3_STAA2_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+C5Q5N8_STAAU_45-139 FSSSAISKEFLGKTVDIYGVYYKAHCHGEHQVDTACTYGGVTPHE~~~~~
+C8AT71_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+D2UT89_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+C2GB78_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+D2GSM4_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+D2G1J6_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+Q6GFM7_STAAR_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+D2F894_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+C2K7X4_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+D2FED4_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+C7ZY53_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+D2GAE4_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+C8AJD9_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+D2GHH4_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+C8A578_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+C8AD58_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+D2FWH4_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+Q2YTT8_STAAB_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+D2FN15_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+D2UNB4_STAAU_45-139 FSSSEISKEYFGKTVDIYGVYYKAHCHGEHQVKTACTYGGVTPHE~~~~~
+C2K6U0_STAAU_1-42   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C5PZJ2_STAAU_41-135 FENEALSKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~
+C8A4K8_STAAU_45-135 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+C8ACJ0_STAAU_29-119 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+D2FVV7_STAAU_29-119 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+D2GGV5_STAAU_29-119 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+D2G2G9_STAAU_29-119 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+C8AIS6_STAAU_29-119 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+C8ASK6_STAAU_29-119 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+C2GBV3_STAAU_45-135 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+D2G9R8_STAAU_29-119 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+D2FDS0_STAAU_29-119 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+D2F7M8_STAAU_29-119 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+C7ZXI6_STAAU_29-119 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+D2GS02_STAAU_29-119 ALSKKFINKNIDVYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~
+Q2FXX5_STAA8_30-119 LSKKFINKDIDIFAGNYGYGCHGGATNKTQCSYGGVTLSD~~~~~~~~~~
+A8Z4E1_STAAT_30-119 LSKKFINKDIDIFAGNYGYGCHGGATNKTQCSYGGVTLSD~~~~~~~~~~
+A6QHE3_STAAE_30-119 LSKKFINKDIDIFAGNYGYGCHGGATNKTQCSYGGVTLSD~~~~~~~~~~
+C8L874_STAAU_30-119 LSKKFINKDIDIFAGNYGYGCHGGATNKTQCSYGGVTLSD~~~~~~~~~~
+D1Q6M4_STAAU_30-119 LSKKFINKDIDIFAGNYGYGCHGGATNKTQCSYGGVTLSD~~~~~~~~~~
+Q5HFG0_STAAC_30-119 LSKKFINKDIDIFAGNYGYGCHGGATNKTQCSYGGVTLSD~~~~~~~~~~
+Q8NW97_STAAW_25-114 LSKKFINKDIDIFAGNYGYGCHGGATNKTQCSYGGVTLSD~~~~~~~~~~
+Q6G8W7_STAAS_25-114 LSKKFINKDIDIFAGNYGYGCHGGATNKTQCSYGGVTLSD~~~~~~~~~~
+D1GMC8_STAA0_46-135 LSKKFINKDIDIFAGNYGYGCHGGATNKTQCSYGGVTLSD~~~~~~~~~~
+Q2FGC4_STAA3_30-119 LSKKFINKDIDIFAGNYGYGCHGGATNKTQCSYGGVTLSD~~~~~~~~~~
+C5QJV5_STAAU_29-119 ALSKKFINKDIDIFAGNYGYGCHGGATNKTQCSYGGVTLSD~~~~~~~~~
+C8MF73_STAAU_45-135 ALSKKFINKDIDIFAGNYGYGCHGGETNKTQCSYGGVTLSD~~~~~~~~~
+D2N7U2_STAA5_43-135 NEALSKKFINKDIDIFAGNYGYGCHGGEANKTQCSYGGVTFSD~~~~~~~
+D2UMM6_STAAU_30-119 LSNEFINKNIDIYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~~
+D2FME0_STAAU_30-119 LSNEFINKNIDIYAGSYSYECHGGETNKTQCSYGGVTLSD~~~~~~~~~~
+Q99TP7_STAAM_66-154 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+Q7A5A7_STAAN_66-154 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+A5ITC8_STAA9_66-154 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+D0K5I2_STAAD_47-135 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+C8M010_STAAU_66-154 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+C8LTR9_STAAU_19-107 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+A7X309_STAA1_66-154 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+C8LIL2_STAAU_31-119 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+C5N629_STAA3_47-135 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+D1QXU1_STAAU_66-154 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+D1QJ70_STAAU_31-119 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+C8MUR1_STAAU_47-135 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+C8M7G2_STAAU_31-119 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+C8MJP3_STAAU_66-154 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+C8L121_STAAU_66-154 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+C8N048_STAAU_31-119 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+D3EWZ8_STAA4_66-154 SKKFINKNIDIYAGSYSYECHGGATNKTQCSYGGVTLSD~~~~~~~~~~~
+Q6R2F9_STAAU_1-36   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D2JBQ9_STAAU_50-140 EMAQHFKSKNVDVYAIRYSINCYGGEIDKTACTYGGVTPHE~~~~~~~~~
+C8N2F9_STAAU_35-125 EMAQHFKSKNVDVYAIRYSINCYGGEIDRTACTYGGVTPHE~~~~~~~~~
+C8LZ26_STAAU_50-140 EMAQHFKSKNVDVYAIRYSINCYGGEIDRTACTYGGVTPHE~~~~~~~~~
+D2J813_STAAU_50-140 EMAQHFKSKNVDVYAIRYSINCYGGEIDRTACTYGGVTPHE~~~~~~~~~
+D2J5W7_STAAU_50-140 EMAQHFKSKNVDVYAIRYSINCYGGEIDRTACTYGGVTPHE~~~~~~~~~
+Q197X4_STAAU_1-89   AQHFKSKNVDVYPIRYSINCYGGEIDRTACTYGGVTPHE~~~~~~~~~~~
+Q52075_9ZZZZ_50-140 EMAQHFKSKNVDVYPIRYSINCYGGEIDRTACTYGGVTPHE~~~~~~~~~
+ETXD_STAAU_50-140   EMAQHFKSKNVDVYPIRYSINCYGGEIDRTACTYGGVTPHE~~~~~~~~~
+D1R3R6_STAAU_1-90   MAQHFKSKNVDVYAIRYSINCYGGEIDRTACTYGGVTPHE~~~~~~~~~~
+D2J7F2_STAAU_41-132 KETTDKFKAKTVDIYGLAYGFQCNGGEPNKTNCIYGGLTTHE~~~~~~~~
+A1KWT9_STAAU_41-132 KETTDKFKAKTVDIYGLAYGFQCNGGEPNKTNCIYGGLTTHE~~~~~~~~
+C8N2I1_STAAU_42-132 ETVNKFKGKQVDLYGSYYGFQCSGGKPNKTACMYGGVTLHE~~~~~~~~~
+C8LZ07_STAAU_42-132 ETVNKFKGKQVDLYGSYYGFQCSGGKPNKTACMYGGVTLHE~~~~~~~~~
+D1R3R4_STAAU_38-128 ETVNKFKGKQVDLYGSYYGFQCSGGKPNKTACMYGGVTLHE~~~~~~~~~
+O85217_STAAU_49-139 ETVNKFKGKQVDLYGSYYGFQCSGGKPNKTACMYGGVTLHE~~~~~~~~~
+Q76LS7_STAAU_49-139 ETVNKFKGKQVDLYGSYYGFQCSGGKPNKTACMYGGVTLHE~~~~~~~~~
+D2J8S6_STAAU_49-139 ETVNKFKGKQVDLYGSYYGFQCSGGKPNKTACMYGGVTLHE~~~~~~~~~
+Q007A5_STAAU_28-118 ETVNKFKGKQVDLYGSYYGFQCSGGKPNKTACMYGGVTQHE~~~~~~~~~
+A5X5S8_STAAU_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5R0_9STAP_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5Q4_9STAP_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5S2_STAAU_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5Q9_9STAP_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5S0_STAAU_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5Q5_9STAP_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5P7_9STAP_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5P8_9STAP_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D1QIX5_STAAU_8-49   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C8M4D8_STAAU_52-142 DTANIYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+C8LGA8_STAAU_52-142 DTANIYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+Q99SU3_STAAN_52-142 DTANIYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+C8L3Q3_STAAU_52-142 DTANIYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+D3EXZ7_STAA4_52-142 DTANIYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+C5MYV3_STAA3_52-142 DTANIYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+A5HJW3_STAAU_33-123 DTANIYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+C8MWH6_STAAU_52-142 DTANIYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+A5HJW2_STAAU_33-123 DTANIYKGKKVDLYGVYYGYQCTGGTPFKTACMYGGVTLHD~~~~~~~~~
+A5X5R8_STAAU_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5R1_STAAU_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5P6_9STAP_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5R4_STAAU_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5R3_STAAU_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5R6_STAAU_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5P4_9STAP_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5P5_9STAP_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A5X5Q0_9STAP_1-41   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q6XZE9_STAAU_18-108 VLADKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+ETXE_STAAU_49-139   DATNKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+Q6R2G0_STAAU_1-40   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C5QKZ6_STAAU_49-139 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+ETXA_STAAU_49-139   DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+Q6G7Y7_STAAS_49-139 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+Q931M4_STAAM_52-142 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+ETXA_STAAW_49-139   DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+D1QCQ9_STAAU_52-142 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+D1GPD7_STAA0_49-139 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A7X491_STAA1_52-142 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+Q5PSP6_STAAU_52-142 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+Q6GFA8_STAAR_49-139 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A5A2I3_STAAU_49-139 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+D0EMB3_STAAU_25-115 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A6QIH3_STAAE_49-139 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+B8Y8C1_STAAU_49-139 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+A0EX09_9CAUD_49-139 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+C2K6A4_STAAU_49-139 DIVDKYKGKKVDLYGAYYGYQCAGGTPNKTACMYGGVTLHD~~~~~~~~~
+Q4EVY5_STRPY_1-20   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q4EVY3_STRPY_1-20   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q4EVY4_STRPY_1-20   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A9LN29_STRPY_27-110 KNVDIYDVEYYHLCYLCENAERSACIYGGVTNHE~~~~~~~~~~~~~~~~
+Q48YF8_STRP1_49-137 TLFKDKNVDIYSVEYYHLCYLCENAERSACIYGGVTNHE~~~~~~~~~~~
+Q57453_STRPY_41-129 TLFKDKNVDIYSVEYYHLCYLCENAERSACIYGGVTNHE~~~~~~~~~~~
+Q9R931_STRPY_29-117 TLFKDKNVDIYGVEYYHLCYLCENAERSACIYGGVTNHE~~~~~~~~~~~
+Q79AQ0_STRPY_41-129 TLFKDKNVDIYGVEYYHLCYLCENAERSACIYGGVTNHE~~~~~~~~~~~
+SPEA_STRPY_49-137   TLFKDKNVDIYGVEYYHLCYLCENAERSACIYGGVTNHE~~~~~~~~~~~
+SPEA_STRP8_49-137   TLFKDKNVDIYGVEYYHLCYLCENAERSACIYGGVTNHE~~~~~~~~~~~
+P97163_STRPY_41-129 TLFKDKNVDIYGVEYYHLCYLCENAERSACIYGGVTNHE~~~~~~~~~~~
+Q5XCI7_STRP6_52-142 MSTLFKNKNVDIYGVEYYYHCYLCRNAKRRACIYGGVTNHE~~~~~~~~~
+Q9S5Z4_STRPY_27-117 MSTLFKNKNVDIYGVEYYYHCYLCRNAKRRACIYGGVTNHE~~~~~~~~~
+Q938P4_STREQ_27-117 MSTLFKNKNVDIYGVEYYYHCYLCRNAKRRACIYGGVTNHE~~~~~~~~~
+Q54696_STRPY_39-129 MSTLFKNKNVDIYGVEYYYHCYLCRNAKRRACIYGGVTNHE~~~~~~~~~
+Q8K6K5_STRP3_49-137 TLFKDKNIDIYGVEYYHLCYLCENAERSACIYGGVTNHE~~~~~~~~~~~
+Q54779_STRPY_41-129 TLFKDKNIDIYGVEYYHLCYLCENAERSACIYGGVTNHE~~~~~~~~~~~
+C8LZ08_STAAU_50-143 KFKDKRLDVFGIPYFYTCLVPKNESREEFIFDGVCIYGGVTMHS~~~~~~
+D2J5X0_STAAU_50-143 KFKDKRLDVFGIPYFYTCLVPKNESREEFIFDGVCIYGGVTMHS~~~~~~
+C8N2I0_STAAU_50-143 KFKDKRLDVFGIPYFYTCLVPKNESREEFIFDGVCIYGGVTMHS~~~~~~
+D1R3R3_STAAU_50-143 KFKDKRLDVFGIPYFYTCLVPKNESREEFIFDGVCIYGGVTMHS~~~~~~
+Q76LS8_STAAU_50-143 KFKDKRLDVFGIPYFYTCLVPKNESREEFIFDGVCIYGGVTMHS~~~~~~
+Q06B22_STAAU_1-88   VDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGALTFNS~~~~~~~~~~~~
+C8AT66_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D2FEC9_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D2G1J1_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D2GAD9_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C2K7W9_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D2GHG9_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q5D1K7_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D0EMB6_STAAU_24-117 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q6GFN2_STAAR_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q9ZNF2_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C2GB83_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D2GSL9_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D2FWG9_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q6YCN2_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q7X0E4_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8AD53_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D2F889_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8AJD4_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8A573_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C7ZY48_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D2UT84_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D2FN10_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q0PRM8_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D2UNA8_STAAU_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q2YTP4_STAAB_49-142 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q52TA2_STAAU_16-109 NYKGKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D3EXL8_STAA4_49-142 NYKDKKLDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D1QYF5_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+A6U2S9_STAA2_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8M7Q4_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8M0L7_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q8RR77_STAAU_24-117 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8LV17_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8L2Z3_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D1QJY2_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+A5ITZ1_STAA9_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8MXA5_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q9EZM3_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+ETXG_STAAM_49-142   NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8MCK9_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+ETXG_STAAN_49-142   NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+A7X3S4_STAA1_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+ETXG_STAAU_49-142   NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q7X0E5_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8N0I7_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8LH33_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+D0K662_STAAD_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+C8ML92_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q5D1K4_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGGCCMYGGLTFNS~~~~~~
+Q79IV2_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGDCCMYGGLTFNS~~~~~~
+C5Q5P3_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGDCCMYGGLTFNS~~~~~~
+Q7WS59_STAAU_49-142 NYKDKKVDIFGVPYFYTCIIPKSEPDINQNFGDCCMYGGLTFNS~~~~~~
+Q936G4_STAAU_47-145 SSFDGKEVDIFGVNYFDQCYFLNENIQCDSNQGAGSKKTCMYGGITLNE~
+Q2YUP5_STAAB_47-145 SSFDGKEVDIFGVNYFDQCYFSNENIQCDSNQGGGSKKTCMYGGITLNE~
+D0K665_STAAD_23-108 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+A7X3S9_STAA1_41-126 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+Q7A4W9_STAAN_41-126 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+C8LH31_STAAU_50-135 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+C8LV19_STAAU_19-104 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+C8L2Z6_STAAU_41-126 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+D1QYF8_STAAU_41-126 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+D3EXM1_STAA4_41-126 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+Q99T48_STAAM_41-126 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+C8N0I5_STAAU_41-126 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+D1QJY5_STAAU_41-126 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+Q9EZM6_STAAU_41-126 KNKNVDLFGTNYYNQCYFSLDNMELNDGRLIEKNVY~~~~~~~~~~~~~~
+C8MCL1_STAAU_41-134 KNKNVDLFGTNYYNQCYFSSDNMELNDGRLIEKKCMYGGVTEHD~~~~~~
+C5Q5P1_STAAU_23-116 KNKNVDLFGTNYYNQCYFSSDNMELNDGRLIEKTCMYGGVTEHD~~~~~~
+A0FKY7_STAAU_41-134 KNKNVDLFGTNYYNQCYFSSDNMELNDGRLIEKTCMYGGVTEHD~~~~~~
+Q6XXM4_STAAU_41-139 LSDKYKNKNVDLFGTNYYNQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+Q6YCN4_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+D2GSM1_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+D2F891_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+D2GAE1_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+C8A575_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+C2K7X1_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+C7ZY50_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+Q6GFN0_STAAR_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+B6D993_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+B6D995_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+B6D991_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+C8AD55_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+C2GB81_STAAU_23-121 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+C8AJD6_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+D2FWH1_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+D2FED1_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+D2UT86_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+C8AT68_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+D2GHH1_STAAU_41-139 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+D2G1J3_STAAU_23-121 LSDKYKNKNIDLFGTNYYYQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+D2UNB1_STAAU_41-139 LSDKYKNKNVDLFGTNYYNQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+D0EMB5_STAAU_12-110 LSDKYKNKNVDLFGTNYYNQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+Q6XXM5_STAAU_41-139 LSDKYKNKNVDLFGTNYYNQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+D2FN12_STAAU_41-139 LSDKYKNKNVDLFGTNYYNQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+Q6XXM3_STAAU_41-139 LSDKYKNKNVDLFGTNYYNQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+Q2YTR7_STAAB_41-139 LSDKYKNKNVDLFGTNYYNQCYFSADNMELNDGRLIEKTCMYGGVTEHD~
+Q79X14_STRP3_49-143 LAAKYKNKDVDIFGSNYYYNCYYSEGNSCKNAKKTCMYGGVTEHH~~~~~
+Q54738_STRPY_49-143 LAAKYKNKDVDIFGSNYYYNCYYSEGNSCKNAKKTCMYGGVTEHH~~~~~
+Q1CP76_STRPF_49-143 LAAKYKNKDVDIFGSNYYYNCYYSEGNSCKNAKKTCMYGGVTEHH~~~~~
+Q54739_STRPY_49-143 LAAKYKNKDVDIFGSNYYYNCYYSEGNSCKNAKKTCMYGGVTEHH~~~~~
+Q54971_STRPY_49-143 LATKYKNKDVDIFGSNYYYNCYYSEGNSCKNAKKTCMYGGVTEHH~~~~~
+Q764P6_STAIN_50-146 LAQKYRNKQVDIFGANYYVNCYFSGKEKGNEEDNGKTCMYGGVTNYE~~~
+Q06535_STAAU_23-119 LAKNYKDEVVDVYGSNYYVNCYFSSKDNVGKVTSGKTCMYGGITKHE~~~
+Q06531_STAAU_23-119 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+O05157_STAIN_23-119 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+ENTC1_STAAU_50-146  LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+D2UJH0_STAAU_55-151 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q9F0L6_STAAU_55-151 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q53678_STAAU_23-119 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q2YVN9_STAAB_55-151 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q6XZE7_STAAU_16-112 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q6XZE8_STAAU_15-111 LAKKYKDEVVDVYGSNYYVNCCFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q06534_STAAU_23-119 LAKKYKDEVVDVYGSNYYVNCCFSSKDNVGKVTGGKTCMYGGITKHE~~~
+A7X4G8_STAA1_50-146 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+C5QHH6_STAAU_65-161 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q06533_STAAU_23-119 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q8NXJ6_STAAW_50-146 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q06532_STAAU_23-119 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q54A76_STAAU_50-146 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+ENTC3_STAAU_50-146  LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+ENTC3_STAAM_50-146  LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+ENTC3_STAAN_50-146  LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+A7E1C4_STAAU_23-119 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+ENTC2_STAAU_50-146  LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q53X04_STAAU_50-146 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+C9E454_STAAU_23-119 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q6ST49_STAAU_23-119 LAKKYKDEVVDVYGSNYYVNCYFSSKDNVGKVTGGKTCMYGGITKHE~~~
+Q6R2G1_STAAU_1-48   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2WBR3_STAAU_38-137 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+A0FI85_STAAU_48-147 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+Q5MAA8_STAAU_34-133 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+D2FAC0_STAAU_50-149 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+A0FI86_STAAU_50-149 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+Q6XZE6_STAAU_15-114 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+D1Q9E1_STAAU_50-149 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+Q5MAB7_STAAU_23-122 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+ETXB_STAAU_50-149   LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+Q7BBY8_STAAU_50-149 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+D2FJ38_STAAU_50-149 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+Q199U3_STAAU_23-122 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+A0FI84_STAAU_38-137 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+Q5HHH9_STAAC_50-149 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+A0FI83_STAAU_23-122 LADKYKDKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHN
+C0STJ9_STAAU_50-149 LADKYKDKYVDVFGANYYYQCYFSEKTNDINSHQTDKRKTCMYGGVTEHN
+A5JJ18_STAAU_45-132 TFSKGEKVDLNTKRTKKSQHTSEGTWIHFQISGVTNTE~~~~~~~~~~~~
+Q7A2N8_STAAM_45-132 AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+O54462_STAAU_45-132 AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+Q8RSX9_STAAU_45-132 AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+TSST_STAAU_45-132   AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+A0FIN2_STAAU_45-132 AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+A7X4H0_STAA1_45-132 AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+C2K6H6_STAAU_45-132 AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+D2UTW0_STAAU_45-132 AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+D2GTD1_STAAU_45-132 AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+Q7A4K7_STAAN_45-132 AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+D2FEQ4_STAAU_45-132 AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+D2GHU7_STAAU_45-132 AFTKGEKVDLNTKRTKKSQHTSEGTYIHFQISGVTNTE~~~~~~~~~~~~
+Q2YVP2_STAAB_45-132 TFSKGEKVDLNTKRTKKSQHTSEGTWIHFQISGVTNTE~~~~~~~~~~~~
+Q9F0L4_STAAU_45-132 TFSKGEKVDLNTKRTKKSQHTSEGTWIHFQISGVTNTE~~~~~~~~~~~~
+A5JJ19_STAAU_45-132 TFSKGEKVDLNTKRTKKSQHTSEGTWIHFQISGVTNTE~~~~~~~~~~~~
+SPEH_STRP1_42-126   EFKDKEVDIYALSAQEVCECPGKRYEAFGGITLTN~~~~~~~~~~~~~~~
+Q1CQP2_STRPC_42-126 EFKDKEVDIYALSAQEVCECPGKRYEAFGGITLTN~~~~~~~~~~~~~~~
+SPEH_STRPY_42-126   EFKDKEVDIYALSAQEVCECPGKRYEAFGGITLTN~~~~~~~~~~~~~~~
+A2RES2_STRPG_42-126 EFKDKEVDIYALSAQEVCECPGKRYEAFGGITLTN~~~~~~~~~~~~~~~
+C0M9V5_STRE4_42-126 EFKDKEVDIYALSAQEACECPGKRYEAFGGITLTN~~~~~~~~~~~~~~~
+Q9L920_9STRE_42-126 EFKDKEVDIYALSAQEACECPGKRYEAFGGITLTN~~~~~~~~~~~~~~~
+B5XL92_STRPZ_42-126 EFKDKEVDIYALSAQEACECPGKRYEAFGGITLTN~~~~~~~~~~~~~~~
+Q2FIH8_STAA3_31-109 KGKKLDVFGISYNGQCNNKYIYGGVTATN~~~~~~~~~~~~~~~~~~~~~
+A8Z1E9_STAAT_31-109 KGKKLDVFGISYNGQCNNKYIYGGVTATN~~~~~~~~~~~~~~~~~~~~~
+C8KPR5_STAAU_31-109 KGKKLDVFGISYNGQCNTKYIYGGVTATN~~~~~~~~~~~~~~~~~~~~~
+O54476_STAAU_31-109 KGKKLDVFGISYNGQCNTKYIYGGVTATN~~~~~~~~~~~~~~~~~~~~~
+Q5HHK0_STAAC_31-109 KGKKLDVFGISYNGQCNTKYIYGGVTATN~~~~~~~~~~~~~~~~~~~~~
+D0EMB7_STAAU_8-86   KGKKLDVFGISYNGQCNTKYIYGGVTATN~~~~~~~~~~~~~~~~~~~~~
+Q93CC5_STAAU_31-109 KGKKLDVFGISYNGQCNTKYIYGGVTATN~~~~~~~~~~~~~~~~~~~~~
+D1GR64_STAA0_31-109 KGKKLDVFGISYNGQCNTKYIYGGVTATN~~~~~~~~~~~~~~~~~~~~~
+C7FFG6_STAAU_31-109 KGKKLDVFGISYNGQCNTKYIYGGVTATN~~~~~~~~~~~~~~~~~~~~~
+D1QCY2_STAAU_31-109 KGKKLDVFGISYNGQCNTKYIYGGVTATN~~~~~~~~~~~~~~~~~~~~~
+Q8NVM2_STAAW_31-109 KGKKLDVFGISYNGQCNTKYIYGGITATN~~~~~~~~~~~~~~~~~~~~~
+Q6G7U0_STAAS_31-109 KGKKLDVFGISYNGQCNTKYIYGGITATN~~~~~~~~~~~~~~~~~~~~~
+C5QKU5_STAAU_31-109 KGKKLDVFGISYNGQCNTKYIYGGITATN~~~~~~~~~~~~~~~~~~~~~
+D2FN13_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGVTLSG~~~~~~~~~~~~~~~~~~~~~
+Q0PRM7_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGVTLSG~~~~~~~~~~~~~~~~~~~~~
+D2UNB2_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGVTLSG~~~~~~~~~~~~~~~~~~~~~
+Q7X0E8_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+D2G1J4_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+D2UT87_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+D2F892_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+D2FED2_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+D2GSM2_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+D2FWH2_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8A576_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8AJD7_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C2GB80_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8AD56_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C2K7X2_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+D2GHH2_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q6GFM9_STAAR_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C7ZY51_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+D2GAE2_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8AT69_STAAU_32-110 KGKKMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q52TA0_STAAU_2-77   KMDIFGIDYNGPCKTKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~~~~
+D3EXM2_STAA4_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8L2Z7_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+D0K666_STAAD_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8N0I4_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8ML95_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+A7X3T0_STAA1_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8MXA8_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q7A4W8_STAAN_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+A6U2T1_STAA2_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8M7Q7_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q5D1J9_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q7A2Q5_STAAM_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8LH30_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+A5ITZ3_STAA9_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+D1QYF9_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q7X0E7_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8M0M0_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+O85383_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8LV20_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q7X0E6_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+D1QJY6_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C5Q5P0_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+C8MCL2_STAAU_32-110 KGKKLDIFGIDYNGPCKSKYMFGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q007A6_STAAU_8-86   KGKKLDIFGIDYNGPCKSKYMFGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q8RR75_STAAU_8-86   KGKKLDIFGIDYNGPCKSKYMFGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q2YTT9_STAAB_32-110 KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q52T97_STAAU_1-78   GKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~~
+Q52T95_STAAU_8-86   KGKKLDIFGIDYNGPCKSKYMYGGATLSG~~~~~~~~~~~~~~~~~~~~~
+Q1CPQ4_STRPB_41-121 KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+SPEC_STRP1_41-121   KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+Q54512_STRPY_21-101 KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+Q7BTR4_STRPY_8-88   KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+D0EZH7_STREQ_1-66   NSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q1CQV0_STRPC_41-121 KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+SPEC_STRP6_41-121   KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+Q76MJ3_STRPY_41-121 KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+Q6LD36_STRPY_21-101 KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+A2RFG0_STRPG_41-121 KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+Q48T78_STRPM_41-121 KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+Q1CPD8_STRPF_41-121 KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+SPEC_STRP8_41-121   KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+Q71US9_STRPY_8-88   KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+Q1CQC6_STRPD_41-121 KRDDHVDVFGLFYILNSHTGEYIYGGITPAQ~~~~~~~~~~~~~~~~~~~
+Q99QN1_STRP1_36-116 TKNQKVNIFGLPYIFTRYDVYYIYGGVTPSV~~~~~~~~~~~~~~~~~~~
+Q7BAE3_STRPY_36-116 TKNQKVNIFGLPYIFTRYDVYYIYGGVTPSV~~~~~~~~~~~~~~~~~~~
+Q48UZ7_STRPM_36-116 TKNQKVNIFGLPYIFTRYDVYYIYGGVTPSV~~~~~~~~~~~~~~~~~~~
+B5XJL9_STRPZ_36-117 FIKGDKVDVFGLPYNFSPPYVDNIYGGIAKHS~~~~~~~~~~~~~~~~~~
+Q1JNM7_STRPC_36-117 FIKGDKVDVFGLPYNFSPPYVDNIYGGIVKHS~~~~~~~~~~~~~~~~~~
+SPEG_STRP1_36-117   FIKGDKVDVFGLPYNFSPPYVDNIYGGIVKHS~~~~~~~~~~~~~~~~~~
+SPEG_STRP3_36-117   FIKGDKVDVFGLPYNFSPPYVDNIYGGIVKHS~~~~~~~~~~~~~~~~~~
+Q1JDR1_STRPB_36-117 FIKGDKVDVFGLPYNFSPPYVDNIYGGIVKHS~~~~~~~~~~~~~~~~~~
+Q1JIS3_STRPD_36-117 FIKGDKVDVFGLPYNFSPPYVDNIYGGIVKHS~~~~~~~~~~~~~~~~~~
+D0EZH8_STREQ_17-98  FIKGDKVDVFGLPYNFSPPYVDNIYGGIVKHS~~~~~~~~~~~~~~~~~~
+Q9K2G9_STRPY_12-93  FIKGDKVDVFGLPYNFSPPYVDNIYGGIVKHS~~~~~~~~~~~~~~~~~~
+Q48VG2_STRPM_36-117 FIKGDKVDVFGLPYNFSPPYVDNIYGGIVKHS~~~~~~~~~~~~~~~~~~
+Q8P2R5_STRP8_42-123 FIKGDKVDVFGLPYNFSPPYVDNIYGGIVKHS~~~~~~~~~~~~~~~~~~
+C7G4C4_STREQ_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+Q76FM5_STREQ_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+Q76FM9_STREQ_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+C5WJA8_STRDG_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+Q8G9K7_STREQ_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+Q76FM7_STREQ_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+Q76FM8_STREQ_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+Q93RR9_STREQ_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+B9A7E4_STRDY_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+A9YF52_STREQ_7-88   FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+B3Y898_STREQ_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+Q76FM2_STRDY_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+Q76FN0_STREQ_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+Q76FM3_STRDY_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+B6ZLK8_STRDY_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+A9YF45_STRCB_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+B7XH23_STRDY_36-117 FIKGDKVDVFGLPYNFSSPNVDNIYGGVVKHS~~~~~~~~~~~~~~~~~~
+Q56D04_STRPY_1-78   VFSVPFDWNYLSEGKVIAYTYGGITPYQ~~~~~~~~~~~~~~~~~~~~~~
+Q6DTL6_STRPY_1-77   FSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~~~~~~~~~~
+Q6DTL4_STRPY_1-77   FSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~~~~~~~~~~
+Q6DTL3_STRPY_1-80   IAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~~~~~~~
+D0EZH6_STREQ_1-75   VPFDWNYLSKGRVTAYTYGGITPYQ~~~~~~~~~~~~~~~~~~~~~~~~~
+Q5Q043_STRPY_10-95  FKTGDKIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q56D03_STRPY_1-80   IAMFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~~~~~~~
+Q6DTL1_STRPY_1-80   IAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~~~~~~~
+Q6DTL5_STRPY_1-80   IAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~~~~~~~
+Q9LAC4_STRPY_10-95  FKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+A5A507_STRPY_10-95  FKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q7WY99_STRCB_9-94   FKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q9LAC9_STRPY_10-95  FKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+A5A500_STRPY_10-95  FKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q9LAC8_STRPY_10-95  FKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q9X9R8_STRPY_56-142 DFKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~
+Q5X9R9_STRP6_58-144 DFKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~
+Q48R63_STRPM_33-119 DFKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~
+Q9S1H9_STRPY_56-142 DFKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~
+Q6VBI7_STRCB_33-119 DFKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~
+Q9LAD4_STRPY_10-95  FKAGDRIAVFSVPFDWNYLSKGKVTAYTYGGVTPYQ~~~~~~~~~~~~~~
+A5A503_STRPY_10-95  FKAGDKIAMFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q9LAD8_STRPY_10-95  FKAGDKIAVFSVPFDWNYLSEGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+A2RGL0_STRPG_33-119 DFKTGDKIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~
+Q9S1H8_STRPY_56-142 DFKTGDKIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~
+Q9RQQ5_STRPY_10-95  FKTGDKIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+A5A501_STRPY_10-95  FKTGDKIAVFSVPFDWNYLSKGKVTAYTYGGMTPYQ~~~~~~~~~~~~~~
+Q9LAC7_STRPY_10-95  FKTGDKIAVFSVPFDWNYLSKGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q9LAE0_STRPY_10-95  FKDGDKIAVFSVPFDWNYLSEGKVTAYTYGGITPYQ~~~~~~~~~~~~~~
+Q9LAD5_STRPY_10-95  FKDGDKIAMFSVPFDWNYLSKGKVIAYTYGGMTPCQ~~~~~~~~~~~~~~
+A5A506_STRPY_10-95  FKDGDKIAMFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~~
+Q9LAD0_STRPY_10-95  FKDGDKIAMFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~~
+Q5Q044_STRPY_10-95  FKDGDKIAMFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~~
+Q99XW1_STRP1_33-119 DFKDGDKIAMFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~
+Q8NZ89_STRP8_33-119 DFKDGDKIAMFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~
+Q4ZJR7_STRPY_1-80   IAMFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~~~~~~~~
+Q9LAD9_STRPY_10-95  FKDGDKIAMFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~~
+Q5Q045_STRPY_10-95  FKDGDKIAMFSVPFDWNYLSEGTVIAYTYGGMTPYQ~~~~~~~~~~~~~~
+Q9LAC5_STRPY_10-95  FKTGDKIAVFSVPFDWNYLSEGKVIAYTYGGITPYQ~~~~~~~~~~~~~~
+Q7CEP3_STRP3_12-89  DFKAGDKIAVFSVPFDWNYLSEGIRTAE~~~~~~~~~~~~~~~~~~~~~~
+Q9LAD1_STRPY_9-95   DFKAGDKIAVFSVPFDWNYLSEGKVIAYTYGGITPYQ~~~~~~~~~~~~~
+Q9LAD2_STRPY_9-95   DFKAGDKIAVFSVPFDWNYLSEGKVIAYTYGGITPYQ~~~~~~~~~~~~~
+A5A504_STRPY_9-95   DFKAGDKIAVFSVPFDWNYLSEGKVIAYTYGGITPYQ~~~~~~~~~~~~~
+Q9LAD7_STRPY_10-95  FKAGDKIAVFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~~
+A5A502_STRPY_10-95  FKAGDKIAVFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~~
+Q9LAD3_STRPY_10-95  FKAGDKIAVFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~~
+Q1J4J1_STRPF_33-119 DFKAGDKIAVFSVPFDWNYLSEGKVIAYTYGGMTPYQ~~~~~~~~~~~~~
+

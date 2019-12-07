@@ -1,0 +1,93 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/ghf5_ref.msf MSF:  470 Type: P 07/12/19 CompCheck: 8592 ..
+
+  Name: 1a3h       Len: 470  Check: 3321 Weight: 1.00
+  Name: 1egza      Len: 470  Check:  204 Weight: 1.00
+  Name: 1bqca      Len: 470  Check: 5936 Weight: 1.00
+  Name: 1edg       Len: 470  Check: 3456 Weight: 1.00
+  Name: 1ceo       Len: 470  Check: 6514 Weight: 1.00
+  Name: 1ecea      Len: 470  Check: 9161 Weight: 1.00
+
+//
+
+           1                                               50
+1a3h       ~~~~~~~~~~~~~~~~~~~~SVVEEHGQLSISNGELVNERGEQVQLKGMS
+1egza      ~~~~~~~~~~~~~~~~~~~~~~~~SVEPLSVNGNKIYAGE.KAKSFAGNS
+1bqca      ~~~~~~~~~~~~~~~~~~~~~~~~~ATGLHVKNGRLYEANGQEFIIRGVS
+1edg       MYDASLIPNLQIPQKNIPNNDGMNFVKG................LRLGWN
+1ceo       ~~~~~~~~~~~~~~~~~~~~~~~~~MVS................FKAGIN
+1ecea      ~~~~~~~~~~~~~~~~~~~~~~~AGGGYWHTSGREILDANNVPVRIAGIN
+
+           51                                             100
+1a3h       SHGLQ............WYGQFV.....NYESMKWLRDDWGINVFRAAMY
+1egza      LFWSNNG.........WGGEKFY.....TADTVASLKKDWKSSIVRAAMG
+1bqca      HPHNW.............YPQHT.......QAFADIKS.HGANTVRVVLS
+1edg       LGNTFDAFNGTNITNELDYETSWSGIKTTKQMIDAIKQ.KGFNTVRIPVS
+1ceo       LGGWISQYQ...VFSKEHFDTF.....ITEKDIETIAE.AGFDHVRLPFD
+1ecea      WFGFETC.........NYVVHGLWSRD.YRSMLDQIKS.LGYNTIRLPYS
+
+           101                                            150
+1a3h       TS...SGGYIDD...........P.SVKEKVKEAVEAAIDLDIYVIIDWH
+1egza      VQE..SGGYLQD...........PAGNKAKVERVVDAAIANDMYAIIGWH
+1bqca      NGV..RWS................KNGPSDVANVISLCKQNRLICMLEV.
+1edg       WHPHVSG...........SDYKISDVWMNRVQEVVNYCIDNKMYVILNTH
+1ceo       YPIIESD..........DNVGEYKEDGLSYIDRCLEWCKKYNLGLVLDMH
+1ecea      DDILKPGTMPNSINFYQMNQDLQGLTSLQVMDKIVAYAGQIGLRIILDRH
+
+           151                                            200
+1a3h       .ILS...DNDPN.....IYKEEAKDFFDEMSELYGDY.PNVIYEIANEPN
+1egza      .SH......SAE.....NNRSEAIRFFQEMARKYGNK.PNVIYEIYNEPL
+1bqca      .HDT...TGYGEQSGA.STLDQAVDYWIELKSVLQGEEDYVLINIGNEPY
+1edg       HDVDKVKGYFPSSQYMASSKKYITSVWAQIAARFANYDEHLIFEGMNEPR
+1ceo       HAPGS...TLF..ED.PNQQKRFVDIWRFLAKRYINEREHIAFELLNQVV
+1ecea      RPDCSGQSALWYTSSV..SEATWISDLQALAQRYKGNPTVVGFDLHNEPH
+
+           201                                            250
+1a3h       GS.....DVTWG.........NQIKPYAEEVIPIIRNND...PNNIIIVG
+1egza      Q.......VSWS.........NTIKPYAEAVISAIRAID...PDNLIIVG
+1bqca      GN.....DSATV.........AAWATDTSAAIQRLRAAG...FEHTLVVD
+1edg       LVGHANEWWPELTNSDVVDSINCINQLNQDFVNTVRATGGKNASRYLMCP
+1ceo       EP.................DSTRWNKLMLECIKAIREID...STMWLYIG
+1ecea      D......PACWGCGDPS....IDWRLAAERAGNAVLSVN...PNLLIFVE
+
+           251                                            300
+1a3h       TGT........WSQD....VHHAADNQLA.....DPNVMYAFHFYAGT..
+1egza      TPS........WSQN....VDEASRDPIN.....AKNIAYTLHFYAGT..
+1bqca      APN........WGQDWTNTMRNNADQVYASDP..TGNTVFSIHMYGVYS.
+1edg       GY.........VASP..DGATNDYFRMPNDISGNNNKIIVSVHAYCPWNF
+1ceo       GNN........YNSP..DELK..NLADIDD.....DYIVYNFHFYNPFFF
+1ecea      GVQSYNGDSYWWGGN....LQGAGQYPVVLNV..PNRLVYSAHDYATSV.
+
+           301                                            350
+1a3h       ..................................................
+1egza      ..................................................
+1bqca      ..................................................
+1edg       AGL.......AMADGGTNAWN.....IN...........DSK......DQ
+1ceo       THQKAHWSESAMAYNRTVKYPGQYEGIEEFVKNNPKYSFMMELNNLKLNK
+1ecea      .YPQTWFSDP....................................TFPN
+
+           351                                            400
+1a3h       .HGQNLRDQVDYALDQG.AAIFVSEWGTSAATGDGGVFLDEAQVWIDFMD
+1egza      .HGESLRNKARQALNNG.IALFVTEWGTVNADGNGGVNQTETDAWVTFMR
+1bqca      .QASTITSYLEHFVNAG.LPLIIGEFGHDHSDG.....NPDEDTIMAEAE
+1edg       SEVTWFMDNIYNKYTSRGIPVIIGECGAVDK.NNLKTRVEYMSYYVAQAK
+1ceo       ELLRKDLKPAIEFREKKKCKLYCGEFGVIAI.ADLESRIKWHEDYISLLE
+1ecea      NMPGIWNKNWGYLFNQNIAPVWLGEFGTTLQ...STTDQTWLKTLVQYLR
+
+           401                                            450
+1a3h       E......RNLSWANWSLTHK...DESSAALMPGANPTGGWTEAELSPSGT
+1egza      D......NNISNANWALNDK...NEGASTYYPDSK........NLTESGK
+1bqca      R......LKLGYIGWSWSGNGGGVEYLDMVYNFDGD.......NLSPWGE
+1edg       A......RGILCILWDNNNFSGTGELFGFF...DRRSC......QFK.FP
+1ceo       E......YDIGGAVWNYKKM.....DFEIY...NE.DR......KPV.SQ
+1ecea      PTAQYGADSFQWTFWSWNPDSG..DTGGILKD........DWQTVD...T
+
+           451              470
+1a3h       FVRE...KIRES~~~~~~~~
+1egza      KVKS...IIQSWPYKA~~~~
+1bqca      RIFYGPNGIASTAKEAVIFG
+1edg       EIID...GMVKYAFGLI..N
+1ceo       ELVN...ILAR~~~~~~~~~
+1ecea      VKDG...YLAPIKSSIFDPV
+

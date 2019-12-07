@@ -1,0 +1,26 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/myb_DNA-binding_ref.msf MSF:  61 Type: P 07/12/19 CompCheck: 7375 ..
+
+  Name: 1msfc1     Len: 61  Check: 5890 Weight: 1.00
+  Name: 1a5j1      Len: 61  Check: 1167 Weight: 1.00
+  Name: 1msfc2     Len: 61  Check: 5734 Weight: 1.00
+  Name: 1a5j2      Len: 61  Check: 4144 Weight: 1.00
+  Name: 1ba5       Len: 61  Check:  440 Weight: 1.00
+
+//
+
+           1                                               50
+1msfc1     ~~~MLIKGPWTKEEDQRVIKLVQKYGPKRWSVIAKHLK..GRIGKQCRER
+1a5j1      GIPDLVKGPWTKEEDQKVIELVKKYGTKQWTLIAKHLK..GRLGKQCRER
+1msfc2     ~~~~~~KTSWTEEEDRIIYQAHKRLG.NRWAEIAKLLP..GRTDNAIKNH
+1a5j2      ~~~EVKKSSWTEEEDRIIFEAHKVLG.NRWAEIAKLLP..GRTDNAVKNH
+1ba5       ~~~RKRQ.AWLWEEDKNLRSGVRKYGEGNWSKILLHYKFNNRTSVMLKDR
+
+           51       61
+1msfc1     WHNHLNPEVK~
+1a5j1      WHNHL....NP
+1msfc2     WNSTMRRKV~~
+1a5j2      WNSTIKRKVDT
+1ba5       WRTMKKL~~~~
+

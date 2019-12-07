@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/cytb_ref.msf MSF:  100 Type: P 07/12/19 CompCheck: 3663 ..
+
+  Name: 1mj4a      Len: 100  Check: 5074 Weight: 1.00
+  Name: 1soxa      Len: 100  Check: 4017 Weight: 1.00
+  Name: 1euea      Len: 100  Check: 9124 Weight: 1.00
+  Name: 1cyo       Len: 100  Check: 5457 Weight: 1.00
+  Name: 1cxya      Len: 100  Check: 7418 Weight: 1.00
+  Name: 1kbia      Len: 100  Check: 2573 Weight: 1.00
+
+//
+
+           1                                               50
+1mj4a      ~~~~~~STHIYTK.EVSSHTSPETGIWVTLGSEVFDVTEFVDLHPGGPSK
+1soxa      ~~~~~~SYPEYTREEVGRHRSPEERVWVTHGTDVFDVTDFVELHPGGPDK
+1euea      ~~~~DPAVTYYRLEEVAKRNTAE.ETWMVIHGRVYDITRFLSEHPGGEEI
+1cyo       ~~~~SKAVKYYTLEEIQKHNNSK.STWLILHYKVYDLTKFLEEHPGGEEV
+1cxya      ~~~~~~TLPVFTLEQVAEHHSPD.DCWMAIHGKVYDLTPYVPNHPGPAGM
+1kbia      EPKLDMNKQKISPAEVAKHNKPD.DCWVVINGYVYDLTRFLPNHPGGQDV
+
+           51                                             100
+1mj4a      LMLAAGGPLEPFWALY..AVHNQSHVRELLA..QYKIGEL~~~~~~~~~~
+1soxa      ILLAAGGALEPFWALY..AVHGEPHVLELLQ..QYKVGELSPDEAPAPDA
+1euea      LLEQAGADATESFEDI....GHSPDAREMLK..QYYIGDVHPNDLKP~~~
+1cyo       LREQAGGDATENFEDV....GHSTDARELSK..TFIIGELHPDDRSKIT~
+1cxya      MLVWCGQESTEAWETKSYGEPHSSLAARLLQ..RYLIGTL~~~~~~~~~~
+1kbia      IKFNAGKDVTAIFEPL.....HAPNVIDKYIAPEKKLGPLQG..SMPPEL
+

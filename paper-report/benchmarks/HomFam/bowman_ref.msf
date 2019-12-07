@@ -1,0 +1,26 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/bowman_ref.msf MSF:  73 Type: P 07/12/19 CompCheck: 9449 ..
+
+  Name: 1bbi       Len: 73  Check: 4641 Weight: 1.00
+  Name: 1tabi      Len: 73  Check: 8586 Weight: 1.00
+  Name: 1pi2       Len: 73  Check: 9328 Weight: 1.00
+  Name: 1pbia      Len: 73  Check: 3885 Weight: 1.00
+  Name: 1sbwi      Len: 73  Check: 3009 Weight: 1.00
+
+//
+
+           1                                               50
+1bbi       DDESSKPCCDQCACTKSNPPQCRCSDMRLNSCHSACKSCICALSYPAQCF
+1tabi      ~SESSKPCCDQCSCTKSMPPKCRCSDIR......................
+1pi2       ~~~YSKPCCDLCMCTRSMPPQCSCED.RINSCHSDCKSCMCTRSQPGQCR
+1pbia      ~~~~KSACCDTCLCTKSNPPTCRCVDVG.ETCHSACLSCICAYSNPPKCQ
+1sbwi      ~~~~~~~~~~SCRCTKSIPPQCHC~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                   73
+1bbi       CVDITDFCYEPCKPSEDDKEN~~
+1tabi      ....NDFCYEPCK~~~~~~~~~~
+1pi2       CLDTNDFCYKPCKSR~~~~~~~~
+1pbia      CFDTQKFCYKQCHNSELEEVIKN
+1sbwi      ~~~~~~~~~~~~~~~~~~~~~~~
+

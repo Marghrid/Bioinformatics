@@ -1,0 +1,47 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/egf_ref.msf MSF:  71 Type: P 07/12/19 CompCheck: 3669 ..
+
+  Name: 1ixa       Len: 71  Check: 6744 Weight: 1.00
+  Name: 1apo       Len: 71  Check: 8161 Weight: 1.00
+  Name: 1urk       Len: 71  Check: 3046 Weight: 1.00
+  Name: 1fsb       Len: 71  Check: 1754 Weight: 1.00
+  Name: 1esl       Len: 71  Check: 3657 Weight: 1.00
+  Name: 1hre       Len: 71  Check: 8046 Weight: 1.00
+  Name: 1epi       Len: 71  Check: 1210 Weight: 1.00
+  Name: 4tgf       Len: 71  Check: 7278 Weight: 1.00
+  Name: 1hcgb      Len: 71  Check: 1309 Weight: 1.00
+  Name: 1dan1      Len: 71  Check: 8799 Weight: 1.00
+  Name: 1dan2      Len: 71  Check: 3233 Weight: 1.00
+  Name: 1rfnb      Len: 71  Check:  432 Weight: 1.00
+
+//
+
+           1                                               50
+1ixa       ~~VDGDQCE...SNPCLNGGSCKDDI.....NSYECWCPFGFEG....KN
+1apo       ~~KDGDQCE...GHPCLNQGHCKDGI.....GDYTCTCAEGFEG....KN
+1urk       ~~QVPSNCD......CLNGGTCVSNKYFS..NIHWCNCPKKFGG....QH
+1fsb       ~~~~TASCQD...MSCSKQGECLETI.....GNYTCSCYPGFYG....PE
+1esl       ~~~~~~ACTN...TSCSGHGECVETI.....NNYTCKCDPGFSG....LK
+1hre       GTSHLVKCAEKEKTFCVNGGECFMVKDLSNPSRYLCKCQPGFTG....AR
+1epi       ~~NSYPGCPSSYDGYCLNGGVCMHI.ESL..DSYTCNCVIGYSG....DR
+4tgf       VVSHFNDCPDSHTQFCF.HGTCRFLVQ...EDKPACVCHSGYVG....AR
+1hcgb      ~~~~~~~CSLD.NGDCD..QFCHEEQ....N.SVVCSCARGYTLADNGKA
+1dan1      ~~~~GDQCASS...PCQNGGSCKDQL.....QSYICFCLPAFEG....RN
+1dan2      ~~~DQLICVN.ENGGCE..QYCSDHT....GTKRSCRCHEGYSLLADGVS
+1rfnb      ~~~~~MTCNI.KNGRCE..QFCKNSA....DNKVVCSCTEGYRLAENQKS
+
+           51                 71
+1ixa       CEL~~~~~~~~~~~~~~~~~~
+1apo       CEFSTR~~~~~~~~~~~~~~~
+1urk       CEIDK~~~~~~~~~~~~~~~~
+1fsb       CEYVRE~~~~~~~~~~~~~~~
+1esl       CEQIV~~~~~~~~~~~~~~~~
+1hre       CTENVPMKVQNQEKAEELYQK
+1epi       CQTRDLRWWELR~~~~~~~~~
+4tgf       CEHADLLA~~~~~~~~~~~~~
+1hcgb      CIPTGPYPCGKQTLER~~~~~
+1dan1      CETHKD~~~~~~~~~~~~~~~
+1dan2      CTPTVEYPCGKIPILE~~~~~
+1rfnb      CEPAVPFPCGRVSVSQTSK~~
+

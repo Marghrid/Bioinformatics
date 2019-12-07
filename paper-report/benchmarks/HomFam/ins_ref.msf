@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/ins_ref.msf MSF:  74 Type: P 07/12/19 CompCheck: 3623 ..
+
+  Name: 2ins       Len: 74  Check: 8135 Weight: 1.00
+  Name: 4ins       Len: 74  Check: 8203 Weight: 1.00
+  Name: 2gf1       Len: 74  Check: 6693 Weight: 1.00
+  Name: 1igl       Len: 74  Check: 1771 Weight: 1.00
+  Name: 1bom       Len: 74  Check: 2551 Weight: 1.00
+  Name: 6rlx       Len: 74  Check: 6270 Weight: 1.00
+
+//
+
+           1                                               50
+2ins       ~~~~VNQHLCGSHLVEALYLVCGERGFFYTPKA............GIVEQ
+4ins       ~~~FVNQHLCGSHLVEALYLVCGERGFFYTPKA............GIVEQ
+2gf1       ~~~~GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDE
+1igl       ~AYRPSETLCGGELVDTLQFVCGDRGFYFSRPAS..RVSRRS..RGIVEE
+1bom       ~QPQAVHTYCGRHLARTLADLCWEAGVD.................GIVDE
+6rlx       SWMEEVIKLCGRELVRAQIAICGMSTW...............LYSALANK
+
+           51                    74
+2ins       CCASVCSLYQLENYCN~~~~~~~~
+4ins       CCTSICSLYQLENYCN~~~~~~~~
+2gf1       CCFRSCDLRRLEMYCAPLKPAKSA
+1igl       CCFRSCDLALLETYCA..TPAKSE
+1bom       CCLRPCSVDVLLSYC~~~~~~~~~
+6rlx       CCHVGCTKRSLARFC~~~~~~~~~
+

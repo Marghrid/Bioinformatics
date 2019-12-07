@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/rvp_ref.msf MSF:  132 Type: P 07/12/19 CompCheck: 8377 ..
+
+  Name: 1ytia      Len: 132  Check: 6767 Weight: 1.00
+  Name: 1ivpa      Len: 132  Check: 6511 Weight: 1.00
+  Name: 1difa      Len: 132  Check: 6221 Weight: 1.00
+  Name: 1fiva      Len: 132  Check: 3274 Weight: 1.00
+  Name: 1baia      Len: 132  Check: 7717 Weight: 1.00
+  Name: 2fmb       Len: 132  Check: 7887 Weight: 1.00
+
+//
+
+           1                                               50
+1ytia      ~~PQFHL..WKRPVVTAHIE..........GQPVEVLLDTGADDSIVT..
+1ivpa      ~~PQFSL..WKRPVVTAYIE..........GQPVEVLLDTGADDSIVA..
+1difa      ~~PQITL..WQRPLVTIKIG..........GQLKEALLDTGADDTVLE..
+1fiva      VGTTTTL..EKRPEILIFVN..........GYPIKFLLDTGADITILNRR
+1baia      ~~LAMTMEHKDRPLVRVILTNTGSHPVKQRSVYITALLDTGADDTVISEE
+2fmb       ~~VTYNL..EKRPTTIVLIN..........DTPLNVLLDTGADTSVLTTA
+
+           51                                             100
+1ytia      ...GIELGPHYTPK...IVGGIGGFINTKEY.KNVEVEVL...G...KRI
+1ivpa      ...GIELGNNYSPK...IVGGIGGFINTLEY.KNVEIEVL...N...KKV
+1difa      ...EMSLPGRWKPK...MIGGIGGFIKVRQY.DQILIEIC...G...HKA
+1fiva      DFQV.KNSIENGRQ...NMIGVGGGKRGTNY.INVHLEIRDEN.YKTQCI
+1baia      DWPT...DWPVMEAANPQIHGIGGGIPVRKSRDMIELGVINRDGSLERPL
+2fmb       HYNRLKYRGRKYQGT..GIGGVGGNVETFST.P.VTIKKK...G...RHI
+
+           101                          132
+1ytia      KGTIMTG...DTPINIFGRNLLTALGMSLNF~
+1ivpa      RATIMTG...DTPINIFGRNILTALGMSLNL~
+1difa      IGTVLVG...PTPVNIIGRNLLTQIGCTLNF~
+1fiva      FGNVCVLEDNSLIQPLLGRDNMIKFNIRLVM~
+1baia      LLFPLVA...MTPVNILGRDCLQGLGLRLTNL
+2fmb       KTRMLVA...DIPVTILGRDILQDLGAKLVL~
+

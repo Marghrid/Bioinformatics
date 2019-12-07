@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/PDZ_ref.msf MSF:  110 Type: P 07/12/19 CompCheck: 9814 ..
+
+  Name: 1be9a      Len: 110  Check: 1299 Weight: 1.00
+  Name: 1pdr       Len: 110  Check: 3584 Weight: 1.00
+  Name: 1qava      Len: 110  Check: 6570 Weight: 1.00
+  Name: 1qaua      Len: 110  Check: 8206 Weight: 1.00
+  Name: 1i16       Len: 110  Check: 6660 Weight: 1.00
+  Name: 1kwaa      Len: 110  Check: 3495 Weight: 1.00
+
+//
+
+           1                                               50
+1be9a      FLGEEDIPREPRRIVIHRGS.TGLGFNIIGGE.D...GEGIFISFILAGG
+1pdr       ~~~~~~ITREPRKVVLHRGS.TGLGFNIVGGE.D...GEGIFISFILAGG
+1qava      ~~~~~~GSLQRRRVTVRKADAGGLGISIKGGREN...KMPILISKIFKGL
+1qaua      ~~~~~~~~~NVISVRLFKRKVGGLGFLVKER.VS...KPPVIISDLIRGG
+1i16       ~~~~~~~EATVCTVTLEKMS.AGLGFSLEGGKGSLHGDKPLTINRIFKG.
+1kwaa      ~~~~~~~~~RSRLVQFQKNTDEPMGITLKMNELN...H..CIVARIMHGG
+
+           51                                             100
+1be9a      PADLS.GELRKGDQILSVNGVDLRNASHEQAAIALKNAG..QTVTIIAQY
+1pdr       PADLS.GELRKGDRIISVNSVDLRAASHEQAAAALKNAG..QAVTIVAQY
+1qava      AADQT.EALFVGDAILSVNGEDLSSATHDEAVQALKKTG..KEVVLEVKY
+1qaua      AAEQS.GLIQAGDIILAVNDRPLVDLSYDSALEVLRGIASETHVVLILRG
+1i16       AASEQSETVQPGDEILQLGGTAMQGLTRFEAWNIIKALPD.GPVTIVIRR
+1kwaa      MIHRQ.GTLHVGDEIREINGISVANQTVEQLQKMLREMR..GSITFKIVP
+
+           101    110
+1be9a      KPEEYSRFEA
+1pdr       RPEEYSRQHA
+1qava      MK~~~~~~~~
+1qaua      PEG~~~~~~~
+1i16       KSLQ~~~~~~
+1kwaa      SYRE~~~~~~
+

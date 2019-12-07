@@ -1,0 +1,50 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/DEATH_ref.msf MSF:  159 Type: P 07/12/19 CompCheck: 6518 ..
+
+  Name: 1fada      Len: 159  Check: 4161 Weight: 1.00
+  Name: 1e41a      Len: 159  Check: 2583 Weight: 1.00
+  Name: 1icha      Len: 159  Check: 4871 Weight: 1.00
+  Name: 1ngr       Len: 159  Check: 8874 Weight: 1.00
+  Name: 1ddf       Len: 159  Check: 1120 Weight: 1.00
+  Name: 1d2za      Len: 159  Check: 6401 Weight: 1.00
+  Name: 1d2zb      Len: 159  Check: 8508 Weight: 1.00
+
+//
+
+           1                                               50
+1fada      ~~~~~~AAPPGEAYLQVAFDIVCDNVGR..DWKRLAREL..KVS......
+1e41a      ~~~~~~GSHMGEEDLCAAFNVICDNVG..KDWRRLARQL..KVS......
+1icha      ~~~~~~~~~~~~~~~PATLYAVVENVPP.LRWKEFVKRL..GLS......
+1ngr       ~~~~~~~GNLYSSLPLTKREEVEKLLNG.DTWRHLAGEL..GYQ......
+1ddf       ~~METVAINLSDVDLSKYITTIAGVMTL.SQVKGFVRKN..GVN......
+1d2za      LD....NTMAIRLLPLPVRAQLCAHLDALDVWQQLATAV..KLY......
+1d2zb      LSSKYSRNTELRRVEDNDIYRLAKILDENSCWRKLMSIIPKGMDVQACSG
+
+           51                                             100
+1fada      .................EAKMDGIEEKYPRS..LSERVRESLKVWKNAE.
+1e41a      .................DTKIDSIEDRYPRN..LTERVRESLRIWKNTE.
+1icha      .................DHEIDRLELQNGRC..LREAQYSMLATWRRRTP
+1ngr       .................PEHIDSFTHEA.......CPVRALLASWGAQD.
+1ddf       .................EAKIDEIKNDNVQDTA..EQKVQLLRNWHQLHG
+1d2za      .................PDQVEQISSQKQR...GRSASNEFLNIWGGQY.
+1d2zb      AGCLNFPAEIKKGFKYTAQDVFQIDEAANRLPPDQSKSQMMIDEWKTSGK
+
+           101                                            150
+1fada      KK.NASVAGLVKALRTCRLNLVADLVEEAQE......S~~~~~~~~~~~~
+1e41a      KE.NATVAHLVGALRSCQMNLVADLVQEVQQARDLQNRSG..........
+1icha      RR.EATLELLGRVLRDMDLLGCLEDIEEALC~~~~~~~~~~~~~~~~~~~
+1ngr       ...SATLDALLAALRRIQRADIVESLCSE~~~~~~~~~~~~~~~~~~~~~
+1ddf       KK..EAYDTLIKDLKKANLCTLAEKIQTIILKDITSDSENSNFRNEIQSL
+1d2za      ...NHTVQTLFALFKKLKLHNAMRLIKDYVSEDLHKYI~~~~~~~~~~~~
+1d2zb      LNERPTVGVLLQLLVQAELFSAADFVALDFLNESTPARPVDGPGALISL.
+
+           151   159
+1fada      ~~~~~~~~~
+1e41a      ........A
+1icha      ~~~~~~~~~
+1ngr       ~~~~~~~~~
+1ddf       VLEHHHHHH
+1d2za      ~~~~~~~~~
+1d2zb      ........E
+

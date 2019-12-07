@@ -1,0 +1,2318 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/ChtBD_test-only.msf MSF:  54 Type: P 07/12/19 CompCheck: 6292 ..
+
+  Name: Q6IVX8_9CARY_37-76   Len: 54  Check: 5810 Weight: 1.00
+  Name: B9HQY5_POPTR_21-60   Len: 54  Check: 4964 Weight: 1.00
+  Name: CHIC_POPTR_22-61     Len: 54  Check: 5276 Weight: 1.00
+  Name: B9HQZ1_POPTR_22-61   Len: 54  Check: 5276 Weight: 1.00
+  Name: CHI6_POPTR_22-61     Len: 54  Check: 5719 Weight: 1.00
+  Name: CHIB_POPTR_21-60     Len: 54  Check: 4934 Weight: 1.00
+  Name: B9HQY9_POPTR_21-60   Len: 54  Check: 4560 Weight: 1.00
+  Name: Q9LEB2_PHAVU_26-65   Len: 54  Check: 5630 Weight: 1.00
+  Name: Q8MD06_LEUGL_24-63   Len: 54  Check: 5444 Weight: 1.00
+  Name: P93680_PERAE_25-64   Len: 54  Check: 5868 Weight: 1.00
+  Name: CHIT_PHAVU_27-66     Len: 54  Check: 5482 Weight: 1.00
+  Name: Q6UZ78_PHAVU_26-65   Len: 54  Check: 5207 Weight: 1.00
+  Name: CHI5_PHAVU_26-65     Len: 54  Check: 5207 Weight: 1.00
+  Name: A9PJS5_9ROSI_21-60   Len: 54  Check: 5326 Weight: 1.00
+  Name: B9HQZ2_POPTR_21-60   Len: 54  Check: 5206 Weight: 1.00
+  Name: Q9FUH3_VIGUS_1-38    Len: 54  Check: 8935 Weight: 1.00
+  Name: Q43685_VIGUN_24-63   Len: 54  Check: 4820 Weight: 1.00
+  Name: Q6IVX2_9CARY_23-62   Len: 54  Check: 4303 Weight: 1.00
+  Name: Q6IVX4_9CARY_23-62   Len: 54  Check: 5039 Weight: 1.00
+  Name: Q8LK49_LEUGL_23-62   Len: 54  Check: 5106 Weight: 1.00
+  Name: A3QRB7_VITVI_20-59   Len: 54  Check: 4666 Weight: 1.00
+  Name: A3QRB6_VITVI_20-59   Len: 54  Check: 4666 Weight: 1.00
+  Name: Q546P8_VITVI_20-59   Len: 54  Check: 4786 Weight: 1.00
+  Name: CHIB_VITVI_20-59     Len: 54  Check: 4786 Weight: 1.00
+  Name: C0LNR1_9MAGN_20-59   Len: 54  Check: 4487 Weight: 1.00
+  Name: B8YPL6_9MAGN_20-59   Len: 54  Check: 4409 Weight: 1.00
+  Name: CHI3_TOBAC_23-63     Len: 54  Check: 3297 Weight: 1.00
+  Name: CHI4_SOLTU_18-58     Len: 54  Check: 2713 Weight: 1.00
+  Name: O81144_SOLTU_19-59   Len: 54  Check: 2793 Weight: 1.00
+  Name: O81145_SOLTU_19-59   Len: 54  Check: 2793 Weight: 1.00
+  Name: CHI1_TOBAC_23-63     Len: 54  Check: 3286 Weight: 1.00
+  Name: Q9FEW1_NICSY_23-63   Len: 54  Check: 3076 Weight: 1.00
+  Name: CHI2_TOBAC_23-63     Len: 54  Check: 3076 Weight: 1.00
+  Name: CHIC_SOLLC_22-62     Len: 54  Check: 3034 Weight: 1.00
+  Name: CHI1_SOLTU_18-58     Len: 54  Check: 2734 Weight: 1.00
+  Name: CHI2_SOLTU_18-58     Len: 54  Check: 3004 Weight: 1.00
+  Name: CHI3_SOLTU_18-58     Len: 54  Check: 2959 Weight: 1.00
+  Name: B9VRK7_CAPAN_22-62   Len: 54  Check: 2224 Weight: 1.00
+  Name: Q0U1Q1_PHANO_19-58   Len: 54  Check: 5350 Weight: 1.00
+  Name: CHIT_SOLTU_26-66     Len: 54  Check: 3232 Weight: 1.00
+  Name: Q43853_ULMAM_21-60   Len: 54  Check: 5115 Weight: 1.00
+  Name: Q4PJV8_9ROSA_21-60   Len: 54  Check: 4753 Weight: 1.00
+  Name: A9SN77_PHYPA_29-68   Len: 54  Check: 4441 Weight: 1.00
+  Name: Q9FXL8_PSOTE_15-54   Len: 54  Check: 4613 Weight: 1.00
+  Name: CHI2_PEA_20-59       Len: 54  Check: 4921 Weight: 1.00
+  Name: Q9ZP10_CICAR_23-62   Len: 54  Check: 4837 Weight: 1.00
+  Name: Q5RLX9_MEDSA_23-62   Len: 54  Check: 3911 Weight: 1.00
+  Name: P94084_MEDSA_23-62   Len: 54  Check: 4519 Weight: 1.00
+  Name: P93327_MEDTR_23-62   Len: 54  Check: 4451 Weight: 1.00
+  Name: Q7X9F5_9FABA_26-65   Len: 54  Check: 4531 Weight: 1.00
+  Name: B2DD07_CITUN_20-59   Len: 54  Check: 5054 Weight: 1.00
+  Name: Q76IR2_TAXDI_23-63   Len: 54  Check: 3721 Weight: 1.00
+  Name: Q76JJ7_CRYJA_23-63   Len: 54  Check: 3850 Weight: 1.00
+  Name: Q403K0_CRYJA_23-63   Len: 54  Check: 3850 Weight: 1.00
+  Name: Q76JH6_CRYJA_23-63   Len: 54  Check: 3850 Weight: 1.00
+  Name: Q76JK0_CRYJA_23-63   Len: 54  Check: 3850 Weight: 1.00
+  Name: CHI1_GOSHI_22-62     Len: 54  Check: 3608 Weight: 1.00
+  Name: CHI2_GOSHI_1-40      Len: 54  Check: 5725 Weight: 1.00
+  Name: Q9ZTT8_GOSHI_1-40    Len: 54  Check: 5725 Weight: 1.00
+  Name: D0EWF1_CAMSI_21-60   Len: 54  Check: 5575 Weight: 1.00
+  Name: C1K2M3_PANGI_19-57   Len: 54  Check: 8016 Weight: 1.00
+  Name: CHI1_THECC_21-62     Len: 54  Check:  470 Weight: 1.00
+  Name: Q7Y237_EUOEU_19-58   Len: 54  Check: 5862 Weight: 1.00
+  Name: Q7X9R8_EUOEU_19-58   Len: 54  Check: 5862 Weight: 1.00
+  Name: O65331_ELAUM_23-62   Len: 54  Check: 5472 Weight: 1.00
+  Name: B9H1P7_POPTR_21-60   Len: 54  Check: 5064 Weight: 1.00
+  Name: B9FPH7_ORYSJ_32-71   Len: 54  Check: 5363 Weight: 1.00
+  Name: CHI7_ORYSI_32-71     Len: 54  Check: 5363 Weight: 1.00
+  Name: CHI7_ORYSJ_32-71     Len: 54  Check: 5363 Weight: 1.00
+  Name: Q9AVA8_CUCME_20-59   Len: 54  Check: 4509 Weight: 1.00
+  Name: A1BQQ0_CUCSA_12-51   Len: 54  Check: 4653 Weight: 1.00
+  Name: Q207U1_MOMCH_20-59   Len: 54  Check: 5460 Weight: 1.00
+  Name: O80404_9ROSI_19-58   Len: 54  Check: 5526 Weight: 1.00
+  Name: CHIB_PEA_1-23        Len: 54  Check: 3524 Weight: 1.00
+  Name: Q9M7G8_ARAGL_1-38    Len: 54  Check: 9503 Weight: 1.00
+  Name: Q9M7G9_ARAGL_16-56   Len: 54  Check: 2785 Weight: 1.00
+  Name: CHI2_BRANA_20-60     Len: 54  Check: 2615 Weight: 1.00
+  Name: Q9M7H3_ARABL_1-36    Len: 54  Check: 3251 Weight: 1.00
+  Name: Q9M7F6_ARAMC_1-36    Len: 54  Check: 3176 Weight: 1.00
+  Name: Q9M7H7_ARAHO_1-36    Len: 54  Check: 3176 Weight: 1.00
+  Name: Q9M7F7_ARAMC_1-36    Len: 54  Check: 3176 Weight: 1.00
+  Name: Q9M7H1_ARAFE_1-36    Len: 54  Check: 3176 Weight: 1.00
+  Name: Q9M7F8_ARAMC_1-36    Len: 54  Check: 3176 Weight: 1.00
+  Name: Q9M7G0_ARALI_1-36    Len: 54  Check: 3176 Weight: 1.00
+  Name: Q9M7F9_9BRAS_1-36    Len: 54  Check: 3176 Weight: 1.00
+  Name: Q9M7G1_ARALI_1-37    Len: 54  Check: 1259 Weight: 1.00
+  Name: Q9M7H4_ARABL_16-56   Len: 54  Check: 2937 Weight: 1.00
+  Name: Q9M7G4_9BRAS_1-38    Len: 54  Check: 9291 Weight: 1.00
+  Name: Q9M7G3_9BRAS_1-37    Len: 54  Check: 1274 Weight: 1.00
+  Name: Q9M7H5_ARAGU_1-36    Len: 54  Check: 3134 Weight: 1.00
+  Name: Q9M7H8_BOEDR_9-49    Len: 54  Check: 3224 Weight: 1.00
+  Name: Q9M7H6_ARAHO_9-49    Len: 54  Check: 3224 Weight: 1.00
+  Name: Q9M7F4_BOEPA_9-49    Len: 54  Check: 3398 Weight: 1.00
+  Name: Q9M7F5_BOEPA_9-49    Len: 54  Check: 3065 Weight: 1.00
+  Name: Q9M7H0_ARAFE_22-62   Len: 54  Check: 3065 Weight: 1.00
+  Name: Q9M7G2_ARALI_3-43    Len: 54  Check: 3065 Weight: 1.00
+  Name: Q9M7H2_BOEDR_2-42    Len: 54  Check: 3065 Weight: 1.00
+  Name: Q9SXJ1_ARAGE_33-73   Len: 54  Check: 3927 Weight: 1.00
+  Name: Q9M7G7_ARAGL_19-59   Len: 54  Check: 3335 Weight: 1.00
+  Name: CHIB_ARATH_33-73     Len: 54  Check: 3335 Weight: 1.00
+  Name: Q9M7G5_9BRAS_1-36    Len: 54  Check: 3685 Weight: 1.00
+  Name: Q9M7G6_ARAGU_1-36    Len: 54  Check: 3396 Weight: 1.00
+  Name: Q9M7H9_ARAAL_1-37    Len: 54  Check: 1504 Weight: 1.00
+  Name: C3S7U7_ISATI_1-30    Len: 54  Check: 3736 Weight: 1.00
+  Name: B5TYQ3_9ROSI_22-61   Len: 54  Check: 5877 Weight: 1.00
+  Name: Q9XFK6_HUMLU_19-58   Len: 54  Check: 4881 Weight: 1.00
+  Name: B8XR33_9ROSA_19-58   Len: 54  Check: 6567 Weight: 1.00
+  Name: B9VQ31_PYRPY_19-58   Len: 54  Check: 6230 Weight: 1.00
+  Name: Q9SEM3_CAPAN_22-63   Len: 54  Check: 2947 Weight: 1.00
+  Name: WIN2_SOLTU_25-66     Len: 54  Check: 2266 Weight: 1.00
+  Name: Q75QH1_CAPCH_19-60   Len: 54  Check: 2161 Weight: 1.00
+  Name: O03994_SOLLC_15-56   Len: 54  Check: 2348 Weight: 1.00
+  Name: WIN1_SOLTU_25-66     Len: 54  Check: 1725 Weight: 1.00
+  Name: Q41230_TOBAC_21-62   Len: 54  Check: 2329 Weight: 1.00
+  Name: Q41231_TOBAC_22-63   Len: 54  Check: 2158 Weight: 1.00
+  Name: A5AT01_VITVI_22-61   Len: 54  Check: 6379 Weight: 1.00
+  Name: Q9ZTK4_VITVI_22-61   Len: 54  Check: 6379 Weight: 1.00
+  Name: Q9FS45_VITVI_22-61   Len: 54  Check: 6379 Weight: 1.00
+  Name: B0ZC08_CASGL_23-62   Len: 54  Check: 6425 Weight: 1.00
+  Name: Q8GUD7_HEVBR_1-39    Len: 54  Check: 7648 Weight: 1.00
+  Name: Q949H3_HEVBR_1-39    Len: 54  Check: 7648 Weight: 1.00
+  Name: Q42428_CASSA_18-57   Len: 54  Check: 4151 Weight: 1.00
+  Name: Q6QNB2_MUSAC_25-69   Len: 54  Check: 3988 Weight: 1.00
+  Name: Q6R8K3_MUSAC_25-69   Len: 54  Check: 3988 Weight: 1.00
+  Name: Q6QNA9_MUSBA_25-69   Len: 54  Check: 3988 Weight: 1.00
+  Name: Q8SA44_BRAJU_19-58   Len: 54  Check: 5379 Weight: 1.00
+  Name: Q8SA44_BRAJU_76-115  Len: 54  Check: 5201 Weight: 1.00
+  Name: Q9SQF7_BRAJU_71-112  Len: 54  Check:  239 Weight: 1.00
+  Name: Q9SQF7_BRAJU_20-61   Len: 54  Check:  254 Weight: 1.00
+  Name: Q9SDY6_SOYBN_23-62   Len: 54  Check: 4816 Weight: 1.00
+  Name: Q7X9F6_9FABA_24-63   Len: 54  Check: 5065 Weight: 1.00
+  Name: Q7X9F4_9FABA_24-63   Len: 54  Check: 4901 Weight: 1.00
+  Name: Q1W6C5_9CARY_23-62   Len: 54  Check: 5705 Weight: 1.00
+  Name: B3VFX0_9CARY_23-62   Len: 54  Check: 5705 Weight: 1.00
+  Name: CHIX_PEA_23-62       Len: 54  Check: 4627 Weight: 1.00
+  Name: A9S0C3_PHYPA_19-58   Len: 54  Check: 6030 Weight: 1.00
+  Name: Q38777_ALLSA_17-56   Len: 54  Check: 5749 Weight: 1.00
+  Name: Q38776_ALLSA_13-52   Len: 54  Check: 5861 Weight: 1.00
+  Name: B6TFQ3_MAIZE_26-65   Len: 54  Check: 5200 Weight: 1.00
+  Name: A4RL02_MAGGR_44-90   Len: 54  Check: 9604 Weight: 1.00
+  Name: C9K5U3_9PEZI_44-90   Len: 54  Check: 9604 Weight: 1.00
+  Name: C7YV56_NECH7_1-41    Len: 54  Check: 2563 Weight: 1.00
+  Name: A6RJB2_BOTFB_159-204 Len: 54  Check: 1941 Weight: 1.00
+  Name: A7E5V2_SCLS1_34-79   Len: 54  Check: 3085 Weight: 1.00
+  Name: B9H1P8_POPTR_23-62   Len: 54  Check: 5104 Weight: 1.00
+  Name: CHI8_POPTR_23-62     Len: 54  Check: 5116 Weight: 1.00
+  Name: B5L6N2_CROSA_19-58   Len: 54  Check: 5463 Weight: 1.00
+  Name: Q9SYS5_SAMNI_29-67   Len: 54  Check: 7215 Weight: 1.00
+  Name: Q9SYS4_SAMNI_29-67   Len: 54  Check: 7215 Weight: 1.00
+  Name: Q9ZT61_SAMNI_29-67   Len: 54  Check: 7215 Weight: 1.00
+  Name: Q9ZT60_SAMNI_29-67   Len: 54  Check: 7215 Weight: 1.00
+  Name: Q944B9_SAMNI_26-64   Len: 54  Check: 7215 Weight: 1.00
+  Name: A7XQ02_MORAL_23-64   Len: 54  Check:  623 Weight: 1.00
+  Name: Q9SYR2_URTDI_23-62   Len: 54  Check: 5427 Weight: 1.00
+  Name: Q9ZP51_URTDI_23-62   Len: 54  Check: 5427 Weight: 1.00
+  Name: Q9SYR5_URTDI_23-62   Len: 54  Check: 5352 Weight: 1.00
+  Name: Q9S7W3_URTDI_23-62   Len: 54  Check: 5215 Weight: 1.00
+  Name: AGI_URTDI_23-62      Len: 54  Check: 5215 Weight: 1.00
+  Name: Q9S7K1_URTDI_23-62   Len: 54  Check: 5215 Weight: 1.00
+  Name: Q9S7C2_URTDI_24-63   Len: 54  Check: 5231 Weight: 1.00
+  Name: Q9S705_URTDI_23-62   Len: 54  Check: 5220 Weight: 1.00
+  Name: Q9S7B3_URTDI_23-62   Len: 54  Check: 5220 Weight: 1.00
+  Name: B0E7E9_ENTDI_17-55   Len: 54  Check: 6819 Weight: 1.00
+  Name: D0VX39_SOLLC_95-134  Len: 54  Check: 5020 Weight: 1.00
+  Name: D0VX39_SOLLC_47-88   Len: 54  Check: 1674 Weight: 1.00
+  Name: D0VX39_SOLLC_140-180 Len: 54  Check: 3843 Weight: 1.00
+  Name: LECT_SOLTU_105-147   Len: 54  Check: 9834 Weight: 1.00
+  Name: LECT_SOLTU_257-299   Len: 54  Check: 9080 Weight: 1.00
+  Name: D0VX39_SOLLC_248-288 Len: 54  Check: 1972 Weight: 1.00
+  Name: LECT_SOLTU_59-99     Len: 54  Check: 4005 Weight: 1.00
+  Name: LECT_SOLTU_211-251   Len: 54  Check: 3985 Weight: 1.00
+  Name: B3XYC5_SOLLC_193-232 Len: 54  Check: 6347 Weight: 1.00
+  Name: B3XYC5_SOLLC_249-288 Len: 54  Check: 6347 Weight: 1.00
+  Name: B3XYC5_SOLLC_305-344 Len: 54  Check: 6347 Weight: 1.00
+  Name: B3XYC5_SOLLC_53-92   Len: 54  Check: 5750 Weight: 1.00
+  Name: EAP1_EUCUL_1-39      Len: 54  Check: 6493 Weight: 1.00
+  Name: EAP2_EUCUL_1-39      Len: 54  Check: 6142 Weight: 1.00
+  Name: A7XQ02_MORAL_125-165 Len: 54  Check: 4230 Weight: 1.00
+  Name: Q944B8_SAMNI_26-66   Len: 54  Check: 4275 Weight: 1.00
+  Name: Q9ZP51_URTDI_69-109  Len: 54  Check: 3203 Weight: 1.00
+  Name: Q9SYR5_URTDI_69-109  Len: 54  Check: 3441 Weight: 1.00
+  Name: Q9S7B3_URTDI_69-109  Len: 54  Check: 3441 Weight: 1.00
+  Name: Q9SYR2_URTDI_69-103  Len: 54  Check: 5512 Weight: 1.00
+  Name: Q9S7K1_URTDI_69-109  Len: 54  Check: 3753 Weight: 1.00
+  Name: Q9S7W3_URTDI_69-109  Len: 54  Check: 3753 Weight: 1.00
+  Name: Q9S7C2_URTDI_70-110  Len: 54  Check: 3753 Weight: 1.00
+  Name: Q9S705_URTDI_69-109  Len: 54  Check: 3243 Weight: 1.00
+  Name: B2AAQ0_PODAN_351-395 Len: 54  Check: 3068 Weight: 1.00
+  Name: Q0UU01_PHANO_27-73   Len: 54  Check: 9101 Weight: 1.00
+  Name: Q0U8R2_PHANO_371-415 Len: 54  Check: 3960 Weight: 1.00
+  Name: Q9XFF2_ORYRU_44-84   Len: 54  Check: 3356 Weight: 1.00
+  Name: B8AR70_ORYSI_71-111  Len: 54  Check: 3356 Weight: 1.00
+  Name: AGI_ORYSI_71-111     Len: 54  Check: 3356 Weight: 1.00
+  Name: AGI_ORYSJ_71-111     Len: 54  Check: 3356 Weight: 1.00
+  Name: B7EUA6_ORYSJ_71-111  Len: 54  Check: 3356 Weight: 1.00
+  Name: B9FE25_ORYSJ_50-90   Len: 54  Check: 3344 Weight: 1.00
+  Name: AGI1_WHEAT_69-109    Len: 54  Check: 1910 Weight: 1.00
+  Name: AGI2_WHEAT_70-110    Len: 54  Check: 1293 Weight: 1.00
+  Name: AGI_HORVU_69-109     Len: 54  Check: 1773 Weight: 1.00
+  Name: AGI3_WHEAT_43-83     Len: 54  Check: 1403 Weight: 1.00
+  Name: Q9XFF2_ORYRU_130-170 Len: 54  Check: 2112 Weight: 1.00
+  Name: B9FE25_ORYSJ_136-176 Len: 54  Check: 2112 Weight: 1.00
+  Name: B7EUA6_ORYSJ_157-197 Len: 54  Check: 2112 Weight: 1.00
+  Name: B8AR70_ORYSI_157-197 Len: 54  Check: 2112 Weight: 1.00
+  Name: AGI_ORYSJ_157-197    Len: 54  Check: 2112 Weight: 1.00
+  Name: AGI_ORYSI_157-197    Len: 54  Check: 2112 Weight: 1.00
+  Name: AGI3_WHEAT_1-40      Len: 54  Check: 4252 Weight: 1.00
+  Name: AGI_HORVU_26-66      Len: 54  Check: 2196 Weight: 1.00
+  Name: AGI2_WHEAT_27-67     Len: 54  Check: 2196 Weight: 1.00
+  Name: AGI1_WHEAT_26-66     Len: 54  Check: 2196 Weight: 1.00
+  Name: Q9XFF2_ORYRU_1-43    Len: 54  Check: 8180 Weight: 1.00
+  Name: B9FE25_ORYSJ_28-51   Len: 54  Check: 1666 Weight: 1.00
+  Name: B8AR70_ORYSI_28-70   Len: 54  Check: 8090 Weight: 1.00
+  Name: B7EUA6_ORYSJ_28-70   Len: 54  Check: 8090 Weight: 1.00
+  Name: AGI_ORYSJ_28-70      Len: 54  Check: 8090 Weight: 1.00
+  Name: AGI_ORYSI_28-70      Len: 54  Check: 8090 Weight: 1.00
+  Name: Q0ZH66_WHEAT_115-154 Len: 54  Check: 4196 Weight: 1.00
+  Name: B8AR70_ORYSI_115-154 Len: 54  Check: 4224 Weight: 1.00
+  Name: AGI_ORYSI_115-154    Len: 54  Check: 4224 Weight: 1.00
+  Name: Q9XFF2_ORYRU_88-127  Len: 54  Check: 4219 Weight: 1.00
+  Name: AGI_ORYSJ_115-154    Len: 54  Check: 4219 Weight: 1.00
+  Name: B9FE25_ORYSJ_94-133  Len: 54  Check: 4219 Weight: 1.00
+  Name: B7EUA6_ORYSJ_115-154 Len: 54  Check: 4219 Weight: 1.00
+  Name: AGI2_WHEAT_114-153   Len: 54  Check: 3688 Weight: 1.00
+  Name: AGI1_WHEAT_113-152   Len: 54  Check: 3562 Weight: 1.00
+  Name: AGI_HORVU_113-152    Len: 54  Check: 3489 Weight: 1.00
+  Name: AGI3_WHEAT_87-126    Len: 54  Check: 3748 Weight: 1.00
+  Name: Q0ZH66_WHEAT_26-68   Len: 54  Check: 7191 Weight: 1.00
+  Name: Q0ZH66_WHEAT_71-111  Len: 54  Check: 3087 Weight: 1.00
+  Name: Q0ZH66_WHEAT_157-197 Len: 54  Check: 2558 Weight: 1.00
+  Name: AGI2_WHEAT_156-196   Len: 54  Check: 2455 Weight: 1.00
+  Name: AGI3_WHEAT_129-169   Len: 54  Check: 2455 Weight: 1.00
+  Name: AGI1_WHEAT_155-195   Len: 54  Check: 2455 Weight: 1.00
+  Name: AGI_HORVU_155-195    Len: 54  Check: 2357 Weight: 1.00
+  Name: A7F9A3_SCLS1_99-137  Len: 54  Check: 7081 Weight: 1.00
+  Name: A8JG69_CHLRE_28-64   Len: 54  Check: 9537 Weight: 1.00
+  Name: B8MQ64_TALSN_69-110  Len: 54  Check:  109 Weight: 1.00
+  Name: A6RR50_BOTFB_61-99   Len: 54  Check: 7385 Weight: 1.00
+  Name: Q0UKU4_PHANO_63-102  Len: 54  Check: 3288 Weight: 1.00
+  Name: Q0TZN1_PHANO_63-102  Len: 54  Check: 3456 Weight: 1.00
+  Name: B2W2L7_PYRTR_60-99   Len: 54  Check: 3896 Weight: 1.00
+  Name: B2W071_PYRTR_67-107  Len: 54  Check: 1915 Weight: 1.00
+  Name: D1ZRM2_SORMA_73-112  Len: 54  Check: 5316 Weight: 1.00
+  Name: Q2H3G9_CHAGB_60-102  Len: 54  Check: 8918 Weight: 1.00
+  Name: B2ANJ5_PODAN_60-102  Len: 54  Check: 8343 Weight: 1.00
+  Name: Q0UK89_PHANO_17-57   Len: 54  Check: 3268 Weight: 1.00
+  Name: B2W620_PYRTR_17-57   Len: 54  Check: 2647 Weight: 1.00
+  Name: A4QTM5_MAGGR_306-351 Len: 54  Check: 1622 Weight: 1.00
+  Name: C9K5U6_9PEZI_306-351 Len: 54  Check: 1622 Weight: 1.00
+  Name: A7E4P3_SCLS1_47-96   Len: 54  Check: 2115 Weight: 1.00
+  Name: A7YHB2_BATDE_92-133  Len: 54  Check: 9088 Weight: 1.00
+  Name: Q96408_DAUCA_21-55   Len: 54  Check: 4346 Weight: 1.00
+  Name: Q96409_DAUCA_21-55   Len: 54  Check: 4346 Weight: 1.00
+  Name: Q96411_DAUCA_19-53   Len: 54  Check: 4226 Weight: 1.00
+  Name: Q96410_DAUCA_19-53   Len: 54  Check: 4074 Weight: 1.00
+  Name: O24603_ARATH_31-64   Len: 54  Check: 5441 Weight: 1.00
+  Name: O24598_ARATH_22-57   Len: 54  Check: 3414 Weight: 1.00
+  Name: C0PKN5_MAIZE_29-68   Len: 54  Check: 5746 Weight: 1.00
+  Name: C5YBF1_SORBI_23-60   Len: 54  Check: 9921 Weight: 1.00
+  Name: Q93WT2_SORBI_18-51   Len: 54  Check: 6287 Weight: 1.00
+  Name: C5YBE9_SORBI_29-62   Len: 54  Check: 6287 Weight: 1.00
+  Name: Q94EL4_SORBI_18-51   Len: 54  Check: 6287 Weight: 1.00
+  Name: Q941I5_SORBI_18-51   Len: 54  Check: 6287 Weight: 1.00
+  Name: Q93WT1_SORBI_28-61   Len: 54  Check: 6287 Weight: 1.00
+  Name: C5YBE8_SORBI_18-56   Len: 54  Check: 6565 Weight: 1.00
+  Name: Q94EL3_SORHL_18-51   Len: 54  Check: 6310 Weight: 1.00
+  Name: Q94EL5_SACOF_17-50   Len: 54  Check: 6470 Weight: 1.00
+  Name: A9XAV3_SACOF_11-44   Len: 54  Check: 6470 Weight: 1.00
+  Name: A9XB14_SACOF_11-44   Len: 54  Check: 6470 Weight: 1.00
+  Name: A9XB16_SACOF_11-44   Len: 54  Check: 6470 Weight: 1.00
+  Name: B8QUW8_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUZ2_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUT0_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUY6_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUT8_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: Q6JBK4_ZEAMP_26-59   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUY4_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUS3_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUY7_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUZ0_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUZ3_ZEAMP_27-60   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUY1_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUW4_ZEAMP_27-60   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUS2_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUV9_ZEAMP_27-60   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUY0_ZEAMP_27-60   Len: 54  Check: 6280 Weight: 1.00
+  Name: D0EM57_MAIZE_26-59   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUW9_ZEAMP_27-60   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUY2_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUY3_ZEAMP_26-59   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUT7_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUV5_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUU6_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUW0_ZEAMP_27-60   Len: 54  Check: 6280 Weight: 1.00
+  Name: Q6JBL4_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUS8_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUU9_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUV1_ZEAMP_25-58   Len: 54  Check: 6280 Weight: 1.00
+  Name: B8QUY5_ZEAMP_26-59   Len: 54  Check: 6280 Weight: 1.00
+  Name: Q6JBK0_ZEADI_24-57   Len: 54  Check: 5957 Weight: 1.00
+  Name: Q6JBK1_ZEADI_24-57   Len: 54  Check: 5957 Weight: 1.00
+  Name: Q6JBK9_ZEAMP_27-60   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QV01_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUX9_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUX8_ZEAMP_27-60   Len: 54  Check: 6211 Weight: 1.00
+  Name: Q6JBK3_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: Q6JBL1_ZEAMP_27-60   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUT1_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUS1_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B4FTS6_MAIZE_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B6TEL0_MAIZE_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: Q6JBK6_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUX1_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUU3_ZEAMP_24-57   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUV3_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUU0_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUX4_ZEAMP_27-60   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUT2_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUS6_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: Q6JBL0_ZEAMP_27-60   Len: 54  Check: 6211 Weight: 1.00
+  Name: Q6JBL3_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: Q6JBK7_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: Q6JBL2_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUZ8_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUZ6_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QV00_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUS5_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUX2_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUT9_ZEAMP_27-60   Len: 54  Check: 6211 Weight: 1.00
+  Name: Q6JBK8_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUS9_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUX0_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: CHIA_MAIZE_25-58     Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUZ1_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUX5_ZEAMP_27-60   Len: 54  Check: 6211 Weight: 1.00
+  Name: Q6JBL5_ZEAMP_25-58   Len: 54  Check: 6211 Weight: 1.00
+  Name: B8QUX6_ZEAMP_25-57   Len: 54  Check: 8217 Weight: 1.00
+  Name: B8QUT5_ZEAMP_25-58   Len: 54  Check: 6475 Weight: 1.00
+  Name: B8QUV0_ZEAMP_25-58   Len: 54  Check: 6226 Weight: 1.00
+  Name: C0P451_MAIZE_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV06_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBQ2_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBQ7_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBQ3_ZEAMP_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBP3_ZEADI_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV58_ZEAMP_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV03_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV24_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBQ1_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV60_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV35_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV41_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV53_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV64_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV69_ZEAMP_32-65   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV62_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV73_ZEAMP_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV48_ZEAMP_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV09_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV42_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV32_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV61_ZEAMP_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV66_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBQ6_ZEAMP_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBP5_ZEADI_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV19_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV14_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV22_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV26_ZEAMP_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV04_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV34_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBP7_ZEADI_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV47_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV18_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV05_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV67_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBQ5_ZEAMP_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: CHIB_MAIZE_20-53     Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV71_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV68_ZEAMP_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV37_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV52_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBR1_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV49_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV74_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBP9_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV12_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV28_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV56_ZEAMP_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBP2_ZEADI_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B4FK87_MAIZE_33-66   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBQ8_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV29_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV65_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBQ9_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV46_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV08_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBP8_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV45_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBQ0_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV70_ZEAMP_32-65   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV57_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBQ4_ZEAMP_34-67   Len: 54  Check: 6463 Weight: 1.00
+  Name: B8QV63_ZEAMP_31-64   Len: 54  Check: 6463 Weight: 1.00
+  Name: Q6JBR2_TRIDA_32-65   Len: 54  Check: 6373 Weight: 1.00
+  Name: Q6JBL6_TRIDA_27-60   Len: 54  Check: 6597 Weight: 1.00
+  Name: Q9XEN6_WHEAT_26-59   Len: 54  Check: 6838 Weight: 1.00
+  Name: A0B9Y6_ORYSA_29-62   Len: 54  Check: 6540 Weight: 1.00
+  Name: CHI5_ORYSJ_29-62     Len: 54  Check: 6540 Weight: 1.00
+  Name: B8ARC6_ORYSI_29-62   Len: 54  Check: 6540 Weight: 1.00
+  Name: C6F3C7_ORYGR_29-62   Len: 54  Check: 6543 Weight: 1.00
+  Name: C5YBF0_SORBI_27-60   Len: 54  Check: 7314 Weight: 1.00
+  Name: C5XJT5_SORBI_33-66   Len: 54  Check: 6214 Weight: 1.00
+  Name: B7FZY0_PHATR_309-347 Len: 54  Check: 6737 Weight: 1.00
+  Name: B5YLX5_THAPS_580-619 Len: 54  Check: 5315 Weight: 1.00
+  Name: Q4VU87_THAPS_580-619 Len: 54  Check: 5315 Weight: 1.00
+  Name: Q4VU88_THAPS_580-619 Len: 54  Check: 5297 Weight: 1.00
+  Name: Q0JC38_ORYSJ_27-60   Len: 54  Check: 6954 Weight: 1.00
+  Name: B8ARC5_ORYSI_27-60   Len: 54  Check: 6954 Weight: 1.00
+  Name: Q25AB8_ORYSA_27-60   Len: 54  Check: 6954 Weight: 1.00
+  Name: CHI4_ORYSJ_27-60     Len: 54  Check: 6954 Weight: 1.00
+  Name: B9FFW6_ORYSJ_23-56   Len: 54  Check: 6720 Weight: 1.00
+  Name: A4QWY3_MAGGR_98-140  Len: 54  Check: 8999 Weight: 1.00
+  Name: A4QWY3_MAGGR_479-521 Len: 54  Check: 8901 Weight: 1.00
+  Name: A4QWY3_MAGGR_184-226 Len: 54  Check: 9734 Weight: 1.00
+  Name: A4QWT6_MAGGR_36-78   Len: 54  Check: 8359 Weight: 1.00
+  Name: Q6A3Q3_BOTFU_79-121  Len: 54  Check: 7647 Weight: 1.00
+  Name: A7EB96_SCLS1_203-245 Len: 54  Check: 7826 Weight: 1.00
+  Name: B9T8H9_RICCO_27-60   Len: 54  Check: 6819 Weight: 1.00
+  Name: C6TK83_SOYBN_27-60   Len: 54  Check: 6033 Weight: 1.00
+  Name: B8Y647_MEDSA_32-65   Len: 54  Check: 6274 Weight: 1.00
+  Name: Q6RV28_MEDTR_32-65   Len: 54  Check: 6274 Weight: 1.00
+  Name: Q7X9F8_9FABA_32-65   Len: 54  Check: 6587 Weight: 1.00
+  Name: CHI4_PHAVU_23-56     Len: 54  Check: 6565 Weight: 1.00
+  Name: Q43686_VIGUN_3-36    Len: 54  Check: 6588 Weight: 1.00
+  Name: B9IQS9_POPTR_26-59   Len: 54  Check: 6533 Weight: 1.00
+  Name: A9PH35_POPTR_26-59   Len: 54  Check: 6464 Weight: 1.00
+  Name: B9IQT0_POPTR_26-59   Len: 54  Check: 6716 Weight: 1.00
+  Name: B9NF44_POPTR_26-59   Len: 54  Check: 6716 Weight: 1.00
+  Name: B9N604_POPTR_23-58   Len: 54  Check: 2799 Weight: 1.00
+  Name: C6T7J9_SOYBN_34-67   Len: 54  Check: 5622 Weight: 1.00
+  Name: A5BKN8_VITVI_24-57   Len: 54  Check: 6497 Weight: 1.00
+  Name: A5BSD2_VITVI_23-57   Len: 54  Check: 4021 Weight: 1.00
+  Name: A5C2S9_VITVI_24-57   Len: 54  Check: 5779 Weight: 1.00
+  Name: A5BSD1_VITVI_24-57   Len: 54  Check: 6326 Weight: 1.00
+  Name: A5BCX7_VITVI_23-57   Len: 54  Check: 4118 Weight: 1.00
+  Name: B0FZ26_9ROSI_20-53   Len: 54  Check: 6527 Weight: 1.00
+  Name: Q7XAU6_VITVI_20-53   Len: 54  Check: 6531 Weight: 1.00
+  Name: O24530_VITVI_20-53   Len: 54  Check: 6531 Weight: 1.00
+  Name: B0FZ27_9ROSI_20-53   Len: 54  Check: 6531 Weight: 1.00
+  Name: O24531_VITVI_20-53   Len: 54  Check: 6801 Weight: 1.00
+  Name: B6TT00_MAIZE_25-58   Len: 54  Check: 5955 Weight: 1.00
+  Name: CHIP_BETVU_27-61     Len: 54  Check: 5089 Weight: 1.00
+  Name: A7F9A3_SCLS1_141-178 Len: 54  Check: 7788 Weight: 1.00
+  Name: A1IJ67_TOBAC_28-61   Len: 54  Check: 5587 Weight: 1.00
+  Name: A9TSW7_PHYPA_17-58   Len: 54  Check:  405 Weight: 1.00
+  Name: Q7XB39_VITVI_25-58   Len: 54  Check: 6806 Weight: 1.00
+  Name: A5AJB3_VITVI_25-58   Len: 54  Check: 6806 Weight: 1.00
+  Name: B8C873_THAPS_22-54   Len: 54  Check: 7882 Weight: 1.00
+  Name: C5XX83_SORBI_23-57   Len: 54  Check: 4556 Weight: 1.00
+  Name: A5AK36_VITVI_13-53   Len: 54  Check: 3389 Weight: 1.00
+  Name: A2X6Z9_ORYSI_25-58   Len: 54  Check: 6090 Weight: 1.00
+  Name: CHI6_ORYSJ_25-58     Len: 54  Check: 6090 Weight: 1.00
+  Name: A9ZMK1_NEPAL_29-62   Len: 54  Check: 5917 Weight: 1.00
+  Name: A5BSD0_VITVI_28-62   Len: 54  Check: 4239 Weight: 1.00
+  Name: B9N605_POPTR_30-63   Len: 54  Check: 6279 Weight: 1.00
+  Name: B9IQS7_POPTR_13-46   Len: 54  Check: 6036 Weight: 1.00
+  Name: C5YBE7_SORBI_27-60   Len: 54  Check: 6473 Weight: 1.00
+  Name: O23805_9CARY_24-57   Len: 54  Check: 6323 Weight: 1.00
+  Name: AMP_AMARE_26-60      Len: 54  Check: 6303 Weight: 1.00
+  Name: A0SZY3_AMAHY_27-60   Len: 54  Check: 7909 Weight: 1.00
+  Name: A0SZX9_9CARY_27-60   Len: 54  Check: 7909 Weight: 1.00
+  Name: Q71U16_AMAHP_27-60   Len: 54  Check: 7909 Weight: 1.00
+  Name: A0SZY0_AMACA_27-60   Len: 54  Check: 7909 Weight: 1.00
+  Name: A0SZY5_AMARE_27-60   Len: 54  Check: 7909 Weight: 1.00
+  Name: A0SZY1_AMACR_27-60   Len: 54  Check: 7909 Weight: 1.00
+  Name: A0SZY2_9CARY_27-60   Len: 54  Check: 7909 Weight: 1.00
+  Name: AMP_AMACA_27-60      Len: 54  Check: 7909 Weight: 1.00
+  Name: A0SZY4_AMAHP_27-60   Len: 54  Check: 7909 Weight: 1.00
+  Name: A0SZY6_AMATR_27-60   Len: 54  Check: 7909 Weight: 1.00
+  Name: Q9S8Z7_AMACA_2-30    Len: 54  Check: 5162 Weight: 1.00
+  Name: Q9S8Z6_AMACA_2-29    Len: 54  Check: 6438 Weight: 1.00
+  Name: C1K2E8_ELAOL_22-55   Len: 54  Check: 6382 Weight: 1.00
+  Name: Q4A3V2_PHYPA_31-71   Len: 54  Check: 2554 Weight: 1.00
+  Name: A9T8R4_PHYPA_31-71   Len: 54  Check: 2554 Weight: 1.00
+  Name: Q43150_SAMNI_15-48   Len: 54  Check: 5884 Weight: 1.00
+  Name: Q05K38_BRARP_24-57   Len: 54  Check: 6703 Weight: 1.00
+  Name: CHI4_BRANA_24-57     Len: 54  Check: 6703 Weight: 1.00
+  Name: A8IXF7_BRACM_24-57   Len: 54  Check: 6703 Weight: 1.00
+  Name: B7X6W0_BRARC_24-57   Len: 54  Check: 6703 Weight: 1.00
+  Name: Q8H6K2_BRARP_24-49   Len: 54  Check: 9025 Weight: 1.00
+  Name: O24658_ARATH_24-57   Len: 54  Check: 6441 Weight: 1.00
+  Name: D3TIC1_MANIN_2-35    Len: 54  Check: 5659 Weight: 1.00
+  Name: B9IQS8_POPTR_24-57   Len: 54  Check: 5612 Weight: 1.00
+  Name: A4QRF6_MAGGR_381-421 Len: 54  Check: 3031 Weight: 1.00
+  Name: C9K5U1_9PEZI_381-421 Len: 54  Check: 3031 Weight: 1.00
+  Name: D0QU15_LACSA_23-56   Len: 54  Check: 5121 Weight: 1.00
+  Name: B9VQ34_PYRPY_24-57   Len: 54  Check: 6171 Weight: 1.00
+  Name: A9U5W5_PHYPA_23-63   Len: 54  Check: 3690 Weight: 1.00
+  Name: A9T7E9_PHYPA_15-55   Len: 54  Check: 3690 Weight: 1.00
+  Name: A9SXW7_PHYPA_26-64   Len: 54  Check: 7331 Weight: 1.00
+  Name: Q596H8_PINMO_25-58   Len: 54  Check: 6517 Weight: 1.00
+  Name: Q596H9_PINMO_25-58   Len: 54  Check: 6517 Weight: 1.00
+  Name: Q596H7_PINMO_25-58   Len: 54  Check: 6930 Weight: 1.00
+  Name: Q9XFW7_BETVU_24-57   Len: 54  Check: 5561 Weight: 1.00
+  Name: Q43391_BRANA_17-50   Len: 54  Check: 5588 Weight: 1.00
+  Name: Q94C47_BRANA_33-66   Len: 54  Check: 5588 Weight: 1.00
+  Name: O22842_ARATH_28-64   Len: 54  Check: 1707 Weight: 1.00
+  Name: O22841_ARATH_28-64   Len: 54  Check: 1473 Weight: 1.00
+  Name: A9NSX6_PICSI_36-69   Len: 54  Check: 6975 Weight: 1.00
+  Name: A9NQV7_PICSI_36-69   Len: 54  Check: 6975 Weight: 1.00
+  Name: A9NQ96_PICSI_36-69   Len: 54  Check: 6975 Weight: 1.00
+  Name: B8LQM1_PICSI_36-69   Len: 54  Check: 6975 Weight: 1.00
+  Name: C0PRG2_PICSI_36-69   Len: 54  Check: 6975 Weight: 1.00
+  Name: A9NP56_PICSI_36-69   Len: 54  Check: 6975 Weight: 1.00
+  Name: C3VPA0_PSEMZ_26-59   Len: 54  Check: 7167 Weight: 1.00
+  Name: C3VP99_PSEMZ_26-59   Len: 54  Check: 7197 Weight: 1.00
+  Name: O23806_9CARY_24-57   Len: 54  Check: 6097 Weight: 1.00
+  Name: O23804_9CARY_24-57   Len: 54  Check: 6097 Weight: 1.00
+  Name: O23803_9CARY_24-57   Len: 54  Check: 6317 Weight: 1.00
+  Name: Q6WSR9_PICAB_26-59   Len: 54  Check: 6867 Weight: 1.00
+  Name: A4R234_MAGGR_17-57   Len: 54  Check: 2175 Weight: 1.00
+  Name: C9K5U0_9PEZI_17-57   Len: 54  Check: 2175 Weight: 1.00
+  Name: Q6WSS1_PICAB_26-59   Len: 54  Check: 6936 Weight: 1.00
+  Name: Q6WSR8_PICAB_26-59   Len: 54  Check: 6936 Weight: 1.00
+  Name: Q6S737_PICAB_26-59   Len: 54  Check: 6936 Weight: 1.00
+  Name: Q40838_PICGL_26-59   Len: 54  Check: 6928 Weight: 1.00
+  Name: C0JR29_PICAB_1-34    Len: 54  Check: 6928 Weight: 1.00
+  Name: Q6E6N0_PICAB_26-59   Len: 54  Check: 6928 Weight: 1.00
+  Name: A9P2F9_PICSI_26-59   Len: 54  Check: 6928 Weight: 1.00
+  Name: A9NLU6_PICSI_26-59   Len: 54  Check: 6928 Weight: 1.00
+  Name: C0JR28_PICAB_1-34    Len: 54  Check: 6928 Weight: 1.00
+  Name: A9NLX3_PICSI_26-59   Len: 54  Check: 6928 Weight: 1.00
+  Name: Q6WSS0_PICAB_26-59   Len: 54  Check: 6643 Weight: 1.00
+  Name: Q6SSF0_PICAB_26-59   Len: 54  Check: 6643 Weight: 1.00
+  Name: A5JVZ1_BRAJU_33-66   Len: 54  Check: 6406 Weight: 1.00
+  Name: A4RNW4_MAGGR_271-311 Len: 54  Check: 2753 Weight: 1.00
+  Name: C9K5T6_9PEZI_329-369 Len: 54  Check: 2753 Weight: 1.00
+  Name: A1DKB4_NEOFI_303-344 Len: 54  Check:  960 Weight: 1.00
+  Name: Q4WL37_ASPFU_293-334 Len: 54  Check:  147 Weight: 1.00
+  Name: Q42085_ARATH_36-69   Len: 54  Check: 6692 Weight: 1.00
+  Name: Q9M2U5_ARATH_28-61   Len: 54  Check: 6692 Weight: 1.00
+  Name: O23248_ARATH_28-61   Len: 54  Check: 6692 Weight: 1.00
+  Name: A7E4P3_SCLS1_108-149 Len: 54  Check: 1255 Weight: 1.00
+  Name: A6RKC4_BOTFB_110-152 Len: 54  Check: 8999 Weight: 1.00
+  Name: Q8H986_CITJA_22-58   Len: 54  Check:  836 Weight: 1.00
+  Name: C9STV8_VERA1_294-330 Len: 54  Check:  638 Weight: 1.00
+  Name: C9STV8_VERA1_114-155 Len: 54  Check: 9072 Weight: 1.00
+  Name: C9STV8_VERA1_230-270 Len: 54  Check:  643 Weight: 1.00
+  Name: B2ARV7_PODAN_224-267 Len: 54  Check: 4602 Weight: 1.00
+  Name: Q2H2H8_CHAGB_36-78   Len: 54  Check: 8341 Weight: 1.00
+  Name: A4QQ53_MAGGR_53-96   Len: 54  Check: 7676 Weight: 1.00
+  Name: C9K5T8_9PEZI_53-96   Len: 54  Check: 7676 Weight: 1.00
+  Name: Q7Y238_EUOEU_21-62   Len: 54  Check: 2364 Weight: 1.00
+  Name: Q7X9R9_EUOEU_21-62   Len: 54  Check: 1217 Weight: 1.00
+  Name: Q8H7F8_ARATH_21-62   Len: 54  Check: 2528 Weight: 1.00
+  Name: HEVL_ARATH_21-62     Len: 54  Check: 2528 Weight: 1.00
+  Name: Q8H950_EUTWA_21-62   Len: 54  Check: 2103 Weight: 1.00
+  Name: Q9FUU3_HEVBR_17-50   Len: 54  Check: 7568 Weight: 1.00
+  Name: Q6JYQ8_HEVBR_17-58   Len: 54  Check: 1655 Weight: 1.00
+  Name: Q6JYQ7_HEVBR_17-58   Len: 54  Check: 1655 Weight: 1.00
+  Name: HEVE_HEVBR_17-58     Len: 54  Check: 1655 Weight: 1.00
+  Name: O49860_HEVBR_1-41    Len: 54  Check: 3796 Weight: 1.00
+  Name: B9SZ68_RICCO_21-62   Len: 54  Check: 2308 Weight: 1.00
+  Name: Q6KF83_HEVBR_1-41    Len: 54  Check: 4397 Weight: 1.00
+  Name: HEVP_HEVBR_1-41      Len: 54  Check: 4397 Weight: 1.00
+  Name: Q6JYR0_HEVBR_17-58   Len: 54  Check: 2304 Weight: 1.00
+  Name: Q6JYQ9_HEVBR_17-58   Len: 54  Check: 2274 Weight: 1.00
+  Name: Q58HA4_9FABA_23-64   Len: 54  Check: 2311 Weight: 1.00
+  Name: B9I5G0_POPTR_21-62   Len: 54  Check: 2023 Weight: 1.00
+  Name: A0SWV6_9ROSI_21-62   Len: 54  Check: 2023 Weight: 1.00
+  Name: C6T035_SOYBN_20-61   Len: 54  Check: 2388 Weight: 1.00
+  Name: B9MZD0_POPTR_16-58   Len: 54  Check: 8835 Weight: 1.00
+  Name: B9I5G2_POPTR_20-61   Len: 54  Check: 1124 Weight: 1.00
+  Name: A9PHF7_POPTR_20-61   Len: 54  Check: 1580 Weight: 1.00
+  Name: B1PDJ8_CAPAN_20-59   Len: 54  Check: 4909 Weight: 1.00
+  Name: Q8W2B2_CAPAN_20-59   Len: 54  Check: 4909 Weight: 1.00
+  Name: B8N8I8_ASPFN_48-89   Len: 54  Check:  915 Weight: 1.00
+  Name: B9T8E8_RICCO_32-65   Len: 54  Check: 6390 Weight: 1.00
+  Name: B2AAQ0_PODAN_45-85   Len: 54  Check: 3343 Weight: 1.00
+  Name: A9RL26_PHYPA_21-62   Len: 54  Check: 2005 Weight: 1.00
+  Name: C8VSV7_EMENI_77-119  Len: 54  Check: 9020 Weight: 1.00
+  Name: Q5BG13_EMENI_77-119  Len: 54  Check: 9020 Weight: 1.00
+  Name: Q5B303_EMENI_98-139  Len: 54  Check: 9791 Weight: 1.00
+  Name: C8V802_EMENI_98-139  Len: 54  Check: 9791 Weight: 1.00
+  Name: B6H5Y3_PENCW_66-107  Len: 54  Check:   52 Weight: 1.00
+  Name: A7EJG1_SCLS1_133-180 Len: 54  Check: 7172 Weight: 1.00
+  Name: Q2GQ53_CHAGB_70-106  Len: 54  Check: 1076 Weight: 1.00
+  Name: C7Z3E2_NECH7_54-101  Len: 54  Check: 6607 Weight: 1.00
+  Name: C7ZGN3_NECH7_105-146 Len: 54  Check: 9754 Weight: 1.00
+  Name: Q2GTW7_CHAGB_139-187 Len: 54  Check: 2879 Weight: 1.00
+  Name: D1ZXC6_SORMA_108-156 Len: 54  Check: 3386 Weight: 1.00
+  Name: D4ALF6_ARTBE_111-141 Len: 54  Check:  836 Weight: 1.00
+  Name: D4D5M9_TRIVC_517-548 Len: 54  Check: 9151 Weight: 1.00
+  Name: Q2UDT3_ASPOR_436-468 Len: 54  Check: 7951 Weight: 1.00
+  Name: B0Y3J3_ASPFC_353-385 Len: 54  Check: 7639 Weight: 1.00
+  Name: Q4WU15_ASPFU_375-407 Len: 54  Check: 7639 Weight: 1.00
+  Name: A2VEB7_TRIRE_439-471 Len: 54  Check: 8224 Weight: 1.00
+  Name: Q707V9_9SACH_165-208 Len: 54  Check: 4621 Weight: 1.00
+  Name: Q6BL38_DEBHA_79-132  Len: 54  Check: 1163 Weight: 1.00
+  Name: Q7Z8R6_9SACH_803-842 Len: 54  Check: 5198 Weight: 1.00
+  Name: KTXA_KLULA_317-370   Len: 54  Check:  318 Weight: 1.00
+  Name: C5P133_COCP7_97-144  Len: 54  Check: 5678 Weight: 1.00
+  Name: Q5VHW7_COCPO_85-132  Len: 54  Check: 5678 Weight: 1.00
+  Name: D4AVW4_ARTBE_49-96   Len: 54  Check: 6089 Weight: 1.00
+  Name: D4DB10_TRIVC_49-96   Len: 54  Check: 6089 Weight: 1.00
+  Name: B8MCG7_TALSN_124-165 Len: 54  Check: 1201 Weight: 1.00
+  Name: B8MCG8_TALSN_124-165 Len: 54  Check: 1201 Weight: 1.00
+  Name: B6QVU1_PENMQ_68-110  Len: 54  Check: 7277 Weight: 1.00
+  Name: D3B6J0_POLPA_238-271 Len: 54  Check: 6644 Weight: 1.00
+  Name: A7E648_SCLS1_71-107  Len: 54  Check: 2072 Weight: 1.00
+  Name: Q0CCJ4_ASPTN_65-106  Len: 54  Check: 9918 Weight: 1.00
+  Name: A1C6S5_ASPCL_65-106  Len: 54  Check:  887 Weight: 1.00
+  Name: B0Y822_ASPFC_66-107  Len: 54  Check:  162 Weight: 1.00
+  Name: Q4WMI5_ASPFU_66-103  Len: 54  Check: 9429 Weight: 1.00
+  Name: A1D7W5_NEOFI_15-49   Len: 54  Check: 4311 Weight: 1.00
+  Name: C7ZB68_NECH7_113-155 Len: 54  Check: 8552 Weight: 1.00
+  Name: C8VSL9_EMENI_110-149 Len: 54  Check: 6059 Weight: 1.00
+  Name: Q5BFY1_EMENI_110-149 Len: 54  Check: 6059 Weight: 1.00
+  Name: Q5AT99_EMENI_63-102  Len: 54  Check: 5033 Weight: 1.00
+  Name: C8VEJ3_EMENI_63-102  Len: 54  Check: 5033 Weight: 1.00
+  Name: A1DKA0_NEOFI_111-150 Len: 54  Check: 5512 Weight: 1.00
+  Name: Q0CFU0_ASPTN_114-150 Len: 54  Check: 1151 Weight: 1.00
+  Name: D1ZBI7_SORMA_70-106  Len: 54  Check: 2015 Weight: 1.00
+  Name: C5FPW9_NANOT_71-108  Len: 54  Check: 9102 Weight: 1.00
+  Name: A2RBJ5_ASPNC_118-154 Len: 54  Check: 1580 Weight: 1.00
+  Name: C5FN50_NANOT_65-99   Len: 54  Check: 4188 Weight: 1.00
+  Name: C7ZER7_NECH7_116-154 Len: 54  Check: 8376 Weight: 1.00
+  Name: C4JYD2_UNCRE_113-147 Len: 54  Check: 5444 Weight: 1.00
+  Name: C5FMR8_NANOT_93-134  Len: 54  Check: 1313 Weight: 1.00
+  Name: Q0GA12_9PEZI_95-134  Len: 54  Check: 5469 Weight: 1.00
+  Name: C9K5U4_9PEZI_99-137  Len: 54  Check: 7222 Weight: 1.00
+  Name: A4RMU7_MAGGR_99-137  Len: 54  Check: 7222 Weight: 1.00
+  Name: Q0CGA1_ASPTN_92-133  Len: 54  Check:  767 Weight: 1.00
+  Name: A2R4L6_ASPNC_104-142 Len: 54  Check: 7695 Weight: 1.00
+  Name: B0Y1N2_ASPFC_81-123  Len: 54  Check: 8716 Weight: 1.00
+  Name: A4DA09_ASPFU_81-123  Len: 54  Check: 8716 Weight: 1.00
+  Name: C5FKP7_NANOT_81-123  Len: 54  Check: 8389 Weight: 1.00
+  Name: B6QSR8_PENMQ_124-164 Len: 54  Check: 5009 Weight: 1.00
+  Name: A2R4D3_ASPNC_39-74   Len: 54  Check: 3545 Weight: 1.00
+  Name: A1CV42_NEOFI_78-115  Len: 54  Check: 8891 Weight: 1.00
+  Name: C7Z0A7_NECH7_223-261 Len: 54  Check: 8427 Weight: 1.00
+  Name: A7F4I5_SCLS1_16-52   Len: 54  Check: 1738 Weight: 1.00
+  Name: Q2GRE7_CHAGB_93-133  Len: 54  Check: 2967 Weight: 1.00
+  Name: Q9HFQ9_EMENI_82-122  Len: 54  Check: 3621 Weight: 1.00
+  Name: Q5AQP0_EMENI_82-122  Len: 54  Check: 3621 Weight: 1.00
+  Name: C8VRJ3_EMENI_82-122  Len: 54  Check: 3621 Weight: 1.00
+  Name: A1CPL5_ASPCL_71-106  Len: 54  Check: 2635 Weight: 1.00
+  Name: Q2H8G8_CHAGB_139-180 Len: 54  Check: 9371 Weight: 1.00
+  Name: B6Q899_PENMQ_147-200 Len: 54  Check: 2388 Weight: 1.00
+  Name: C9SQG4_VERA1_197-241 Len: 54  Check: 3323 Weight: 1.00
+  Name: B8MMH8_TALSN_1-29    Len: 54  Check: 4856 Weight: 1.00
+  Name: B6QSI9_PENMQ_614-654 Len: 54  Check: 3079 Weight: 1.00
+  Name: LECB_PHYAM_295-333   Len: 54  Check: 6951 Weight: 1.00
+  Name: LECC_PHYAM_86-125    Len: 54  Check: 4218 Weight: 1.00
+  Name: LECB_PHYAM_212-251   Len: 54  Check: 4572 Weight: 1.00
+  Name: LECB_PHYAM_84-124    Len: 54  Check: 1873 Weight: 1.00
+  Name: LECB_PHYAM_128-167   Len: 54  Check: 4666 Weight: 1.00
+  Name: LECB_PHYAM_172-210   Len: 54  Check: 7025 Weight: 1.00
+  Name: LECB_PHYAM_253-292   Len: 54  Check: 4497 Weight: 1.00
+  Name: LECC_PHYAM_128-166   Len: 54  Check: 6419 Weight: 1.00
+  Name: LED2_PHYAM_43-81     Len: 54  Check: 6450 Weight: 1.00
+  Name: LECC_PHYAM_45-84     Len: 54  Check: 5975 Weight: 1.00
+  Name: LED2_PHYAM_1-40      Len: 54  Check: 6054 Weight: 1.00
+  Name: LECB_PHYAM_42-81     Len: 54  Check: 4900 Weight: 1.00
+  Name: A8HSD9_CHLRE_31-72   Len: 54  Check: 9027 Weight: 1.00
+  Name: C7ZC39_NECH7_4-41    Len: 54  Check: 9982 Weight: 1.00
+  Name: CBLE_VISAL_2-43      Len: 54  Check: 1996 Weight: 1.00
+  Name: Q42468_IPONI_25-64   Len: 54  Check: 5008 Weight: 1.00
+  Name: AMP_IPONI_1-39       Len: 54  Check: 7748 Weight: 1.00
+  Name: Q40095_IPONI_25-64   Len: 54  Check: 5011 Weight: 1.00
+  Name: Q6SPQ7_BAMOL_20-59   Len: 54  Check: 4922 Weight: 1.00
+  Name: Q42970_ORYSA_32-71   Len: 54  Check: 4822 Weight: 1.00
+  Name: CHI2_ORYSJ_32-71     Len: 54  Check: 4849 Weight: 1.00
+  Name: A2Y4F6_ORYSI_23-62   Len: 54  Check: 5512 Weight: 1.00
+  Name: Q42992_ORYSA_23-62   Len: 54  Check: 5512 Weight: 1.00
+  Name: Q6SZS3_ORYSA_23-62   Len: 54  Check: 5512 Weight: 1.00
+  Name: CHI9_ORYSJ_23-62     Len: 54  Check: 5512 Weight: 1.00
+  Name: B9FPH6_ORYSJ_23-62   Len: 54  Check: 5512 Weight: 1.00
+  Name: Q8VWZ5_ORYSA_23-62   Len: 54  Check: 5512 Weight: 1.00
+  Name: Q6JBM3_ZEADI_22-61   Len: 54  Check: 5980 Weight: 1.00
+  Name: Q6JBL9_ZEADI_22-61   Len: 54  Check: 5980 Weight: 1.00
+  Name: Q6JBM5_ZEADI_22-61   Len: 54  Check: 5980 Weight: 1.00
+  Name: Q6JBM1_ZEADI_22-61   Len: 54  Check: 5980 Weight: 1.00
+  Name: Q40667_ORYSA_20-59   Len: 54  Check: 5905 Weight: 1.00
+  Name: A2YH55_ORYSI_20-59   Len: 54  Check: 5896 Weight: 1.00
+  Name: CHI1_ORYSJ_20-59     Len: 54  Check: 5896 Weight: 1.00
+  Name: Q42995_ORYSA_20-59   Len: 54  Check: 6004 Weight: 1.00
+  Name: Q6U5G8_ORYSJ_1-39    Len: 54  Check: 8026 Weight: 1.00
+  Name: A2YH54_ORYSI_18-57   Len: 54  Check: 6020 Weight: 1.00
+  Name: B9FQZ4_ORYSJ_8-47    Len: 54  Check: 5374 Weight: 1.00
+  Name: CHI3_ORYSJ_18-57     Len: 54  Check: 5374 Weight: 1.00
+  Name: Q0D9D3_ORYSJ_18-57   Len: 54  Check: 5374 Weight: 1.00
+  Name: Q40668_ORYSA_17-56   Len: 54  Check: 5517 Weight: 1.00
+  Name: A2XI16_ORYSI_21-60   Len: 54  Check: 5070 Weight: 1.00
+  Name: Q2HJJ5_MUSPR_21-60   Len: 54  Check: 5070 Weight: 1.00
+  Name: A7UC81_ORYSI_21-60   Len: 54  Check: 5070 Weight: 1.00
+  Name: CHI12_ORYSJ_21-60    Len: 54  Check: 5070 Weight: 1.00
+  Name: A2XI15_ORYSI_21-60   Len: 54  Check: 5070 Weight: 1.00
+  Name: A3AJ48_ORYSJ_21-60   Len: 54  Check: 5070 Weight: 1.00
+  Name: Q6JBN3_ZEAMP_24-63   Len: 54  Check: 5562 Weight: 1.00
+  Name: Q6JBM9_ZEAMP_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVH2_ZEAMP_23-62   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVH3_ZEAMP_17-56   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVM0_ZEAMP_10-49   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVF2_ZEAMP_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVF9_ZEAMP_18-57   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVG8_ZEAMP_18-57   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVI1_ZEAMP_19-58   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVJ5_ZEAMP_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVH7_ZEAMP_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVH8_ZEAMP_23-62   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVG9_ZEAMP_18-57   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVM1_ZEAMP_13-52   Len: 54  Check: 5562 Weight: 1.00
+  Name: B4G0Q3_MAIZE_23-62   Len: 54  Check: 5562 Weight: 1.00
+  Name: Q6JBM4_ZEADI_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVK2_ZEAMP_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVL5_ZEAMP_24-63   Len: 54  Check: 5562 Weight: 1.00
+  Name: Q6JBN0_ZEAMP_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVH0_ZEAMP_19-58   Len: 54  Check: 5562 Weight: 1.00
+  Name: Q6JBN5_ZEAMP_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVK0_ZEAMP_23-62   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVF1_ZEAMP_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVH4_ZEAMP_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVF0_ZEAMP_21-60   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVK5_ZEAMP_17-56   Len: 54  Check: 5562 Weight: 1.00
+  Name: Q6JBN1_ZEAMP_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: Q6JBN4_ZEAMP_23-62   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVH1_ZEAMP_19-58   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVH5_ZEAMP_23-62   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVL7_ZEAMP_23-62   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVI0_ZEAMP_18-57   Len: 54  Check: 5562 Weight: 1.00
+  Name: Q6JBN6_ZEAMP_23-62   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVI5_ZEAMP_18-57   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVG3_ZEAMP_17-56   Len: 54  Check: 5562 Weight: 1.00
+  Name: Q6JBL7_ZEADI_22-61   Len: 54  Check: 5562 Weight: 1.00
+  Name: B8QVF8_ZEAMP_17-56   Len: 54  Check: 5562 Weight: 1.00
+  Name: Q41794_MAIZE_21-59   Len: 54  Check: 7339 Weight: 1.00
+  Name: B8QVL4_ZEAMP_22-61   Len: 54  Check: 5569 Weight: 1.00
+  Name: C6JSV0_SORBI_21-60   Len: 54  Check: 5442 Weight: 1.00
+  Name: C5YYH5_SORBI_27-66   Len: 54  Check: 5957 Weight: 1.00
+  Name: B8QVI2_ZEAMP_18-57   Len: 54  Check: 5583 Weight: 1.00
+  Name: Q8W427_WHEAT_20-59   Len: 54  Check: 5185 Weight: 1.00
+  Name: Q9SQL3_POAPR_20-59   Len: 54  Check: 5185 Weight: 1.00
+  Name: Q6T484_WHEAT_20-59   Len: 54  Check: 5185 Weight: 1.00
+  Name: Q9SQL4_POAPR_20-59   Len: 54  Check: 5023 Weight: 1.00
+  Name: Q41539_WHEAT_20-59   Len: 54  Check: 4954 Weight: 1.00
+  Name: Q9AXR9_SECCE_20-59   Len: 54  Check: 4644 Weight: 1.00
+  Name: CHI1_HORVU_19-57     Len: 54  Check: 7337 Weight: 1.00
+  Name: CHIA_SECCE_19-58     Len: 54  Check: 5169 Weight: 1.00
+  Name: Q8W428_WHEAT_27-66   Len: 54  Check: 5092 Weight: 1.00
+  Name: B1B6T0_BROIN_20-59   Len: 54  Check: 4295 Weight: 1.00
+  Name: Q42839_HORVU_27-66   Len: 54  Check: 5139 Weight: 1.00
+  Name: B6TR38_MAIZE_31-70   Len: 54  Check: 4180 Weight: 1.00
+  Name: C5YXM4_SORBI_77-116  Len: 54  Check: 4059 Weight: 1.00
+  Name: B8R3R6_FESAR_21-60   Len: 54  Check: 5236 Weight: 1.00
+  Name: AMP_TRIKH_1-41       Len: 54  Check: 1930 Weight: 1.00
+  Name: A5DM64_PICGU_106-159 Len: 54  Check: 2038 Weight: 1.00
+  Name: A9TSX1_PHYPA_31-67   Len: 54  Check: 1745 Weight: 1.00
+  Name: O65330_ELAUM_22-61   Len: 54  Check: 5365 Weight: 1.00
+  Name: A2V800_ANACO_22-61   Len: 54  Check: 5209 Weight: 1.00
+  Name: B9SIC4_RICCO_25-64   Len: 54  Check: 5288 Weight: 1.00
+  Name: C3VD22_MUSPR_19-58   Len: 54  Check: 5247 Weight: 1.00
+  Name: O22318_MUSAC_13-52   Len: 54  Check: 5914 Weight: 1.00
+  Name: B6UYK6_MUSPR_19-58   Len: 54  Check: 5655 Weight: 1.00
+  Name: Q8VXF1_MUSAC_19-58   Len: 54  Check: 5655 Weight: 1.00
+  Name: Q8VXF0_MUSAC_23-62   Len: 54  Check: 4928 Weight: 1.00
+  Name: A9NLC7_PICSI_34-73   Len: 54  Check: 4753 Weight: 1.00
+  Name: A9NUA7_PICSI_26-65   Len: 54  Check: 4540 Weight: 1.00
+
+//
+
+           1                                               50
+Q6IVX8_9CARY_37-76   AFQCGQQAGGALCHSGLCCSQWGWCGTTSDYCGNGCQSQC~~~~~~~~~~
+B9HQY5_POPTR_21-60   AEQCGQQAGGALCPGGLCCSSYGWCGTTADYCGDGCQSQC~~~~~~~~~~
+CHIC_POPTR_22-61     AEQCGRQAGDALCPGGLCCSFYGWCGTTVDYCGDGCQSQC~~~~~~~~~~
+B9HQZ1_POPTR_22-61   AEQCGRQAGDALCPGGLCCSFYGWCGTTVDYCGDGCQSQC~~~~~~~~~~
+CHI6_POPTR_22-61     AEQCGRQAGDALCPGGLCCSSYGWCGTTVDYCGIGCQSQC~~~~~~~~~~
+CHIB_POPTR_21-60     AEQCGQQAGDALCPGGLCCSSYGWCGTTADYCGDGCQSQC~~~~~~~~~~
+B9HQY9_POPTR_21-60   AEQCGQQAGDALCPGGLCCSSHGWCGTTADYCGDGCQSQC~~~~~~~~~~
+Q9LEB2_PHAVU_26-65   GVQCGTEAGGALCPRGLCCSQWGWCGSTIDYCGPGCQSQC~~~~~~~~~~
+Q8MD06_LEUGL_24-63   AEQCGRQAGGALCPGRLCCSQFGWCGSTNDYCGPGCQSQC~~~~~~~~~~
+P93680_PERAE_25-64   AEQCGRQAGGALCPGGLCCSQFGWCGSTSDYCGPTCQSQC~~~~~~~~~~
+CHIT_PHAVU_27-66     GEQCGRQAGGALCPGGNCCSQFGWCGSTTDYCGPGCQSQC~~~~~~~~~~
+Q6UZ78_PHAVU_26-65   GEQCGRQAGGALCPGGNCCSQFGWCGSTTDYCGKDCQSQC~~~~~~~~~~
+CHI5_PHAVU_26-65     GEQCGRQAGGALCPGGNCCSQFGWCGSTTDYCGKDCQSQC~~~~~~~~~~
+A9PJS5_9ROSI_21-60   AEQCGSQAGGAVCPGGLCCSQFGWCGSTNDYCGNGCQSQC~~~~~~~~~~
+B9HQZ2_POPTR_21-60   AEQCGSQAGGALCPGGLCCSQFGWCGSTNDYCGNGCQSQC~~~~~~~~~~
+Q9FUH3_VIGUS_1-38    QCGSQAGGALCPGGLCCSQFGWCGSTDDYCGKGCQSQC~~~~~~~~~~~~
+Q43685_VIGUN_24-63   GEQCGSQAGGALCPGGLCCSQFGWCGSTDDYCGKGCQSQC~~~~~~~~~~
+Q6IVX2_9CARY_23-62   AEQCGSQAGGAACPGGLCCSQFGWCGTTDDYCEAGCQSQC~~~~~~~~~~
+Q6IVX4_9CARY_23-62   AEQCGSQAGGAVCPGGLCCSQYGWCGTTDDYCGAGCQSQC~~~~~~~~~~
+Q8LK49_LEUGL_23-62   AEQCGSQAGGALCPGGLCCSQFGWCGSNNDYCGPGCQSQC~~~~~~~~~~
+A3QRB7_VITVI_20-59   AEQCGGQAGGRVCPGGACCSKFGRCGNTADYCGSGCQSQC~~~~~~~~~~
+A3QRB6_VITVI_20-59   AEQCGGQAGGRVCPGGACCSKFGRCGNTADYCGSGCQSQC~~~~~~~~~~
+Q546P8_VITVI_20-59   AEQCGGQAGGRVCPGGACCSKFGWCGNTADYCGSGCQSQC~~~~~~~~~~
+CHIB_VITVI_20-59     AEQCGGQAGGRVCPGGACCSKFGWCGNTADYCGSGCQSQC~~~~~~~~~~
+C0LNR1_9MAGN_20-59   AEDCGSQAGGALCPGGLCCSKFGFCGTTADYCGTGCQSQC~~~~~~~~~~
+B8YPL6_9MAGN_20-59   AEDCGSQAGGALCPGGLCCSKFGFCDTTADYCGTGCQSQC~~~~~~~~~~
+CHI3_TOBAC_23-63     AEQCGKQAGGARCPSGMCCSNFGWCGNTQDYCGPGKCQSQC~~~~~~~~~
+CHI4_SOLTU_18-58     AEQCGKQAGGARCAAGLCCSNFGWCGNTNDYCGPGKCQSQC~~~~~~~~~
+O81144_SOLTU_19-59   AEQCGRQAGGAPCAAGLCCSNVGWCGNTDDYCGPGKCQSQC~~~~~~~~~
+O81145_SOLTU_19-59   AEQCGRQAGGAPCAAGLCCSNVGWCGNTDDYCGPGKCQSQC~~~~~~~~~
+CHI1_TOBAC_23-63     AEQCGSQAGGARCPSGLCCSKFGWCGNTNDYCGPGNCQSQC~~~~~~~~~
+Q9FEW1_NICSY_23-63   AEQCGSQAGGARCASGLCCSKFGWCGNTNDYCGPGNCQSQC~~~~~~~~~
+CHI2_TOBAC_23-63     AEQCGSQAGGARCASGLCCSKFGWCGNTNDYCGPGNCQSQC~~~~~~~~~
+CHIC_SOLLC_22-62     AEQCGSQAGGALCASGLCCSKFGWCGNTNEYCGPGNCQSQC~~~~~~~~~
+CHI1_SOLTU_18-58     AEQCGSQAGGALCASGLCCSKFGWCGDTNDYCGPGNCQSQC~~~~~~~~~
+CHI2_SOLTU_18-58     AEQCGSQAGGALCASGLCCSKFGWCGNTNDYCGPGNCQSQC~~~~~~~~~
+CHI3_SOLTU_18-58     AEQCGSQAGGALCAPGLCCSKFGWCGNTNDYCGPGNCQSQC~~~~~~~~~
+B9VRK7_CAPAN_22-62   AEQCGSQAGGALCAAGLCCSKFGWCGNTNDYCGAGNCQSQC~~~~~~~~~
+Q0U1Q1_PHANO_19-58   QGASPAISRTARCSSFGNCCSKNGYCGSSKDYCGDGCQTG~~~~~~~~~~
+CHIT_SOLTU_26-66     AQNCGSQGGGKACASGQCCSKFGWCGNTNDYCGSGNCQSQC~~~~~~~~~
+Q43853_ULMAM_21-60   AEQCGSQAGGAVCPVGLCCSKFGWCGSTNEYCGDGCQSQC~~~~~~~~~~
+Q4PJV8_9ROSA_21-60   ADQCGSQAGGAVCPGGLCCSKFGWCGNTNEYCGDGCQSQC~~~~~~~~~~
+A9SN77_PHYPA_29-68   AEQCGRQAGGATCPGGLCCSQFGWCGSNAEYCGDGCQSQC~~~~~~~~~~
+Q9FXL8_PSOTE_15-54   GEQCGRQAGGGVCPGGLCCSKFGWCGSTAEYCGEGCQSQC~~~~~~~~~~
+CHI2_PEA_20-59       AEQCGTQAGGALCPGGLCCSKFGWCGSTSEYCGDGCQSQC~~~~~~~~~~
+Q9ZP10_CICAR_23-62   AEQCGKQAGGALCPGGLCCSKFGWCGSTSDYCGDGCQSQC~~~~~~~~~~
+Q5RLX9_MEDSA_23-62   AEQCGKQAGGALCPGGLCCSKFGWCGSTGEYCGDGCQCQC~~~~~~~~~~
+P94084_MEDSA_23-62   AEQCGKQAGGALCPGGLCCSKFGWCGSTGEYCGDGCQSQC~~~~~~~~~~
+P93327_MEDTR_23-62   ADECGKQAGGALCPGGLCCSKFGWCGSTGDYCGDGCQSQC~~~~~~~~~~
+Q7X9F5_9FABA_26-65   AEQCGRQAGGALCPGGLCCSKFGWCGSTGDYCGDGCQSQC~~~~~~~~~~
+B2DD07_CITUN_20-59   AEQCGSQAGGAVCPGGLCCSKFGFCGNTPAYCTNGCQSQC~~~~~~~~~~
+Q76IR2_TAXDI_23-63   AENCGRQAGGAVCPGGLCCSQYGWCGNTPAHCQVPGCQSQC~~~~~~~~~
+Q76JJ7_CRYJA_23-63   AENCGSQAGGAVCPGGLCCSQYGWCGNTPDHCRVPGCQSQC~~~~~~~~~
+Q403K0_CRYJA_23-63   AENCGSQAGGAVCPGGLCCSQYGWCGNTPDHCRVPGCQSQC~~~~~~~~~
+Q76JH6_CRYJA_23-63   AENCGSQAGGAVCPGGLCCSQYGWCGNTPDHCRVPGCQSQC~~~~~~~~~
+Q76JK0_CRYJA_23-63   AENCGSQAGGAVCPGGLCCSQYGWCGNTPDHCRVPGCQSQC~~~~~~~~~
+CHI1_GOSHI_22-62     AEQCGRQAGGALCPGGLCCSQFGWCGSTADYCTVPGCQSQC~~~~~~~~~
+CHI2_GOSHI_1-40      EQCGRQAGGALCPGGLCCSQFGWCGSTADYCTVPGCQSQC~~~~~~~~~~
+Q9ZTT8_GOSHI_1-40    EQCGRQAGGALCPGGLCCSQFGWCGSTADYCTVPGCQSQC~~~~~~~~~~
+D0EWF1_CAMSI_21-60   QEQCGKQAGGKLCPGGLCCSQFGFCGSTPDYCSNNCQSQC~~~~~~~~~~
+C1K2M3_PANGI_19-57   AEQCGKQAGMALCPNGLCCSQFGWCGSTPEYCTNCQSQC~~~~~~~~~~~
+CHI1_THECC_21-62     AEQCGRQAGGALCPGGLCCSQFGWCGNTDDYCKKENGCQSQC~~~~~~~~
+Q7Y237_EUOEU_19-58   AEQCGRQAGGALCPGGQCCSQYGWCGTTNEYCGQGCQSQC~~~~~~~~~~
+Q7X9R8_EUOEU_19-58   AEQCGRQAGGALCPGGQCCSQYGWCGTTNEYCGQGCQSQC~~~~~~~~~~
+O65331_ELAUM_23-62   AEQCGNQAGGKVCPGGQCCSQYGWCGTTDEYCKKGCQSKC~~~~~~~~~~
+B9H1P7_POPTR_21-60   AEQCGRQAGGALCPGGQCCSQFGWCGNTDAYCSKGCQSQC~~~~~~~~~~
+B9FPH7_ORYSJ_32-71   AEQCGRQAGGARCPNRLCCSRWGWCGLTDDYCKGGCQSQC~~~~~~~~~~
+CHI7_ORYSI_32-71     AEQCGRQAGGARCPNRLCCSRWGWCGLTDDYCKGGCQSQC~~~~~~~~~~
+CHI7_ORYSJ_32-71     AEQCGRQAGGARCPNRLCCSRWGWCGLTDDYCKGGCQSQC~~~~~~~~~~
+Q9AVA8_CUCME_20-59   AEQCGRQANGALCPNNLCCSQFGFCGDTDDYCKNGCQSQC~~~~~~~~~~
+A1BQQ0_CUCSA_12-51   AEQCGRQANGALCPNNLCCSQFGLCGDTDDYCKNGCQSQC~~~~~~~~~~
+Q207U1_MOMCH_20-59   AEQCGRQANGALCPNRLCCSQHGWCGSTDEYCKNGCQSQC~~~~~~~~~~
+O80404_9ROSI_19-58   AEQCGRQANGALCPNRLCCSQFGWCGNTDEYCKNNCQSQC~~~~~~~~~~
+CHIB_PEA_1-23        EQCGRQAGGATCPNNLCCSQYGY~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q9M7G8_ARAGL_1-38    CGRQAGGALCPNGRCCSKYGYCGNNELYCKLPDCQSNC~~~~~~~~~~~~
+Q9M7G9_ARAGL_16-56   AEQCGRQAGGALCPNGLCCSEFGWCGDTEAYCKVPGCQSQC~~~~~~~~~
+CHI2_BRANA_20-60     AEQCGRQAGGALCPNGLCCSEFGWCGDTEAYCKQPGCQSQC~~~~~~~~~
+Q9M7H3_ARABL_1-36    RQAGGALCPNGLCCSEFGWCGNTEPYCKLPGCQSQC~~~~~~~~~~~~~~
+Q9M7F6_ARAMC_1-36    RQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~~~~~~
+Q9M7H7_ARAHO_1-36    RQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~~~~~~
+Q9M7F7_ARAMC_1-36    RQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~~~~~~
+Q9M7H1_ARAFE_1-36    RQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~~~~~~
+Q9M7F8_ARAMC_1-36    RQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~~~~~~
+Q9M7G0_ARALI_1-36    RQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~~~~~~
+Q9M7F9_9BRAS_1-36    RQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~~~~~~
+Q9M7G1_ARALI_1-37    CRQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~~~~~
+Q9M7H4_ARABL_16-56   GEQCGRQAGGALCPGGLCCSEFGWCGDTDPYCKQPGCQSQC~~~~~~~~~
+Q9M7G4_9BRAS_1-38    CGRQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~~~~
+Q9M7G3_9BRAS_1-37    RRQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~~~~~
+Q9M7H5_ARAGU_1-36    RQAGGAFCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~~~~~~
+Q9M7H8_BOEDR_9-49    AEQCGRQAGGVFCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~
+Q9M7H6_ARAHO_9-49    AEQCGRQAGGVFCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~
+Q9M7F4_BOEPA_9-49    AEQCGRQAGGAPCPNGLCRSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~
+Q9M7F5_BOEPA_9-49    AEQCGRQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~
+Q9M7H0_ARAFE_22-62   AEQCGRQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~
+Q9M7G2_ARALI_3-43    AEQCGRQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~
+Q9M7H2_BOEDR_2-42    AEQCGRQAGGALCPNGLCCSEFGWCGDTEPYCKQPGCQSQC~~~~~~~~~
+Q9SXJ1_ARAGE_33-73   AEQCGRQAGGALCPNGLCCSEFGWCGNTEPYCKQPGSQSQC~~~~~~~~~
+Q9M7G7_ARAGL_19-59   AEQCGRQAGGALCPNGLCCSEFGWCGNTEPYCKQPGCQSQC~~~~~~~~~
+CHIB_ARATH_33-73     AEQCGRQAGGALCPNGLCCSEFGWCGNTEPYCKQPGCQSQC~~~~~~~~~
+Q9M7G5_9BRAS_1-36    RQAGGALCPNGLCCSEWGWCGNTEPYCKQPGCQSQC~~~~~~~~~~~~~~
+Q9M7G6_ARAGU_1-36    RQAGGALCPNGLCCSEFGWCGNTEPYCKQPGCQSQC~~~~~~~~~~~~~~
+Q9M7H9_ARAAL_1-37    RRQAGGALCPNGLCCSEFGWCGNTEPYCKQPGCQSQC~~~~~~~~~~~~~
+C3S7U7_ISATI_1-30    LCPNGLCCSEFGWCGNTEPYCKQPGCQSQC~~~~~~~~~~~~~~~~~~~~
+B5TYQ3_9ROSI_22-61   AEQCGRQAGGAVCPNGLCCSQHGWCGSTTEYCGTGCQSQC~~~~~~~~~~
+Q9XFK6_HUMLU_19-58   AEQCGRQAGGALCPNGLCCSQHGWCGTTSDYCAAGCQSQC~~~~~~~~~~
+B8XR33_9ROSA_19-58   AEQCGSQAGGAVCPNGLCCSQYGWCGTTSDYCATGRQSQC~~~~~~~~~~
+B9VQ31_PYRPY_19-58   AEQCGRQAGGAVCPNGLCCSQFGWCGTTSDYCTTGCQSQC~~~~~~~~~~
+Q9SEM3_CAPAN_22-63   AQQCGRQRGGAVCSGSLCCSQYGWCGSTPEYCSPSQGCQSQC~~~~~~~~
+WIN2_SOLTU_25-66     AQQCGRQRGGALCGNNLCCSQFGWCGSTPEYCSPSQGCQSQC~~~~~~~~
+Q75QH1_CAPCH_19-60   AQQCGRQRGGALCGGNLCCSQFGWCGSTPEYCSPSQGCQSQC~~~~~~~~
+O03994_SOLLC_15-56   AQQCGRQRGGRLCGGNLCCSQFGWCGSTPEYCSPSQGCQSQC~~~~~~~~
+WIN1_SOLTU_25-66     AQQCGRQKGGALCSGNLCCSQFGWCGSTPEFCSPSQGCQSRC~~~~~~~~
+Q41230_TOBAC_21-62   AQQCGRQRGGALCSGNLCCSQFGWCGSTPEYCSPSQGCQSQC~~~~~~~~
+Q41231_TOBAC_22-63   AQQCGRQRGGALCSGNLCCIQFGWCGSTQEYCSPSQGCQSQC~~~~~~~~
+A5AT01_VITVI_22-61   QEQCGRQAGGALCSGGLCCSQYGYCGSTSAYCSTGCQSQC~~~~~~~~~~
+Q9ZTK4_VITVI_22-61   QEQCGRQAGGALCSGGLCCSQYGYCGSTSAYCSTGCQSQC~~~~~~~~~~
+Q9FS45_VITVI_22-61   QEQCGRQAGGALCSGGLCCSQYGYCGSTSAYCSTGCQSQC~~~~~~~~~~
+B0ZC08_CASGL_23-62   AEQCGRQAGGALCAVGQCCSQYGWCGSTSDYCSTGCQRQC~~~~~~~~~~
+Q8GUD7_HEVBR_1-39    EQCGRQAGGALCPGGLCCSQYGWCANTPEYCGSGCQSQC~~~~~~~~~~~
+Q949H3_HEVBR_1-39    EQCGRQAGGALCPGGLCCSQYGWCANTPEYCGSGCQSQC~~~~~~~~~~~
+Q42428_CASSA_18-57   AEQCGRQAGGAACANNLCCSQFGWCGNTAEYCGAGCQSQC~~~~~~~~~~
+Q6QNB2_MUSAC_25-69   GEQCGRQAGGALCASGKESLCCSQFGWCGNTDDYCGSQEGCQSQC~~~~~
+Q6R8K3_MUSAC_25-69   GEQCGRQAGGALCASGKESLCCSQFGWCGNTDDYCGSQEGCQSQC~~~~~
+Q6QNA9_MUSBA_25-69   GEQCGRQAGGALCASGKESLCCSQFGWCGNTDDYCGSQEGCQSQC~~~~~
+Q8SA44_BRAJU_19-58   RGQCGHQAGRALFPNSLRCSEAGWCGDTEPYCGSGCQSQC~~~~~~~~~~
+Q8SA44_BRAJU_76-115  TEQCGHQAKGALCLNGLCRSKDGYCGTTEPYCGRGCQSEC~~~~~~~~~~
+Q9SQF7_BRAJU_71-112  TPQCGRQSIPAGALCPNGLCCSEAGWCGTTEAYCGHGCQSQC~~~~~~~~
+Q9SQF7_BRAJU_20-61   GEQCGSQSIPEGALCPNGLCCSEAGWCGTTEAYCGHGCQSQC~~~~~~~~
+Q9SDY6_SOYBN_23-62   AEQCGTQAGGALCPNRLCCSKFGWCGDTDSYCGEGCQSQC~~~~~~~~~~
+Q7X9F6_9FABA_24-63   AEQCGSQANGAVCPNGLCCSQFGYCGNTDQYCGAGCQSQC~~~~~~~~~~
+Q7X9F4_9FABA_24-63   AEQCGSQANGAVCPNGLCCSKFGWCGNTDPWCGDGCQSQC~~~~~~~~~~
+Q1W6C5_9CARY_23-62   AEQCGSQAGGAVCPNGLCCSKYGWCGSTDTYCKDGCQSQC~~~~~~~~~~
+B3VFX0_9CARY_23-62   AEQCGSQAGGAVCPNGLCCSKYGWCGSTDTYCKDGCQSQC~~~~~~~~~~
+CHIX_PEA_23-62       AEQCGSQAGGAVCPNGLCCSKFGFCGSTDPYCGDGCQSQC~~~~~~~~~~
+A9S0C3_PHYPA_19-58   AQQCGTQANGAVCANGLCCSKYGYCGTTSDYCGTGCQSQC~~~~~~~~~~
+Q38777_ALLSA_17-56   AQQCGSQAGGALCSNRLCCSKFGYCGSTDPYCGTGCQSQC~~~~~~~~~~
+Q38776_ALLSA_13-52   AQQCGSQGSGALCSNGLCCSQYGYCGNGGPYCGTGCQSQC~~~~~~~~~~
+B6TFQ3_MAIZE_26-65   PPQCGANSTTALCPYCLCCSKWGFCGSTEAYCGNGCQSQC~~~~~~~~~~
+A4RL02_MAGGR_44-90   DLRCGSQSPGGSTRCPLNVCCSVAGYCGTSDAYCLPSNGCQAGFGTC~~~
+C9K5U3_9PEZI_44-90   DLRCGSQSPGGSTRCPLNVCCSVAGYCGTSDAYCLPSNGCQAGFGTC~~~
+C7YV56_NECH7_1-41    QCGPENDGARCPLNVCCSSAGFCGTSSIYCGDGCQSEFGSC~~~~~~~~~
+A6RJB2_BOTFB_159-204 VAQCGRNAPQGSQVCPLNTCCSGNGYCGTTSAYCINADPINGNAPC~~~~
+A7E5V2_SCLS1_34-79   VPQCGRNAPQGNQICPLNTCCSGNGYCGTTSAYCINADPVNGNTPC~~~~
+B9H1P8_POPTR_23-62   TPQCGSKAGNATCPNDLCCSSGGYCGLTVAYCCAGCVSQC~~~~~~~~~~
+CHI8_POPTR_23-62     TAQCGSQAGNATCPNDLCCSSGGYCGLTVAYCCAGCVSQC~~~~~~~~~~
+B5L6N2_CROSA_19-58   AAQCGKEANGAICPNDLCCSFWGYCGSTEAYCSGPCQSQC~~~~~~~~~~
+Q9SYS5_SAMNI_29-67   WQCGRDAGGALCHDNLCCSFWGFCGSTYQYCEDGCQSQC~~~~~~~~~~~
+Q9SYS4_SAMNI_29-67   WQCGRDAGGALCHDNLCCSFWGFCGSTYQYCEDGCQSQC~~~~~~~~~~~
+Q9ZT61_SAMNI_29-67   WQCGRDAGGALCHDNLCCSFWGFCGSTYQYCEDGCQSQC~~~~~~~~~~~
+Q9ZT60_SAMNI_29-67   WQCGRDAGGALCHDNLCCSFWGFCGSTYQYCEDGCQSQC~~~~~~~~~~~
+Q944B9_SAMNI_26-64   WQCGRDAGGALCHDNLCCSFWGFCGSTYQYCEDGCQSQC~~~~~~~~~~~
+A7XQ02_MORAL_23-64   EPQCGRDAGGALCHGNLCCSHWGFCGTTAIYCDVDQGCQSQC~~~~~~~~
+Q9SYR2_URTDI_23-62   AQRCGSLGGGGTCPGLRCCSIWGWCGDSEPYCGPSCETNC~~~~~~~~~~
+Q9ZP51_URTDI_23-62   AQRCGSLGGGGTCPGLRCCSIWGWCGDSEPYCGPSCETNC~~~~~~~~~~
+Q9SYR5_URTDI_23-62   AQRCGSQGGGSTCPGLRCCSIWGWCGDSEPYCGRTCENKC~~~~~~~~~~
+Q9S7W3_URTDI_23-62   AQRCGSQGGGGTCPALWCCSIWGWCGDSEPYCGRTCENKC~~~~~~~~~~
+AGI_URTDI_23-62      AQRCGSQGGGGTCPALWCCSIWGWCGDSEPYCGRTCENKC~~~~~~~~~~
+Q9S7K1_URTDI_23-62   AQRCGSQGGGGTCPALWCCSIWGWCGDSEPYCGRTCENKC~~~~~~~~~~
+Q9S7C2_URTDI_24-63   QQRCGSQGGGGTCPALWCCSIWGWCGDSEPYCGRTCENKC~~~~~~~~~~
+Q9S705_URTDI_23-62   AQRCGSQGGGGTCPGLRCCSIWGWCGDSEPYCGRTCENKC~~~~~~~~~~
+Q9S7B3_URTDI_23-62   AQRCGSQGGGGTCPGLRCCSIWGWCGDSEPYCGRTCENKC~~~~~~~~~~
+B0E7E9_ENTDI_17-55   AIHCGKGFKSCPSGQCCSIWGYCGKTNDYCGTNRCECDC~~~~~~~~~~~
+D0VX39_SOLLC_95-134  GSCGMQGGGTKCPSGQCCSLLGWCGTGSDFCKPEICQSQC~~~~~~~~~~
+D0VX39_SOLLC_47-88   GDECGMQANHRSKCPSGMCCSIWGWCGTTSEYCGSGFCQNQC~~~~~~~~
+D0VX39_SOLLC_140-180 NGRCGWQADGRLCPRGQCCSVDGWCGTTTDYCASGLCQSQC~~~~~~~~~
+LECT_SOLTU_105-147   EGRCGWQANGKSCPTGTGQCCSNGGWCGTTSDYCASKNCQSQC~~~~~~~
+LECT_SOLTU_257-299   EGRCGWQANGKSCPTGTGHCCSNAGWCGTTSDYCAPVNCQAQC~~~~~~~
+D0VX39_SOLLC_248-288 EGRCGWQADGKSCPTGQCCGNAGWCGIGPGFCDPIFCQSQC~~~~~~~~~
+LECT_SOLTU_59-99     PQCGMKKGGGKCIKTGECCSIWGWCGTTNAYCSPGYCQKQC~~~~~~~~~
+LECT_SOLTU_211-251   PQCGIKKGGGKCIKTGECCSIWGWCGTTNAYCSPGYCQKQC~~~~~~~~~
+B3XYC5_SOLLC_193-232 PRCGMGGGGGKCKSNECCSIWSWCGTTESYCAPQNCQSQC~~~~~~~~~~
+B3XYC5_SOLLC_249-288 PRCGMGGGGGKCKSNECCSIWSWCGTTESYCAPQNCQSQC~~~~~~~~~~
+B3XYC5_SOLLC_305-344 PRCGMGGGGGKCKSNECCSIWSWCGTTESYCAPQNCQSQC~~~~~~~~~~
+B3XYC5_SOLLC_53-92   PRCGMGGGDGKCKSNECCSIWSWCGTTESFCAPQNCQSQC~~~~~~~~~~
+EAP1_EUCUL_1-39      QTCASRCPRPCNAGLCCSIYGYCGSGNAYCGAGNCRCQC~~~~~~~~~~~
+EAP2_EUCUL_1-39      QTCASRCPRPCNAGLCCSIYGYCGSGAAYCGAGNCRCQC~~~~~~~~~~~
+A7XQ02_MORAL_125-165 DHRCGRALGNPPCNPGRCCSIHNWCGSTAAYCRGSSCQYQC~~~~~~~~~
+Q944B8_SAMNI_26-66   DHRCGSSVGNPPCAPGRCCSIFGWCGGGPSYCSGSNCQYSC~~~~~~~~~
+Q9ZP51_URTDI_69-109  DHRCGAAVGNPPCGQDRCCSVHGWCGGGWDYCFGENCQYRC~~~~~~~~~
+Q9SYR5_URTDI_69-109  DHRCGAAVGNPPCGQDRCCSVHGWCGGGNDYCSGGNCQYRC~~~~~~~~~
+Q9S7B3_URTDI_69-109  DHRCGAAVGNPPCGQDRCCSVHGWCGGGNDYCSGGNCQYRC~~~~~~~~~
+Q9SYR2_URTDI_69-103  DHRCGAAVGNPPCGQDRCCSVHGWCGGGNDYCSSS~~~~~~~~~~~~~~~
+Q9S7K1_URTDI_69-109  DHRCGAAVGNPPCGQDRCCSVHGWCGGGNDYCSGSKCQYRC~~~~~~~~~
+Q9S7W3_URTDI_69-109  DHRCGAAVGNPPCGQDRCCSVHGWCGGGNDYCSGSKCQYRC~~~~~~~~~
+Q9S7C2_URTDI_70-110  DHRCGAAVGNPPCGQDRCCSVHGWCGGGNDYCSGSKCQYRC~~~~~~~~~
+Q9S705_URTDI_69-109  DHRCGAAVGNPPCGKDRCCSVHGWCGGGNDYCSGGKCQYRC~~~~~~~~~
+B2AAQ0_PODAN_351-395 GLCGSTNGNMNCLNSGFGNCCSQWGFCGSTAEYCGANCQRAFGNC~~~~~
+Q0UU01_PHANO_27-73   NARCGEKFGGATCQGSKWGNCCSPYGYCGSGKDYCEAKKCRKNFGTC~~~
+Q0U8R2_PHANO_371-415 NGLCGVQGGETCAGSVWGSCCSQWGYCGTGSDYCGANCNKDFGSC~~~~~
+Q9XFF2_ORYRU_44-84   SQRCGSQGGGATCSNNQCCSQYGYCGFGSEYCGSGCQNGPC~~~~~~~~~
+B8AR70_ORYSI_71-111  SQRCGSQGGGATCSNNQCCSQYGYCGFGSEYCGSGCQNGPC~~~~~~~~~
+AGI_ORYSI_71-111     SQRCGSQGGGATCSNNQCCSQYGYCGFGSEYCGSGCQNGPC~~~~~~~~~
+AGI_ORYSJ_71-111     SQRCGSQGGGATCSNNQCCSQYGYCGFGSEYCGSGCQNGPC~~~~~~~~~
+B7EUA6_ORYSJ_71-111  SQRCGSQGGGATCSNNQCCSQYGYCGFGSEYCGSGCQNGPC~~~~~~~~~
+B9FE25_ORYSJ_50-90   GQRCGSQGGGATCSNNQCCSQYGYCGFGSEYCGSGCQNGPC~~~~~~~~~
+AGI1_WHEAT_69-109    SKRCGSQAGGATCTNNQCCSQYGYCGFGAEYCGAGCQGGPC~~~~~~~~~
+AGI2_WHEAT_70-110    SKRCGSQAGGATCPNNHCCSQYGHCGFGAEYCGAGCQGGPC~~~~~~~~~
+AGI_HORVU_69-109     SKRCGTQAGGKTCPNNHCCSQWGYCGFGAEYCGAGCQGGPC~~~~~~~~~
+AGI3_WHEAT_43-83     SKRCGSQAGGKTCPNNHCCSQYGHCGFGAEYCGAGCQGGPC~~~~~~~~~
+Q9XFF2_ORYRU_130-170 EKRCGKQAGGDKCPNNFCCSAGGYCGLGGNYCGSGCQSGGC~~~~~~~~~
+B9FE25_ORYSJ_136-176 EKRCGKQAGGDKCPNNFCCSAGGYCGLGGNYCGSGCQSGGC~~~~~~~~~
+B7EUA6_ORYSJ_157-197 EKRCGKQAGGDKCPNNFCCSAGGYCGLGGNYCGSGCQSGGC~~~~~~~~~
+B8AR70_ORYSI_157-197 EKRCGKQAGGDKCPNNFCCSAGGYCGLGGNYCGSGCQSGGC~~~~~~~~~
+AGI_ORYSJ_157-197    EKRCGKQAGGDKCPNNFCCSAGGYCGLGGNYCGSGCQSGGC~~~~~~~~~
+AGI_ORYSI_157-197    EKRCGKQAGGDKCPNNFCCSAGGYCGLGGNYCGSGCQSGGC~~~~~~~~~
+AGI3_WHEAT_1-40      QRCGEQGSGMECPNNLCCSQYGYCGMGGDYCGKGCQNGAC~~~~~~~~~~
+AGI_HORVU_26-66      AQRCGEQGSNMECPNNLCCSQYGYCGMGGDYCGKGCQNGAC~~~~~~~~~
+AGI2_WHEAT_27-67     AQRCGEQGSNMECPNNLCCSQYGYCGMGGDYCGKGCQNGAC~~~~~~~~~
+AGI1_WHEAT_26-66     AQRCGEQGSNMECPNNLCCSQYGYCGMGGDYCGKGCQNGAC~~~~~~~~~
+Q9XFF2_ORYRU_1-43    AQTCGKQNNGMICPHNLCCSQFGYCGLGRDYCGTGCQSGACCS~~~~~~~
+B9FE25_ORYSJ_28-51   AQTCGKQNDGMICPHNLCCSQFGQ~~~~~~~~~~~~~~~~~~~~~~~~~~
+B8AR70_ORYSI_28-70   AQTCGKQNDGMICPHNLCCSQFGYCGLGRDYCGTGCQSGACCS~~~~~~~
+B7EUA6_ORYSJ_28-70   AQTCGKQNDGMICPHNLCCSQFGYCGLGRDYCGTGCQSGACCS~~~~~~~
+AGI_ORYSJ_28-70      AQTCGKQNDGMICPHNLCCSQFGYCGLGRDYCGTGCQSGACCS~~~~~~~
+AGI_ORYSI_28-70      AQTCGKQNDGMICPHNLCCSQFGYCGLGRDYCGTGCQSGACCS~~~~~~~
+Q0ZH66_WHEAT_115-154 LKCGHLDNGKLCPNNLCCSQYGYCGLGPEFCGTGCQNGAC~~~~~~~~~~
+B8AR70_ORYSI_115-154 IKCGSNANGELCPNNMCCSQWGYCGLGSEFCGNGCQSGAC~~~~~~~~~~
+AGI_ORYSI_115-154    IKCGSNANGELCPNNMCCSQWGYCGLGSEFCGNGCQSGAC~~~~~~~~~~
+Q9XFF2_ORYRU_88-127  IKCGRNANGELCPNNMCCSQWGYCGLGSEFCGNGCQSGAC~~~~~~~~~~
+AGI_ORYSJ_115-154    IKCGRNANGELCPNNMCCSQWGYCGLGSEFCGNGCQSGAC~~~~~~~~~~
+B9FE25_ORYSJ_94-133  IKCGRNANGELCPNNMCCSQWGYCGLGSEFCGNGCQSGAC~~~~~~~~~~
+B7EUA6_ORYSJ_115-154 IKCGRNANGELCPNNMCCSQWGYCGLGSEFCGNGCQSGAC~~~~~~~~~~
+AGI2_WHEAT_114-153   IKCGSQSGGKLCPNNLCCSQWGFCGLGSEFCGGGCQSGAC~~~~~~~~~~
+AGI1_WHEAT_113-152   IKCGSQAGGKLCPNNLCCSQWGFCGLGSEFCGGGCQSGAC~~~~~~~~~~
+AGI_HORVU_113-152    IKCGSQAGGKLCPNNLCCSQWGYCGLGSEFCGEGCQGGAC~~~~~~~~~~
+AGI3_WHEAT_87-126    IKCGSQAGGKLCPNNLCCSQWGYCGLGSEFCGEGCQNGAC~~~~~~~~~~
+Q0ZH66_WHEAT_26-68   PTRCGKQADGMECPNNLCCSKDGYCGLGVDYCSAGAGCQSGAC~~~~~~~
+Q0ZH66_WHEAT_71-111  NKICGAQANGTLCRNNHCCSSGGRCGYGREYCSNGCQGGPC~~~~~~~~~
+Q0ZH66_WHEAT_157-197 DKPCGNKANGAPCTNNYCCSQYGSCGLGKDYCGTGCQNGAC~~~~~~~~~
+AGI2_WHEAT_156-196   DKPCGKDAGGRVCTNNYCCSKWGSCGIGPGYCGAGCQSGGC~~~~~~~~~
+AGI3_WHEAT_129-169   DKPCGKDAGGRVCTNNYCCSKWGSCGIGPGYCGAGCQSGGC~~~~~~~~~
+AGI1_WHEAT_155-195   DKPCGKDAGGRVCTNNYCCSKWGSCGIGPGYCGAGCQSGGC~~~~~~~~~
+AGI_HORVU_155-195    DKPCGKAAGGKVCTNNYCCSKWGSCGIGPGYCGAGCQSGGC~~~~~~~~~
+A7F9A3_SCLS1_99-137  QGACEGGIGGTCADGLCCSSHGFCGTGVDYCGANSTTPA~~~~~~~~~~~
+A8JG69_CHLRE_28-64   HGQVGGGLCADPTQCCSLAGWCGVGADWCGANCAGQC~~~~~~~~~~~~~
+B8MQ64_TALSN_69-110  GERCGQGHKKCKAHLCCSPAGYCGMTAAHCKSPDCQIGWGTC~~~~~~~~
+A6RR50_BOTFB_61-99   DNRCGPGVGTCASDECCSLAGYCGTTEEYCTAPDCQFNY~~~~~~~~~~~
+Q0UKU4_PHANO_63-102  NGRCGPDFGGASCSAGFCCSGAGYCGTSKDHCNAPDCLID~~~~~~~~~~
+Q0TZN1_PHANO_63-102  EGRCGPEVGGISCDDGFCCSTAGYCGVGKEYCAAPDCLID~~~~~~~~~~
+B2W2L7_PYRTR_60-99   AGRCGPDHGNVSCNGGYCCSPDGWCGKGPDFCMAPDCLFN~~~~~~~~~~
+B2W071_PYRTR_67-107  NGRCGAAFGNAKCATGYCCSGSGYCGTTKDHCLAPDCQMDF~~~~~~~~~
+D1ZRM2_SORMA_73-112  TGRCGANYGRCGDNLCCSDYGYCGDSVDHCYPGFDCQPAY~~~~~~~~~~
+Q2H3G9_CHAGB_60-102  DQQCGAQFGRCPGDLCCSSYGFCGDSVDHCHPLFDCQTQYGTC~~~~~~~
+B2ANJ5_PODAN_60-102  GGRCGAGVGRCPDGQCCSDYGFCGLTVDHCHPLFDCQAQYGVC~~~~~~~
+Q0UK89_PHANO_17-57   AGNCGPDNGNAKCGSNECCSQYGWCGTTVDHCDASTCLKSF~~~~~~~~~
+B2W620_PYRTR_17-57   AGNCGPQNGNAKCAASECCSQYGWCGTTVDHCDAATCLSPF~~~~~~~~~
+A4QTM5_MAGGR_306-351 ASTDGRCGGDVTCSDKHWGSCCSRYGWCGSTADHCNAGCQSQFGQC~~~~
+C9K5U6_9PEZI_306-351 ASTDGRCGGDVTCSDKHWGSCCSRYGWCGSTADHCNAGCQSQFGQC~~~~
+A7E4P3_SCLS1_47-96   NTCGDSFAGSNKSYSCDATANTGGCCSAYGYCGNTTDYCGTGCQSAFGTC
+A7YHB2_BATDE_92-133  DSTCGQAAGYRCAQGDCCSQYNFCGNTAAHCGAGCQSAFGTC~~~~~~~~
+Q96408_DAUCA_21-55   SAQNCNCAAGLCCSKYGYCGTTSDYCGEGCQAGPC~~~~~~~~~~~~~~~
+Q96409_DAUCA_21-55   SAQNCNCAAGLCCSKYGYCGTTSDYCGEGCQAGPC~~~~~~~~~~~~~~~
+Q96411_DAUCA_19-53   SAQNCNCTAGLCCSKHGYCGTTSDYCGEGCQAGPC~~~~~~~~~~~~~~~
+Q96410_DAUCA_19-53   SAQNCNCAAGLCCSKHGYCGTTSDYCGEGCQAGPC~~~~~~~~~~~~~~~
+O24603_ARATH_31-64   SQNCGCASDFCCSKYGYCGTTDEFCGEGCQAGPC~~~~~~~~~~~~~~~~
+O24598_ARATH_22-57   VKSQNCDCAPNLCCSQFGYCGTTADYCGSTCQSGPC~~~~~~~~~~~~~~
+C0PKN5_MAIZE_29-68   PASAQNDCGSCPPGYCCSKFGYCGTSFDYCNGNTCQSGPC~~~~~~~~~~
+C5YBF1_SORBI_23-60   PATAQNCSCPPGYCCSQFGYCGTSFDYCNGNTCQSGPC~~~~~~~~~~~~
+Q93WT2_SORBI_18-51   AQNCGCQAGYCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+C5YBE9_SORBI_29-62   AQNCGCQAGYCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q94EL4_SORBI_18-51   AQNCGCQAGYCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q941I5_SORBI_18-51   AQNCGCQAGYCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q93WT1_SORBI_28-61   AQNCGCQAGYCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+C5YBE8_SORBI_18-56   LCAAAAQNCGCQAGYCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~
+Q94EL3_SORHL_18-51   AQNCGCQAGYCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q94EL5_SACOF_17-50   AQNCGCQPNYCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+A9XAV3_SACOF_11-44   AQNCGCQPNYCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+A9XB14_SACOF_11-44   AQNCGCQPNYCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+A9XB16_SACOF_11-44   AQNCGCQPNYCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUW8_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUZ2_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUT0_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUY6_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUT8_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBK4_ZEAMP_26-59   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUY4_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUS3_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUY7_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUZ0_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUZ3_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUY1_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUW4_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUS2_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUV9_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUY0_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+D0EM57_MAIZE_26-59   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUW9_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUY2_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUY3_ZEAMP_26-59   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUT7_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUV5_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUU6_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUW0_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBL4_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUS8_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUU9_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUV1_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUY5_ZEAMP_26-59   AQNCGCQPNFCCSKFGYCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBK0_ZEADI_24-57   AQNCGCQPNFCCSKFGFCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBK1_ZEADI_24-57   AQNCGCQPNFCCSKFGFCGTTDDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBK9_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV01_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUX9_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUX8_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBK3_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBL1_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUT1_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUS1_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B4FTS6_MAIZE_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B6TEL0_MAIZE_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBK6_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUX1_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUU3_ZEAMP_24-57   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUV3_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUU0_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUX4_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUT2_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUS6_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBL0_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBL3_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBK7_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBL2_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUZ8_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUZ6_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV00_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUS5_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUX2_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUT9_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBK8_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUS9_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUX0_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+CHIA_MAIZE_25-58     AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUZ1_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUX5_ZEAMP_27-60   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBL5_ZEAMP_25-58   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUX6_ZEAMP_25-57   AQNCGCQPNFCCSKFGYCGTTDAYCGDGCQSGP~~~~~~~~~~~~~~~~~
+B8QUT5_ZEAMP_25-58   AQNCGCQPNFCYSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QUV0_ZEAMP_25-58   AQSCGCQPNFCCSKFGYCGTTDAYCGDGCQSGPC~~~~~~~~~~~~~~~~
+C0P451_MAIZE_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV06_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBQ2_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBQ7_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBQ3_ZEAMP_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBP3_ZEADI_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV58_ZEAMP_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV03_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV24_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBQ1_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV60_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV35_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV41_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV53_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV64_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV69_ZEAMP_32-65   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV62_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV73_ZEAMP_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV48_ZEAMP_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV09_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV42_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV32_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV61_ZEAMP_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV66_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBQ6_ZEAMP_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBP5_ZEADI_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV19_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV14_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV22_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV26_ZEAMP_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV04_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV34_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBP7_ZEADI_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV47_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV18_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV05_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV67_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBQ5_ZEAMP_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+CHIB_MAIZE_20-53     AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV71_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV68_ZEAMP_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV37_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV52_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBR1_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV49_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV74_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBP9_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV12_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV28_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV56_ZEAMP_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBP2_ZEADI_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B4FK87_MAIZE_33-66   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBQ8_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV29_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV65_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBQ9_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV46_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV08_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBP8_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV45_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBQ0_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV70_ZEAMP_32-65   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV57_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBQ4_ZEAMP_34-67   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B8QV63_ZEAMP_31-64   AQNCGCQPNVCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBR2_TRIDA_32-65   AQNCGCQPNMCCSKFGYCGTTDEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q6JBL6_TRIDA_27-60   AQNCGCQPNFCCSKYGYCGTSDEYCGDGCRSGPC~~~~~~~~~~~~~~~~
+Q9XEN6_WHEAT_26-59   AQNCGCQPNECCSKYGYCGTDDRYCGQDCRSGPC~~~~~~~~~~~~~~~~
+A0B9Y6_ORYSA_29-62   AQNCGCQSNMCCSKWGYCGTGKDYCGDGCRSGPC~~~~~~~~~~~~~~~~
+CHI5_ORYSJ_29-62     AQNCGCQSNMCCSKWGYCGTGKDYCGDGCRSGPC~~~~~~~~~~~~~~~~
+B8ARC6_ORYSI_29-62   AQNCGCQSNMCCSKWGYCGTGKDYCGDGCRSGPC~~~~~~~~~~~~~~~~
+C6F3C7_ORYGR_29-62   AQNCGCQPNMCCSKWGYCGTGKDYCGEGCRSGPC~~~~~~~~~~~~~~~~
+C5YBF0_SORBI_27-60   AQNCGCQPDFCCSQYGYCGQTSEYCGTGCRSGPC~~~~~~~~~~~~~~~~
+C5XJT5_SORBI_33-66   AQNCGCQPGFCCSKFGYCGKTSDYCGEGCKSGPC~~~~~~~~~~~~~~~~
+B7FZY0_PHATR_309-347 AGTCGDGNIGNGICPDSALCCSRFGHCGSTAAYCNDGPV~~~~~~~~~~~
+B5YLX5_THAPS_580-619 ATCGNGNRGDGICPFAGYCCSEWGWCGTTAEYCDDNSVAP~~~~~~~~~~
+Q4VU87_THAPS_580-619 ATCGNGNRGDGICPFAGYCCSEWGWCGTTAEYCDDNSVAP~~~~~~~~~~
+Q4VU88_THAPS_580-619 ATCGNDNRGDGICPFAGYCCSEWGWCGTTAEYCDDNSVAP~~~~~~~~~~
+Q0JC38_ORYSJ_27-60   AQNCGCQDGYCCSQWGYCGTTEAYCGQGCQSGPC~~~~~~~~~~~~~~~~
+B8ARC5_ORYSI_27-60   AQNCGCQDGYCCSQWGYCGTTEAYCGQGCQSGPC~~~~~~~~~~~~~~~~
+Q25AB8_ORYSA_27-60   AQNCGCQDGYCCSQWGYCGTTEAYCGQGCQSGPC~~~~~~~~~~~~~~~~
+CHI4_ORYSJ_27-60     AQNCGCQDGYCCSQWGYCGTTEAYCGQGCQSGPC~~~~~~~~~~~~~~~~
+B9FFW6_ORYSJ_23-56   AQNCGCQEGYCCSQWGYCGKTEAYCGQGASQGRA~~~~~~~~~~~~~~~~
+A4QWY3_MAGGR_98-140  GSCGTQHGGKVCGNWASGSCCSKYGYCGKTSAYCGDGCQSGPC~~~~~~~
+A4QWY3_MAGGR_479-521 GSCGKQNGNTVCGNWPSGNCCSAYGYCGTGATYCGDGCQSGNC~~~~~~~
+A4QWY3_MAGGR_184-226 GSCGKQNGNTICGSWPSGNCCSEWGYCGKTDVYCGTGCQSGNC~~~~~~~
+A4QWT6_MAGGR_36-78   GTCGRQNGGTVCGDFVDGNCCSMYGYCGKTTAYCGFGCQSGDC~~~~~~~
+Q6A3Q3_BOTFU_79-121  GSCGTANGGTVCGNWVNGNCCSMYGFCGSTNAHCGAGCQSGDC~~~~~~~
+A7EB96_SCLS1_203-245 GSCGTANGGTVCGNWPNGNCCSMYGFCGNTNAHCGAGCQSGNC~~~~~~~
+B9T8H9_RICCO_27-60   GQNCGCSPGLCCSQYGYCGSGKDYCGPGCRQGPC~~~~~~~~~~~~~~~~
+C6TK83_SOYBN_27-60   AQNCGCAEGLCCSQHGYCGNGEEYCGTGCKQGPC~~~~~~~~~~~~~~~~
+B8Y647_MEDSA_32-65   AQNCGCAEGVCCSQYGYCGNGDAYCGTGCKQGPC~~~~~~~~~~~~~~~~
+Q6RV28_MEDTR_32-65   AQNCGCAEGVCCSQYGYCGNGDAYCGTGCKQGPC~~~~~~~~~~~~~~~~
+Q7X9F8_9FABA_32-65   AQNCGCAAGVCCSQYGYCGNGDPYCGTGCKQGPC~~~~~~~~~~~~~~~~
+CHI4_PHAVU_23-56     AQNCGCAEGLCCSQYGYCGTGEDYCGTGCQQGPC~~~~~~~~~~~~~~~~
+Q43686_VIGUN_3-36    AQNCGCAEGLCCSQYGYCGTGEEYCGTGCQQGPC~~~~~~~~~~~~~~~~
+B9IQS9_POPTR_26-59   AQNCGCAANLCCSQYGYCGTGNDYCGQGCKQGPC~~~~~~~~~~~~~~~~
+A9PH35_POPTR_26-59   AQNCGCAANLCCSQYGYCGTGNAYCGQGCKQGPC~~~~~~~~~~~~~~~~
+B9IQT0_POPTR_26-59   AQNCGCAANLCCSQYGYCGTSNAYCGQGCKQGPC~~~~~~~~~~~~~~~~
+B9NF44_POPTR_26-59   AQNCGCAANLCCSQYGYCGTSNAYCGQGCKQGPC~~~~~~~~~~~~~~~~
+B9N604_POPTR_23-58   VEAQSCGCAANLCCSQYGYCGTGNAYCGQGCKQGPC~~~~~~~~~~~~~~
+C6T7J9_SOYBN_34-67   AQNCGCEAELCCSKYGYCGSGDDYCGKGCKEGPC~~~~~~~~~~~~~~~~
+A5BKN8_VITVI_24-57   AQNCGCDAGLCCSRWGYCGTGDDYCGTGCKSGSC~~~~~~~~~~~~~~~~
+A5BSD2_VITVI_23-57   LAQNCRCDAGLCCSQYGYCGTGNDFCGTGCQAGPC~~~~~~~~~~~~~~~
+A5C2S9_VITVI_24-57   AQNCGCAAGLCCSQYGYCGTGNDFCGTGCQAGPC~~~~~~~~~~~~~~~~
+A5BSD1_VITVI_24-57   AQNCGCNAGLCCSQYGYCGTGNDYCGTGCQAGPC~~~~~~~~~~~~~~~~
+A5BCX7_VITVI_23-57   LAQNYSCNAGLCCSQFGFCGTGVRYCGDGCQAGPC~~~~~~~~~~~~~~~
+B0FZ26_9ROSI_20-53   AQNCGCASDLCCSKYGYCGTGSEYCGDGCQSGPC~~~~~~~~~~~~~~~~
+Q7XAU6_VITVI_20-53   AQNCGCASGLCCSKYGYCGTGSDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+O24530_VITVI_20-53   AQNCGCASGLCCSKYGYCGTGSDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B0FZ27_9ROSI_20-53   AQNCGCASGLCCSKYGYCGTGSDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+O24531_VITVI_20-53   AQNCGCASGLCCSKYGYRGTGSDYCGDGCQSGPC~~~~~~~~~~~~~~~~
+B6TT00_MAIZE_25-58   AQNCGCASGLCCSRFGYCGTGEDYCGAGCQSGPC~~~~~~~~~~~~~~~~
+CHIP_BETVU_27-61     AQNCGCAPNLCCSNFGFCGTGTPYCGVGNCQSGPC~~~~~~~~~~~~~~~
+A7F9A3_SCLS1_141-178 TGACEGGVGGTCAEGLCCSAFGFCGTGTDYCGSNGAIE~~~~~~~~~~~~
+A1IJ67_TOBAC_28-61   AQNCGCAESLCCSKWGFCGTGNDFCGQGCQGGPC~~~~~~~~~~~~~~~~
+A9TSW7_PHYPA_17-58   AEAQGECSRNSPCPNLAHCCSNWGYCGVGNDYCGEGCQGGPC~~~~~~~~
+Q7XB39_VITVI_25-58   AQDCGCSSDQCCSQWGYCGTGDDYCGTGCQSGPC~~~~~~~~~~~~~~~~
+A5AJB3_VITVI_25-58   AQDCGCSSDQCCSQWGYCGTGDDYCGTGCQSGPC~~~~~~~~~~~~~~~~
+B8C873_THAPS_22-54   AANCGAALGGVLCSEPSHCCSEYGYCGIGDESD~~~~~~~~~~~~~~~~~
+C5XX83_SORBI_23-57   AQNCGCASDQCCSKYGYCGTGEDYCGADTCQSGPC~~~~~~~~~~~~~~~
+A5AK36_VITVI_13-53   ALCGAAVAQNCGCASDQCCSKYGYCGTGNDYCGNTCQSGPC~~~~~~~~~
+A2X6Z9_ORYSI_25-58   AQSCGCASDQCCSKWGFCGTGSDYCGTGCQAGPC~~~~~~~~~~~~~~~~
+CHI6_ORYSJ_25-58     AQSCGCASDQCCSKWGFCGTGSDYCGTGCQAGPC~~~~~~~~~~~~~~~~
+A9ZMK1_NEPAL_29-62   GQNCGCAANLCCSKWGYCGTGDAYCGPGCQEGPC~~~~~~~~~~~~~~~~
+A5BSD0_VITVI_28-62   VGQDCGCAADLCCSRWGYCGTGDDYCGTGCQEGPC~~~~~~~~~~~~~~~
+B9N605_POPTR_30-63   AQNCGCAADECCSRWGYCGTGNDYCGTGCQEGQC~~~~~~~~~~~~~~~~
+B9IQS7_POPTR_13-46   AQNCGCAANECCSRWGFCGTGNEYCGTGCQEGPC~~~~~~~~~~~~~~~~
+C5YBE7_SORBI_27-60   AQNCGCQPGYCCSQYGYCGKGDAYCGKGCRSGPC~~~~~~~~~~~~~~~~
+O23805_9CARY_24-57   AQNCGCASGVCCSQYGYCGNGDAYCGKGCQQGPC~~~~~~~~~~~~~~~~
+AMP_AMARE_26-60      AGECVQGRCPSGMCCSQFGYCGRGPKYCGRASTTV~~~~~~~~~~~~~~~
+A0SZY3_AMAHY_27-60   GECVRGRCPSGMCCSQFGYCGKGPKYCGRASTTV~~~~~~~~~~~~~~~~
+A0SZX9_9CARY_27-60   GECVRGRCPSGMCCSQFGYCGKGPKYCGRASTTV~~~~~~~~~~~~~~~~
+Q71U16_AMAHP_27-60   GECVRGRCPSGMCCSQFGYCGKGPKYCGRASTTV~~~~~~~~~~~~~~~~
+A0SZY0_AMACA_27-60   GECVRGRCPSGMCCSQFGYCGKGPKYCGRASTTV~~~~~~~~~~~~~~~~
+A0SZY5_AMARE_27-60   GECVRGRCPSGMCCSQFGYCGKGPKYCGRASTTV~~~~~~~~~~~~~~~~
+A0SZY1_AMACR_27-60   GECVRGRCPSGMCCSQFGYCGKGPKYCGRASTTV~~~~~~~~~~~~~~~~
+A0SZY2_9CARY_27-60   GECVRGRCPSGMCCSQFGYCGKGPKYCGRASTTV~~~~~~~~~~~~~~~~
+AMP_AMACA_27-60      GECVRGRCPSGMCCSQFGYCGKGPKYCGRASTTV~~~~~~~~~~~~~~~~
+A0SZY4_AMAHP_27-60   GECVRGRCPSGMCCSQFGYCGKGPKYCGRASTTV~~~~~~~~~~~~~~~~
+A0SZY6_AMATR_27-60   GECVRGRCPSGMCCSQFGYCGKGPKYCGRASTTV~~~~~~~~~~~~~~~~
+Q9S8Z7_AMACA_2-30    GECVRGRCPSGMCCSQFGYCGKGPKYCGR~~~~~~~~~~~~~~~~~~~~~
+Q9S8Z6_AMACA_2-29    GECVRGRCPSGMCCSQFGYCGKGPKYCG~~~~~~~~~~~~~~~~~~~~~~
+C1K2E8_ELAOL_22-55   AQNCGCSSDLCCSQYGYCGTGNAYCGKGCRGGPC~~~~~~~~~~~~~~~~
+Q4A3V2_PHYPA_31-71   ASQGECSESTACPDNTMCCSQYNYCGTGDAYCGEGCKNGPC~~~~~~~~~
+A9T8R4_PHYPA_31-71   ASQGECSESTACPDNTMCCSQYNYCGTGDAYCGEGCKNGPC~~~~~~~~~
+Q43150_SAMNI_15-48   GQNCGCAPNLCCSQFGYCGSDAAYCGEGCRSGPC~~~~~~~~~~~~~~~~
+Q05K38_BRARP_24-57   SQNCGCAPNLCCSQFGYCGSTDAYCGTGCRSGPC~~~~~~~~~~~~~~~~
+CHI4_BRANA_24-57     SQNCGCAPNLCCSQFGYCGSTDAYCGTGCRSGPC~~~~~~~~~~~~~~~~
+A8IXF7_BRACM_24-57   SQNCGCAPNLCCSQFGYCGSTDAYCGTGCRSGPC~~~~~~~~~~~~~~~~
+B7X6W0_BRARC_24-57   SQNCGCAPNLCCSQFGYCGSTDAYCGTGCRSGPC~~~~~~~~~~~~~~~~
+Q8H6K2_BRARP_24-49   SQNCGCAPNLCCSQFGYCGSTDAYCG~~~~~~~~~~~~~~~~~~~~~~~~
+O24658_ARATH_24-57   SQNCGCAPNLCCSQFGYCGTDDAYCGVGCRSGPC~~~~~~~~~~~~~~~~
+D3TIC1_MANIN_2-35    SQNCDCAPNLCCSQFGYCGTGEAYCGLGCKGGPC~~~~~~~~~~~~~~~~
+B9IQS8_POPTR_24-57   SQNCGCAPNLCCSQFGFCGTGDAYCGQGCREGPC~~~~~~~~~~~~~~~~
+A4QRF6_MAGGR_381-421 TGTCGSGVGSCAGDLCCSQYGYCGQEPEYCGAGCQWQFGTC~~~~~~~~~
+C9K5U1_9PEZI_381-421 TGTCGSGVGSCAGDLCCSQYGYCGQEPEYCGAGCQWQFGTC~~~~~~~~~
+D0QU15_LACSA_23-56   AQNCGCAPGLCCSRFGFCGSDEAYCGAGCQEGSC~~~~~~~~~~~~~~~~
+B9VQ34_PYRPY_24-57   AQNCGCAADLCCSQYGYCGTDDAYCGKGCQSGPC~~~~~~~~~~~~~~~~
+A9U5W5_PHYPA_23-63   VAGQNCNSTVQCADGSLCCSQYGYCGSTDNYCVAGCQNGPC~~~~~~~~~
+A9T7E9_PHYPA_15-55   VAGQNCNSTVQCADGSLCCSQYGYCGSTDNYCVAGCQNGPC~~~~~~~~~
+A9SXW7_PHYPA_26-64   GQNCNSTVPCADPNNCCSQYGYCGTDDAYCVIGCQNGPC~~~~~~~~~~~
+Q596H8_PINMO_25-58   AQNCGCASGLCCSQYGYCGSSSAYCGAGCKSGPC~~~~~~~~~~~~~~~~
+Q596H9_PINMO_25-58   AQNCGCASGLCCSQYGYCGSSSAYCGAGCKSGPC~~~~~~~~~~~~~~~~
+Q596H7_PINMO_25-58   AQNCGCASGLCCSQFGYCGSGSTYCGTGCKSGPC~~~~~~~~~~~~~~~~
+Q9XFW7_BETVU_24-57   AQNCGCASNLCCSRFGFCGSTDAYCGEGCREGPC~~~~~~~~~~~~~~~~
+Q43391_BRANA_17-50   SQNCGCASGLCCSSAGYCGTTDAYCGEGCKEGPC~~~~~~~~~~~~~~~~
+Q94C47_BRANA_33-66   SQNCGCASGLCCSSAGYCGTTDAYCGEGCKEGPC~~~~~~~~~~~~~~~~
+O22842_ARATH_28-64   SQNCGTNGCKGNMCCSRWGYCGTTKAYCGTGCQSGPC~~~~~~~~~~~~~
+O22841_ARATH_28-64   SQQCGTTGCAANLCCSRYGYCGTTDAYCGTGCRSGPC~~~~~~~~~~~~~
+A9NSX6_PICSI_36-69   AQNCGCASGLCCSKWGYCGTTSAYCGNGCQSGPC~~~~~~~~~~~~~~~~
+A9NQV7_PICSI_36-69   AQNCGCASGLCCSKWGYCGTTSAYCGNGCQSGPC~~~~~~~~~~~~~~~~
+A9NQ96_PICSI_36-69   AQNCGCASGLCCSKWGYCGTTSAYCGNGCQSGPC~~~~~~~~~~~~~~~~
+B8LQM1_PICSI_36-69   AQNCGCASGLCCSKWGYCGTTSAYCGNGCQSGPC~~~~~~~~~~~~~~~~
+C0PRG2_PICSI_36-69   AQNCGCASGLCCSKWGYCGTTSAYCGNGCQSGPC~~~~~~~~~~~~~~~~
+A9NP56_PICSI_36-69   AQNCGCASGLCCSKWGYCGTTSAYCGNGCQSGPC~~~~~~~~~~~~~~~~
+C3VPA0_PSEMZ_26-59   AQNCGCASGLCCSKYGYCGTTSAYCGTGCQSGPC~~~~~~~~~~~~~~~~
+C3VP99_PSEMZ_26-59   AQNCGCASGLCCSKYGYCGTTSAYCGTGCRSGPC~~~~~~~~~~~~~~~~
+O23806_9CARY_24-57   AQNCGCASGLCCSKYGYCGTTAAYCGDGCKQGPC~~~~~~~~~~~~~~~~
+O23804_9CARY_24-57   AQNCGCASGLCCSKYGYCGTTAAYCGDGCKQGPC~~~~~~~~~~~~~~~~
+O23803_9CARY_24-57   AQNCGCASGLCCSKYGYCGTTKAYCGDGCKQGPC~~~~~~~~~~~~~~~~
+Q6WSR9_PICAB_26-59   AQNCGCATGLCCSQYGYCGTTSAYCGKGCKTGPC~~~~~~~~~~~~~~~~
+A4R234_MAGGR_17-57   AQNCGPKYKNKVCAAGSCCSQYGWCDTTAAHCDPATCKPEF~~~~~~~~~
+C9K5U0_9PEZI_17-57   AQNCGPKYKNKVCAAGSCCSQYGWCDTTAAHCDPATCKPEF~~~~~~~~~
+Q6WSS1_PICAB_26-59   AQNCGCATGVCCSQYGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+Q6WSR8_PICAB_26-59   AQNCGCATGVCCSQYGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+Q6S737_PICAB_26-59   AQNCGCATGVCCSQYGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+Q40838_PICGL_26-59   AQNCGCASGVCCSQYGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+C0JR29_PICAB_1-34    AQNCGCASGVCCSQYGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+Q6E6N0_PICAB_26-59   AQNCGCASGVCCSQYGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+A9P2F9_PICSI_26-59   AQNCGCASGVCCSQYGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+A9NLU6_PICSI_26-59   AQNCGCASGVCCSQYGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+C0JR28_PICAB_1-34    AQNCGCASGVCCSQYGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+A9NLX3_PICSI_26-59   AQNCGCASGVCCSQYGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+Q6WSS0_PICAB_26-59   AQNCGCASGVCCSQFGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+Q6SSF0_PICAB_26-59   AQNCGCASGVCCSQFGYCGTTSAYCGKGCKSGPC~~~~~~~~~~~~~~~~
+A5JVZ1_BRAJU_33-66   SQNCGCPPGLCCSTNGYCGTTDDYCGVGCKEGPC~~~~~~~~~~~~~~~~
+A4RNW4_MAGGR_271-311 GTCGGTKGLKCPGTQCCSQNGFCGTTDDFCSFGCQSSFGTC~~~~~~~~~
+C9K5T6_9PEZI_329-369 GTCGGTKGLKCPGTQCCSQNGFCGTTDDFCSFGCQSSFGTC~~~~~~~~~
+A1DKB4_NEOFI_303-344 DGACGFIQKTKCPEGLCCSQYGYCGSSKNFCQASCLSDYGEC~~~~~~~~
+Q4WL37_ASPFU_293-334 DGTCGFSKGTKCPAGSCCSQYGYCGTGNDFCQAGCLSDYGEC~~~~~~~~
+Q42085_ARATH_36-69   AQNCGCSSELCCSQFGFCGNTSDYCGVGCQQGPC~~~~~~~~~~~~~~~~
+Q9M2U5_ARATH_28-61   AQNCGCSSELCCSQFGFCGNTSDYCGVGCQQGPC~~~~~~~~~~~~~~~~
+O23248_ARATH_28-61   AQNCGCSSELCCSQFGFCGNTSDYCGVGCQQGPC~~~~~~~~~~~~~~~~
+A7E4P3_SCLS1_108-149 FLCGASNAGLSCTGGLCCSGSGYCGNTTDYCDVGCQSKYGAC~~~~~~~~
+A6RKC4_BOTFB_110-152 TFTCGASNGGLSCTGGLCCSTSGYCGNTTDYCDVGCQSTFGAC~~~~~~~
+Q8H986_CITJA_22-58   AQNCGSGVVCPGGECCSQYGWCGLTTDHCCEGCQSNC~~~~~~~~~~~~~
+C9STV8_VERA1_294-330 GSCGGTNGYTCTPGNCCSQFGFCGATTGHCGTGCQSA~~~~~~~~~~~~~
+C9STV8_VERA1_114-155 DGTCGGTNGWICPKGNCCSRFGFCGATADHCAPGCQPTFGIC~~~~~~~~
+C9STV8_VERA1_230-270 GTCAGANGLICPQGNCCSRFGFCGATADHCGTDCQPAFGIC~~~~~~~~~
+B2ARV7_PODAN_224-267 GLCGQPSGTTCEGSAFGDCCSEYGFCGATNAYCGTGCQAAFGTC~~~~~~
+Q2H2H8_CHAGB_36-78   DNTCGADHSGYTCPGALPCCSQYGFCGATDAFCLTTAKCQTRF~~~~~~~
+A4QQ53_MAGGR_53-96   SPQCGPAGGNRRCPNNLCCSDYGYCGEKPDYCDVRWCQVQFGRC~~~~~~
+C9K5T8_9PEZI_53-96   SPQCGPAGGNRRCPNNLCCSDYGYCGEKPDYCDVRWCQVQFGRC~~~~~~
+Q7Y238_EUOEU_21-62   AQQCGRQAGNRRCANNLCCSQYGYCGRTNEYCCTSQGCQSQC~~~~~~~~
+Q7X9R9_EUOEU_21-62   AQQCGRQAGNRRCPNNLCCSQFGYCGRTNEYCCTGFGCQSNC~~~~~~~~
+Q8H7F8_ARATH_21-62   GQQCGRQGGGRTCPGNICCSQYGYCGTTADYCSPTNNCQSNC~~~~~~~~
+HEVL_ARATH_21-62     GQQCGRQGGGRTCPGNICCSQYGYCGTTADYCSPTNNCQSNC~~~~~~~~
+Q8H950_EUTWA_21-62   GQQCGRQAGGQTCPGGICCSQWGYCGTTADYCSPNNNCQSNC~~~~~~~~
+Q9FUU3_HEVBR_17-50   AEQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSP~~~~~~~~~~~~~~~~
+Q6JYQ8_HEVBR_17-58   AEQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQSNC~~~~~~~~
+Q6JYQ7_HEVBR_17-58   AEQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQSNC~~~~~~~~
+HEVE_HEVBR_17-58     AEQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQSNC~~~~~~~~
+O49860_HEVBR_1-41    EQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQSNC~~~~~~~~~
+B9SZ68_RICCO_21-62   GEQCGRQAGGKLCPNNLCCSQYGWCGSTDDYCSPSKNCQSNC~~~~~~~~
+Q6KF83_HEVBR_1-41    EQCGRQAGGKLCPNNLCCSQYGWCGSSDDYCSPSKNCQSNC~~~~~~~~~
+HEVP_HEVBR_1-41      EQCGRQAGGKLCPNNLCCSQYGWCGSSDDYCSPSKNCQSNC~~~~~~~~~
+Q6JYR0_HEVBR_17-58   AEQCGWQAGGKLCPNNLCCSQYGWCGSSDDYCSPSKNCQSNC~~~~~~~~
+Q6JYQ9_HEVBR_17-58   AEQCGRQAGGKLCPNNLCCSQYGWCGSSDDYCSPSKNCQSNC~~~~~~~~
+Q58HA4_9FABA_23-64   AEQCGRQAGGKTCPNNLCCSQYGYCGNTDDYCSPSKNCQSNC~~~~~~~~
+B9I5G0_POPTR_21-62   GEQCGKQAGGQTCPNNLCCSQYGWCGDTDDYCSPSKNCQSNC~~~~~~~~
+A0SWV6_9ROSI_21-62   GEQCGKQAGGQTCPNNLCCSQYGWCGDTDDYCSPSKNCQSNC~~~~~~~~
+C6T035_SOYBN_20-61   AEQCGRQAGGQTCPNNLCCSQYGWCGNTEEYCSPSKNCQSNC~~~~~~~~
+B9MZD0_POPTR_16-58   GEQYGRQAAGGRTCANNLCCSEWGFCGTSDDHCSPSKNCQSNC~~~~~~~
+B9I5G2_POPTR_20-61   AQNCGRQAGGQTCANNLCCSQWGFCGTSDDHCNPSKNCQSNC~~~~~~~~
+A9PHF7_POPTR_20-61   AQNCGRQAGGQTCANNLCCSQWGYCGTSDDHCNPSKNCQSNC~~~~~~~~
+B1PDJ8_CAPAN_20-59   AQNCGRQAGRRVCANRLCCSQFGFCGTTREYCGAGCQSNC~~~~~~~~~~
+Q8W2B2_CAPAN_20-59   AQNCGRQAGRRVCANRLCCSQFGFCGTTREYCGAGCQSNC~~~~~~~~~~
+B8N8I8_ASPFN_48-89   VAECGADAAVPGATCPDNACCSKWGFCGTSSEYCGTGCQSNC~~~~~~~~
+B9T8E8_RICCO_32-65   AQNCGCPSDQCCSRWGFCGTTEEYCGTGCQEGPC~~~~~~~~~~~~~~~~
+B2AAQ0_PODAN_45-85   RANCGAGIGNCPSGQCCSQYGWCGVTSEHCGTGCQSGFGTC~~~~~~~~~
+A9RL26_PHYPA_21-62   AEDCGWQANGARCSPSTVCCSQWGYCGVTPEHCGTGCQSGSC~~~~~~~~
+C8VSV7_EMENI_77-119  TAECGQYALPGQSDCPVNVCCSEFGYCGVTSDFCGDGCQKNSN~~~~~~~
+Q5BG13_EMENI_77-119  TAECGQYALPGQSDCPVNVCCSEFGYCGVTSDFCGDGCQKNSN~~~~~~~
+Q5B303_EMENI_98-139  TAECGEFAATPNAGCPLNVCCSQYGFCGTTADFCGDGCQSNC~~~~~~~~
+C8V802_EMENI_98-139  TAECGEFAATPNAGCPLNVCCSQYGFCGTTADFCGDGCQSNC~~~~~~~~
+B6H5Y3_PENCW_66-107  QAECGKYAHVANSTCPLNVCCSEFGFCGTSSDFCGKGCQSGC~~~~~~~~
+A7EJG1_SCLS1_133-180 HAECGRYSKVPGTKCPLNVCCSQFGFCGTTEEFCKVTDDDETSCQSNC~~
+Q2GQ53_CHAGB_70-106  EWSQATNCPLNVCCSKFGFCGTSAEFCDGKTVSSPEC~~~~~~~~~~~~~
+C7Z3E2_NECH7_54-101  HAECGRYAEEPGKTCPLNVCCSRHGFCGMTSEYCDESDNEDESCQSNC~~
+C7ZGN3_NECH7_105-146 KAECGQFAATAGKTCPLNVCCSQHGFCGTTADFCNDGCQSNC~~~~~~~~
+Q2GTW7_CHAGB_139-187 KSECGKDAKVPGQECPLNVCCGKWGFCGMTEDYCDKEDHGATGGCQSNC~
+D1ZXC6_SORMA_108-156 KAECGKNPKVPGQKCPLNVCCGKWGFCGMTEDYCEKEDNGATGGCQSNC~
+D4ALF6_ARTBE_111-141 AKLNPCPLNACCSGWGFCGITAEFCTESPAD~~~~~~~~~~~~~~~~~~~
+D4D5M9_TRIVC_517-548 LAKLNPCPLNACCSGWGFCGITAEFCTESPAD~~~~~~~~~~~~~~~~~~
+Q2UDT3_ASPOR_436-468 ALADLNPCPLNACCDAWGFCGTTVDFCTKSPAD~~~~~~~~~~~~~~~~~
+B0Y3J3_ASPFC_353-385 ALADLNPCPLNACCDVWGFCGTTADFCTETPAD~~~~~~~~~~~~~~~~~
+Q4WU15_ASPFU_375-407 ALADLNPCPLNACCDVWGFCGTTADFCTETPAD~~~~~~~~~~~~~~~~~
+A2VEB7_TRIRE_439-471 SLADLNPCPLNACCNVWGFCGTTDDFCVPSPAD~~~~~~~~~~~~~~~~~
+Q707V9_9SACH_165-208 AECGPLAPGDKYNSKCPLNACCSEFGFCGLTAEFCEKKSCFSNC~~~~~~
+Q6BL38_DEBHA_79-132  AECGPQASTDGTNIKCPLNACCSPYGFCGLTSDFCAVTKSPTGAPGTAGC
+Q7Z8R6_9SACH_803-842 ECRPQAPGDKYNTTCPLNACCSEFGFCGLTSEFCNNKPSL~~~~~~~~~~
+KTXA_KLULA_317-370   AECGPLAPGEKYNAKCPLNACCSEFGFCGLTKDYCDKKSSTTGAPGTDGC
+C5P133_COCP7_97-144  KAECGKNADPPGKECPLNVCCSKWGFCGMTKEFCEKGTDDEPGCQSNC~~
+Q5VHW7_COCPO_85-132  KAECGKNADPPGKECPLNVCCSKWGFCGMTKEFCEKGTDDEPGCQSNC~~
+D4AVW4_ARTBE_49-96   KAECGRFADPPGKKCPLNVCCSEYGFCGFTKDFCEKKSGKNKGCQSNC~~
+D4DB10_TRIVC_49-96   KAECGRFADPPGKKCPLNVCCSEYGFCGFTKDFCEKKSGKNKGCQSNC~~
+B8MCG7_TALSN_124-165 TAECGKDASPAGKTCPLNVCCSQFGFCGTTSDFCVTGCQSNC~~~~~~~~
+B8MCG8_TALSN_124-165 TAECGKDASPAGKTCPLNVCCSQFGFCGTTSDFCVTGCQSNC~~~~~~~~
+B6QVU1_PENMQ_68-110  TAECGKDAKDPSASCPLNVCCSQWGFCGTGDLFCGNGCQGDNC~~~~~~~
+D3B6J0_POLPA_238-271 NAVRNATCPLRACCSRWGFCGYGEEFCAFSTTKN~~~~~~~~~~~~~~~~
+A7E648_SCLS1_71-107  EYVNSTTCPLNVCCSEYGFCGTGESFCGTKTPTIPSC~~~~~~~~~~~~~
+Q0CCJ4_ASPTN_65-106  QAECGLYAPVVNTTCPLNVCCSQFGFCGTTEEFCGAGCQSGC~~~~~~~~
+A1C6S5_ASPCL_65-106  VAECGEYAAVNGTRCPLNVCCSPYGFCGTTELFCGTGCQSGC~~~~~~~~
+B0Y822_ASPFC_66-107  VAECGEYAAEPGAKCPLNVCCSQYGFCGTTDEFCGTGCQSGC~~~~~~~~
+Q4WMI5_ASPFU_66-103  VAECGAEPGAKCPLNVCCSQYGFCGTTDEFCGTGCQSV~~~~~~~~~~~~
+A1D7W5_NEOFI_15-49   AETPGATCPLNVCCSEYGFCGTTEDFCGSGCQSGC~~~~~~~~~~~~~~~
+C7ZB68_NECH7_113-155 PSFGQQWANATACPLNACCSDTGYCGITQEFCGDRKFSKPTCK~~~~~~~
+C8VSL9_EMENI_110-149 DYGDYADSPKCPLNVCCSKFGFCGTTKEFCGTKKVTRPSC~~~~~~~~~~
+Q5BFY1_EMENI_110-149 DYGDYADSPKCPLNVCCSKFGFCGTTKEFCGTKKVTRPSC~~~~~~~~~~
+Q5AT99_EMENI_63-102  GYGEFAERAKCPLNVCCPKFGFCGTTKDFCGNKEVKRPSC~~~~~~~~~~
+C8VEJ3_EMENI_63-102  GYGEFAERAKCPLNVCCPKFGFCGTTKDFCGNKEVKRPSC~~~~~~~~~~
+A1DKA0_NEOFI_111-150 GYGEFADSAKCPLNVCCSKFGFCGTTKEFCGTKKVKRPSC~~~~~~~~~~
+Q0CFU0_ASPTN_114-150 EWSQSSKCPLNVCCSKYGFCGVTEDFCGNKTVDRGHC~~~~~~~~~~~~~
+D1ZBI7_SORMA_70-106  KWSKSEKCPLNVCCSKYGFCGTTEEFCQGNPVKRPSC~~~~~~~~~~~~~
+C5FPW9_NANOT_71-108  KWSTAETCPLNVCCSKFGFCGTTKEFCGEDNGVKRPSC~~~~~~~~~~~~
+A2RBJ5_ASPNC_118-154 EYSSSSTCPLNVCCSKYGFCGTTEEFCGDKKVKRPSC~~~~~~~~~~~~~
+C5FN50_NANOT_65-99   AKDGKEFCPLNVCCSKFGFCGTTTEFCQDGCQSGC~~~~~~~~~~~~~~~
+C7ZER7_NECH7_116-154 GQEWSNATECPLKVCCSEFGFCGTTVDYCKGATVTSPQC~~~~~~~~~~~
+C4JYD2_UNCRE_113-147 SLASNCPLNVCCSRFGFCGTTVDFCEGKIVSSPQC~~~~~~~~~~~~~~~
+C5FMR8_NANOT_93-134  GWGSQWSNASTCPLNVCCSPFGFCGTTADFCGGVTVPSPECG~~~~~~~~
+Q0GA12_9PEZI_95-134  WGMQWSNASTCPLNVCCSDFGFCGTTDEFCKGKEVSVPQC~~~~~~~~~~
+C9K5U4_9PEZI_99-137  EWSNASTCPLNVCCSEFGFCGTTPGFCGGKVVASPECGS~~~~~~~~~~~
+A4RMU7_MAGGR_99-137  EWSNASTCPLNVCCSEFGFCGTTPGFCGGKVVASPECGS~~~~~~~~~~~
+Q0CGA1_ASPTN_92-133  GKEWSNASTCPLKVCCSKFGFCGTTSDFCGDKKVISPECNGN~~~~~~~~
+A2R4L6_ASPNC_104-142 GKEWSQASTCPLNVCCSKFGFCGTTKDFCGDATVVSPQC~~~~~~~~~~~
+B0Y1N2_ASPFC_81-123  GDKWGSQYAKSENCPLNVCCSEYGFCGTTTGFCGDATVAEPVC~~~~~~~
+A4DA09_ASPFU_81-123  GDKWGSQYAKSENCPLNVCCSEYGFCGTTTGFCGDATVAEPVC~~~~~~~
+C5FKP7_NANOT_81-123  GENWGSDYANATHCPLNVCCSPYGFCGTTKDFCGDDTVAEPRC~~~~~~~
+B6QSR8_PENMQ_124-164 WGAQWSSNEACPLNVCCSQYGFCGTTSDFCGNTTVKQPSCS~~~~~~~~~
+A2R4D3_ASPNC_39-74   WSXKSSCPLNICCSKFGFCGTMSEFCGKKTVKQPSC~~~~~~~~~~~~~~
+A1CV42_NEOFI_78-115  AEWAEKAHCPLNVCCSKYGFCGITEEFCGNKTVKHETC~~~~~~~~~~~~
+C7Z0A7_NECH7_223-261 GSSWATKDKCPLNVCCSKHGYCGTTKDFCGSKTVKRPSC~~~~~~~~~~~
+A7F4I5_SCLS1_16-52   EWASRDKCPLNVCCSKYGFCGTTKDFCGNKTVPHKTC~~~~~~~~~~~~~
+Q2GRE7_CHAGB_93-133  NWGPQYAASEKCPLNVCCSKFGFCGTTEEFCGTTQIANPSC~~~~~~~~~
+Q9HFQ9_EMENI_82-122  GWGSQWSQRQSCPLNVCCSKYGFCGTTEEFCGDEKVTKPSC~~~~~~~~~
+Q5AQP0_EMENI_82-122  GWGSQWSQRQSCPLNVCCSKYGFCGTTEEFCGDEKVTKPSC~~~~~~~~~
+C8VRJ3_EMENI_82-122  GWGSQWSQRQSCPLNVCCSKYGFCGTTEEFCGDEKVTKPSC~~~~~~~~~
+A1CPL5_ASPCL_71-106  WSASQNCPLNVCCSKFGFCGTTDEFCGDNKVQAPQC~~~~~~~~~~~~~~
+Q2H8G8_CHAGB_139-180 VADCGEYAAPGKSTCPLNVCCSPHGFCGTTDEFCGDGCQNGC~~~~~~~~
+B6Q899_PENMQ_147-200 TAPCGQYAAPGEGNCPLNVCCSQYGFCGTTPEFCGSGCQAGYGSCGEVNT
+C9SQG4_VERA1_197-241 SDGSCGAGRATCRGYGEHQCCSQYGYCGSMTEYCGQGCQAAFGIC~~~~~
+B8MMH8_TALSN_1-29    MCPQGMCCSRYGFCGTTKEYCGLGCQNNC~~~~~~~~~~~~~~~~~~~~~
+B6QSI9_PENMQ_614-654 FQCGVNALPGQEICPQGMCCSRYGFCGTTKEYCGLGCQNNC~~~~~~~~~
+LECB_PHYAM_295-333   WRCGVDFSGRVCPQGRCCSAWGWCGDTEEYCEEGCQSQC~~~~~~~~~~~
+LECC_PHYAM_86-125    YNRCGKEFGGKECHDELCCSQYGWCGNSDGHCGEGCQSQC~~~~~~~~~~
+LECB_PHYAM_212-251   HQRCGKDFAGRTCLNDLCCSEWGWCGSSEAHCGQGCQSNC~~~~~~~~~~
+LECB_PHYAM_84-124    NWRCGKDFDDRTCPKKLLCCSKDGWCGNTDAHCGEGCQSQC~~~~~~~~~
+LECB_PHYAM_128-167   NWRCGVDFGNRTCPNDLCCSVGGWCGTTDDHCGEGCQSQC~~~~~~~~~~
+LECB_PHYAM_172-210   WHCGVDFGNRTCPNDLCCSEWGWCGITEGYCGEGCQSQC~~~~~~~~~~~
+LECB_PHYAM_253-292   YNRCGRNFGFRTCPNELCCSSGGWCGSNDAHCGKGCQSQC~~~~~~~~~~
+LECC_PHYAM_128-166   WRCGKDFGGRLCTEDMCCSQYGWCGLTDDHCEDGCQSQC~~~~~~~~~~~
+LED2_PHYAM_43-81     WRCGRDFGGRLCEEDMCCSKYGWCGYSDDHCEDGCQSQC~~~~~~~~~~~
+LECC_PHYAM_45-84     APVCGVRASGRVCPDGYCCSQWGYCGTTEEYCGKGCQSQC~~~~~~~~~~
+LED2_PHYAM_1-40      APECGERASGKRCPNGKCCSQWGYCGTTDNYCGQGCQSQC~~~~~~~~~~
+LECB_PHYAM_42-81     APECGREASGKVCPDDLCCSVFGHCGVSVQHCGDGCQSQC~~~~~~~~~~
+A8HSD9_CHLRE_31-72   DAMCGDGRAGRCLNADECCSFFGYCGTTIDHCGNGCQGGASC~~~~~~~~
+C7ZC39_NECH7_4-41    ANGPKCSKIKLYATSCCSSVGYCGTTTDHCGKGCQSTC~~~~~~~~~~~~
+CBLE_VISAL_2-43      DHRCGREATPPGKLCNDGRCCSQWGWCGTTQAYCSGKCQSQC~~~~~~~~
+Q42468_IPONI_25-64   AQQCGSQARGRLCGNGLCCSQWGYCGSTAAYCGAGCQSQC~~~~~~~~~~
+AMP_IPONI_1-39       QQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQC~~~~~~~~~~~
+Q40095_IPONI_25-64   AQQCGRQASGRLCGNGLCCSQWGYCGSTAAYCGAGCQSQC~~~~~~~~~~
+Q6SPQ7_BAMOL_20-59   AQQCGSQAGGATCPDCLCCSQWGYCGSTADYCGDGCQSQC~~~~~~~~~~
+Q42970_ORYSA_32-71   AEQCGAQAGGARCPNCLCCSRWGWCGSTSDFCGDGCQSQC~~~~~~~~~~
+CHI2_ORYSJ_32-71     AEQCGAQAGGARCPNCLCCSRWGWCGTTSDFCGDGCQSQC~~~~~~~~~~
+A2Y4F6_ORYSI_23-62   AEQCGSQAGGALCPNCLCCSSYGWCGSTSDYCGDGCQSQC~~~~~~~~~~
+Q42992_ORYSA_23-62   AEQCGSQAGGALCPNCLCCSSYGWCGSTSDYCGDGCQSQC~~~~~~~~~~
+Q6SZS3_ORYSA_23-62   AEQCGSQAGGALCPNCLCCSSYGWCGSTSDYCGDGCQSQC~~~~~~~~~~
+CHI9_ORYSJ_23-62     AEQCGSQAGGALCPNCLCCSSYGWCGSTSDYCGDGCQSQC~~~~~~~~~~
+B9FPH6_ORYSJ_23-62   AEQCGSQAGGALCPNCLCCSSYGWCGSTSDYCGDGCQSQC~~~~~~~~~~
+Q8VWZ5_ORYSA_23-62   AEQCGSQAGGALCPNCLCCSSYGWCGSTSDYCGDGCQSQC~~~~~~~~~~
+Q6JBM3_ZEADI_22-61   AEQCGSQAGGALCPNCLCCSQYGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q6JBL9_ZEADI_22-61   AEQCGSQAGGALCPNCLCCSQYGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q6JBM5_ZEADI_22-61   AEQCGSQAGGALCPNCLCCSQYGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q6JBM1_ZEADI_22-61   AEQCGSQAGGALCPNCLCCSQYGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q40667_ORYSA_20-59   PEQCGSQAGGALCPNCLCCSQYGWCGSTSAYCGSGCQSQC~~~~~~~~~~
+A2YH55_ORYSI_20-59   GEQCGSQAGGALCPNCLCCSQYGWCGSTSAYCGSGCQSQC~~~~~~~~~~
+CHI1_ORYSJ_20-59     GEQCGSQAGGALCPNCLCCSQYGWCGSTSAYCGSGCQSQC~~~~~~~~~~
+Q42995_ORYSA_20-59   PEQCGSQARGALCPNCLCCSQYGWCGSTSAYCGSGCQSQC~~~~~~~~~~
+Q6U5G8_ORYSJ_1-39    EQCGSQAGGALCPNCLCCSQYGWCGSTSDYCGSGCQSQC~~~~~~~~~~~
+A2YH54_ORYSI_18-57   GEQCGSQAGGALCPNCLCCSQYGWCGSTSDYCGTGCQSQC~~~~~~~~~~
+B9FQZ4_ORYSJ_8-47    GEQCGSQAGGALCPNCLCCSQYGWCGSTSDYCGAGCQSQC~~~~~~~~~~
+CHI3_ORYSJ_18-57     GEQCGSQAGGALCPNCLCCSQYGWCGSTSDYCGAGCQSQC~~~~~~~~~~
+Q0D9D3_ORYSJ_18-57   GEQCGSQAGGALCPNCLCCSQYGWCGSTSDYCGAGCQSQC~~~~~~~~~~
+Q40668_ORYSA_17-56   REQCGSQAGGALCPNCLCCSQYGWCGSTSDYCGAGSESQC~~~~~~~~~~
+A2XI16_ORYSI_21-60   AEQCGSQAGGAVCPNCLCCSQFGWCGSTSDYCGAGCQSQC~~~~~~~~~~
+Q2HJJ5_MUSPR_21-60   AEQCGSQAGGAVCPNCLCCSQFGWCGSTSDYCGAGCQSQC~~~~~~~~~~
+A7UC81_ORYSI_21-60   AEQCGSQAGGAVCPNCLCCSQFGWCGSTSDYCGAGCQSQC~~~~~~~~~~
+CHI12_ORYSJ_21-60    AEQCGSQAGGAVCPNCLCCSQFGWCGSTSDYCGAGCQSQC~~~~~~~~~~
+A2XI15_ORYSI_21-60   AEQCGSQAGGAVCPNCLCCSQFGWCGSTSDYCGAGCQSQC~~~~~~~~~~
+A3AJ48_ORYSJ_21-60   AEQCGSQAGGAVCPNCLCCSQFGWCGSTSDYCGAGCQSQC~~~~~~~~~~
+Q6JBN3_ZEAMP_24-63   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q6JBM9_ZEAMP_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVH2_ZEAMP_23-62   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVH3_ZEAMP_17-56   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVM0_ZEAMP_10-49   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVF2_ZEAMP_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVF9_ZEAMP_18-57   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVG8_ZEAMP_18-57   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVI1_ZEAMP_19-58   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVJ5_ZEAMP_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVH7_ZEAMP_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVH8_ZEAMP_23-62   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVG9_ZEAMP_18-57   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVM1_ZEAMP_13-52   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B4G0Q3_MAIZE_23-62   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q6JBM4_ZEADI_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVK2_ZEAMP_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVL5_ZEAMP_24-63   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q6JBN0_ZEAMP_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVH0_ZEAMP_19-58   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q6JBN5_ZEAMP_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVK0_ZEAMP_23-62   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVF1_ZEAMP_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVH4_ZEAMP_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVF0_ZEAMP_21-60   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVK5_ZEAMP_17-56   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q6JBN1_ZEAMP_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q6JBN4_ZEAMP_23-62   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVH1_ZEAMP_19-58   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVH5_ZEAMP_23-62   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVL7_ZEAMP_23-62   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVI0_ZEAMP_18-57   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q6JBN6_ZEAMP_23-62   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVI5_ZEAMP_18-57   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVG3_ZEAMP_17-56   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q6JBL7_ZEADI_22-61   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVF8_ZEAMP_17-56   AEQCGSQAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q41794_MAIZE_21-59   AEQCGSQAGGALCPNCLCCSQFGWCGSSDYCGSGCQSQC~~~~~~~~~~~
+B8QVL4_ZEAMP_22-61   AEQCGSRAGGALCPNCLCCSQFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+C6JSV0_SORBI_21-60   AEQCGTQAGGALCPNCLCCSKFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+C5YYH5_SORBI_27-66   AQQCGTQAAGALCPNCQCCSMYGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+B8QVI2_ZEAMP_18-57   AEQCGSQAGGALCPNCLCCSRFGWCGSTSDYCGSGCQSQC~~~~~~~~~~
+Q8W427_WHEAT_20-59   AEQCGSQAGGATCPNCLCCSKFGFCGTTSDYCGTGCQSQC~~~~~~~~~~
+Q9SQL3_POAPR_20-59   AEQCGSQAGGATCPNCLCCSKFGFCGTTSDYCGTGCQSQC~~~~~~~~~~
+Q6T484_WHEAT_20-59   AEQCGSQAGGATCPNCLCCSKFGFCGTTSDYCGTGCQSQC~~~~~~~~~~
+Q9SQL4_POAPR_20-59   AEQCGSQAGGATCPNCLCCSKFGFCGNTSDYCGTGCQSQC~~~~~~~~~~
+Q41539_WHEAT_20-59   AEQCGSQAGGATCPNCLCCSKFGFCGSTSDYCGNGCQSQC~~~~~~~~~~
+Q9AXR9_SECCE_20-59   AEQCGSQAGGATCPNCLCCSKFGFCGSTSEYCGDGCQSQC~~~~~~~~~~
+CHI1_HORVU_19-57     AEQCGSQAGGATCPNCLCCSRFGWCGSTPYCGDGCQSQC~~~~~~~~~~~
+CHIA_SECCE_19-58     AEQCGSQAGGATCPNCLCCSRFGWCGSTSDYCGDGCQSQC~~~~~~~~~~
+Q8W428_WHEAT_27-66   AEQCGSQAGGAKCADCLCCSQFGFCGTTSDYCGPRCQSQC~~~~~~~~~~
+B1B6T0_BROIN_20-59   AEQCGSQAGGATCPNCLCCSRFGFCGSGSDYCGAGCQSQC~~~~~~~~~~
+Q42839_HORVU_27-66   AQQCGSQAGGATCPNCLCCSRFGYCGSTSDYCGAGCQSQC~~~~~~~~~~
+B6TR38_MAIZE_31-70   GQQCGQQAGGATCRDCLCCSRFGFCGDTSEYCGAGCQSQC~~~~~~~~~~
+C5YXM4_SORBI_77-116  QPQCGSQAGGATCRDCLCCSQFGFCGDTSAYCGAGCQSQC~~~~~~~~~~
+B8R3R6_FESAR_21-60   AQQCGSQAGGATCANCLCCSQYGYCGSTSAYCGAGCQSQC~~~~~~~~~~
+AMP_TRIKH_1-41       AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQC~~~~~~~~~
+A5DM64_PICGU_106-159 AVCGPQAPGAFFNTECPLNACCSQYGYCGTTSQYCDKTDSPTGAPGTAGC
+A9TSX1_PHYPA_31-67   AQTCGSQAGGAKCQNNLCCSQYGYCGQTSAYCDSGCQ~~~~~~~~~~~~~
+O65330_ELAUM_22-61   AQQCGQQLGGALCSGGLCCSQWGYCGNTDPYCGDGCQSQC~~~~~~~~~~
+A2V800_ANACO_22-61   AQQCGSQAGGALCPGGLCCSQWGYCGDTLPYCGDGCQSQC~~~~~~~~~~
+B9SIC4_RICCO_25-64   AEQCGRQADGALCPGGLCCSQYGWCGNTDPYCGGGCQSQC~~~~~~~~~~
+C3VD22_MUSPR_19-58   AEQCGRQAGGALCPGGLCCSQYGWCGNTDPYCGEGCQSQC~~~~~~~~~~
+O22318_MUSAC_13-52   AEQCGRQAGGALCPGGLCCSQYGWCGNTDPYCGQGCXSQC~~~~~~~~~~
+B6UYK6_MUSPR_19-58   AEQCGRQAGGALCPGGLCCSQYGWCGNTDPYCGQGCQSQC~~~~~~~~~~
+Q8VXF1_MUSAC_19-58   AEQCGRQAGGALCPGGLCCSQYGWCGNTDPYCGQGCQSQC~~~~~~~~~~
+Q8VXF0_MUSAC_23-62   AEQCGRQAGGALCPGGLCCSQFGWCGNTDPYCGKDCQSQC~~~~~~~~~~
+A9NLC7_PICSI_34-73   SEDCGQQAGGALCPGGLCCSKWGWCGNTQAHCGQDCQSQC~~~~~~~~~~
+A9NUA7_PICSI_26-65   AEQCGRQASGALCPGGLCCSKWGWCGNTEAHCGQDCQSQC~~~~~~~~~~
+
+           51
+Q6IVX8_9CARY_37-76   ~~~~
+B9HQY5_POPTR_21-60   ~~~~
+CHIC_POPTR_22-61     ~~~~
+B9HQZ1_POPTR_22-61   ~~~~
+CHI6_POPTR_22-61     ~~~~
+CHIB_POPTR_21-60     ~~~~
+B9HQY9_POPTR_21-60   ~~~~
+Q9LEB2_PHAVU_26-65   ~~~~
+Q8MD06_LEUGL_24-63   ~~~~
+P93680_PERAE_25-64   ~~~~
+CHIT_PHAVU_27-66     ~~~~
+Q6UZ78_PHAVU_26-65   ~~~~
+CHI5_PHAVU_26-65     ~~~~
+A9PJS5_9ROSI_21-60   ~~~~
+B9HQZ2_POPTR_21-60   ~~~~
+Q9FUH3_VIGUS_1-38    ~~~~
+Q43685_VIGUN_24-63   ~~~~
+Q6IVX2_9CARY_23-62   ~~~~
+Q6IVX4_9CARY_23-62   ~~~~
+Q8LK49_LEUGL_23-62   ~~~~
+A3QRB7_VITVI_20-59   ~~~~
+A3QRB6_VITVI_20-59   ~~~~
+Q546P8_VITVI_20-59   ~~~~
+CHIB_VITVI_20-59     ~~~~
+C0LNR1_9MAGN_20-59   ~~~~
+B8YPL6_9MAGN_20-59   ~~~~
+CHI3_TOBAC_23-63     ~~~~
+CHI4_SOLTU_18-58     ~~~~
+O81144_SOLTU_19-59   ~~~~
+O81145_SOLTU_19-59   ~~~~
+CHI1_TOBAC_23-63     ~~~~
+Q9FEW1_NICSY_23-63   ~~~~
+CHI2_TOBAC_23-63     ~~~~
+CHIC_SOLLC_22-62     ~~~~
+CHI1_SOLTU_18-58     ~~~~
+CHI2_SOLTU_18-58     ~~~~
+CHI3_SOLTU_18-58     ~~~~
+B9VRK7_CAPAN_22-62   ~~~~
+Q0U1Q1_PHANO_19-58   ~~~~
+CHIT_SOLTU_26-66     ~~~~
+Q43853_ULMAM_21-60   ~~~~
+Q4PJV8_9ROSA_21-60   ~~~~
+A9SN77_PHYPA_29-68   ~~~~
+Q9FXL8_PSOTE_15-54   ~~~~
+CHI2_PEA_20-59       ~~~~
+Q9ZP10_CICAR_23-62   ~~~~
+Q5RLX9_MEDSA_23-62   ~~~~
+P94084_MEDSA_23-62   ~~~~
+P93327_MEDTR_23-62   ~~~~
+Q7X9F5_9FABA_26-65   ~~~~
+B2DD07_CITUN_20-59   ~~~~
+Q76IR2_TAXDI_23-63   ~~~~
+Q76JJ7_CRYJA_23-63   ~~~~
+Q403K0_CRYJA_23-63   ~~~~
+Q76JH6_CRYJA_23-63   ~~~~
+Q76JK0_CRYJA_23-63   ~~~~
+CHI1_GOSHI_22-62     ~~~~
+CHI2_GOSHI_1-40      ~~~~
+Q9ZTT8_GOSHI_1-40    ~~~~
+D0EWF1_CAMSI_21-60   ~~~~
+C1K2M3_PANGI_19-57   ~~~~
+CHI1_THECC_21-62     ~~~~
+Q7Y237_EUOEU_19-58   ~~~~
+Q7X9R8_EUOEU_19-58   ~~~~
+O65331_ELAUM_23-62   ~~~~
+B9H1P7_POPTR_21-60   ~~~~
+B9FPH7_ORYSJ_32-71   ~~~~
+CHI7_ORYSI_32-71     ~~~~
+CHI7_ORYSJ_32-71     ~~~~
+Q9AVA8_CUCME_20-59   ~~~~
+A1BQQ0_CUCSA_12-51   ~~~~
+Q207U1_MOMCH_20-59   ~~~~
+O80404_9ROSI_19-58   ~~~~
+CHIB_PEA_1-23        ~~~~
+Q9M7G8_ARAGL_1-38    ~~~~
+Q9M7G9_ARAGL_16-56   ~~~~
+CHI2_BRANA_20-60     ~~~~
+Q9M7H3_ARABL_1-36    ~~~~
+Q9M7F6_ARAMC_1-36    ~~~~
+Q9M7H7_ARAHO_1-36    ~~~~
+Q9M7F7_ARAMC_1-36    ~~~~
+Q9M7H1_ARAFE_1-36    ~~~~
+Q9M7F8_ARAMC_1-36    ~~~~
+Q9M7G0_ARALI_1-36    ~~~~
+Q9M7F9_9BRAS_1-36    ~~~~
+Q9M7G1_ARALI_1-37    ~~~~
+Q9M7H4_ARABL_16-56   ~~~~
+Q9M7G4_9BRAS_1-38    ~~~~
+Q9M7G3_9BRAS_1-37    ~~~~
+Q9M7H5_ARAGU_1-36    ~~~~
+Q9M7H8_BOEDR_9-49    ~~~~
+Q9M7H6_ARAHO_9-49    ~~~~
+Q9M7F4_BOEPA_9-49    ~~~~
+Q9M7F5_BOEPA_9-49    ~~~~
+Q9M7H0_ARAFE_22-62   ~~~~
+Q9M7G2_ARALI_3-43    ~~~~
+Q9M7H2_BOEDR_2-42    ~~~~
+Q9SXJ1_ARAGE_33-73   ~~~~
+Q9M7G7_ARAGL_19-59   ~~~~
+CHIB_ARATH_33-73     ~~~~
+Q9M7G5_9BRAS_1-36    ~~~~
+Q9M7G6_ARAGU_1-36    ~~~~
+Q9M7H9_ARAAL_1-37    ~~~~
+C3S7U7_ISATI_1-30    ~~~~
+B5TYQ3_9ROSI_22-61   ~~~~
+Q9XFK6_HUMLU_19-58   ~~~~
+B8XR33_9ROSA_19-58   ~~~~
+B9VQ31_PYRPY_19-58   ~~~~
+Q9SEM3_CAPAN_22-63   ~~~~
+WIN2_SOLTU_25-66     ~~~~
+Q75QH1_CAPCH_19-60   ~~~~
+O03994_SOLLC_15-56   ~~~~
+WIN1_SOLTU_25-66     ~~~~
+Q41230_TOBAC_21-62   ~~~~
+Q41231_TOBAC_22-63   ~~~~
+A5AT01_VITVI_22-61   ~~~~
+Q9ZTK4_VITVI_22-61   ~~~~
+Q9FS45_VITVI_22-61   ~~~~
+B0ZC08_CASGL_23-62   ~~~~
+Q8GUD7_HEVBR_1-39    ~~~~
+Q949H3_HEVBR_1-39    ~~~~
+Q42428_CASSA_18-57   ~~~~
+Q6QNB2_MUSAC_25-69   ~~~~
+Q6R8K3_MUSAC_25-69   ~~~~
+Q6QNA9_MUSBA_25-69   ~~~~
+Q8SA44_BRAJU_19-58   ~~~~
+Q8SA44_BRAJU_76-115  ~~~~
+Q9SQF7_BRAJU_71-112  ~~~~
+Q9SQF7_BRAJU_20-61   ~~~~
+Q9SDY6_SOYBN_23-62   ~~~~
+Q7X9F6_9FABA_24-63   ~~~~
+Q7X9F4_9FABA_24-63   ~~~~
+Q1W6C5_9CARY_23-62   ~~~~
+B3VFX0_9CARY_23-62   ~~~~
+CHIX_PEA_23-62       ~~~~
+A9S0C3_PHYPA_19-58   ~~~~
+Q38777_ALLSA_17-56   ~~~~
+Q38776_ALLSA_13-52   ~~~~
+B6TFQ3_MAIZE_26-65   ~~~~
+A4RL02_MAGGR_44-90   ~~~~
+C9K5U3_9PEZI_44-90   ~~~~
+C7YV56_NECH7_1-41    ~~~~
+A6RJB2_BOTFB_159-204 ~~~~
+A7E5V2_SCLS1_34-79   ~~~~
+B9H1P8_POPTR_23-62   ~~~~
+CHI8_POPTR_23-62     ~~~~
+B5L6N2_CROSA_19-58   ~~~~
+Q9SYS5_SAMNI_29-67   ~~~~
+Q9SYS4_SAMNI_29-67   ~~~~
+Q9ZT61_SAMNI_29-67   ~~~~
+Q9ZT60_SAMNI_29-67   ~~~~
+Q944B9_SAMNI_26-64   ~~~~
+A7XQ02_MORAL_23-64   ~~~~
+Q9SYR2_URTDI_23-62   ~~~~
+Q9ZP51_URTDI_23-62   ~~~~
+Q9SYR5_URTDI_23-62   ~~~~
+Q9S7W3_URTDI_23-62   ~~~~
+AGI_URTDI_23-62      ~~~~
+Q9S7K1_URTDI_23-62   ~~~~
+Q9S7C2_URTDI_24-63   ~~~~
+Q9S705_URTDI_23-62   ~~~~
+Q9S7B3_URTDI_23-62   ~~~~
+B0E7E9_ENTDI_17-55   ~~~~
+D0VX39_SOLLC_95-134  ~~~~
+D0VX39_SOLLC_47-88   ~~~~
+D0VX39_SOLLC_140-180 ~~~~
+LECT_SOLTU_105-147   ~~~~
+LECT_SOLTU_257-299   ~~~~
+D0VX39_SOLLC_248-288 ~~~~
+LECT_SOLTU_59-99     ~~~~
+LECT_SOLTU_211-251   ~~~~
+B3XYC5_SOLLC_193-232 ~~~~
+B3XYC5_SOLLC_249-288 ~~~~
+B3XYC5_SOLLC_305-344 ~~~~
+B3XYC5_SOLLC_53-92   ~~~~
+EAP1_EUCUL_1-39      ~~~~
+EAP2_EUCUL_1-39      ~~~~
+A7XQ02_MORAL_125-165 ~~~~
+Q944B8_SAMNI_26-66   ~~~~
+Q9ZP51_URTDI_69-109  ~~~~
+Q9SYR5_URTDI_69-109  ~~~~
+Q9S7B3_URTDI_69-109  ~~~~
+Q9SYR2_URTDI_69-103  ~~~~
+Q9S7K1_URTDI_69-109  ~~~~
+Q9S7W3_URTDI_69-109  ~~~~
+Q9S7C2_URTDI_70-110  ~~~~
+Q9S705_URTDI_69-109  ~~~~
+B2AAQ0_PODAN_351-395 ~~~~
+Q0UU01_PHANO_27-73   ~~~~
+Q0U8R2_PHANO_371-415 ~~~~
+Q9XFF2_ORYRU_44-84   ~~~~
+B8AR70_ORYSI_71-111  ~~~~
+AGI_ORYSI_71-111     ~~~~
+AGI_ORYSJ_71-111     ~~~~
+B7EUA6_ORYSJ_71-111  ~~~~
+B9FE25_ORYSJ_50-90   ~~~~
+AGI1_WHEAT_69-109    ~~~~
+AGI2_WHEAT_70-110    ~~~~
+AGI_HORVU_69-109     ~~~~
+AGI3_WHEAT_43-83     ~~~~
+Q9XFF2_ORYRU_130-170 ~~~~
+B9FE25_ORYSJ_136-176 ~~~~
+B7EUA6_ORYSJ_157-197 ~~~~
+B8AR70_ORYSI_157-197 ~~~~
+AGI_ORYSJ_157-197    ~~~~
+AGI_ORYSI_157-197    ~~~~
+AGI3_WHEAT_1-40      ~~~~
+AGI_HORVU_26-66      ~~~~
+AGI2_WHEAT_27-67     ~~~~
+AGI1_WHEAT_26-66     ~~~~
+Q9XFF2_ORYRU_1-43    ~~~~
+B9FE25_ORYSJ_28-51   ~~~~
+B8AR70_ORYSI_28-70   ~~~~
+B7EUA6_ORYSJ_28-70   ~~~~
+AGI_ORYSJ_28-70      ~~~~
+AGI_ORYSI_28-70      ~~~~
+Q0ZH66_WHEAT_115-154 ~~~~
+B8AR70_ORYSI_115-154 ~~~~
+AGI_ORYSI_115-154    ~~~~
+Q9XFF2_ORYRU_88-127  ~~~~
+AGI_ORYSJ_115-154    ~~~~
+B9FE25_ORYSJ_94-133  ~~~~
+B7EUA6_ORYSJ_115-154 ~~~~
+AGI2_WHEAT_114-153   ~~~~
+AGI1_WHEAT_113-152   ~~~~
+AGI_HORVU_113-152    ~~~~
+AGI3_WHEAT_87-126    ~~~~
+Q0ZH66_WHEAT_26-68   ~~~~
+Q0ZH66_WHEAT_71-111  ~~~~
+Q0ZH66_WHEAT_157-197 ~~~~
+AGI2_WHEAT_156-196   ~~~~
+AGI3_WHEAT_129-169   ~~~~
+AGI1_WHEAT_155-195   ~~~~
+AGI_HORVU_155-195    ~~~~
+A7F9A3_SCLS1_99-137  ~~~~
+A8JG69_CHLRE_28-64   ~~~~
+B8MQ64_TALSN_69-110  ~~~~
+A6RR50_BOTFB_61-99   ~~~~
+Q0UKU4_PHANO_63-102  ~~~~
+Q0TZN1_PHANO_63-102  ~~~~
+B2W2L7_PYRTR_60-99   ~~~~
+B2W071_PYRTR_67-107  ~~~~
+D1ZRM2_SORMA_73-112  ~~~~
+Q2H3G9_CHAGB_60-102  ~~~~
+B2ANJ5_PODAN_60-102  ~~~~
+Q0UK89_PHANO_17-57   ~~~~
+B2W620_PYRTR_17-57   ~~~~
+A4QTM5_MAGGR_306-351 ~~~~
+C9K5U6_9PEZI_306-351 ~~~~
+A7E4P3_SCLS1_47-96   ~~~~
+A7YHB2_BATDE_92-133  ~~~~
+Q96408_DAUCA_21-55   ~~~~
+Q96409_DAUCA_21-55   ~~~~
+Q96411_DAUCA_19-53   ~~~~
+Q96410_DAUCA_19-53   ~~~~
+O24603_ARATH_31-64   ~~~~
+O24598_ARATH_22-57   ~~~~
+C0PKN5_MAIZE_29-68   ~~~~
+C5YBF1_SORBI_23-60   ~~~~
+Q93WT2_SORBI_18-51   ~~~~
+C5YBE9_SORBI_29-62   ~~~~
+Q94EL4_SORBI_18-51   ~~~~
+Q941I5_SORBI_18-51   ~~~~
+Q93WT1_SORBI_28-61   ~~~~
+C5YBE8_SORBI_18-56   ~~~~
+Q94EL3_SORHL_18-51   ~~~~
+Q94EL5_SACOF_17-50   ~~~~
+A9XAV3_SACOF_11-44   ~~~~
+A9XB14_SACOF_11-44   ~~~~
+A9XB16_SACOF_11-44   ~~~~
+B8QUW8_ZEAMP_25-58   ~~~~
+B8QUZ2_ZEAMP_25-58   ~~~~
+B8QUT0_ZEAMP_25-58   ~~~~
+B8QUY6_ZEAMP_25-58   ~~~~
+B8QUT8_ZEAMP_25-58   ~~~~
+Q6JBK4_ZEAMP_26-59   ~~~~
+B8QUY4_ZEAMP_25-58   ~~~~
+B8QUS3_ZEAMP_25-58   ~~~~
+B8QUY7_ZEAMP_25-58   ~~~~
+B8QUZ0_ZEAMP_25-58   ~~~~
+B8QUZ3_ZEAMP_27-60   ~~~~
+B8QUY1_ZEAMP_25-58   ~~~~
+B8QUW4_ZEAMP_27-60   ~~~~
+B8QUS2_ZEAMP_25-58   ~~~~
+B8QUV9_ZEAMP_27-60   ~~~~
+B8QUY0_ZEAMP_27-60   ~~~~
+D0EM57_MAIZE_26-59   ~~~~
+B8QUW9_ZEAMP_27-60   ~~~~
+B8QUY2_ZEAMP_25-58   ~~~~
+B8QUY3_ZEAMP_26-59   ~~~~
+B8QUT7_ZEAMP_25-58   ~~~~
+B8QUV5_ZEAMP_25-58   ~~~~
+B8QUU6_ZEAMP_25-58   ~~~~
+B8QUW0_ZEAMP_27-60   ~~~~
+Q6JBL4_ZEAMP_25-58   ~~~~
+B8QUS8_ZEAMP_25-58   ~~~~
+B8QUU9_ZEAMP_25-58   ~~~~
+B8QUV1_ZEAMP_25-58   ~~~~
+B8QUY5_ZEAMP_26-59   ~~~~
+Q6JBK0_ZEADI_24-57   ~~~~
+Q6JBK1_ZEADI_24-57   ~~~~
+Q6JBK9_ZEAMP_27-60   ~~~~
+B8QV01_ZEAMP_25-58   ~~~~
+B8QUX9_ZEAMP_25-58   ~~~~
+B8QUX8_ZEAMP_27-60   ~~~~
+Q6JBK3_ZEAMP_25-58   ~~~~
+Q6JBL1_ZEAMP_27-60   ~~~~
+B8QUT1_ZEAMP_25-58   ~~~~
+B8QUS1_ZEAMP_25-58   ~~~~
+B4FTS6_MAIZE_25-58   ~~~~
+B6TEL0_MAIZE_25-58   ~~~~
+Q6JBK6_ZEAMP_25-58   ~~~~
+B8QUX1_ZEAMP_25-58   ~~~~
+B8QUU3_ZEAMP_24-57   ~~~~
+B8QUV3_ZEAMP_25-58   ~~~~
+B8QUU0_ZEAMP_25-58   ~~~~
+B8QUX4_ZEAMP_27-60   ~~~~
+B8QUT2_ZEAMP_25-58   ~~~~
+B8QUS6_ZEAMP_25-58   ~~~~
+Q6JBL0_ZEAMP_27-60   ~~~~
+Q6JBL3_ZEAMP_25-58   ~~~~
+Q6JBK7_ZEAMP_25-58   ~~~~
+Q6JBL2_ZEAMP_25-58   ~~~~
+B8QUZ8_ZEAMP_25-58   ~~~~
+B8QUZ6_ZEAMP_25-58   ~~~~
+B8QV00_ZEAMP_25-58   ~~~~
+B8QUS5_ZEAMP_25-58   ~~~~
+B8QUX2_ZEAMP_25-58   ~~~~
+B8QUT9_ZEAMP_27-60   ~~~~
+Q6JBK8_ZEAMP_25-58   ~~~~
+B8QUS9_ZEAMP_25-58   ~~~~
+B8QUX0_ZEAMP_25-58   ~~~~
+CHIA_MAIZE_25-58     ~~~~
+B8QUZ1_ZEAMP_25-58   ~~~~
+B8QUX5_ZEAMP_27-60   ~~~~
+Q6JBL5_ZEAMP_25-58   ~~~~
+B8QUX6_ZEAMP_25-57   ~~~~
+B8QUT5_ZEAMP_25-58   ~~~~
+B8QUV0_ZEAMP_25-58   ~~~~
+C0P451_MAIZE_33-66   ~~~~
+B8QV06_ZEAMP_31-64   ~~~~
+Q6JBQ2_ZEAMP_31-64   ~~~~
+Q6JBQ7_ZEAMP_31-64   ~~~~
+Q6JBQ3_ZEAMP_33-66   ~~~~
+Q6JBP3_ZEADI_31-64   ~~~~
+B8QV58_ZEAMP_33-66   ~~~~
+B8QV03_ZEAMP_31-64   ~~~~
+B8QV24_ZEAMP_31-64   ~~~~
+Q6JBQ1_ZEAMP_31-64   ~~~~
+B8QV60_ZEAMP_31-64   ~~~~
+B8QV35_ZEAMP_31-64   ~~~~
+B8QV41_ZEAMP_31-64   ~~~~
+B8QV53_ZEAMP_31-64   ~~~~
+B8QV64_ZEAMP_31-64   ~~~~
+B8QV69_ZEAMP_32-65   ~~~~
+B8QV62_ZEAMP_31-64   ~~~~
+B8QV73_ZEAMP_33-66   ~~~~
+B8QV48_ZEAMP_33-66   ~~~~
+B8QV09_ZEAMP_31-64   ~~~~
+B8QV42_ZEAMP_31-64   ~~~~
+B8QV32_ZEAMP_31-64   ~~~~
+B8QV61_ZEAMP_33-66   ~~~~
+B8QV66_ZEAMP_31-64   ~~~~
+Q6JBQ6_ZEAMP_33-66   ~~~~
+Q6JBP5_ZEADI_31-64   ~~~~
+B8QV19_ZEAMP_31-64   ~~~~
+B8QV14_ZEAMP_31-64   ~~~~
+B8QV22_ZEAMP_31-64   ~~~~
+B8QV26_ZEAMP_33-66   ~~~~
+B8QV04_ZEAMP_31-64   ~~~~
+B8QV34_ZEAMP_31-64   ~~~~
+Q6JBP7_ZEADI_31-64   ~~~~
+B8QV47_ZEAMP_31-64   ~~~~
+B8QV18_ZEAMP_31-64   ~~~~
+B8QV05_ZEAMP_31-64   ~~~~
+B8QV67_ZEAMP_31-64   ~~~~
+Q6JBQ5_ZEAMP_33-66   ~~~~
+CHIB_MAIZE_20-53     ~~~~
+B8QV71_ZEAMP_31-64   ~~~~
+B8QV68_ZEAMP_33-66   ~~~~
+B8QV37_ZEAMP_31-64   ~~~~
+B8QV52_ZEAMP_31-64   ~~~~
+Q6JBR1_ZEAMP_31-64   ~~~~
+B8QV49_ZEAMP_31-64   ~~~~
+B8QV74_ZEAMP_31-64   ~~~~
+Q6JBP9_ZEAMP_31-64   ~~~~
+B8QV12_ZEAMP_31-64   ~~~~
+B8QV28_ZEAMP_31-64   ~~~~
+B8QV56_ZEAMP_33-66   ~~~~
+Q6JBP2_ZEADI_31-64   ~~~~
+B4FK87_MAIZE_33-66   ~~~~
+Q6JBQ8_ZEAMP_31-64   ~~~~
+B8QV29_ZEAMP_31-64   ~~~~
+B8QV65_ZEAMP_31-64   ~~~~
+Q6JBQ9_ZEAMP_31-64   ~~~~
+B8QV46_ZEAMP_31-64   ~~~~
+B8QV08_ZEAMP_31-64   ~~~~
+Q6JBP8_ZEAMP_31-64   ~~~~
+B8QV45_ZEAMP_31-64   ~~~~
+Q6JBQ0_ZEAMP_31-64   ~~~~
+B8QV70_ZEAMP_32-65   ~~~~
+B8QV57_ZEAMP_31-64   ~~~~
+Q6JBQ4_ZEAMP_34-67   ~~~~
+B8QV63_ZEAMP_31-64   ~~~~
+Q6JBR2_TRIDA_32-65   ~~~~
+Q6JBL6_TRIDA_27-60   ~~~~
+Q9XEN6_WHEAT_26-59   ~~~~
+A0B9Y6_ORYSA_29-62   ~~~~
+CHI5_ORYSJ_29-62     ~~~~
+B8ARC6_ORYSI_29-62   ~~~~
+C6F3C7_ORYGR_29-62   ~~~~
+C5YBF0_SORBI_27-60   ~~~~
+C5XJT5_SORBI_33-66   ~~~~
+B7FZY0_PHATR_309-347 ~~~~
+B5YLX5_THAPS_580-619 ~~~~
+Q4VU87_THAPS_580-619 ~~~~
+Q4VU88_THAPS_580-619 ~~~~
+Q0JC38_ORYSJ_27-60   ~~~~
+B8ARC5_ORYSI_27-60   ~~~~
+Q25AB8_ORYSA_27-60   ~~~~
+CHI4_ORYSJ_27-60     ~~~~
+B9FFW6_ORYSJ_23-56   ~~~~
+A4QWY3_MAGGR_98-140  ~~~~
+A4QWY3_MAGGR_479-521 ~~~~
+A4QWY3_MAGGR_184-226 ~~~~
+A4QWT6_MAGGR_36-78   ~~~~
+Q6A3Q3_BOTFU_79-121  ~~~~
+A7EB96_SCLS1_203-245 ~~~~
+B9T8H9_RICCO_27-60   ~~~~
+C6TK83_SOYBN_27-60   ~~~~
+B8Y647_MEDSA_32-65   ~~~~
+Q6RV28_MEDTR_32-65   ~~~~
+Q7X9F8_9FABA_32-65   ~~~~
+CHI4_PHAVU_23-56     ~~~~
+Q43686_VIGUN_3-36    ~~~~
+B9IQS9_POPTR_26-59   ~~~~
+A9PH35_POPTR_26-59   ~~~~
+B9IQT0_POPTR_26-59   ~~~~
+B9NF44_POPTR_26-59   ~~~~
+B9N604_POPTR_23-58   ~~~~
+C6T7J9_SOYBN_34-67   ~~~~
+A5BKN8_VITVI_24-57   ~~~~
+A5BSD2_VITVI_23-57   ~~~~
+A5C2S9_VITVI_24-57   ~~~~
+A5BSD1_VITVI_24-57   ~~~~
+A5BCX7_VITVI_23-57   ~~~~
+B0FZ26_9ROSI_20-53   ~~~~
+Q7XAU6_VITVI_20-53   ~~~~
+O24530_VITVI_20-53   ~~~~
+B0FZ27_9ROSI_20-53   ~~~~
+O24531_VITVI_20-53   ~~~~
+B6TT00_MAIZE_25-58   ~~~~
+CHIP_BETVU_27-61     ~~~~
+A7F9A3_SCLS1_141-178 ~~~~
+A1IJ67_TOBAC_28-61   ~~~~
+A9TSW7_PHYPA_17-58   ~~~~
+Q7XB39_VITVI_25-58   ~~~~
+A5AJB3_VITVI_25-58   ~~~~
+B8C873_THAPS_22-54   ~~~~
+C5XX83_SORBI_23-57   ~~~~
+A5AK36_VITVI_13-53   ~~~~
+A2X6Z9_ORYSI_25-58   ~~~~
+CHI6_ORYSJ_25-58     ~~~~
+A9ZMK1_NEPAL_29-62   ~~~~
+A5BSD0_VITVI_28-62   ~~~~
+B9N605_POPTR_30-63   ~~~~
+B9IQS7_POPTR_13-46   ~~~~
+C5YBE7_SORBI_27-60   ~~~~
+O23805_9CARY_24-57   ~~~~
+AMP_AMARE_26-60      ~~~~
+A0SZY3_AMAHY_27-60   ~~~~
+A0SZX9_9CARY_27-60   ~~~~
+Q71U16_AMAHP_27-60   ~~~~
+A0SZY0_AMACA_27-60   ~~~~
+A0SZY5_AMARE_27-60   ~~~~
+A0SZY1_AMACR_27-60   ~~~~
+A0SZY2_9CARY_27-60   ~~~~
+AMP_AMACA_27-60      ~~~~
+A0SZY4_AMAHP_27-60   ~~~~
+A0SZY6_AMATR_27-60   ~~~~
+Q9S8Z7_AMACA_2-30    ~~~~
+Q9S8Z6_AMACA_2-29    ~~~~
+C1K2E8_ELAOL_22-55   ~~~~
+Q4A3V2_PHYPA_31-71   ~~~~
+A9T8R4_PHYPA_31-71   ~~~~
+Q43150_SAMNI_15-48   ~~~~
+Q05K38_BRARP_24-57   ~~~~
+CHI4_BRANA_24-57     ~~~~
+A8IXF7_BRACM_24-57   ~~~~
+B7X6W0_BRARC_24-57   ~~~~
+Q8H6K2_BRARP_24-49   ~~~~
+O24658_ARATH_24-57   ~~~~
+D3TIC1_MANIN_2-35    ~~~~
+B9IQS8_POPTR_24-57   ~~~~
+A4QRF6_MAGGR_381-421 ~~~~
+C9K5U1_9PEZI_381-421 ~~~~
+D0QU15_LACSA_23-56   ~~~~
+B9VQ34_PYRPY_24-57   ~~~~
+A9U5W5_PHYPA_23-63   ~~~~
+A9T7E9_PHYPA_15-55   ~~~~
+A9SXW7_PHYPA_26-64   ~~~~
+Q596H8_PINMO_25-58   ~~~~
+Q596H9_PINMO_25-58   ~~~~
+Q596H7_PINMO_25-58   ~~~~
+Q9XFW7_BETVU_24-57   ~~~~
+Q43391_BRANA_17-50   ~~~~
+Q94C47_BRANA_33-66   ~~~~
+O22842_ARATH_28-64   ~~~~
+O22841_ARATH_28-64   ~~~~
+A9NSX6_PICSI_36-69   ~~~~
+A9NQV7_PICSI_36-69   ~~~~
+A9NQ96_PICSI_36-69   ~~~~
+B8LQM1_PICSI_36-69   ~~~~
+C0PRG2_PICSI_36-69   ~~~~
+A9NP56_PICSI_36-69   ~~~~
+C3VPA0_PSEMZ_26-59   ~~~~
+C3VP99_PSEMZ_26-59   ~~~~
+O23806_9CARY_24-57   ~~~~
+O23804_9CARY_24-57   ~~~~
+O23803_9CARY_24-57   ~~~~
+Q6WSR9_PICAB_26-59   ~~~~
+A4R234_MAGGR_17-57   ~~~~
+C9K5U0_9PEZI_17-57   ~~~~
+Q6WSS1_PICAB_26-59   ~~~~
+Q6WSR8_PICAB_26-59   ~~~~
+Q6S737_PICAB_26-59   ~~~~
+Q40838_PICGL_26-59   ~~~~
+C0JR29_PICAB_1-34    ~~~~
+Q6E6N0_PICAB_26-59   ~~~~
+A9P2F9_PICSI_26-59   ~~~~
+A9NLU6_PICSI_26-59   ~~~~
+C0JR28_PICAB_1-34    ~~~~
+A9NLX3_PICSI_26-59   ~~~~
+Q6WSS0_PICAB_26-59   ~~~~
+Q6SSF0_PICAB_26-59   ~~~~
+A5JVZ1_BRAJU_33-66   ~~~~
+A4RNW4_MAGGR_271-311 ~~~~
+C9K5T6_9PEZI_329-369 ~~~~
+A1DKB4_NEOFI_303-344 ~~~~
+Q4WL37_ASPFU_293-334 ~~~~
+Q42085_ARATH_36-69   ~~~~
+Q9M2U5_ARATH_28-61   ~~~~
+O23248_ARATH_28-61   ~~~~
+A7E4P3_SCLS1_108-149 ~~~~
+A6RKC4_BOTFB_110-152 ~~~~
+Q8H986_CITJA_22-58   ~~~~
+C9STV8_VERA1_294-330 ~~~~
+C9STV8_VERA1_114-155 ~~~~
+C9STV8_VERA1_230-270 ~~~~
+B2ARV7_PODAN_224-267 ~~~~
+Q2H2H8_CHAGB_36-78   ~~~~
+A4QQ53_MAGGR_53-96   ~~~~
+C9K5T8_9PEZI_53-96   ~~~~
+Q7Y238_EUOEU_21-62   ~~~~
+Q7X9R9_EUOEU_21-62   ~~~~
+Q8H7F8_ARATH_21-62   ~~~~
+HEVL_ARATH_21-62     ~~~~
+Q8H950_EUTWA_21-62   ~~~~
+Q9FUU3_HEVBR_17-50   ~~~~
+Q6JYQ8_HEVBR_17-58   ~~~~
+Q6JYQ7_HEVBR_17-58   ~~~~
+HEVE_HEVBR_17-58     ~~~~
+O49860_HEVBR_1-41    ~~~~
+B9SZ68_RICCO_21-62   ~~~~
+Q6KF83_HEVBR_1-41    ~~~~
+HEVP_HEVBR_1-41      ~~~~
+Q6JYR0_HEVBR_17-58   ~~~~
+Q6JYQ9_HEVBR_17-58   ~~~~
+Q58HA4_9FABA_23-64   ~~~~
+B9I5G0_POPTR_21-62   ~~~~
+A0SWV6_9ROSI_21-62   ~~~~
+C6T035_SOYBN_20-61   ~~~~
+B9MZD0_POPTR_16-58   ~~~~
+B9I5G2_POPTR_20-61   ~~~~
+A9PHF7_POPTR_20-61   ~~~~
+B1PDJ8_CAPAN_20-59   ~~~~
+Q8W2B2_CAPAN_20-59   ~~~~
+B8N8I8_ASPFN_48-89   ~~~~
+B9T8E8_RICCO_32-65   ~~~~
+B2AAQ0_PODAN_45-85   ~~~~
+A9RL26_PHYPA_21-62   ~~~~
+C8VSV7_EMENI_77-119  ~~~~
+Q5BG13_EMENI_77-119  ~~~~
+Q5B303_EMENI_98-139  ~~~~
+C8V802_EMENI_98-139  ~~~~
+B6H5Y3_PENCW_66-107  ~~~~
+A7EJG1_SCLS1_133-180 ~~~~
+Q2GQ53_CHAGB_70-106  ~~~~
+C7Z3E2_NECH7_54-101  ~~~~
+C7ZGN3_NECH7_105-146 ~~~~
+Q2GTW7_CHAGB_139-187 ~~~~
+D1ZXC6_SORMA_108-156 ~~~~
+D4ALF6_ARTBE_111-141 ~~~~
+D4D5M9_TRIVC_517-548 ~~~~
+Q2UDT3_ASPOR_436-468 ~~~~
+B0Y3J3_ASPFC_353-385 ~~~~
+Q4WU15_ASPFU_375-407 ~~~~
+A2VEB7_TRIRE_439-471 ~~~~
+Q707V9_9SACH_165-208 ~~~~
+Q6BL38_DEBHA_79-132  LSNC
+Q7Z8R6_9SACH_803-842 ~~~~
+KTXA_KLULA_317-370   FSNC
+C5P133_COCP7_97-144  ~~~~
+Q5VHW7_COCPO_85-132  ~~~~
+D4AVW4_ARTBE_49-96   ~~~~
+D4DB10_TRIVC_49-96   ~~~~
+B8MCG7_TALSN_124-165 ~~~~
+B8MCG8_TALSN_124-165 ~~~~
+B6QVU1_PENMQ_68-110  ~~~~
+D3B6J0_POLPA_238-271 ~~~~
+A7E648_SCLS1_71-107  ~~~~
+Q0CCJ4_ASPTN_65-106  ~~~~
+A1C6S5_ASPCL_65-106  ~~~~
+B0Y822_ASPFC_66-107  ~~~~
+Q4WMI5_ASPFU_66-103  ~~~~
+A1D7W5_NEOFI_15-49   ~~~~
+C7ZB68_NECH7_113-155 ~~~~
+C8VSL9_EMENI_110-149 ~~~~
+Q5BFY1_EMENI_110-149 ~~~~
+Q5AT99_EMENI_63-102  ~~~~
+C8VEJ3_EMENI_63-102  ~~~~
+A1DKA0_NEOFI_111-150 ~~~~
+Q0CFU0_ASPTN_114-150 ~~~~
+D1ZBI7_SORMA_70-106  ~~~~
+C5FPW9_NANOT_71-108  ~~~~
+A2RBJ5_ASPNC_118-154 ~~~~
+C5FN50_NANOT_65-99   ~~~~
+C7ZER7_NECH7_116-154 ~~~~
+C4JYD2_UNCRE_113-147 ~~~~
+C5FMR8_NANOT_93-134  ~~~~
+Q0GA12_9PEZI_95-134  ~~~~
+C9K5U4_9PEZI_99-137  ~~~~
+A4RMU7_MAGGR_99-137  ~~~~
+Q0CGA1_ASPTN_92-133  ~~~~
+A2R4L6_ASPNC_104-142 ~~~~
+B0Y1N2_ASPFC_81-123  ~~~~
+A4DA09_ASPFU_81-123  ~~~~
+C5FKP7_NANOT_81-123  ~~~~
+B6QSR8_PENMQ_124-164 ~~~~
+A2R4D3_ASPNC_39-74   ~~~~
+A1CV42_NEOFI_78-115  ~~~~
+C7Z0A7_NECH7_223-261 ~~~~
+A7F4I5_SCLS1_16-52   ~~~~
+Q2GRE7_CHAGB_93-133  ~~~~
+Q9HFQ9_EMENI_82-122  ~~~~
+Q5AQP0_EMENI_82-122  ~~~~
+C8VRJ3_EMENI_82-122  ~~~~
+A1CPL5_ASPCL_71-106  ~~~~
+Q2H8G8_CHAGB_139-180 ~~~~
+B6Q899_PENMQ_147-200 PSCS
+C9SQG4_VERA1_197-241 ~~~~
+B8MMH8_TALSN_1-29    ~~~~
+B6QSI9_PENMQ_614-654 ~~~~
+LECB_PHYAM_295-333   ~~~~
+LECC_PHYAM_86-125    ~~~~
+LECB_PHYAM_212-251   ~~~~
+LECB_PHYAM_84-124    ~~~~
+LECB_PHYAM_128-167   ~~~~
+LECB_PHYAM_172-210   ~~~~
+LECB_PHYAM_253-292   ~~~~
+LECC_PHYAM_128-166   ~~~~
+LED2_PHYAM_43-81     ~~~~
+LECC_PHYAM_45-84     ~~~~
+LED2_PHYAM_1-40      ~~~~
+LECB_PHYAM_42-81     ~~~~
+A8HSD9_CHLRE_31-72   ~~~~
+C7ZC39_NECH7_4-41    ~~~~
+CBLE_VISAL_2-43      ~~~~
+Q42468_IPONI_25-64   ~~~~
+AMP_IPONI_1-39       ~~~~
+Q40095_IPONI_25-64   ~~~~
+Q6SPQ7_BAMOL_20-59   ~~~~
+Q42970_ORYSA_32-71   ~~~~
+CHI2_ORYSJ_32-71     ~~~~
+A2Y4F6_ORYSI_23-62   ~~~~
+Q42992_ORYSA_23-62   ~~~~
+Q6SZS3_ORYSA_23-62   ~~~~
+CHI9_ORYSJ_23-62     ~~~~
+B9FPH6_ORYSJ_23-62   ~~~~
+Q8VWZ5_ORYSA_23-62   ~~~~
+Q6JBM3_ZEADI_22-61   ~~~~
+Q6JBL9_ZEADI_22-61   ~~~~
+Q6JBM5_ZEADI_22-61   ~~~~
+Q6JBM1_ZEADI_22-61   ~~~~
+Q40667_ORYSA_20-59   ~~~~
+A2YH55_ORYSI_20-59   ~~~~
+CHI1_ORYSJ_20-59     ~~~~
+Q42995_ORYSA_20-59   ~~~~
+Q6U5G8_ORYSJ_1-39    ~~~~
+A2YH54_ORYSI_18-57   ~~~~
+B9FQZ4_ORYSJ_8-47    ~~~~
+CHI3_ORYSJ_18-57     ~~~~
+Q0D9D3_ORYSJ_18-57   ~~~~
+Q40668_ORYSA_17-56   ~~~~
+A2XI16_ORYSI_21-60   ~~~~
+Q2HJJ5_MUSPR_21-60   ~~~~
+A7UC81_ORYSI_21-60   ~~~~
+CHI12_ORYSJ_21-60    ~~~~
+A2XI15_ORYSI_21-60   ~~~~
+A3AJ48_ORYSJ_21-60   ~~~~
+Q6JBN3_ZEAMP_24-63   ~~~~
+Q6JBM9_ZEAMP_22-61   ~~~~
+B8QVH2_ZEAMP_23-62   ~~~~
+B8QVH3_ZEAMP_17-56   ~~~~
+B8QVM0_ZEAMP_10-49   ~~~~
+B8QVF2_ZEAMP_22-61   ~~~~
+B8QVF9_ZEAMP_18-57   ~~~~
+B8QVG8_ZEAMP_18-57   ~~~~
+B8QVI1_ZEAMP_19-58   ~~~~
+B8QVJ5_ZEAMP_22-61   ~~~~
+B8QVH7_ZEAMP_22-61   ~~~~
+B8QVH8_ZEAMP_23-62   ~~~~
+B8QVG9_ZEAMP_18-57   ~~~~
+B8QVM1_ZEAMP_13-52   ~~~~
+B4G0Q3_MAIZE_23-62   ~~~~
+Q6JBM4_ZEADI_22-61   ~~~~
+B8QVK2_ZEAMP_22-61   ~~~~
+B8QVL5_ZEAMP_24-63   ~~~~
+Q6JBN0_ZEAMP_22-61   ~~~~
+B8QVH0_ZEAMP_19-58   ~~~~
+Q6JBN5_ZEAMP_22-61   ~~~~
+B8QVK0_ZEAMP_23-62   ~~~~
+B8QVF1_ZEAMP_22-61   ~~~~
+B8QVH4_ZEAMP_22-61   ~~~~
+B8QVF0_ZEAMP_21-60   ~~~~
+B8QVK5_ZEAMP_17-56   ~~~~
+Q6JBN1_ZEAMP_22-61   ~~~~
+Q6JBN4_ZEAMP_23-62   ~~~~
+B8QVH1_ZEAMP_19-58   ~~~~
+B8QVH5_ZEAMP_23-62   ~~~~
+B8QVL7_ZEAMP_23-62   ~~~~
+B8QVI0_ZEAMP_18-57   ~~~~
+Q6JBN6_ZEAMP_23-62   ~~~~
+B8QVI5_ZEAMP_18-57   ~~~~
+B8QVG3_ZEAMP_17-56   ~~~~
+Q6JBL7_ZEADI_22-61   ~~~~
+B8QVF8_ZEAMP_17-56   ~~~~
+Q41794_MAIZE_21-59   ~~~~
+B8QVL4_ZEAMP_22-61   ~~~~
+C6JSV0_SORBI_21-60   ~~~~
+C5YYH5_SORBI_27-66   ~~~~
+B8QVI2_ZEAMP_18-57   ~~~~
+Q8W427_WHEAT_20-59   ~~~~
+Q9SQL3_POAPR_20-59   ~~~~
+Q6T484_WHEAT_20-59   ~~~~
+Q9SQL4_POAPR_20-59   ~~~~
+Q41539_WHEAT_20-59   ~~~~
+Q9AXR9_SECCE_20-59   ~~~~
+CHI1_HORVU_19-57     ~~~~
+CHIA_SECCE_19-58     ~~~~
+Q8W428_WHEAT_27-66   ~~~~
+B1B6T0_BROIN_20-59   ~~~~
+Q42839_HORVU_27-66   ~~~~
+B6TR38_MAIZE_31-70   ~~~~
+C5YXM4_SORBI_77-116  ~~~~
+B8R3R6_FESAR_21-60   ~~~~
+AMP_TRIKH_1-41       ~~~~
+A5DM64_PICGU_106-159 ISNC
+A9TSX1_PHYPA_31-67   ~~~~
+O65330_ELAUM_22-61   ~~~~
+A2V800_ANACO_22-61   ~~~~
+B9SIC4_RICCO_25-64   ~~~~
+C3VD22_MUSPR_19-58   ~~~~
+O22318_MUSAC_13-52   ~~~~
+B6UYK6_MUSPR_19-58   ~~~~
+Q8VXF1_MUSAC_19-58   ~~~~
+Q8VXF0_MUSAC_23-62   ~~~~
+A9NLC7_PICSI_34-73   ~~~~
+A9NUA7_PICSI_26-65   ~~~~
+

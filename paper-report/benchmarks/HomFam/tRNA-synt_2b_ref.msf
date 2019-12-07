@@ -1,0 +1,82 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/tRNA-synt_2b_ref.msf MSF:  467 Type: P 07/12/19 CompCheck: 7465 ..
+
+  Name: 1kmma      Len: 467  Check: 8841 Weight: 1.00
+  Name: 1adja      Len: 467  Check:  556 Weight: 1.00
+  Name: 1srya      Len: 467  Check: 9918 Weight: 1.00
+  Name: 1qf6a      Len: 467  Check: 8702 Weight: 1.00
+  Name: 1atia      Len: 467  Check: 9448 Weight: 1.00
+
+//
+
+           1                                               50
+1kmma      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~NI.QAIR
+1adja      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~TA.RAVR
+1srya      VGGEEANREIKRVGGPPEFSFPPL...DHVALMEKNGWWEPRISQVSG.S
+1qf6a      ~~~~~~~~~~~~~~~~~~~~~~KR...DHRKIGKQLDLYHMQ..E.EA.P
+1atia      ~~~~~~~~~~~~~~~~~~~~~AASSLDELVALCKRRGFIFQSSEIYGGLQ
+
+           51                                             100
+1kmma      GMNDYLPGETAIWQRIEGTLKNVLG.SYG.YSEIRLPIVEQTPLFKRAIG
+1adja      GTKDLFGKELRMHQRIVATARKVLE.AAG.ALELVTPIFEETQVFEKGVG
+1srya      RSYALKGDLALYELALLRFAMDFMA.RRG.FLPMTLPSYAREKAFLGTGH
+1qf6a      GMVFWHNDGWTIFRELEVFVRSKLK.EYQ.YQEVKGPFMMDRVLWEKTGH
+1atia      GVYDYGPLGVELKNNLKQAWWRRNVYERDDMEGLDASVLTHRLVLHYSGH
+
+           101                                            150
+1kmma      EVTD....VVEKE.......MYTFEDR.....NGDSLTLRPEGTAGCVRA
+1adja      AATD....IVRKE.......MFTFQDR.....GGRSLTLRPEGTAAMVRA
+1srya      FPAY......RDQ.......VWAIA........ETDLYLTGTAEVVLNAL
+1qf6a      WDNY......KDA.......MFTTSSE......NREYCIKPMNCPGHVQI
+1atia      EATFADPMVDNWTPPRYFNMMFQDLRGPRGGRGL.LAYLRPETAQGIFVN
+
+           151                                            200
+1kmma      GIEH....G..LLY.NQEQRLWYIGPMFRHER.......PQKGRYRQFHQ
+1adja      YLEH....G..MKVWPQPVRLWMAGPMFRAER.......PQKGRYRQFHQ
+1srya      HSGE....ILP..YEALPLRYAGYAPAFRSEAGSFGKDVRGLMRVHQFHK
+1qf6a      FNQG....LKS..YRDLPLRMAEFGSCHRNEP.S..GSLHGLMRVRGFTQ
+1atia      FKNVLDATSRK.....LGFGIAQIGKAFRNEITPR....NFIFRVREFEQ
+
+           201                                            250
+1kmma      LGCEVFGLQ....GPDIDAELIMLTARWWRALGI.SEHVTLELNSIGSLE
+1adja      VNYEALGSE....NPILDAEAVVLLYECLKELGL.R.RLKVKLSSVGDPE
+1srya      VEQYVLTEASLEASDRAFQELLENAEEILRLLEL...PYRLVEVAT....
+1qf6a      DDAHIFCT..EEQIRDEVNGCIRLVYDMYSTFGF..EKIVVKLSTRPE..
+1atia      MEIEYFVR..PGEDEYWHRYWVEERLKWWQEMGLSRENLVPYQQPP....
+
+           251                                            300
+1kmma      ARANYRDALVAFLEQH..................................
+1adja      DRARYNAYLREVLSPHREALSEDSKERLEENPMRILDSKSERDQALLKEL
+1srya      ..................................................
+1qf6a      ..................................................
+1atia      ..................................................
+
+           301                                            350
+1kmma      ...ALGDYLDEESREHFAGLCKLLESAGIAYTVNQRLVRGLDYYNRTVFE
+1adja      GVRPMLDFLGEEARAHLKEVERHLERLSVPYELEPALVRGLDYYVRTAFE
+1srya      ...................................GDM..GPGK.WRQVD
+1qf6a      .KRIGS...DEMWDRAEADLAVALEENNIPFEYQLGEG..AFYG..PKIE
+1atia      ...................................ESS..AHYA.KATVD
+
+           351                                            400
+1kmma      WVTN..SLGSQGTVCAGGRYD.GLVEQLG.....................
+1adja      VHHE..EIGAQSALGGGGRYD.GLSELLG.....................
+1srya      IEVYLPSEGRYRETHSCSALLDWQARRAN.....................
+1qf6a      FTLYDCL.DRAWQCGTVQLDF.SLPSRLS.....................
+1atia      ILYRFPH..GSLELEGIAQRTDFDLGSHTKDQEALGITARVLRNEHSTQR
+
+           401                                            450
+1kmma      GR..........ATPAVGFAMG..LERLVLLVQAVNPEFKA~~~~~~~~~
+1adja      GP..........RVPGVGFAFG..VERVALALEAEGFGLPE~~~~~~~~~
+1srya      LRYR.DPEGRVRYAYTLNNTALAT.PRILAMLLENHQLQDG.....RVRV
+1qf6a      ASYV.GEDNERKVPVMIHRAILGSMERFIGILTEEFAG~~~~~~~~~~~~
+1atia      LAYRDPETGKWFVPYVIEPSAG..VDRGVLALLAEAFTREELPNGEERIV
+
+           451           467
+1kmma      ~~~~~~~~~~~~~~~~~
+1adja      ~~~~~~~~~~~~~~~~~
+1srya      PQALIPYMGKEVLEPCG
+1qf6a      ~~~~~~~~~~~~~~~~~
+1atia      LKLKP~~~~~~~~~~~~
+

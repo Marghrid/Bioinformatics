@@ -1,0 +1,68 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/Sulfotransfer_ref.msf MSF:  381 Type: P 07/12/19 CompCheck: 8357 ..
+
+  Name: 1cjma      Len: 381  Check: 2550 Weight: 1.00
+  Name: 1aqua      Len: 381  Check: 1606 Weight: 1.00
+  Name: 1efha      Len: 381  Check: 1333 Weight: 1.00
+  Name: 1fmja      Len: 381  Check: 7706 Weight: 1.00
+  Name: 1nsta      Len: 381  Check: 5162 Weight: 1.00
+
+//
+
+           1                                               50
+1cjma      ~~~~~~~~~~~~~~~~~~~~~~~SRPPLEYVK..GVPLIKYF..AEALGP
+1aqua      ~~~~~~~~~~~~~~~~~~~~~~EYYEVFGEFR..GVLMDKRF..TKYWED
+1efha      ~~~~~~~~~~~~~~~~~~~~~~~~~~DFLWFE..GIAFPTMGFRSETLRK
+1fmja      PFPYEFRELNPEEDKLVKANLGAFPTTYVKLGPKGYMVYRPY..LKDAAN
+1nsta      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1cjma      LQ.SFQARP....DDLLINTYPKSGTTWVSQILDMIYQ............
+1aqua      VE.MFLARP....DDLVIATYPKSGTTWISEVVYMIYKEG.......DAI
+1efha      VRDEFVIRD....EDVIILTYPKSGTNWLAEILCLMHSKGDAKWIQSVPI
+1fmja      IY.NMPLRP....TDVFVASYQRSGTTMTQELVWLIENDLNFEAAK.TYM
+1nsta      ~DPLWQDPCCDRFPKLLIIGPQKTGTTALYLFLGMHPDLSSNYPSS...E
+
+           101                                            150
+1cjma      ..RVPFLEV...NDP.........................G.....EPET
+1aqua      FNRIPYLEC...RNE.........................DL..INGIKQ
+1efha      WERSPWVES...............................EI....GYTA
+1fmja      SLRYIYLDGFMIYDPEKQEEYNDILPNPENLDMERYLGLLEYSSRPGSSL
+1nsta      TFEEIQFFNG.............................HNYHK.GIDWY
+
+           151                                            200
+1cjma      LKDTP..PPRLIKSHLP..LALLPQTLLD..QKVKVVYVARNPKDVAVSY
+1aqua      LKEKE..SPRIVKTHLP..PKLLPASFWE..KNCKMIYLCRNAKDVAVSY
+1efha      LSETE..SPRLFSSHLP..IQLFPKSFFS..SKAKVIYLMRNPRDVLVSG
+1fmja      LAAVPPTEKRFVKTHLP..LSLMPPNMLD..T.VKMVYLARDPRDVAVSS
+1nsta      MEFFPISDFYFEKSANYFDSEVAPRRAAALLPKAKVLTILINPADRAYSW
+
+           201                                            250
+1cjma      YHFHRMEKAHPEPG.TWDSFLE..........KFMAGEVSYGSWYQHVQE
+1aqua      YYFLLMITSYPNPK.SFSEFVE..........KFMQGQVPYGSWYDHVKA
+1efha      YFFWKNMKFIKKPK.SWEEYFE..........WFCQGTVLYGSWFDHIHG
+1fmja      FHHARLLYLLNKQS.NFKDFWE..........MFHRGLYTLTPYFEHVKE
+1nsta      YQHQRAHDDPVALKYTFHEVITAGSDASSKLRALQNRCLVPGWYATHIER
+
+           251                                            300
+1cjma      WWELSRTHPVLYLFYEDMKENPKREIQKILEFVGRS..............
+1aqua      WWEKSKNSRVLFMFYEDMKEDIRREVVKLIEFLERKPSAELVDRIIQHTS
+1efha      WMPMREEKNFLLLSYEELKQDTGRTIEKICQFLGKTLEPEELNLILKNSS
+1fmja      AWAKRHDPNMLFLFYEDYLKDLPGCIARIADFLGKKLSEEQIQRLCEHLN
+1nsta      WLSAYHANQILVLDGKLLRTEPAKVMDMVQKFLGVT....NTIDYHKTLA
+
+           301                                            350
+1cjma      ..................................LGDWKTTFTVAQNERF
+1aqua      ..FQEMKNNPSTNYTMMPEEMMNQKVSPFMRKGIIGDWKNHFPEALRERF
+1efha      ..FQSMKENKMSNYSLLS...VDYVVDQLLRKGVSGDWKNHFTVAQAEDF
+1fmja      ..FEKFKNNGAVNMEDYREIGILADGEHFIRKGKAGCWRDYFDEEMTKQA
+1nsta      FDP...KKGFWCQLLEGGKTKCLGK..SKGRKYP......EMDLDSRAFL
+
+           351                         381
+1cjma      DADYAEKMA.......GCSLSFRS~~~~~~~
+1aqua      DEHYKQQMK.......DCTVKFRM..E~~~~
+1efha      DKLFQEKMA.......DLPRKLAAALE~~~~
+1fmja      EKWIKDNLK.......DTDLRYPNM~~~~~~
+1nsta      KDYYRDHNIELSKLLYKMGQTLPTWLREDLQ
+

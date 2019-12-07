@@ -1,0 +1,44 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/il8_ref.msf MSF:  81 Type: P 07/12/19 CompCheck: 3281 ..
+
+  Name: 1huma      Len: 81  Check: 4555 Weight: 1.00
+  Name: 1b3aa      Len: 81  Check: 3143 Weight: 1.00
+  Name: 2eot       Len: 81  Check: 6616 Weight: 1.00
+  Name: 1plfa      Len: 81  Check: 5392 Weight: 1.00
+  Name: 1rhpa      Len: 81  Check: 4579 Weight: 1.00
+  Name: 1tvxa      Len: 81  Check: 3283 Weight: 1.00
+  Name: 1mgsa      Len: 81  Check: 5208 Weight: 1.00
+  Name: 1mi2a      Len: 81  Check: 5718 Weight: 1.00
+  Name: 1roda      Len: 81  Check: 5102 Weight: 1.00
+  Name: 1il8a      Len: 81  Check: 5546 Weight: 1.00
+  Name: 1sdf       Len: 81  Check: 4139 Weight: 1.00
+
+//
+
+           1                                               50
+1huma      APMGSDP...PTACCFSYTARKLPRNFVVDYYET.SS.LCSQPAVVFQTK
+1b3aa      ~PYSS.D...TTPCCFAYIARPLPRAHIKEYFYT.SG.KCSNPAVVFVTR
+2eot       ~~~~~GPASVPTTCCFNLANRKIPLQRLESYRRITSG.KCPQKAVIFKTK
+1plfa      ~~~~~~~~~~LQCVCLKTTS.GINPRHISSLEVIGAGLHCPSPQLIATLK
+1rhpa      ~~~~~~~~~DLQCLCVKTTS.QVRPRHITSLEVIKAGPHCPTAQLIATLK
+1tvxa      ~~~~~~~~~~LRCLCIKTTS.GIHPKNIQSLEVIGKGTHCNQVEVIATLK
+1mgsa      ~~~~ASVATELRCQCLQTLQ.GIHPKNIQSVNVKSPGPHCAQTEVIATLK
+1mi2a      ~~~~AVVASELRCQCLKTLP.RVDFKNIQSLSVTPPGPHCAQTEVIATLK
+1roda      ~~~~~~SAKELRCQCIKTYSKPFHPKFIKELRVIESGPHCANTEIIVKLS
+1il8a      ~~~~~~~AKELRCQCIKTYSKPFHPKFIKELRVIESGPHCANTEIIVKLS
+1sdf       ~~~~KPVSLSYRCPCRFFES.HVARANVKHLKILNT.PNC.ALQIVARLK
+
+           51                           81
+1huma      R.SKQVCADPSESWVQEYVYDLELN~~~~~~
+1b3aa      K.NRQVCANPEKKWVREYINSLEMS~~~~~~
+2eot       L.AKDICADPKKKWVQDSMKYLDQKSPTPKP
+1plfa      T.GRKICLDQQNPLYKKIIKRLLKS~~~~~~
+1rhpa      N.GRKICLDLQAPLYKKIIKKLLES~~~~~~
+1tvxa      D.GRKICLDPDAPRIKKIVQKKLAGD~~~~~
+1mgsa      N.GRKACLNPASPIVKKIIEKMLNSDKS..N
+1mi2a      G.GQKVCLDPEAPLVQKIIQKILNKGKA..N
+1roda      D.GRELCLDPASPIVKKIIEKMLNSDKS..N
+1il8a      D.GRELCLDPKENWVQRVVEKFLKRAEN..S
+1sdf       NNNRQVCIDPKLKWIQEYLEKALN~~~~~~~
+

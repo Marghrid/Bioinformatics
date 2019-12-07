@@ -1,0 +1,191 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/az_ref.msf MSF:  215 Type: P 07/12/19 CompCheck: 1845 ..
+
+  Name: 2azaa      Len: 215  Check: 9236 Weight: 1.00
+  Name: 1dz0a      Len: 215  Check: 8029 Weight: 1.00
+  Name: 1joi       Len: 215  Check: 9375 Weight: 1.00
+  Name: 1nwpa      Len: 215  Check:   24 Weight: 1.00
+  Name: 1jzga      Len: 215  Check: 1734 Weight: 1.00
+  Name: 1rkra      Len: 215  Check: 7251 Weight: 1.00
+  Name: 1cuoa      Len: 215  Check: 1985 Weight: 1.00
+  Name: 1adwa      Len: 215  Check:  364 Weight: 1.00
+  Name: 1bqk       Len: 215  Check: 5352 Weight: 1.00
+  Name: 1paz       Len: 215  Check: 7191 Weight: 1.00
+  Name: 1pmy       Len: 215  Check:   24 Weight: 1.00
+  Name: 1iuz       Len: 215  Check: 5749 Weight: 1.00
+  Name: 7pcy       Len: 215  Check: 5120 Weight: 1.00
+  Name: 2plt       Len: 215  Check: 4398 Weight: 1.00
+  Name: 9pcy       Len: 215  Check: 1530 Weight: 1.00
+  Name: 1ag6       Len: 215  Check: 9475 Weight: 1.00
+  Name: 1plc       Len: 215  Check: 7606 Weight: 1.00
+  Name: 1byoa      Len: 215  Check: 7218 Weight: 1.00
+  Name: 1plb       Len: 215  Check: 7172 Weight: 1.00
+  Name: 1bawa      Len: 215  Check:  356 Weight: 1.00
+  Name: 1nin       Len: 215  Check: 9181 Weight: 1.00
+  Name: 1m9wa      Len: 215  Check: 1851 Weight: 1.00
+  Name: 1bxva      Len: 215  Check: 7684 Weight: 1.00
+  Name: 2b3ia      Len: 215  Check: 6448 Weight: 1.00
+  Name: 1kdj       Len: 215  Check: 1114 Weight: 1.00
+  Name: 1qhqa      Len: 215  Check: 2049 Weight: 1.00
+  Name: 2raca      Len: 215  Check:  589 Weight: 1.00
+  Name: 1id2a      Len: 215  Check:  567 Weight: 1.00
+  Name: 1gy1a      Len: 215  Check: 3173 Weight: 1.00
+
+//
+
+           1                                               50
+2azaa      ~~~~~~~~~~~~~~~~~A....................QCEATIESN.D.
+1dz0a      ~~~~~~~~~~~~~~~~~A....................QCEATVESN.D.
+1joi       ~~~~~~~~~~~~~~~~~A....................ECKVTVDST.D.
+1nwpa      ~~~~~~~~~~~~~~~~~A....................ECKVTVDST.D.
+1jzga      ~~~~~~~~~~~~~~~~~A....................ECSVDIQGN.D.
+1rkra      ~~~~~~~~~~~~~~~~~A....................ECSVDIAGN.D.
+1cuoa      ~~~~~~~~~~~~~~~~~A....................SCETTVTSG.D.
+1adwa      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ATHEVHMLNKG
+1bqk       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ADFEVHMLNKG
+1paz       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ENIEVHMLNKG
+1pmy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~DEVAVKMLNSG
+1iuz       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AQIVKLGGD.
+7pcy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAIVKLGGD.
+2plt       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~DATVKLGAD.
+9pcy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~LEVLLGSG.
+1ag6       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~VEVLLGGD.
+1plc       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IDVLLGAD.
+1byoa      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AEVLLGSS.
+1plb       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AEVKLGSD.
+1bawa      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ETFTVKMGAD.
+1nin       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ETYTVKLGSD.
+1m9wa      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ANATVKMGSD.
+1bxva      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~QTVAIKMGAD.
+2b3ia      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ASVQIKMGTD.
+1kdj       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AKVEVGDE.
+1qhqa      ~~~~ANAPGGSNVVNETP....................AQTVEVRAAPD.
+2raca      ~DKATIPSESPFAAAEVA....................DGAIVVDIA...
+1id2a      QDKITVTSEKPVAAADVP....................ADAVVVGIE...
+1gy1a      ~~~TLDTTWKEATLPQVKAMLQKDTGKVSGDTVTYSGKTVHVVAAAVLP.
+
+           51                                             100
+2azaa      ...AMQYDL.....KEMVVDKSCKQFTVHLKHVGKMAKSAMGHNWVLTK.
+1dz0a      ...AMQYNV.....KEIVVDKSCKQFTMHLKHVGKMAKVAMGHNLVLTK.
+1joi       ...QMSFNT.....KAIEIDKSCKTFTVELTHSGSLPKNVMGHNWVLSS.
+1nwpa      ...QMSFNT.....KDIAIDKSCKTFTVELTHSGSLPKNVMGHNLVISK.
+1jzga      ...QMQFNT.....NAITVDKSCKQFTVNLSHPGNLPKNVMGHNWVLST.
+1rkra      ...GMQFDK.....KEITVSKSCKQFTVNLKHPGKLAKNVMGHNWVLTK.
+1cuoa      ...TMTYST.....RSISVPASCAEFTVNFEHKGHMPKTGMGHNWVLAK.
+1adwa      ESGAMVFEP.....AFVRAEP...GDVINFVPTD.K.....SHNVEAI..
+1bqk       KDGAMVFEP.....ASLKVAP...GDTVTFIPTD.K.....GHNVETI..
+1paz       AEGAMVFEP.....AYIKANP...GDTVTFIPVD.K.....GHNVESI..
+1pmy       PGGMMVFDP.....ALVRLKP...GDSIKFLPTD.K.....GHNVETI..
+1iuz       .DGSLAFVP.....SKISVAA...GEAIEFVNNAGF.....PHNIVFD..
+7pcy       .DGSLAFVP.....NNITVGA...GESIEFINNAGF.....PHNIVFD..
+2plt       .SGALEFVP.....KTLTIKS...GETVNFVNNAGF.....PHNIVFD..
+9pcy       .DGSLVFVP.....SEFSVPS...GEKIVFKNNAGF.....PHNVVFD..
+1ag6       .DGSLAFLP.....GDFSVAS...GEEIVFKNNAGF.....PHNVVFD..
+1plc       .DGSLAFVP.....SEFSISP...GEKIVFKNNAGF.....PHNIVFD..
+1byoa      .DGGLAFVP.....SDLSIAS...GEKITFKNNAGF.....PHNDLFD..
+1plb       .DGGLVFSP.....SSFTVAA...GEKITFKNNAGF.....PHNIVFD..
+1bawa      .SGLLQFEP.....ANVTVHP...GDTVKWVNNKLP.....PHNILFD..
+1nin       .KGLLVFEP.....AKLTIKP...GDTVEFLNNKVP.....PHNVVFD..
+1m9wa      .SGALVFEP.....STVTIKA...GEEVKWVNNKLS.....PHNIVFA..
+1bxva      .NGMLAFEP.....STIEIQA...GDTVQWVNNKLA.....PHNVVVE..
+2b3ia      .KYAPLYEP.....KALSISA...GDTVEFVMNKVG.....PHNVIFD..
+1kdj       .VGNFKFYP.....DSITVSA...GEAVEFTLVGET.....GHNIVFD..
+1qhqa      ...ALAFAQ.....TSLSLPANT.VVRLDFVNQNNL...GVQHNWVLVNG
+2raca      ...KMKYET.....PELHVKV...GDTVTWINREAM.....PHNVHFV..
+1id2a      ...KMKYLT.....PEVTIKA...GETVYWVNGEVM.....PHNVAFK..
+1gy1a      GFPFPSFEVHDKKNPTLQIPAGA.TVDVTFINTNK....GFGHDFDITK.
+
+           101                                            150
+2azaa      .EADKEGVATDGMNAGLAQDYVK.AGDTRVIAHTKVIG.G....GESDSV
+1dz0a      .DADKQAVATDGMGAGLAQDYVK.AGDTRVIAHTKVIG.G....GESDSV
+1joi       .AADMPGIASDGMAAGIDKNYLK.EGDTRVIAHTKIIG.A....GEKDSV
+1nwpa      .EADMQPIATDGLSAGIDKQYLK.DGDARVIAHTKVIG.A....GEKDSV
+1jzga      .AADMQGVVTDGMASGLDKDYLK.PDDSRVIAHTKLIG.S....GEKDSV
+1rkra      .QADMQGAVNDGMAAGLDNNYVK.KDDARVIAHTKVIG.G....GETDSV
+1cuoa      .SADVGDVAKEGAHAGADNNFVT.PGDKRVIAFTPIIG.G....GEKTSV
+1adwa      .KEILPE.............GVE...........SFKSKI....NESYTL
+1bqk       .KGMIPD.............GAE...........AFKSKI....NENYKV
+1paz       .KDMIPE.............GAE...........KFKSKI....NENYVL
+1pmy       .KGMAPD.............GAD...........YVKTTV....GQEAVV
+1iuz       .EDAVPA.............GV..DADAISYD..DYLNSK....GETVVR
+7pcy       .EDAVPA.............GV..DADAISAE..DYLNSK....GQTVVR
+2plt       .EDAIPS.............GV..NADAISRD..DYLNAP....GETYSV
+9pcy       .EDEIPA.............GV..DAVKISMPEEELLNAP....GETYVV
+1ag6       .EDEIPS.............GV..DAAKISMSEEDLLNAP....GETYKV
+1plc       .EDSIPS.............GV..DASKISMSEEDLLNAK....GETFEV
+1byoa      .EDEVPA.............GV..DVTKISMPEEDLLNAP....GEEYSV
+1plb       .EDEVPA.............GV..NAEKISQP..EYLNGA....GETYEV
+1bawa      .DKQVPG.............ASKELADKLSHS..QLMFSP....GESYEI
+1nin       .AALNPA.............KSADLAKSLSHK..QLLMSP....GQSTST
+1m9wa      .AD...G.............VD..ADTAAKLSHKGLAFAA....GESFTS
+1bxva      .G.......................QPELSHK..DLAFSP....GETFEA
+2b3ia      K...VPA.............GE..SAPALSNT..KLAIAP....GSFYSV
+1kdj       IPAGAPG.............TVASELKAASMDENDLLSED....EPSFKA
+1qhqa      GDDVAAAVNTAAQNN.ADALFVPPPDTPNALAWTAMLN.A....GESGSV
+2raca      .AGVLGE......................AALKGPMMK.K....EQAYSL
+1id2a      .KGIVGE......................DAFRGEMMT.K....DQAYAI
+1gy1a      ...KGPPYAVMPVID.............PIVAGTGFSPVPKDGKFGYTNF
+
+           151                                            200
+2azaa      TFDVSKLTPGEAYAYFCSFPGHWA.MMKGTLKLSN~~~~~~~~~~~~~~~
+1dz0a      TFDVSKIAAGENYAYFCSFPGHWA.MMKGTLKLGS~~~~~~~~~~~~~~~
+1joi       TFDVSKLAAGTDYAFFCSFPGHIS.MMKGTVTVK~~~~~~~~~~~~~~~~
+1nwpa      TFDVSKLAAGEKYGFFCSFPGHIS.MMKGTVTLK~~~~~~~~~~~~~~~~
+1jzga      TFDVSKLKEGEQYMFFCTFPGHSA.LMKGTLTLK~~~~~~~~~~~~~~~~
+1rkra      TFDVSKLAAGEDYAYFCSFPGHFA.LMKGVLKLVD~~~~~~~~~~~~~~~
+1cuoa      KFKVSALSKDEAYTYFCSYPGHFS.MMRGTLKLEE~~~~~~~~~~~~~~~
+1adwa      TVT...EP..GLYGVKCT..PHFGMGMVGLVQVGDAPENLDAAKTAKMPK
+1bqk       TFT...AP..GVYGVKCT..PHYGMGMVGVVQVGDAPANLEAVKGAKNPK
+1paz       TVT...QP..GAYLVKCT..PHYAMGMIALIAVGDSPANLDQIVSAKKPK
+1pmy       KFD...KE..GVYGFKCA..PHYMMGMVALVVVGDKRDNLEAAKSVQHNK
+1iuz       KLS...TP..GVYGVYCE..PHAGAGMKMTITVQ~~~~~~~~~~~~~~~~
+7pcy       KLT...TP..GTYGVYCD..PHSGAGMKMTITVQ~~~~~~~~~~~~~~~~
+2plt       KLT...AA..GEYGYYCE..PHQGAGMVGKIIVQ~~~~~~~~~~~~~~~~
+9pcy       TLD...TK..GTYSFYCS..PHQGAGMVGKVTVN~~~~~~~~~~~~~~~~
+1ag6       TLT...EK..GTYKFYCS..PHQGAGMVGKVTVN~~~~~~~~~~~~~~~~
+1plc       ALS...NK..GEYSFYCS..PHQGAGMVGKVTVN~~~~~~~~~~~~~~~~
+1byoa      TLT...EK..GTYKFYCA..PHAGAGMVGKVTVN~~~~~~~~~~~~~~~~
+1plb       TLT...EK..GTYKFYCE..PHAGAGMKGEVTVN~~~~~~~~~~~~~~~~
+1bawa      TFSSDFPA..GTYTYYCA..PHRGAGMVGKITVE................
+1nin       TFPADAPA..GEYTFYCE..PHRGAGMVGKITVA................
+1m9wa      TFT...EP..GTYTYYCE..PHRGAGMVGKVVVE~~~~~~~~~~~~~~~~
+1bxva      TFS...EP..GTYTYYCE..PHRGAGMVGKIVVQ~~~~~~~~~~~~~~~~
+2b3ia      TLG...TP..GTYSFYCT..PHRGAGMVGTITVE~~~~~~~~~~~~~~~~
+1kdj       KVS...TP..GTYTFYCT..PHKSANMKGTLTVK~~~~~~~~~~~~~~~~
+1qhqa      TFRT..PAP.GTYLYICTFPGHYLAGMKGTLTVTP~~~~~~~~~~~~~~~
+2raca      TFT...EA..GTYDYHCT..PHP..FMRGKVVVE~~~~~~~~~~~~~~~~
+1id2a      TFN...EA..GSYDYFCT..PHP..FMRGKVIVE~~~~~~~~~~~~~~~~
+1gy1a      TWHP..TA..GTYYYVCQIPGHAATGMFGKIVVK~~~~~~~~~~~~~~~~
+
+           201         215
+2azaa      ~~~~~~~~~~~~~~~
+1dz0a      ~~~~~~~~~~~~~~~
+1joi       ~~~~~~~~~~~~~~~
+1nwpa      ~~~~~~~~~~~~~~~
+1jzga      ~~~~~~~~~~~~~~~
+1rkra      ~~~~~~~~~~~~~~~
+1cuoa      ~~~~~~~~~~~~~~~
+1adwa      KARERMDAELAQVN~
+1bqk       KAQERLDAALAALGN
+1paz       IVQERLEKVIA~~~~
+1pmy       LTQKRLDPLFAQIQ~
+1iuz       ~~~~~~~~~~~~~~~
+7pcy       ~~~~~~~~~~~~~~~
+2plt       ~~~~~~~~~~~~~~~
+9pcy       ~~~~~~~~~~~~~~~
+1ag6       ~~~~~~~~~~~~~~~
+1plc       ~~~~~~~~~~~~~~~
+1byoa      ~~~~~~~~~~~~~~~
+1plb       ~~~~~~~~~~~~~~~
+1bawa      ..............G
+1nin       ..............G
+1m9wa      ~~~~~~~~~~~~~~~
+1bxva      ~~~~~~~~~~~~~~~
+2b3ia      ~~~~~~~~~~~~~~~
+1kdj       ~~~~~~~~~~~~~~~
+1qhqa      ~~~~~~~~~~~~~~~
+2raca      ~~~~~~~~~~~~~~~
+1id2a      ~~~~~~~~~~~~~~~
+1gy1a      ~~~~~~~~~~~~~~~
+

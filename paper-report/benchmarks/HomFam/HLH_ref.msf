@@ -1,0 +1,26 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/HLH_ref.msf MSF:  92 Type: P 07/12/19 CompCheck: 9883 ..
+
+  Name: 1mdya      Len: 92  Check: 3553 Weight: 1.00
+  Name: 1an4a      Len: 92  Check: 9953 Weight: 1.00
+  Name: 1hloa      Len: 92  Check: 7389 Weight: 1.00
+  Name: 1am9a      Len: 92  Check: 7265 Weight: 1.00
+  Name: 1a0aa      Len: 92  Check: 1723 Weight: 1.00
+
+//
+
+           1                                               50
+1mdya      MELKRKTTNADRRKAATMRERRRLSKVNEAFETLKRSTSSNP....NQRL
+1an4a      ~~~~~~~MDEKRRAQHNEVERRRRDKINNWIVQLSKIIPDSSMESTKSGQ
+1hloa      NDDIEVESDADKRAHHNALERKRRDHIKDSFHSLRDSVPSLQ....GEKA
+1am9a      ~~~~~~QSRGEKRTAHNAIEKRYRSSINDKIIELKDLV.VGT....EAKL
+1a0aa      ~~~~~~~~~~MKRESHKHAEQARRNRLAVALHELASLIPAEWKQQNVSAA
+
+           51                                      92
+1mdya      .PKVEILRNAIRYIEGLQALLRD~~~~~~~~~~~~~~~~~~~
+1an4a      .SKGGILSKASDYIQELRQSNHR~~~~~~~~~~~~~~~~~~~
+1hloa      .SRAQILDKATEYIQYMRRKNHTHQQDIDDLKRQN~~~~~~~
+1am9a      .NKSAVLRKAIDYIRFLQHSNQKLKQENLSLRTAVHKSKSLK
+1a0aa      PSKATTVEAACRYIRHLQQNGST~~~~~~~~~~~~~~~~~~~
+

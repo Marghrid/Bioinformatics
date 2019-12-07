@@ -1,0 +1,26 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/rub_ref.msf MSF:  54 Type: P 07/12/19 CompCheck: 2376 ..
+
+  Name: 1rb9       Len: 54  Check: 5408 Weight: 1.00
+  Name: 1rdg       Len: 54  Check: 4974 Weight: 1.00
+  Name: 4rxn       Len: 54  Check: 9737 Weight: 1.00
+  Name: 1zrp       Len: 54  Check: 9345 Weight: 1.00
+  Name: 6rxn       Len: 54  Check: 2912 Weight: 1.00
+
+//
+
+           1                                               50
+1rb9       MKKYVCTVCGYEYDPAEGDPDNGVKPGTSFDDLPADWVCPVCGAPKSEFE
+1rdg       MDIYVCTVCGYEYDPAKGDPDSGIKPGTKFEDLPDDWACPVCGASKDAFE
+4rxn       MKKYTCTVCGYIYDPEDGDPDDGVNPGTDFKDIPDDWVCPLCGVGKDEFE
+1zrp       ~AKWVCKICGYIYDEDAGDPDNGISPGTKFEELPDDWVCPICGAPKSEFE
+6rxn       MQKYVCNVCGYEYDPAEH.......DNVPFDQLPDDWCCPVCGVSKDQFS
+
+           51
+1rb9       AA~~
+1rdg       KQ~~
+4rxn       EVEE
+1zrp       KLED
+6rxn       PA~~
+

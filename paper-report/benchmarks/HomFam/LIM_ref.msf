@@ -1,0 +1,26 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/LIM_ref.msf MSF:  86 Type: P 07/12/19 CompCheck:  662 ..
+
+  Name: 1ctl       Len: 86  Check: 4150 Weight: 1.00
+  Name: 1qli       Len: 86  Check: 6447 Weight: 1.00
+  Name: 1a7i       Len: 86  Check: 6524 Weight: 1.00
+  Name: 1b8ta1     Len: 86  Check: 7616 Weight: 1.00
+  Name: 1iml       Len: 86  Check: 5925 Weight: 1.00
+
+//
+
+           1                                               50
+1ctl       MAQKVGGSDGCPRCGQAVYAAEKVIGAGKSWHKSCFRCAKCGKSLESTTL
+1qli       ~~~~~~~AEKCSRCGDSVYAAEKVIGAGKPWHKNCFRCAKCGKSLESTTL
+1a7i       ~~~~~~~~NKCGACGRTVYHAEEVQCDGRSFHRCCFLCMVCRKNLDSTTV
+1b8ta1     M.PNWGGGKKCGVCQKAVYFAEEVQCEGSSFHKSCFLCMVCKKNLDSTTV
+1iml       ~~~~~~~~PKCPKCDKEVYFAERVTSLGKDWHRPCLKCEKCGKTLTSGGH
+
+           51                                86
+1ctl       ADKDGEIYCK.GCYAKNFGPKGFGFGQGAGALIHSQ
+1qli       TEKEGEIYCK.GCYAKN~~~~~~~~~~~~~~~~~~~
+1a7i       AIHDAEVYCK.SCYGKKYG~~~~~~~~~~~~~~~~~
+1b8ta1     AVHGDEIYCK.SCYGKKYGP...............K
+1iml       AEHEGKPYCNHPCYSAMFGPKGFGRGGA..ESHTFK
+

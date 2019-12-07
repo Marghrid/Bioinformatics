@@ -1,0 +1,3011 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/QuanTest2/Test/hom.msf MSF:  79 Type: P 07/12/19 CompCheck: 2486 ..
+
+  Name: seq0001    Len: 79  Check: 9752 Weight: 1.00
+  Name: seq0002    Len: 79  Check: 7772 Weight: 1.00
+  Name: seq0003    Len: 79  Check:  319 Weight: 1.00
+  Name: seq0004    Len: 79  Check: 9089 Weight: 1.00
+  Name: seq0005    Len: 79  Check: 9143 Weight: 1.00
+  Name: seq0006    Len: 79  Check: 9267 Weight: 1.00
+  Name: seq0007    Len: 79  Check: 9804 Weight: 1.00
+  Name: seq0008    Len: 79  Check: 8465 Weight: 1.00
+  Name: seq0009    Len: 79  Check: 9517 Weight: 1.00
+  Name: seq0010    Len: 79  Check: 8543 Weight: 1.00
+  Name: seq0011    Len: 79  Check: 9207 Weight: 1.00
+  Name: seq0012    Len: 79  Check: 8839 Weight: 1.00
+  Name: seq0013    Len: 79  Check: 9539 Weight: 1.00
+  Name: seq0014    Len: 79  Check: 6624 Weight: 1.00
+  Name: seq0015    Len: 79  Check: 7016 Weight: 1.00
+  Name: seq0016    Len: 79  Check: 9082 Weight: 1.00
+  Name: seq0017    Len: 79  Check: 8956 Weight: 1.00
+  Name: seq0018    Len: 79  Check: 9241 Weight: 1.00
+  Name: seq0019    Len: 79  Check: 8383 Weight: 1.00
+  Name: seq0020    Len: 79  Check: 8867 Weight: 1.00
+  Name: seq0021    Len: 79  Check: 7723 Weight: 1.00
+  Name: seq0022    Len: 79  Check: 8869 Weight: 1.00
+  Name: seq0023    Len: 79  Check: 9439 Weight: 1.00
+  Name: seq0024    Len: 79  Check: 9575 Weight: 1.00
+  Name: seq0025    Len: 79  Check: 9692 Weight: 1.00
+  Name: seq0026    Len: 79  Check: 5126 Weight: 1.00
+  Name: seq0027    Len: 79  Check:  645 Weight: 1.00
+  Name: seq0028    Len: 79  Check: 3120 Weight: 1.00
+  Name: seq0029    Len: 79  Check:  589 Weight: 1.00
+  Name: seq0030    Len: 79  Check: 1323 Weight: 1.00
+  Name: seq0031    Len: 79  Check: 9538 Weight: 1.00
+  Name: seq0032    Len: 79  Check: 8138 Weight: 1.00
+  Name: seq0033    Len: 79  Check: 7657 Weight: 1.00
+  Name: seq0034    Len: 79  Check: 8562 Weight: 1.00
+  Name: seq0035    Len: 79  Check: 7669 Weight: 1.00
+  Name: seq0036    Len: 79  Check: 5016 Weight: 1.00
+  Name: seq0037    Len: 79  Check: 7954 Weight: 1.00
+  Name: seq0038    Len: 79  Check: 8083 Weight: 1.00
+  Name: seq0039    Len: 79  Check: 8507 Weight: 1.00
+  Name: seq0040    Len: 79  Check: 6881 Weight: 1.00
+  Name: seq0041    Len: 79  Check: 7920 Weight: 1.00
+  Name: seq0042    Len: 79  Check: 6444 Weight: 1.00
+  Name: seq0043    Len: 79  Check: 7558 Weight: 1.00
+  Name: seq0044    Len: 79  Check: 9180 Weight: 1.00
+  Name: seq0045    Len: 79  Check: 8416 Weight: 1.00
+  Name: seq0046    Len: 79  Check: 7125 Weight: 1.00
+  Name: seq0047    Len: 79  Check: 3272 Weight: 1.00
+  Name: seq0048    Len: 79  Check:  656 Weight: 1.00
+  Name: seq0049    Len: 79  Check: 2146 Weight: 1.00
+  Name: seq0050    Len: 79  Check: 6273 Weight: 1.00
+  Name: seq0051    Len: 79  Check: 9828 Weight: 1.00
+  Name: seq0052    Len: 79  Check: 2473 Weight: 1.00
+  Name: seq0053    Len: 79  Check: 8387 Weight: 1.00
+  Name: seq0054    Len: 79  Check: 8249 Weight: 1.00
+  Name: seq0055    Len: 79  Check: 9283 Weight: 1.00
+  Name: seq0056    Len: 79  Check: 9327 Weight: 1.00
+  Name: seq0057    Len: 79  Check: 9927 Weight: 1.00
+  Name: seq0058    Len: 79  Check: 9449 Weight: 1.00
+  Name: seq0059    Len: 79  Check: 4678 Weight: 1.00
+  Name: seq0060    Len: 79  Check: 8877 Weight: 1.00
+  Name: seq0061    Len: 79  Check: 8310 Weight: 1.00
+  Name: seq0062    Len: 79  Check: 8647 Weight: 1.00
+  Name: seq0063    Len: 79  Check: 9521 Weight: 1.00
+  Name: seq0064    Len: 79  Check:  326 Weight: 1.00
+  Name: seq0065    Len: 79  Check: 7256 Weight: 1.00
+  Name: seq0066    Len: 79  Check: 2298 Weight: 1.00
+  Name: seq0067    Len: 79  Check: 5154 Weight: 1.00
+  Name: seq0068    Len: 79  Check: 8819 Weight: 1.00
+  Name: seq0069    Len: 79  Check: 8673 Weight: 1.00
+  Name: seq0070    Len: 79  Check: 8494 Weight: 1.00
+  Name: seq0071    Len: 79  Check:  735 Weight: 1.00
+  Name: seq0072    Len: 79  Check: 2715 Weight: 1.00
+  Name: seq0073    Len: 79  Check:  110 Weight: 1.00
+  Name: seq0074    Len: 79  Check: 8338 Weight: 1.00
+  Name: seq0075    Len: 79  Check: 4858 Weight: 1.00
+  Name: seq0076    Len: 79  Check: 2602 Weight: 1.00
+  Name: seq0077    Len: 79  Check:   15 Weight: 1.00
+  Name: seq0078    Len: 79  Check: 6144 Weight: 1.00
+  Name: seq0079    Len: 79  Check: 7010 Weight: 1.00
+  Name: seq0080    Len: 79  Check: 6272 Weight: 1.00
+  Name: seq0081    Len: 79  Check: 1332 Weight: 1.00
+  Name: seq0082    Len: 79  Check:  852 Weight: 1.00
+  Name: seq0083    Len: 79  Check:  470 Weight: 1.00
+  Name: seq0084    Len: 79  Check: 1112 Weight: 1.00
+  Name: seq0085    Len: 79  Check:  521 Weight: 1.00
+  Name: seq0086    Len: 79  Check:  676 Weight: 1.00
+  Name: seq0087    Len: 79  Check: 1188 Weight: 1.00
+  Name: seq0088    Len: 79  Check: 1245 Weight: 1.00
+  Name: seq0089    Len: 79  Check: 1179 Weight: 1.00
+  Name: seq0090    Len: 79  Check: 1479 Weight: 1.00
+  Name: seq0091    Len: 79  Check: 2326 Weight: 1.00
+  Name: seq0092    Len: 79  Check: 1525 Weight: 1.00
+  Name: seq0093    Len: 79  Check:  683 Weight: 1.00
+  Name: seq0094    Len: 79  Check:  632 Weight: 1.00
+  Name: seq0095    Len: 79  Check: 8446 Weight: 1.00
+  Name: seq0096    Len: 79  Check:  475 Weight: 1.00
+  Name: seq0097    Len: 79  Check: 8172 Weight: 1.00
+  Name: seq0098    Len: 79  Check: 8290 Weight: 1.00
+  Name: seq0099    Len: 79  Check: 1834 Weight: 1.00
+  Name: seq0100    Len: 79  Check:  595 Weight: 1.00
+  Name: seq0101    Len: 79  Check:  496 Weight: 1.00
+  Name: seq0102    Len: 79  Check:  947 Weight: 1.00
+  Name: seq0103    Len: 79  Check:  658 Weight: 1.00
+  Name: seq0104    Len: 79  Check: 1392 Weight: 1.00
+  Name: seq0105    Len: 79  Check: 1148 Weight: 1.00
+  Name: seq0106    Len: 79  Check:  372 Weight: 1.00
+  Name: seq0107    Len: 79  Check: 9474 Weight: 1.00
+  Name: seq0108    Len: 79  Check:  527 Weight: 1.00
+  Name: seq0109    Len: 79  Check: 8468 Weight: 1.00
+  Name: seq0110    Len: 79  Check:  141 Weight: 1.00
+  Name: seq0111    Len: 79  Check: 2358 Weight: 1.00
+  Name: seq0112    Len: 79  Check:  567 Weight: 1.00
+  Name: seq0113    Len: 79  Check: 7174 Weight: 1.00
+  Name: seq0114    Len: 79  Check: 9757 Weight: 1.00
+  Name: seq0115    Len: 79  Check: 9429 Weight: 1.00
+  Name: seq0116    Len: 79  Check: 4506 Weight: 1.00
+  Name: seq0117    Len: 79  Check: 3550 Weight: 1.00
+  Name: seq0118    Len: 79  Check: 8464 Weight: 1.00
+  Name: seq0119    Len: 79  Check: 5558 Weight: 1.00
+  Name: seq0120    Len: 79  Check: 8593 Weight: 1.00
+  Name: seq0121    Len: 79  Check: 8024 Weight: 1.00
+  Name: seq0122    Len: 79  Check: 7390 Weight: 1.00
+  Name: seq0123    Len: 79  Check: 2500 Weight: 1.00
+  Name: seq0124    Len: 79  Check: 3126 Weight: 1.00
+  Name: seq0125    Len: 79  Check: 6587 Weight: 1.00
+  Name: seq0126    Len: 79  Check: 9378 Weight: 1.00
+  Name: seq0127    Len: 79  Check: 8835 Weight: 1.00
+  Name: seq0128    Len: 79  Check: 9278 Weight: 1.00
+  Name: seq0129    Len: 79  Check: 8682 Weight: 1.00
+  Name: seq0130    Len: 79  Check: 8794 Weight: 1.00
+  Name: seq0131    Len: 79  Check: 8081 Weight: 1.00
+  Name: seq0132    Len: 79  Check: 7604 Weight: 1.00
+  Name: seq0133    Len: 79  Check: 8007 Weight: 1.00
+  Name: seq0134    Len: 79  Check: 8703 Weight: 1.00
+  Name: seq0135    Len: 79  Check: 4952 Weight: 1.00
+  Name: seq0136    Len: 79  Check: 9431 Weight: 1.00
+  Name: seq0137    Len: 79  Check: 1573 Weight: 1.00
+  Name: seq0138    Len: 79  Check: 9672 Weight: 1.00
+  Name: seq0139    Len: 79  Check: 1628 Weight: 1.00
+  Name: seq0140    Len: 79  Check:  110 Weight: 1.00
+  Name: seq0141    Len: 79  Check: 1426 Weight: 1.00
+  Name: seq0142    Len: 79  Check:  680 Weight: 1.00
+  Name: seq0143    Len: 79  Check: 1171 Weight: 1.00
+  Name: seq0144    Len: 79  Check: 1085 Weight: 1.00
+  Name: seq0145    Len: 79  Check:  845 Weight: 1.00
+  Name: seq0146    Len: 79  Check:  885 Weight: 1.00
+  Name: seq0147    Len: 79  Check:  924 Weight: 1.00
+  Name: seq0148    Len: 79  Check:  136 Weight: 1.00
+  Name: seq0149    Len: 79  Check: 9910 Weight: 1.00
+  Name: seq0150    Len: 79  Check: 1026 Weight: 1.00
+  Name: seq0151    Len: 79  Check:   60 Weight: 1.00
+  Name: seq0152    Len: 79  Check: 9016 Weight: 1.00
+  Name: seq0153    Len: 79  Check:  139 Weight: 1.00
+  Name: seq0154    Len: 79  Check: 3866 Weight: 1.00
+  Name: seq0155    Len: 79  Check: 5627 Weight: 1.00
+  Name: seq0156    Len: 79  Check:  956 Weight: 1.00
+  Name: seq0157    Len: 79  Check: 1532 Weight: 1.00
+  Name: seq0158    Len: 79  Check: 1734 Weight: 1.00
+  Name: seq0159    Len: 79  Check: 1517 Weight: 1.00
+  Name: seq0160    Len: 79  Check: 1076 Weight: 1.00
+  Name: seq0161    Len: 79  Check: 2056 Weight: 1.00
+  Name: seq0162    Len: 79  Check: 1467 Weight: 1.00
+  Name: seq0163    Len: 79  Check:  760 Weight: 1.00
+  Name: seq0164    Len: 79  Check:  196 Weight: 1.00
+  Name: seq0165    Len: 79  Check:  584 Weight: 1.00
+  Name: seq0166    Len: 79  Check: 1063 Weight: 1.00
+  Name: seq0167    Len: 79  Check: 3144 Weight: 1.00
+  Name: seq0168    Len: 79  Check: 1691 Weight: 1.00
+  Name: seq0169    Len: 79  Check: 1769 Weight: 1.00
+  Name: seq0170    Len: 79  Check: 7662 Weight: 1.00
+  Name: seq0171    Len: 79  Check: 7438 Weight: 1.00
+  Name: seq0172    Len: 79  Check:  197 Weight: 1.00
+  Name: seq0173    Len: 79  Check:  256 Weight: 1.00
+  Name: seq0174    Len: 79  Check: 3321 Weight: 1.00
+  Name: seq0175    Len: 79  Check: 8858 Weight: 1.00
+  Name: seq0176    Len: 79  Check: 8837 Weight: 1.00
+  Name: seq0177    Len: 79  Check: 8935 Weight: 1.00
+  Name: seq0178    Len: 79  Check: 9669 Weight: 1.00
+  Name: seq0179    Len: 79  Check:  361 Weight: 1.00
+  Name: seq0180    Len: 79  Check:  357 Weight: 1.00
+  Name: seq0181    Len: 79  Check: 6191 Weight: 1.00
+  Name: seq0182    Len: 79  Check:  575 Weight: 1.00
+  Name: seq0183    Len: 79  Check: 8904 Weight: 1.00
+  Name: seq0184    Len: 79  Check: 1501 Weight: 1.00
+  Name: seq0185    Len: 79  Check:  454 Weight: 1.00
+  Name: seq0186    Len: 79  Check: 3009 Weight: 1.00
+  Name: seq0187    Len: 79  Check: 3730 Weight: 1.00
+  Name: seq0188    Len: 79  Check: 3707 Weight: 1.00
+  Name: seq0189    Len: 79  Check: 6063 Weight: 1.00
+  Name: seq0190    Len: 79  Check:  198 Weight: 1.00
+  Name: seq0191    Len: 79  Check: 2666 Weight: 1.00
+  Name: seq0192    Len: 79  Check: 7952 Weight: 1.00
+  Name: seq0193    Len: 79  Check: 3957 Weight: 1.00
+  Name: seq0194    Len: 79  Check: 1432 Weight: 1.00
+  Name: seq0195    Len: 79  Check: 8684 Weight: 1.00
+  Name: seq0196    Len: 79  Check: 7303 Weight: 1.00
+  Name: seq0197    Len: 79  Check: 8988 Weight: 1.00
+  Name: seq0198    Len: 79  Check: 7289 Weight: 1.00
+  Name: seq0199    Len: 79  Check: 9301 Weight: 1.00
+  Name: seq0200    Len: 79  Check: 4530 Weight: 1.00
+  Name: seq0201    Len: 79  Check: 6067 Weight: 1.00
+  Name: seq0202    Len: 79  Check: 9372 Weight: 1.00
+  Name: seq0203    Len: 79  Check: 8657 Weight: 1.00
+  Name: seq0204    Len: 79  Check: 9398 Weight: 1.00
+  Name: seq0205    Len: 79  Check:  172 Weight: 1.00
+  Name: seq0206    Len: 79  Check: 6957 Weight: 1.00
+  Name: seq0207    Len: 79  Check:  862 Weight: 1.00
+  Name: seq0208    Len: 79  Check:  493 Weight: 1.00
+  Name: seq0209    Len: 79  Check: 9213 Weight: 1.00
+  Name: seq0210    Len: 79  Check: 8139 Weight: 1.00
+  Name: seq0211    Len: 79  Check: 9075 Weight: 1.00
+  Name: seq0212    Len: 79  Check: 8018 Weight: 1.00
+  Name: seq0213    Len: 79  Check: 9716 Weight: 1.00
+  Name: seq0214    Len: 79  Check:  174 Weight: 1.00
+  Name: seq0215    Len: 79  Check: 5465 Weight: 1.00
+  Name: seq0216    Len: 79  Check: 2730 Weight: 1.00
+  Name: seq0217    Len: 79  Check: 7345 Weight: 1.00
+  Name: seq0218    Len: 79  Check: 5846 Weight: 1.00
+  Name: seq0219    Len: 79  Check: 8534 Weight: 1.00
+  Name: seq0220    Len: 79  Check: 9912 Weight: 1.00
+  Name: seq0221    Len: 79  Check: 2515 Weight: 1.00
+  Name: seq0222    Len: 79  Check: 9944 Weight: 1.00
+  Name: seq0223    Len: 79  Check: 2773 Weight: 1.00
+  Name: seq0224    Len: 79  Check: 3361 Weight: 1.00
+  Name: seq0225    Len: 79  Check: 6477 Weight: 1.00
+  Name: seq0226    Len: 79  Check: 8074 Weight: 1.00
+  Name: seq0227    Len: 79  Check: 6043 Weight: 1.00
+  Name: seq0228    Len: 79  Check: 7842 Weight: 1.00
+  Name: seq0229    Len: 79  Check: 4914 Weight: 1.00
+  Name: seq0230    Len: 79  Check: 8518 Weight: 1.00
+  Name: seq0231    Len: 79  Check: 9052 Weight: 1.00
+  Name: seq0232    Len: 79  Check: 6694 Weight: 1.00
+  Name: seq0233    Len: 79  Check: 6352 Weight: 1.00
+  Name: seq0234    Len: 79  Check: 7186 Weight: 1.00
+  Name: seq0235    Len: 79  Check: 6914 Weight: 1.00
+  Name: seq0236    Len: 79  Check: 9629 Weight: 1.00
+  Name: seq0237    Len: 79  Check: 8938 Weight: 1.00
+  Name: seq0238    Len: 79  Check:  625 Weight: 1.00
+  Name: seq0239    Len: 79  Check: 8081 Weight: 1.00
+  Name: seq0240    Len: 79  Check: 5905 Weight: 1.00
+  Name: seq0241    Len: 79  Check: 3872 Weight: 1.00
+  Name: seq0242    Len: 79  Check: 6062 Weight: 1.00
+  Name: seq0243    Len: 79  Check: 3429 Weight: 1.00
+  Name: seq0244    Len: 79  Check: 9500 Weight: 1.00
+  Name: seq0245    Len: 79  Check: 8249 Weight: 1.00
+  Name: seq0246    Len: 79  Check: 8381 Weight: 1.00
+  Name: seq0247    Len: 79  Check: 9973 Weight: 1.00
+  Name: seq0248    Len: 79  Check:  458 Weight: 1.00
+  Name: seq0249    Len: 79  Check:  355 Weight: 1.00
+  Name: seq0250    Len: 79  Check: 9093 Weight: 1.00
+  Name: seq0251    Len: 79  Check: 1029 Weight: 1.00
+  Name: seq0252    Len: 79  Check: 2212 Weight: 1.00
+  Name: seq0253    Len: 79  Check: 8892 Weight: 1.00
+  Name: seq0254    Len: 79  Check:  365 Weight: 1.00
+  Name: seq0255    Len: 79  Check: 6371 Weight: 1.00
+  Name: seq0256    Len: 79  Check: 9283 Weight: 1.00
+  Name: seq0257    Len: 79  Check: 9470 Weight: 1.00
+  Name: seq0258    Len: 79  Check: 9593 Weight: 1.00
+  Name: seq0259    Len: 79  Check: 6585 Weight: 1.00
+  Name: seq0260    Len: 79  Check: 6052 Weight: 1.00
+  Name: seq0261    Len: 79  Check: 7446 Weight: 1.00
+  Name: seq0262    Len: 79  Check: 8929 Weight: 1.00
+  Name: seq0263    Len: 79  Check: 7665 Weight: 1.00
+  Name: seq0264    Len: 79  Check: 7425 Weight: 1.00
+  Name: seq0265    Len: 79  Check:  350 Weight: 1.00
+  Name: seq0266    Len: 79  Check: 8752 Weight: 1.00
+  Name: seq0267    Len: 79  Check: 8719 Weight: 1.00
+  Name: seq0268    Len: 79  Check: 9744 Weight: 1.00
+  Name: seq0269    Len: 79  Check: 9845 Weight: 1.00
+  Name: seq0270    Len: 79  Check: 1186 Weight: 1.00
+  Name: seq0271    Len: 79  Check:  614 Weight: 1.00
+  Name: seq0272    Len: 79  Check: 8089 Weight: 1.00
+  Name: seq0273    Len: 79  Check: 7866 Weight: 1.00
+  Name: seq0274    Len: 79  Check: 9339 Weight: 1.00
+  Name: seq0275    Len: 79  Check: 7631 Weight: 1.00
+  Name: seq0276    Len: 79  Check: 3785 Weight: 1.00
+  Name: seq0277    Len: 79  Check: 2993 Weight: 1.00
+  Name: seq0278    Len: 79  Check: 6703 Weight: 1.00
+  Name: seq0279    Len: 79  Check: 8252 Weight: 1.00
+  Name: seq0280    Len: 79  Check: 6870 Weight: 1.00
+  Name: seq0281    Len: 79  Check: 6163 Weight: 1.00
+  Name: seq0282    Len: 79  Check: 8197 Weight: 1.00
+  Name: seq0283    Len: 79  Check: 8894 Weight: 1.00
+  Name: seq0284    Len: 79  Check: 1575 Weight: 1.00
+  Name: seq0285    Len: 79  Check: 8068 Weight: 1.00
+  Name: seq0286    Len: 79  Check: 8534 Weight: 1.00
+  Name: seq0287    Len: 79  Check: 7380 Weight: 1.00
+  Name: seq0288    Len: 79  Check: 8905 Weight: 1.00
+  Name: seq0289    Len: 79  Check: 8163 Weight: 1.00
+  Name: seq0290    Len: 79  Check:  154 Weight: 1.00
+  Name: seq0291    Len: 79  Check: 8266 Weight: 1.00
+  Name: seq0292    Len: 79  Check: 9242 Weight: 1.00
+  Name: seq0293    Len: 79  Check:  117 Weight: 1.00
+  Name: seq0294    Len: 79  Check: 7065 Weight: 1.00
+  Name: seq0295    Len: 79  Check: 9354 Weight: 1.00
+  Name: seq0296    Len: 79  Check: 9030 Weight: 1.00
+  Name: seq0297    Len: 79  Check: 3072 Weight: 1.00
+  Name: seq0298    Len: 79  Check:  145 Weight: 1.00
+  Name: seq0299    Len: 79  Check: 7902 Weight: 1.00
+  Name: seq0300    Len: 79  Check: 8214 Weight: 1.00
+  Name: seq0301    Len: 79  Check: 7726 Weight: 1.00
+  Name: seq0302    Len: 79  Check: 9070 Weight: 1.00
+  Name: seq0303    Len: 79  Check: 7416 Weight: 1.00
+  Name: seq0304    Len: 79  Check: 6629 Weight: 1.00
+  Name: seq0305    Len: 79  Check:  117 Weight: 1.00
+  Name: seq0306    Len: 79  Check: 9984 Weight: 1.00
+  Name: seq0307    Len: 79  Check: 8855 Weight: 1.00
+  Name: seq0308    Len: 79  Check: 7821 Weight: 1.00
+  Name: seq0309    Len: 79  Check:  350 Weight: 1.00
+  Name: seq0310    Len: 79  Check: 7410 Weight: 1.00
+  Name: seq0311    Len: 79  Check: 8516 Weight: 1.00
+  Name: seq0312    Len: 79  Check: 9732 Weight: 1.00
+  Name: seq0313    Len: 79  Check: 8350 Weight: 1.00
+  Name: seq0314    Len: 79  Check: 8175 Weight: 1.00
+  Name: seq0315    Len: 79  Check: 8491 Weight: 1.00
+  Name: seq0316    Len: 79  Check: 4524 Weight: 1.00
+  Name: seq0317    Len: 79  Check: 1703 Weight: 1.00
+  Name: seq0318    Len: 79  Check: 8692 Weight: 1.00
+  Name: seq0319    Len: 79  Check: 5791 Weight: 1.00
+  Name: seq0320    Len: 79  Check: 9720 Weight: 1.00
+  Name: seq0321    Len: 79  Check: 7426 Weight: 1.00
+  Name: seq0322    Len: 79  Check: 7458 Weight: 1.00
+  Name: seq0323    Len: 79  Check: 7707 Weight: 1.00
+  Name: seq0324    Len: 79  Check: 7789 Weight: 1.00
+  Name: seq0325    Len: 79  Check: 7819 Weight: 1.00
+  Name: seq0326    Len: 79  Check: 9562 Weight: 1.00
+  Name: seq0327    Len: 79  Check: 7579 Weight: 1.00
+  Name: seq0328    Len: 79  Check: 9397 Weight: 1.00
+  Name: seq0329    Len: 79  Check: 6517 Weight: 1.00
+  Name: seq0330    Len: 79  Check: 6991 Weight: 1.00
+  Name: seq0331    Len: 79  Check: 8078 Weight: 1.00
+  Name: seq0332    Len: 79  Check: 7655 Weight: 1.00
+  Name: seq0333    Len: 79  Check: 8797 Weight: 1.00
+  Name: seq0334    Len: 79  Check: 7667 Weight: 1.00
+  Name: seq0335    Len: 79  Check: 9756 Weight: 1.00
+  Name: seq0336    Len: 79  Check: 7546 Weight: 1.00
+  Name: seq0337    Len: 79  Check: 9791 Weight: 1.00
+  Name: seq0338    Len: 79  Check: 7688 Weight: 1.00
+  Name: seq0339    Len: 79  Check: 9182 Weight: 1.00
+  Name: seq0340    Len: 79  Check: 7514 Weight: 1.00
+  Name: seq0341    Len: 79  Check: 2871 Weight: 1.00
+  Name: seq0342    Len: 79  Check: 1116 Weight: 1.00
+  Name: seq0343    Len: 79  Check: 5820 Weight: 1.00
+  Name: seq0344    Len: 79  Check: 9806 Weight: 1.00
+  Name: seq0345    Len: 79  Check: 1597 Weight: 1.00
+  Name: seq0346    Len: 79  Check:  109 Weight: 1.00
+  Name: seq0347    Len: 79  Check:  760 Weight: 1.00
+  Name: seq0348    Len: 79  Check:  975 Weight: 1.00
+  Name: seq0349    Len: 79  Check:  784 Weight: 1.00
+  Name: seq0350    Len: 79  Check: 7302 Weight: 1.00
+  Name: seq0351    Len: 79  Check: 7173 Weight: 1.00
+  Name: seq0352    Len: 79  Check: 5215 Weight: 1.00
+  Name: seq0353    Len: 79  Check: 9797 Weight: 1.00
+  Name: seq0354    Len: 79  Check: 1202 Weight: 1.00
+  Name: seq0355    Len: 79  Check: 6759 Weight: 1.00
+  Name: seq0356    Len: 79  Check:  501 Weight: 1.00
+  Name: seq0357    Len: 79  Check: 9610 Weight: 1.00
+  Name: seq0358    Len: 79  Check: 9576 Weight: 1.00
+  Name: seq0359    Len: 79  Check: 4146 Weight: 1.00
+  Name: seq0360    Len: 79  Check: 4659 Weight: 1.00
+  Name: seq0361    Len: 79  Check: 5208 Weight: 1.00
+  Name: seq0362    Len: 79  Check:  819 Weight: 1.00
+  Name: seq0363    Len: 79  Check: 6580 Weight: 1.00
+  Name: seq0364    Len: 79  Check: 1065 Weight: 1.00
+  Name: seq0365    Len: 79  Check: 4114 Weight: 1.00
+  Name: seq0366    Len: 79  Check: 4713 Weight: 1.00
+  Name: seq0367    Len: 79  Check: 6494 Weight: 1.00
+  Name: seq0368    Len: 79  Check: 5617 Weight: 1.00
+  Name: seq0369    Len: 79  Check: 2333 Weight: 1.00
+  Name: seq0370    Len: 79  Check: 9384 Weight: 1.00
+  Name: seq0371    Len: 79  Check: 9122 Weight: 1.00
+  Name: seq0372    Len: 79  Check:  695 Weight: 1.00
+  Name: seq0373    Len: 79  Check: 8857 Weight: 1.00
+  Name: seq0374    Len: 79  Check: 7461 Weight: 1.00
+  Name: seq0375    Len: 79  Check: 9949 Weight: 1.00
+  Name: seq0376    Len: 79  Check: 3099 Weight: 1.00
+  Name: seq0377    Len: 79  Check: 8249 Weight: 1.00
+  Name: seq0378    Len: 79  Check: 5672 Weight: 1.00
+  Name: seq0379    Len: 79  Check: 8797 Weight: 1.00
+  Name: seq0380    Len: 79  Check: 1032 Weight: 1.00
+  Name: seq0381    Len: 79  Check:  864 Weight: 1.00
+  Name: seq0382    Len: 79  Check: 9462 Weight: 1.00
+  Name: seq0383    Len: 79  Check:  283 Weight: 1.00
+  Name: seq0384    Len: 79  Check: 8566 Weight: 1.00
+  Name: seq0385    Len: 79  Check: 1575 Weight: 1.00
+  Name: seq0386    Len: 79  Check:  338 Weight: 1.00
+  Name: seq0387    Len: 79  Check: 2591 Weight: 1.00
+  Name: seq0388    Len: 79  Check: 8875 Weight: 1.00
+  Name: seq0389    Len: 79  Check: 8770 Weight: 1.00
+  Name: seq0390    Len: 79  Check: 6900 Weight: 1.00
+  Name: seq0391    Len: 79  Check: 9148 Weight: 1.00
+  Name: seq0392    Len: 79  Check: 8165 Weight: 1.00
+  Name: seq0393    Len: 79  Check: 5888 Weight: 1.00
+  Name: seq0394    Len: 79  Check: 8301 Weight: 1.00
+  Name: seq0395    Len: 79  Check: 1142 Weight: 1.00
+  Name: seq0396    Len: 79  Check: 9135 Weight: 1.00
+  Name: seq0397    Len: 79  Check: 6988 Weight: 1.00
+  Name: seq0398    Len: 79  Check: 8871 Weight: 1.00
+  Name: seq0399    Len: 79  Check: 9646 Weight: 1.00
+  Name: seq0400    Len: 79  Check: 9538 Weight: 1.00
+  Name: seq0401    Len: 79  Check: 9122 Weight: 1.00
+  Name: seq0402    Len: 79  Check:  919 Weight: 1.00
+  Name: seq0403    Len: 79  Check: 7449 Weight: 1.00
+  Name: seq0404    Len: 79  Check: 9796 Weight: 1.00
+  Name: seq0405    Len: 79  Check: 1828 Weight: 1.00
+  Name: seq0406    Len: 79  Check: 8480 Weight: 1.00
+  Name: seq0407    Len: 79  Check:  583 Weight: 1.00
+  Name: seq0408    Len: 79  Check: 8280 Weight: 1.00
+  Name: seq0409    Len: 79  Check: 2258 Weight: 1.00
+  Name: seq0410    Len: 79  Check:   28 Weight: 1.00
+  Name: seq0411    Len: 79  Check: 9784 Weight: 1.00
+  Name: seq0412    Len: 79  Check: 2431 Weight: 1.00
+  Name: seq0413    Len: 79  Check: 1524 Weight: 1.00
+  Name: seq0414    Len: 79  Check: 8514 Weight: 1.00
+  Name: seq0415    Len: 79  Check:  498 Weight: 1.00
+  Name: seq0416    Len: 79  Check: 9416 Weight: 1.00
+  Name: seq0417    Len: 79  Check: 2735 Weight: 1.00
+  Name: seq0418    Len: 79  Check: 1755 Weight: 1.00
+  Name: seq0419    Len: 79  Check: 7921 Weight: 1.00
+  Name: seq0420    Len: 79  Check: 9964 Weight: 1.00
+  Name: seq0421    Len: 79  Check: 1496 Weight: 1.00
+  Name: seq0422    Len: 79  Check: 1416 Weight: 1.00
+  Name: seq0423    Len: 79  Check: 8845 Weight: 1.00
+  Name: seq0424    Len: 79  Check: 9624 Weight: 1.00
+  Name: seq0425    Len: 79  Check: 5233 Weight: 1.00
+  Name: seq0426    Len: 79  Check: 5693 Weight: 1.00
+  Name: seq0427    Len: 79  Check: 4697 Weight: 1.00
+  Name: seq0428    Len: 79  Check: 1152 Weight: 1.00
+  Name: seq0429    Len: 79  Check: 1108 Weight: 1.00
+  Name: seq0430    Len: 79  Check:  289 Weight: 1.00
+  Name: seq0431    Len: 79  Check: 8044 Weight: 1.00
+  Name: seq0432    Len: 79  Check: 4208 Weight: 1.00
+  Name: seq0433    Len: 79  Check: 4166 Weight: 1.00
+  Name: seq0434    Len: 79  Check: 1691 Weight: 1.00
+  Name: seq0435    Len: 79  Check:  781 Weight: 1.00
+  Name: seq0436    Len: 79  Check:  640 Weight: 1.00
+  Name: seq0437    Len: 79  Check: 1331 Weight: 1.00
+  Name: seq0438    Len: 79  Check: 9001 Weight: 1.00
+  Name: seq0439    Len: 79  Check: 1816 Weight: 1.00
+  Name: seq0440    Len: 79  Check: 8515 Weight: 1.00
+  Name: seq0441    Len: 79  Check: 2374 Weight: 1.00
+  Name: seq0442    Len: 79  Check:  781 Weight: 1.00
+  Name: seq0443    Len: 79  Check: 9635 Weight: 1.00
+  Name: seq0444    Len: 79  Check: 8193 Weight: 1.00
+  Name: seq0445    Len: 79  Check: 8021 Weight: 1.00
+  Name: seq0446    Len: 79  Check: 1776 Weight: 1.00
+  Name: seq0447    Len: 79  Check: 8885 Weight: 1.00
+  Name: seq0448    Len: 79  Check: 9465 Weight: 1.00
+  Name: seq0449    Len: 79  Check: 9783 Weight: 1.00
+  Name: seq0450    Len: 79  Check: 2671 Weight: 1.00
+  Name: seq0451    Len: 79  Check: 8395 Weight: 1.00
+  Name: seq0452    Len: 79  Check: 1778 Weight: 1.00
+  Name: seq0453    Len: 79  Check: 5035 Weight: 1.00
+  Name: seq0454    Len: 79  Check: 9718 Weight: 1.00
+  Name: seq0455    Len: 79  Check: 9871 Weight: 1.00
+  Name: seq0456    Len: 79  Check: 5794 Weight: 1.00
+  Name: seq0457    Len: 79  Check:  241 Weight: 1.00
+  Name: seq0458    Len: 79  Check: 8612 Weight: 1.00
+  Name: seq0459    Len: 79  Check: 5047 Weight: 1.00
+  Name: seq0460    Len: 79  Check: 2545 Weight: 1.00
+  Name: seq0461    Len: 79  Check: 5503 Weight: 1.00
+  Name: seq0462    Len: 79  Check:    9 Weight: 1.00
+  Name: seq0463    Len: 79  Check: 5810 Weight: 1.00
+  Name: seq0464    Len: 79  Check:  178 Weight: 1.00
+  Name: seq0465    Len: 79  Check: 1734 Weight: 1.00
+  Name: seq0466    Len: 79  Check: 5280 Weight: 1.00
+  Name: seq0467    Len: 79  Check: 1702 Weight: 1.00
+  Name: seq0468    Len: 79  Check: 7629 Weight: 1.00
+  Name: seq0469    Len: 79  Check: 7310 Weight: 1.00
+  Name: seq0470    Len: 79  Check: 9109 Weight: 1.00
+  Name: seq0471    Len: 79  Check: 9146 Weight: 1.00
+  Name: seq0472    Len: 79  Check: 8075 Weight: 1.00
+  Name: seq0473    Len: 79  Check: 9914 Weight: 1.00
+  Name: seq0474    Len: 79  Check:  742 Weight: 1.00
+  Name: seq0475    Len: 79  Check: 2958 Weight: 1.00
+  Name: seq0476    Len: 79  Check: 9798 Weight: 1.00
+  Name: seq0477    Len: 79  Check: 9712 Weight: 1.00
+  Name: seq0478    Len: 79  Check: 6722 Weight: 1.00
+  Name: seq0479    Len: 79  Check: 1835 Weight: 1.00
+  Name: seq0480    Len: 79  Check: 8622 Weight: 1.00
+  Name: seq0481    Len: 79  Check:  626 Weight: 1.00
+  Name: seq0482    Len: 79  Check: 7531 Weight: 1.00
+  Name: seq0483    Len: 79  Check: 6582 Weight: 1.00
+  Name: seq0484    Len: 79  Check: 6704 Weight: 1.00
+  Name: seq0485    Len: 79  Check: 1295 Weight: 1.00
+  Name: seq0486    Len: 79  Check: 8587 Weight: 1.00
+  Name: seq0487    Len: 79  Check: 1546 Weight: 1.00
+  Name: seq0488    Len: 79  Check:  261 Weight: 1.00
+  Name: seq0489    Len: 79  Check: 8970 Weight: 1.00
+  Name: seq0490    Len: 79  Check: 9982 Weight: 1.00
+  Name: seq0491    Len: 79  Check: 9001 Weight: 1.00
+  Name: seq0492    Len: 79  Check:  329 Weight: 1.00
+  Name: seq0493    Len: 79  Check: 9017 Weight: 1.00
+  Name: seq0494    Len: 79  Check: 8364 Weight: 1.00
+  Name: seq0495    Len: 79  Check:  646 Weight: 1.00
+  Name: seq0496    Len: 79  Check: 5685 Weight: 1.00
+  Name: seq0497    Len: 79  Check: 7924 Weight: 1.00
+  Name: seq0498    Len: 79  Check: 8899 Weight: 1.00
+  Name: seq0499    Len: 79  Check:  414 Weight: 1.00
+  Name: seq0500    Len: 79  Check: 9801 Weight: 1.00
+  Name: seq0501    Len: 79  Check: 9193 Weight: 1.00
+  Name: seq0502    Len: 79  Check: 9800 Weight: 1.00
+  Name: seq0503    Len: 79  Check:  342 Weight: 1.00
+  Name: seq0504    Len: 79  Check: 9588 Weight: 1.00
+  Name: seq0505    Len: 79  Check:  981 Weight: 1.00
+  Name: seq0506    Len: 79  Check: 2871 Weight: 1.00
+  Name: seq0507    Len: 79  Check: 8950 Weight: 1.00
+  Name: seq0508    Len: 79  Check:   83 Weight: 1.00
+  Name: seq0509    Len: 79  Check: 1859 Weight: 1.00
+  Name: seq0510    Len: 79  Check: 7382 Weight: 1.00
+  Name: seq0511    Len: 79  Check: 4163 Weight: 1.00
+  Name: seq0512    Len: 79  Check:  398 Weight: 1.00
+  Name: seq0513    Len: 79  Check: 1215 Weight: 1.00
+  Name: seq0514    Len: 79  Check: 6310 Weight: 1.00
+  Name: seq0515    Len: 79  Check:  912 Weight: 1.00
+  Name: seq0516    Len: 79  Check: 9939 Weight: 1.00
+  Name: seq0517    Len: 79  Check:  309 Weight: 1.00
+  Name: seq0518    Len: 79  Check: 2041 Weight: 1.00
+  Name: seq0519    Len: 79  Check: 1711 Weight: 1.00
+  Name: seq0520    Len: 79  Check: 8589 Weight: 1.00
+  Name: seq0521    Len: 79  Check: 8860 Weight: 1.00
+  Name: seq0522    Len: 79  Check: 9987 Weight: 1.00
+  Name: seq0523    Len: 79  Check: 8977 Weight: 1.00
+  Name: seq0524    Len: 79  Check: 9323 Weight: 1.00
+  Name: seq0525    Len: 79  Check:  556 Weight: 1.00
+  Name: seq0526    Len: 79  Check: 6828 Weight: 1.00
+  Name: seq0527    Len: 79  Check: 9325 Weight: 1.00
+  Name: seq0528    Len: 79  Check: 4868 Weight: 1.00
+  Name: seq0529    Len: 79  Check: 9251 Weight: 1.00
+  Name: seq0530    Len: 79  Check: 6711 Weight: 1.00
+  Name: seq0531    Len: 79  Check: 2770 Weight: 1.00
+  Name: seq0532    Len: 79  Check: 9005 Weight: 1.00
+  Name: seq0533    Len: 79  Check: 9698 Weight: 1.00
+  Name: seq0534    Len: 79  Check: 8536 Weight: 1.00
+  Name: seq0535    Len: 79  Check: 8445 Weight: 1.00
+  Name: seq0536    Len: 79  Check: 1955 Weight: 1.00
+  Name: seq0537    Len: 79  Check: 1149 Weight: 1.00
+  Name: seq0538    Len: 79  Check: 1316 Weight: 1.00
+  Name: seq0539    Len: 79  Check: 8490 Weight: 1.00
+  Name: seq0540    Len: 79  Check: 9011 Weight: 1.00
+  Name: seq0541    Len: 79  Check:  180 Weight: 1.00
+  Name: seq0542    Len: 79  Check: 2254 Weight: 1.00
+  Name: seq0543    Len: 79  Check: 8998 Weight: 1.00
+  Name: seq0544    Len: 79  Check: 9408 Weight: 1.00
+  Name: seq0545    Len: 79  Check:  813 Weight: 1.00
+  Name: seq0546    Len: 79  Check: 8898 Weight: 1.00
+  Name: seq0547    Len: 79  Check: 8888 Weight: 1.00
+  Name: seq0548    Len: 79  Check:  840 Weight: 1.00
+  Name: seq0549    Len: 79  Check: 9981 Weight: 1.00
+  Name: seq0550    Len: 79  Check: 7875 Weight: 1.00
+  Name: seq0551    Len: 79  Check: 9887 Weight: 1.00
+  Name: seq0552    Len: 79  Check: 9788 Weight: 1.00
+  Name: seq0553    Len: 79  Check: 9372 Weight: 1.00
+  Name: seq0554    Len: 79  Check:  284 Weight: 1.00
+  Name: seq0555    Len: 79  Check: 7997 Weight: 1.00
+  Name: seq0556    Len: 79  Check: 5984 Weight: 1.00
+  Name: seq0557    Len: 79  Check: 8103 Weight: 1.00
+  Name: seq0558    Len: 79  Check: 9415 Weight: 1.00
+  Name: seq0559    Len: 79  Check: 8919 Weight: 1.00
+  Name: seq0560    Len: 79  Check: 3939 Weight: 1.00
+  Name: seq0561    Len: 79  Check: 3215 Weight: 1.00
+  Name: seq0562    Len: 79  Check:   21 Weight: 1.00
+  Name: seq0563    Len: 79  Check: 1448 Weight: 1.00
+  Name: seq0564    Len: 79  Check: 9073 Weight: 1.00
+  Name: seq0565    Len: 79  Check: 8239 Weight: 1.00
+  Name: seq0566    Len: 79  Check: 3174 Weight: 1.00
+  Name: seq0567    Len: 79  Check: 1089 Weight: 1.00
+  Name: seq0568    Len: 79  Check: 9164 Weight: 1.00
+  Name: seq0569    Len: 79  Check: 6408 Weight: 1.00
+  Name: seq0570    Len: 79  Check: 1069 Weight: 1.00
+  Name: seq0571    Len: 79  Check: 8045 Weight: 1.00
+  Name: seq0572    Len: 79  Check: 2575 Weight: 1.00
+  Name: seq0573    Len: 79  Check: 9739 Weight: 1.00
+  Name: seq0574    Len: 79  Check: 2462 Weight: 1.00
+  Name: seq0575    Len: 79  Check:  501 Weight: 1.00
+  Name: seq0576    Len: 79  Check: 7686 Weight: 1.00
+  Name: seq0577    Len: 79  Check: 9670 Weight: 1.00
+  Name: seq0578    Len: 79  Check: 9402 Weight: 1.00
+  Name: seq0579    Len: 79  Check:  465 Weight: 1.00
+  Name: seq0580    Len: 79  Check: 1632 Weight: 1.00
+  Name: seq0581    Len: 79  Check:  780 Weight: 1.00
+  Name: seq0582    Len: 79  Check: 5469 Weight: 1.00
+  Name: seq0583    Len: 79  Check:  202 Weight: 1.00
+  Name: seq0584    Len: 79  Check: 9817 Weight: 1.00
+  Name: seq0585    Len: 79  Check: 1065 Weight: 1.00
+  Name: seq0586    Len: 79  Check:  308 Weight: 1.00
+  Name: seq0587    Len: 79  Check: 8946 Weight: 1.00
+  Name: seq0588    Len: 79  Check:  661 Weight: 1.00
+  Name: seq0589    Len: 79  Check: 9223 Weight: 1.00
+  Name: seq0590    Len: 79  Check: 9645 Weight: 1.00
+  Name: seq0591    Len: 79  Check: 1083 Weight: 1.00
+  Name: seq0592    Len: 79  Check: 8184 Weight: 1.00
+  Name: seq0593    Len: 79  Check:   61 Weight: 1.00
+  Name: seq0594    Len: 79  Check: 1935 Weight: 1.00
+  Name: seq0595    Len: 79  Check: 9817 Weight: 1.00
+  Name: seq0596    Len: 79  Check: 8294 Weight: 1.00
+  Name: seq0597    Len: 79  Check:  479 Weight: 1.00
+  Name: seq0598    Len: 79  Check:  758 Weight: 1.00
+  Name: seq0599    Len: 79  Check:  933 Weight: 1.00
+  Name: seq0600    Len: 79  Check: 8253 Weight: 1.00
+  Name: seq0601    Len: 79  Check: 2412 Weight: 1.00
+  Name: seq0602    Len: 79  Check:  206 Weight: 1.00
+  Name: seq0603    Len: 79  Check: 7487 Weight: 1.00
+  Name: seq0604    Len: 79  Check: 8889 Weight: 1.00
+  Name: seq0605    Len: 79  Check: 9928 Weight: 1.00
+  Name: seq0606    Len: 79  Check: 8774 Weight: 1.00
+  Name: seq0607    Len: 79  Check:  232 Weight: 1.00
+  Name: seq0608    Len: 79  Check: 3143 Weight: 1.00
+  Name: seq0609    Len: 79  Check: 7320 Weight: 1.00
+  Name: seq0610    Len: 79  Check: 2241 Weight: 1.00
+  Name: seq0611    Len: 79  Check: 1959 Weight: 1.00
+  Name: seq0612    Len: 79  Check: 9220 Weight: 1.00
+  Name: seq0613    Len: 79  Check:   47 Weight: 1.00
+  Name: seq0614    Len: 79  Check:  577 Weight: 1.00
+  Name: seq0615    Len: 79  Check: 8332 Weight: 1.00
+  Name: seq0616    Len: 79  Check: 1428 Weight: 1.00
+  Name: seq0617    Len: 79  Check: 9816 Weight: 1.00
+  Name: seq0618    Len: 79  Check:  266 Weight: 1.00
+  Name: seq0619    Len: 79  Check: 5804 Weight: 1.00
+  Name: seq0620    Len: 79  Check: 9303 Weight: 1.00
+  Name: seq0621    Len: 79  Check: 5350 Weight: 1.00
+  Name: seq0622    Len: 79  Check: 9174 Weight: 1.00
+  Name: seq0623    Len: 79  Check: 7888 Weight: 1.00
+  Name: seq0624    Len: 79  Check: 9824 Weight: 1.00
+  Name: seq0625    Len: 79  Check: 9163 Weight: 1.00
+  Name: seq0626    Len: 79  Check:  152 Weight: 1.00
+  Name: seq0627    Len: 79  Check: 7795 Weight: 1.00
+  Name: seq0628    Len: 79  Check: 9794 Weight: 1.00
+  Name: seq0629    Len: 79  Check:  268 Weight: 1.00
+  Name: seq0630    Len: 79  Check: 8556 Weight: 1.00
+  Name: seq0631    Len: 79  Check: 9329 Weight: 1.00
+  Name: seq0632    Len: 79  Check: 8882 Weight: 1.00
+  Name: seq0633    Len: 79  Check: 8983 Weight: 1.00
+  Name: seq0634    Len: 79  Check: 7953 Weight: 1.00
+  Name: seq0635    Len: 79  Check:  724 Weight: 1.00
+  Name: seq0636    Len: 79  Check: 9060 Weight: 1.00
+  Name: seq0637    Len: 79  Check:  410 Weight: 1.00
+  Name: seq0638    Len: 79  Check: 6443 Weight: 1.00
+  Name: seq0639    Len: 79  Check: 9064 Weight: 1.00
+  Name: seq0640    Len: 79  Check: 9161 Weight: 1.00
+  Name: seq0641    Len: 79  Check:    8 Weight: 1.00
+  Name: seq0642    Len: 79  Check: 9845 Weight: 1.00
+  Name: seq0643    Len: 79  Check: 9550 Weight: 1.00
+  Name: seq0644    Len: 79  Check: 8375 Weight: 1.00
+  Name: seq0645    Len: 79  Check: 9714 Weight: 1.00
+  Name: seq0646    Len: 79  Check: 1256 Weight: 1.00
+  Name: seq0647    Len: 79  Check:  484 Weight: 1.00
+  Name: seq0648    Len: 79  Check:  311 Weight: 1.00
+  Name: seq0649    Len: 79  Check:  362 Weight: 1.00
+  Name: seq0650    Len: 79  Check: 7999 Weight: 1.00
+  Name: seq0651    Len: 79  Check:  436 Weight: 1.00
+  Name: seq0652    Len: 79  Check: 8969 Weight: 1.00
+  Name: seq0653    Len: 79  Check: 7421 Weight: 1.00
+  Name: seq0654    Len: 79  Check: 8383 Weight: 1.00
+  Name: seq0655    Len: 79  Check: 1241 Weight: 1.00
+  Name: seq0656    Len: 79  Check:  816 Weight: 1.00
+  Name: seq0657    Len: 79  Check: 1430 Weight: 1.00
+  Name: seq0658    Len: 79  Check: 2610 Weight: 1.00
+  Name: seq0659    Len: 79  Check:   71 Weight: 1.00
+  Name: seq0660    Len: 79  Check:  433 Weight: 1.00
+  Name: seq0661    Len: 79  Check: 1233 Weight: 1.00
+  Name: seq0662    Len: 79  Check:  556 Weight: 1.00
+  Name: seq0663    Len: 79  Check: 1448 Weight: 1.00
+  Name: seq0664    Len: 79  Check:  910 Weight: 1.00
+  Name: seq0665    Len: 79  Check:  102 Weight: 1.00
+  Name: seq0666    Len: 79  Check: 9640 Weight: 1.00
+  Name: seq0667    Len: 79  Check:  316 Weight: 1.00
+  Name: seq0668    Len: 79  Check: 2341 Weight: 1.00
+  Name: seq0669    Len: 79  Check: 9037 Weight: 1.00
+  Name: seq0670    Len: 79  Check: 9209 Weight: 1.00
+  Name: seq0671    Len: 79  Check: 9993 Weight: 1.00
+  Name: seq0672    Len: 79  Check:  272 Weight: 1.00
+  Name: seq0673    Len: 79  Check: 1552 Weight: 1.00
+  Name: seq0674    Len: 79  Check:  700 Weight: 1.00
+  Name: seq0675    Len: 79  Check: 3339 Weight: 1.00
+  Name: seq0676    Len: 79  Check: 9365 Weight: 1.00
+  Name: seq0677    Len: 79  Check: 1440 Weight: 1.00
+  Name: seq0678    Len: 79  Check:  908 Weight: 1.00
+  Name: seq0679    Len: 79  Check: 9933 Weight: 1.00
+  Name: seq0680    Len: 79  Check: 9965 Weight: 1.00
+  Name: seq0681    Len: 79  Check:  886 Weight: 1.00
+  Name: seq0682    Len: 79  Check:  997 Weight: 1.00
+  Name: seq0683    Len: 79  Check: 7924 Weight: 1.00
+  Name: seq0684    Len: 79  Check: 9547 Weight: 1.00
+  Name: seq0685    Len: 79  Check: 9664 Weight: 1.00
+  Name: seq0686    Len: 79  Check: 8829 Weight: 1.00
+  Name: seq0687    Len: 79  Check: 8692 Weight: 1.00
+  Name: seq0688    Len: 79  Check: 8150 Weight: 1.00
+  Name: seq0689    Len: 79  Check: 9571 Weight: 1.00
+  Name: seq0690    Len: 79  Check: 1659 Weight: 1.00
+  Name: seq0691    Len: 79  Check: 9040 Weight: 1.00
+  Name: seq0692    Len: 79  Check:   47 Weight: 1.00
+  Name: seq0693    Len: 79  Check: 1307 Weight: 1.00
+  Name: seq0694    Len: 79  Check: 1448 Weight: 1.00
+  Name: seq0695    Len: 79  Check: 4091 Weight: 1.00
+  Name: seq0696    Len: 79  Check: 8173 Weight: 1.00
+  Name: seq0697    Len: 79  Check:  223 Weight: 1.00
+  Name: seq0698    Len: 79  Check:  407 Weight: 1.00
+  Name: seq0699    Len: 79  Check:  812 Weight: 1.00
+  Name: seq0700    Len: 79  Check:  807 Weight: 1.00
+  Name: seq0701    Len: 79  Check:  459 Weight: 1.00
+  Name: seq0702    Len: 79  Check: 8652 Weight: 1.00
+  Name: seq0703    Len: 79  Check: 8691 Weight: 1.00
+  Name: seq0704    Len: 79  Check: 9332 Weight: 1.00
+  Name: seq0705    Len: 79  Check:  321 Weight: 1.00
+  Name: seq0706    Len: 79  Check: 2276 Weight: 1.00
+  Name: seq0707    Len: 79  Check: 3712 Weight: 1.00
+  Name: seq0708    Len: 79  Check:  642 Weight: 1.00
+  Name: seq0709    Len: 79  Check: 6211 Weight: 1.00
+  Name: seq0710    Len: 79  Check: 8477 Weight: 1.00
+  Name: seq0711    Len: 79  Check: 1519 Weight: 1.00
+  Name: seq0712    Len: 79  Check: 9733 Weight: 1.00
+  Name: seq0713    Len: 79  Check: 6209 Weight: 1.00
+  Name: seq0714    Len: 79  Check: 1559 Weight: 1.00
+  Name: seq0715    Len: 79  Check:  464 Weight: 1.00
+  Name: seq0716    Len: 79  Check: 8809 Weight: 1.00
+  Name: seq0717    Len: 79  Check: 8837 Weight: 1.00
+  Name: seq0718    Len: 79  Check: 6113 Weight: 1.00
+  Name: seq0719    Len: 79  Check: 9117 Weight: 1.00
+  Name: seq0720    Len: 79  Check:  911 Weight: 1.00
+  Name: seq0721    Len: 79  Check:  224 Weight: 1.00
+  Name: seq0722    Len: 79  Check: 1048 Weight: 1.00
+  Name: seq0723    Len: 79  Check: 8670 Weight: 1.00
+  Name: seq0724    Len: 79  Check: 9931 Weight: 1.00
+  Name: seq0725    Len: 79  Check: 1223 Weight: 1.00
+  Name: seq0726    Len: 79  Check:  767 Weight: 1.00
+  Name: seq0727    Len: 79  Check:  122 Weight: 1.00
+  Name: seq0728    Len: 79  Check: 2304 Weight: 1.00
+  Name: seq0729    Len: 79  Check: 7529 Weight: 1.00
+  Name: seq0730    Len: 79  Check: 8695 Weight: 1.00
+  Name: seq0731    Len: 79  Check: 3755 Weight: 1.00
+  Name: seq0732    Len: 79  Check: 7598 Weight: 1.00
+  Name: seq0733    Len: 79  Check: 7663 Weight: 1.00
+  Name: seq0734    Len: 79  Check: 4327 Weight: 1.00
+  Name: seq0735    Len: 79  Check:  621 Weight: 1.00
+  Name: seq0736    Len: 79  Check: 8244 Weight: 1.00
+  Name: seq0737    Len: 79  Check:  798 Weight: 1.00
+  Name: seq0738    Len: 79  Check:  743 Weight: 1.00
+  Name: seq0739    Len: 79  Check: 1835 Weight: 1.00
+  Name: seq0740    Len: 79  Check:  976 Weight: 1.00
+  Name: seq0741    Len: 79  Check: 2205 Weight: 1.00
+  Name: seq0742    Len: 79  Check: 4219 Weight: 1.00
+  Name: seq0743    Len: 79  Check:  678 Weight: 1.00
+  Name: seq0744    Len: 79  Check: 8852 Weight: 1.00
+  Name: seq0745    Len: 79  Check: 9292 Weight: 1.00
+  Name: seq0746    Len: 79  Check: 9016 Weight: 1.00
+  Name: seq0747    Len: 79  Check: 1709 Weight: 1.00
+  Name: seq0748    Len: 79  Check: 8980 Weight: 1.00
+  Name: seq0749    Len: 79  Check: 2072 Weight: 1.00
+  Name: seq0750    Len: 79  Check: 1583 Weight: 1.00
+  Name: seq0751    Len: 79  Check: 9644 Weight: 1.00
+  Name: seq0752    Len: 79  Check:  255 Weight: 1.00
+  Name: seq0753    Len: 79  Check:  290 Weight: 1.00
+  Name: seq0754    Len: 79  Check:  488 Weight: 1.00
+  Name: seq0755    Len: 79  Check: 1042 Weight: 1.00
+  Name: seq0756    Len: 79  Check: 6953 Weight: 1.00
+  Name: seq0757    Len: 79  Check: 4995 Weight: 1.00
+  Name: seq0758    Len: 79  Check: 3472 Weight: 1.00
+  Name: seq0759    Len: 79  Check: 9307 Weight: 1.00
+  Name: seq0760    Len: 79  Check: 2071 Weight: 1.00
+  Name: seq0761    Len: 79  Check: 7211 Weight: 1.00
+  Name: seq0762    Len: 79  Check: 9432 Weight: 1.00
+  Name: seq0763    Len: 79  Check: 2923 Weight: 1.00
+  Name: seq0764    Len: 79  Check:  327 Weight: 1.00
+  Name: seq0765    Len: 79  Check:  498 Weight: 1.00
+  Name: seq0766    Len: 79  Check: 9437 Weight: 1.00
+  Name: seq0767    Len: 79  Check: 2065 Weight: 1.00
+  Name: seq0768    Len: 79  Check:  922 Weight: 1.00
+  Name: seq0769    Len: 79  Check:  231 Weight: 1.00
+  Name: seq0770    Len: 79  Check: 3201 Weight: 1.00
+  Name: seq0771    Len: 79  Check: 5938 Weight: 1.00
+  Name: seq0772    Len: 79  Check: 1317 Weight: 1.00
+  Name: seq0773    Len: 79  Check: 5324 Weight: 1.00
+  Name: seq0774    Len: 79  Check:  892 Weight: 1.00
+  Name: seq0775    Len: 79  Check:  219 Weight: 1.00
+  Name: seq0776    Len: 79  Check:  799 Weight: 1.00
+  Name: seq0777    Len: 79  Check: 1915 Weight: 1.00
+  Name: seq0778    Len: 79  Check: 3395 Weight: 1.00
+  Name: seq0779    Len: 79  Check:  287 Weight: 1.00
+  Name: seq0780    Len: 79  Check: 1679 Weight: 1.00
+  Name: seq0781    Len: 79  Check: 9936 Weight: 1.00
+  Name: seq0782    Len: 79  Check:  452 Weight: 1.00
+  Name: seq0783    Len: 79  Check: 8833 Weight: 1.00
+  Name: seq0784    Len: 79  Check: 8379 Weight: 1.00
+  Name: seq0785    Len: 79  Check: 1189 Weight: 1.00
+  Name: seq0786    Len: 79  Check:  780 Weight: 1.00
+  Name: seq0787    Len: 79  Check: 2827 Weight: 1.00
+  Name: seq0788    Len: 79  Check: 9935 Weight: 1.00
+  Name: seq0789    Len: 79  Check:  166 Weight: 1.00
+  Name: seq0790    Len: 79  Check: 6793 Weight: 1.00
+  Name: seq0791    Len: 79  Check: 8895 Weight: 1.00
+  Name: seq0792    Len: 79  Check: 2317 Weight: 1.00
+  Name: seq0793    Len: 79  Check:  976 Weight: 1.00
+  Name: seq0794    Len: 79  Check: 9511 Weight: 1.00
+  Name: seq0795    Len: 79  Check: 9802 Weight: 1.00
+  Name: seq0796    Len: 79  Check:  536 Weight: 1.00
+  Name: seq0797    Len: 79  Check: 5903 Weight: 1.00
+  Name: seq0798    Len: 79  Check: 9438 Weight: 1.00
+  Name: seq0799    Len: 79  Check: 9637 Weight: 1.00
+  Name: seq0800    Len: 79  Check: 3581 Weight: 1.00
+  Name: seq0801    Len: 79  Check: 9126 Weight: 1.00
+  Name: seq0802    Len: 79  Check: 1062 Weight: 1.00
+  Name: seq0803    Len: 79  Check:  529 Weight: 1.00
+  Name: seq0804    Len: 79  Check: 8949 Weight: 1.00
+  Name: seq0805    Len: 79  Check:  902 Weight: 1.00
+  Name: seq0806    Len: 79  Check: 2271 Weight: 1.00
+  Name: seq0807    Len: 79  Check:  186 Weight: 1.00
+  Name: seq0808    Len: 79  Check: 1477 Weight: 1.00
+  Name: seq0809    Len: 79  Check:  289 Weight: 1.00
+  Name: seq0810    Len: 79  Check:  718 Weight: 1.00
+  Name: seq0811    Len: 79  Check: 6775 Weight: 1.00
+  Name: seq0812    Len: 79  Check: 9468 Weight: 1.00
+  Name: seq0813    Len: 79  Check:  802 Weight: 1.00
+  Name: seq0814    Len: 79  Check:  338 Weight: 1.00
+  Name: seq0815    Len: 79  Check: 1177 Weight: 1.00
+  Name: seq0816    Len: 79  Check: 6500 Weight: 1.00
+  Name: seq0817    Len: 79  Check: 9332 Weight: 1.00
+  Name: seq0818    Len: 79  Check: 1131 Weight: 1.00
+  Name: seq0819    Len: 79  Check: 3505 Weight: 1.00
+  Name: seq0820    Len: 79  Check: 6753 Weight: 1.00
+  Name: seq0821    Len: 79  Check: 8964 Weight: 1.00
+  Name: seq0822    Len: 79  Check: 1162 Weight: 1.00
+  Name: seq0823    Len: 79  Check:  918 Weight: 1.00
+  Name: seq0824    Len: 79  Check: 4874 Weight: 1.00
+  Name: seq0825    Len: 79  Check: 8473 Weight: 1.00
+  Name: seq0826    Len: 79  Check: 9177 Weight: 1.00
+  Name: seq0827    Len: 79  Check: 9743 Weight: 1.00
+  Name: seq0828    Len: 79  Check: 8238 Weight: 1.00
+  Name: seq0829    Len: 79  Check: 9513 Weight: 1.00
+  Name: seq0830    Len: 79  Check:  462 Weight: 1.00
+  Name: seq0831    Len: 79  Check: 8761 Weight: 1.00
+  Name: seq0832    Len: 79  Check: 9749 Weight: 1.00
+  Name: seq0833    Len: 79  Check: 2410 Weight: 1.00
+  Name: seq0834    Len: 79  Check: 9496 Weight: 1.00
+  Name: seq0835    Len: 79  Check: 7041 Weight: 1.00
+  Name: seq0836    Len: 79  Check: 9604 Weight: 1.00
+  Name: seq0837    Len: 79  Check: 7164 Weight: 1.00
+  Name: seq0838    Len: 79  Check: 2990 Weight: 1.00
+  Name: seq0839    Len: 79  Check: 6025 Weight: 1.00
+  Name: seq0840    Len: 79  Check: 8676 Weight: 1.00
+  Name: seq0841    Len: 79  Check: 6608 Weight: 1.00
+  Name: seq0842    Len: 79  Check: 7786 Weight: 1.00
+  Name: seq0843    Len: 79  Check: 7629 Weight: 1.00
+  Name: seq0844    Len: 79  Check: 8657 Weight: 1.00
+  Name: seq0845    Len: 79  Check: 5419 Weight: 1.00
+  Name: seq0846    Len: 79  Check: 8212 Weight: 1.00
+  Name: seq0847    Len: 79  Check: 7358 Weight: 1.00
+  Name: seq0848    Len: 79  Check: 6364 Weight: 1.00
+  Name: seq0849    Len: 79  Check: 5568 Weight: 1.00
+  Name: seq0850    Len: 79  Check: 2410 Weight: 1.00
+  Name: seq0851    Len: 79  Check: 2757 Weight: 1.00
+  Name: seq0852    Len: 79  Check: 2912 Weight: 1.00
+  Name: seq0853    Len: 79  Check: 1084 Weight: 1.00
+  Name: seq0854    Len: 79  Check: 8926 Weight: 1.00
+  Name: seq0855    Len: 79  Check: 9693 Weight: 1.00
+  Name: seq0856    Len: 79  Check: 6555 Weight: 1.00
+  Name: seq0857    Len: 79  Check: 2705 Weight: 1.00
+  Name: seq0858    Len: 79  Check: 9443 Weight: 1.00
+  Name: seq0859    Len: 79  Check: 9716 Weight: 1.00
+  Name: seq0860    Len: 79  Check: 9711 Weight: 1.00
+  Name: seq0861    Len: 79  Check:  319 Weight: 1.00
+  Name: seq0862    Len: 79  Check:  363 Weight: 1.00
+  Name: seq0863    Len: 79  Check: 9857 Weight: 1.00
+  Name: seq0864    Len: 79  Check: 3237 Weight: 1.00
+  Name: seq0865    Len: 79  Check: 8323 Weight: 1.00
+  Name: seq0866    Len: 79  Check: 9402 Weight: 1.00
+  Name: seq0867    Len: 79  Check: 1413 Weight: 1.00
+  Name: seq0868    Len: 79  Check: 2252 Weight: 1.00
+  Name: seq0869    Len: 79  Check: 3725 Weight: 1.00
+  Name: seq0870    Len: 79  Check:  448 Weight: 1.00
+  Name: seq0871    Len: 79  Check:  975 Weight: 1.00
+  Name: seq0872    Len: 79  Check: 1311 Weight: 1.00
+  Name: seq0873    Len: 79  Check:  649 Weight: 1.00
+  Name: seq0874    Len: 79  Check:  703 Weight: 1.00
+  Name: seq0875    Len: 79  Check: 1370 Weight: 1.00
+  Name: seq0876    Len: 79  Check:  697 Weight: 1.00
+  Name: seq0877    Len: 79  Check: 1499 Weight: 1.00
+  Name: seq0878    Len: 79  Check: 1281 Weight: 1.00
+  Name: seq0879    Len: 79  Check:  138 Weight: 1.00
+  Name: seq0880    Len: 79  Check:  489 Weight: 1.00
+  Name: seq0881    Len: 79  Check: 9748 Weight: 1.00
+  Name: seq0882    Len: 79  Check:  662 Weight: 1.00
+  Name: seq0883    Len: 79  Check: 9404 Weight: 1.00
+  Name: seq0884    Len: 79  Check: 9484 Weight: 1.00
+  Name: seq0885    Len: 79  Check:  775 Weight: 1.00
+  Name: seq0886    Len: 79  Check: 9975 Weight: 1.00
+  Name: seq0887    Len: 79  Check: 1159 Weight: 1.00
+  Name: seq0888    Len: 79  Check: 9586 Weight: 1.00
+  Name: seq0889    Len: 79  Check: 9483 Weight: 1.00
+  Name: seq0890    Len: 79  Check: 9371 Weight: 1.00
+  Name: seq0891    Len: 79  Check:  951 Weight: 1.00
+  Name: seq0892    Len: 79  Check: 2501 Weight: 1.00
+  Name: seq0893    Len: 79  Check: 9647 Weight: 1.00
+  Name: seq0894    Len: 79  Check: 9649 Weight: 1.00
+  Name: seq0895    Len: 79  Check: 4541 Weight: 1.00
+  Name: seq0896    Len: 79  Check: 9255 Weight: 1.00
+  Name: seq0897    Len: 79  Check: 8018 Weight: 1.00
+  Name: seq0898    Len: 79  Check:  956 Weight: 1.00
+  Name: seq0899    Len: 79  Check: 2089 Weight: 1.00
+  Name: seq0900    Len: 79  Check:  465 Weight: 1.00
+  Name: seq0901    Len: 79  Check:   31 Weight: 1.00
+  Name: seq0902    Len: 79  Check: 3475 Weight: 1.00
+  Name: seq0903    Len: 79  Check: 9395 Weight: 1.00
+  Name: seq0904    Len: 79  Check: 3033 Weight: 1.00
+  Name: seq0905    Len: 79  Check: 9627 Weight: 1.00
+  Name: seq0906    Len: 79  Check: 3693 Weight: 1.00
+  Name: seq0907    Len: 79  Check: 4944 Weight: 1.00
+  Name: seq0908    Len: 79  Check:  223 Weight: 1.00
+  Name: seq0909    Len: 79  Check: 3467 Weight: 1.00
+  Name: seq0910    Len: 79  Check: 9580 Weight: 1.00
+  Name: seq0911    Len: 79  Check: 5320 Weight: 1.00
+  Name: seq0912    Len: 79  Check: 2609 Weight: 1.00
+  Name: seq0913    Len: 79  Check: 6944 Weight: 1.00
+  Name: seq0914    Len: 79  Check: 6317 Weight: 1.00
+  Name: seq0915    Len: 79  Check: 9816 Weight: 1.00
+  Name: seq0916    Len: 79  Check: 8051 Weight: 1.00
+  Name: seq0917    Len: 79  Check: 8138 Weight: 1.00
+  Name: seq0918    Len: 79  Check: 7878 Weight: 1.00
+  Name: seq0919    Len: 79  Check: 2916 Weight: 1.00
+  Name: seq0920    Len: 79  Check: 8816 Weight: 1.00
+  Name: seq0921    Len: 79  Check: 8823 Weight: 1.00
+  Name: seq0922    Len: 79  Check: 7398 Weight: 1.00
+  Name: seq0923    Len: 79  Check:  748 Weight: 1.00
+  Name: seq0924    Len: 79  Check:  680 Weight: 1.00
+  Name: seq0925    Len: 79  Check:  703 Weight: 1.00
+  Name: seq0926    Len: 79  Check:  535 Weight: 1.00
+  Name: seq0927    Len: 79  Check: 1182 Weight: 1.00
+  Name: seq0928    Len: 79  Check:  505 Weight: 1.00
+  Name: seq0929    Len: 79  Check: 9725 Weight: 1.00
+  Name: seq0930    Len: 79  Check:   18 Weight: 1.00
+  Name: seq0931    Len: 79  Check: 9292 Weight: 1.00
+  Name: seq0932    Len: 79  Check:  272 Weight: 1.00
+  Name: seq0933    Len: 79  Check: 1166 Weight: 1.00
+  Name: seq0934    Len: 79  Check: 1638 Weight: 1.00
+  Name: seq0935    Len: 79  Check: 1214 Weight: 1.00
+  Name: seq0936    Len: 79  Check:  492 Weight: 1.00
+  Name: seq0937    Len: 79  Check: 1886 Weight: 1.00
+  Name: seq0938    Len: 79  Check: 1151 Weight: 1.00
+  Name: seq0939    Len: 79  Check:   89 Weight: 1.00
+  Name: seq0940    Len: 79  Check: 1292 Weight: 1.00
+  Name: seq0941    Len: 79  Check:  543 Weight: 1.00
+  Name: seq0942    Len: 79  Check: 9652 Weight: 1.00
+  Name: seq0943    Len: 79  Check: 8585 Weight: 1.00
+  Name: seq0944    Len: 79  Check: 5731 Weight: 1.00
+  Name: seq0945    Len: 79  Check: 5810 Weight: 1.00
+  Name: seq0946    Len: 79  Check: 4797 Weight: 1.00
+  Name: seq0947    Len: 79  Check: 9283 Weight: 1.00
+  Name: seq0948    Len: 79  Check: 1801 Weight: 1.00
+  Name: seq0949    Len: 79  Check: 9790 Weight: 1.00
+  Name: seq0950    Len: 79  Check: 9887 Weight: 1.00
+  Name: seq0951    Len: 79  Check:  558 Weight: 1.00
+  Name: seq0952    Len: 79  Check: 4266 Weight: 1.00
+  Name: seq0953    Len: 79  Check: 9000 Weight: 1.00
+  Name: seq0954    Len: 79  Check: 8270 Weight: 1.00
+  Name: seq0955    Len: 79  Check: 7579 Weight: 1.00
+  Name: seq0956    Len: 79  Check:  363 Weight: 1.00
+  Name: seq0957    Len: 79  Check: 4351 Weight: 1.00
+  Name: seq0958    Len: 79  Check: 5587 Weight: 1.00
+  Name: seq0959    Len: 79  Check: 8923 Weight: 1.00
+  Name: seq0960    Len: 79  Check: 4013 Weight: 1.00
+  Name: seq0961    Len: 79  Check: 2996 Weight: 1.00
+  Name: seq0962    Len: 79  Check: 3244 Weight: 1.00
+  Name: seq0963    Len: 79  Check: 6024 Weight: 1.00
+  Name: seq0964    Len: 79  Check: 8408 Weight: 1.00
+  Name: seq0965    Len: 79  Check: 8977 Weight: 1.00
+  Name: seq0966    Len: 79  Check: 9457 Weight: 1.00
+  Name: seq0967    Len: 79  Check: 8683 Weight: 1.00
+  Name: seq0968    Len: 79  Check: 9586 Weight: 1.00
+  Name: seq0969    Len: 79  Check: 9787 Weight: 1.00
+  Name: seq0970    Len: 79  Check: 8228 Weight: 1.00
+  Name: seq0971    Len: 79  Check: 9623 Weight: 1.00
+  Name: seq0972    Len: 79  Check: 1121 Weight: 1.00
+  Name: seq0973    Len: 79  Check: 3122 Weight: 1.00
+  Name: seq0974    Len: 79  Check: 7827 Weight: 1.00
+  Name: seq0975    Len: 79  Check:  535 Weight: 1.00
+  Name: seq0976    Len: 79  Check: 7792 Weight: 1.00
+  Name: seq0977    Len: 79  Check: 7727 Weight: 1.00
+  Name: seq0978    Len: 79  Check: 7396 Weight: 1.00
+  Name: seq0979    Len: 79  Check: 7267 Weight: 1.00
+  Name: seq0980    Len: 79  Check:  364 Weight: 1.00
+  Name: seq0981    Len: 79  Check: 9511 Weight: 1.00
+  Name: seq0982    Len: 79  Check: 9649 Weight: 1.00
+  Name: seq0983    Len: 79  Check: 9007 Weight: 1.00
+  Name: seq0984    Len: 79  Check: 9215 Weight: 1.00
+  Name: seq0985    Len: 79  Check: 6171 Weight: 1.00
+  Name: seq0986    Len: 79  Check:  955 Weight: 1.00
+  Name: seq0987    Len: 79  Check: 9733 Weight: 1.00
+  Name: seq0988    Len: 79  Check:  432 Weight: 1.00
+  Name: seq0989    Len: 79  Check: 8030 Weight: 1.00
+  Name: seq0990    Len: 79  Check: 8082 Weight: 1.00
+  Name: seq0991    Len: 79  Check: 9562 Weight: 1.00
+  Name: seq0992    Len: 79  Check: 7801 Weight: 1.00
+  Name: seq0993    Len: 79  Check: 5433 Weight: 1.00
+  Name: seq0994    Len: 79  Check: 8201 Weight: 1.00
+  Name: seq0995    Len: 79  Check:   53 Weight: 1.00
+  Name: seq0996    Len: 79  Check: 9011 Weight: 1.00
+  Name: seq0997    Len: 79  Check: 9880 Weight: 1.00
+  Name: seq0998    Len: 79  Check: 4550 Weight: 1.00
+  Name: seq0999    Len: 79  Check: 7510 Weight: 1.00
+  Name: seq1000    Len: 79  Check: 9545 Weight: 1.00
+
+//
+
+           1                                               50
+seq0001    RRNFSKQASEILNEYFYSHLSNPYPSEEAKEELARKCGITVSQVSNWFGN
+seq0002    RFKWGPASQQILFQAYERQKNPSKEERETLVEECNRAECIQRGVSPSQAQ
+seq0003    KKRKRRVLFTKAQTYELERRFRQQRYLSAPEREHLASLIRLTPTQVKIWF
+seq0004    RRKRRNFSKQASEILNEYFYSHLSNPYPSEEAKEELARKCGITVSQVSNW
+seq0005    RRKRRNFSKQATELLNEYFYSHLSNPYPSEEAKEELARKCGITVSQVSNW
+seq0006    RRKRRNFSKQASEILNEYFYSHLSNPYPSEEAKEELARKCGITVSQVSNW
+seq0007    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARQCNITVSQVSNW
+seq0008    RRKRRNFSKEATEVLNEYFYSHLANPYPSEEAKEELAKKCGITVSQVSNW
+seq0009    RRKRRNFSKQATEVLNEYFYGHLSNPYPSEEAKEDLARQCNITVSQVSNW
+seq0010    RRKRRNFSKQATEVLNEYFYSHLANPYPSEEAKEELAKQCSITVSQVCNW
+seq0011    VSQRRNFSKRALELLNDYFYSHLANPYPSEEVKAELARLCGITVSQVSNW
+seq0012    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELAKKCGITVSNWFGN
+seq0013    RWKRRNFSKQATEVLNEYFCSHLSNPHPSEEAEEELTKKRGITVSQVSNW
+seq0014    RRKCRNFSKQATEILNEYFYSHLANPYPNEEVKEELAKKCAITVAQIANW
+seq0015    RWKRRNFSKEATEVLNEYLYSHLSNPYLSEEAKEEFAKKCGITVSQVFNL
+seq0016    RRKRRNFTKAATEILNDYFERHIRNPYPSEESKEQLARQCNISVAQVSNW
+seq0017    RRKRRNFNKQATEILNEYFYSHLSNPYPSEEAKEELAKKCGITVAQVTLT
+seq0018    RRTRKNFSRQSTEILNNYFQAHITHPYPTEQEKEELARQCNISVGQVSNW
+seq0019    RRKRRNFAKSSTEILNEYFIKNIEHPYPSEEVKQILAAQCKISVAQVSNW
+seq0020    TKRRRNFSKEATAILQEYYENHLAHPYPTEEEKGVLAEKCHISVQQVSNW
+seq0021    RRKRKNFSQKATQILNAFFEAHITHPYPTEEEKHVLAMQCEISVSQVANW
+seq0022    YLSNERTAILEQYYQSHITFPYPDRETRESLASQCGISQSQVTKWFSNRR
+seq0023    KRRMYLTKERTEKLEEYYQNHIAFPYPDQETREFLANECGITYPQVTKWF
+seq0024    YPDIFMREEVAMKITLPESRVQVWFKNRR~~~~~~~~~~~~~~~~~~~~~
+seq0025    SRNRHRFTEFQLQELERIFERNHYPSAAARRELARWIGVTESRVENWFKS
+seq0026    KQTNPRNQRLFESFQENRYPDKTTRESLAEELQMTFNQVSNWFRNRRSST
+seq0027    YCFKEKSRRILKEWYRRGPYPSTREKRELAAATGLTATQVSNWFKNRRQR
+seq0028    YCFKEKSRNVLKTSYHRNRYPSQEERRRLAELTGLSMVQVSNWFKNRRQR
+seq0029    RRNRTKFTAYQLEQLEDAYQKAKYPDVQARETLAQRLGVAESRVQVWFSN
+seq0030    FDLKRYLSSSERAGLAGSLHLTETQVEIWFQNRR~~~~~~~~~~~~~~~~
+seq0031    YNRYLTRRRRVEIAHALCLTERQVKIWFQNRRMKL~~~~~~~~~~~~~~~
+seq0032    RRNRFKWGPASTNILYQSYEQQRNPSKEEREALVEACNRAECEQRGVSYN
+seq0033    RRNRFKWGPASLQILFHAYERQKNPSKEEREGLVEECNRAECIQRGVSPS
+seq0034    RRNRFKWGPASQQILFQAYERQKNPSKEERETLVEECNRAECIQRGVSPS
+seq0035    RRNRFKWGPASQQILRQAYERQKNPSKEEREALVEECNRAECIQRGVSPS
+seq0036    SVHAFTPLQLQELERIFRRKKFPSEFLRRRLAGSMNVTELAVQIWFENRR
+seq0037    RRNRFKWGPASQQILFQAYERQKNPSKEEREALVEECNRAECIQRGVSPS
+seq0038    RRNRFKWGPASQQILFQAYERQKNPSKEEREALVEECNRAECLQRGVSPS
+seq0039    RRNRFKWGPASQQILFQAYERQKNPSKEEREALVEECNRAECLQRGVSPS
+seq0040    RRNRFKWGPASQQILFQAYERQKNPSKEEREALVEECNSRAECIQRGVSP
+seq0041    RRNRFKWGPASLQILFQAYERQKNPSKEEREGLVEECNRAECLQRGVSPS
+seq0042    RRNRFKWGPASQQILYQAYDRQKNPSKEEREALVEECNRAECLQRGVSPS
+seq0043    RRNRFKWGPASLQILFHAYDRQKNPSKEEREGLVEDCNRAECHQRGVSPS
+seq0044    RRNRFKWGPASQQILYQAYDRQKNPSKEEREALVEECNRAECLQRGVSPS
+seq0045    RRNRFKWGPASQRILYEAYQHQRNPTKEEREELVKKCNRAECNQRGVSPS
+seq0046    RRSRFKWGSASKRILYDSYANNTNPSKEERDMLVDACNHAECVQRGLLPN
+seq0047    RRVRVKWPSAATVILERVFQMDKNPTENQREEIARVCN~~~~~~~~~~~~
+seq0048    ALEIAASLDLTERQVKVWFQNRRMKHKR~~~~~~~~~~~~~~~~~~~~~~
+seq0049    RRERLVLKPSQRETLQAAFEQNPYPGITTREELARETGIAEDRIQTWFGN
+seq0050    DLRGEELAMRLDLTEARVQVWFQNRRAKWRK~~~~~~~~~~~~~~~~~~~
+seq0051    PRNRYRFTKFQLQELERIFERNHYPSAAARRELARWIGVTESRVENWFKS
+seq0052    YYFKEKSRRLLRQQYAENPYPSQWEKKELARRTGLTAVQVSNWFKNRRQR
+seq0053    RNRLEPERKSELAKKLGLQPRQVAVWFQNRRARWKT~~~~~~~~~~~~~~
+seq0054    RRKRRNFSKEATEILNEYFYSHLANPYPSEEAKDELAKKCGITVSQVSNW
+seq0055    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARKCGITVSQVSNW
+seq0056    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEAKEELAKKCSITVSQVSNW
+seq0057    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARQCQITVSQVSNW
+seq0058    RRKRRNFSKQATEVLNEYFYSHLNNPYPSEEAKEELARKGGLTVSQVSNW
+seq0059    RRKRRNFSKQASEILNEYFYSHLSNPYPSEEAKEELAKKCNITVSQV~~~
+seq0060    RRKRRNFSKQATEVLNEYFYSHLNNPYPSEEAKEELARKGGLTISQVSNW
+seq0061    RRKRRNFSKQAAEILNTYFYSHLANPYPSEEAKEDLARKCSITVSQVANW
+seq0062    RRKRRNFTKHAIELLNEYFYSHLDNPYPGEEVKEELARKCAITVSQVSNW
+seq0063    RRKRRNFNKQATEILNEYFYSHLSNPYPSEEAKEELAKKCGITVSQVDT~
+seq0064    RRKRRNFNKQATEVLNEYFYSHLSNPYPSEEAKEELAKKCGITVSQVRS~
+seq0065    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARKCQITVSQVSLF
+seq0066    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEAKEELAKKCSITVSQIQMW
+seq0067    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEAKEELAKKCSITVSQQKRI
+seq0068    RRKRQNFTKAATVILNEYFYNNLANPYPTEQVKEELAAKCNLTVAQVTNW
+seq0069    RKKRRNFSKDATRILTGFFHSHIEHPYPSEAEKTELARKCNLSVNQVSNW
+seq0070    YLSNERTAILEQYYQSHITFPYPDCETRESLASQCGISQSQVTKWFSNRR
+seq0071    ISPQARAFLEEVFRRKQSLNSKEKEEVAKKCGITPLQVRVWFINKRMRS~
+seq0072    YCFKEKSRRVLRESFLKNPYPSPSEKRELANRIGLTPTQVSNWFKNRRQR
+seq0073    SELERSFAKTHYPDIFLREELALRIGLTESRVQVWFQNRRGKWKK~~~~~
+seq0074    EFHFNAYESKQKRWELARNLQLTERQVKIWFQNRRM~~~~~~~~~~~~~~
+seq0075    KLIIYLSAPEREQLAMQIRLTPTQVKIWFQNHRYKTKK~~~~~~~~~~~~
+seq0076    PQEDNYLNLTERASLASQLGLTQTQVKIWFQNKRSKLKK~~~~~~~~~~~
+seq0077    RKRRILFTKAQTFILERRFTQQRYLSAPEREELARIANLTPAQVKIWFQN
+seq0078    PLYELERRFRQQRYLSAPEREHLASIIRLTPTQVKIWFQNHRYKLKR~~~
+seq0079    XRRFKQQKYLSAPEREHLASLIRLTPTQVKIWFQNHRYKMKR~~~~~~~~
+seq0080    ETYELERRFRQQRYLSAPEREHLASLIRLTPTQVKIWFQNHRYKMKR~~~
+seq0081    RKRRVLFSKAQTYELERRFRQQRYLSAPEREHLASIIRLTPTQVKIWFQN
+seq0082    RKRRVLFSKAQTYELERRFRQQRYLSAPEREHLASIIRLSPTQVKIWFQN
+seq0083    RKRRVLFSKAQTYELERRFRQQRYLSAPEREHLARLIRLTPTQVKIWFQN
+seq0084    RKRRVLFSKQQTYELERRFRQQRYLSAPEREHLASIIHLTPTQVKIWFQN
+seq0085    RKRRVLFSKAQTFELERRFRQQRYLSAPEREHLARLIRLTPNQVKIWFQN
+seq0086    RKRRVLFTKAQTYELERRFRSQKYLSAPEREALAMQIRLTPTQVKIWFQN
+seq0087    KKRRVLFSKAQTLELERRFRQQRYLSAPEREQLARLLRLTPTQVKIWFQN
+seq0088    RKRRVLFSKAQIYELERRFRQQRYLSAPEREQLARLINLSPTQVKIWFQN
+seq0089    RKRRVLFSKAQTYEFERRFRQQRYLSAPEREQLARIINLSPTQVKIWFQN
+seq0090    KKRRVLFSKAQTLELERRFRQQRYLSGPEREQLARMLSLTPTQVKIWFQN
+seq0091    AQVQELERRFKQQKYLSAPEREHLATMINLTPTQVKIWF~~~~~~~~~~~
+seq0092    KKRRVLFSKTQTLELERRFRQQRYLSGPEREQLARILSLTPTQVKIWFQN
+seq0093    RKPRVLFSQAQVLELERRFRQQRYLSAPEREHLARALQLTSTQVKIWFQN
+seq0094    RKRRVLFTKAQTFVLEKRFQQQRYLSAPEREELARIVHLTPAQVKIWFQN
+seq0095    CSSGTASECEHLASLTRLTPTQVKIWFQNHRYKMKR~~~~~~~~~~~~~~
+seq0096    KKRRILFTRQQTWELERIFRQQPYLSSPEREVLAKKINLTPTQIKIWFQN
+seq0097    GAKVGADPREHLASMIHLTPTQVKIWFQNHRYKMKR~~~~~~~~~~~~~~
+seq0098    AFELERRFNHQRYLSGPERADLAASLKLTETQVKIWFQNRRYKTKR~~~~
+seq0099    RRPRVLFSQAQVLELERRFQRQKYLSGPERELLARHLRLSPTQVKIWFQN
+seq0100    GRRRVLFSTFQINEMVKRFEKQRYISAEEREELARQINLTPTQVKIWFQN
+seq0101    GRRRVLFSTFQINEMVKRFEKQRYISAEEREEIARQINLTPTQVKIWFQN
+seq0102    RKRRVLFSPQQVHVLEHKFGSNKYLSASDREQLAKSINLTPTQVKIWFQN
+seq0103    KRSRAAFSHTQVLELERKFSHQKYLSAPERAHLARNLKLTETQVKIWFQN
+seq0104    FDLKRYLSTAERAGLAASLQLTETQVKIWFQNRR~~~~~~~~~~~~~~~~
+seq0105    KRTRAAFSHGQVYELEKRFNYQRYLSATERAELARSLRLSETQVKIWFQN
+seq0106    QRMDLASKLNLTDTQVKTWYQNRRTKWKR~~~~~~~~~~~~~~~~~~~~~
+seq0107    RKPRTIFTSAQLNELNNRFRLSHYLGLPERADLAASLGLTQTQVKIWFQN
+seq0108    RRPRTAFTSEQLIELERQFGENKYLSRPRRYQLAQELCLTETQVKIWFQN
+seq0109    RKPRTIFTSHQLRELNRSFERTHYLSLPERAELAHGLGLTQTQIKIWFQN
+seq0110    RKARSIYSSLQLHALNRRFQQTQYLALPERAELAASLGLTQTQVKIWFQN
+seq0111    ELEKKFQEKKYLSSSERGELADKLKLSDMQVKTWFQNRR~~~~~~~~~~~
+seq0112    SAQLVELEKEFHFNRYLCRPRRVELAKQLGLTDRQIKIWFQNRRMKYKK~
+seq0113    VPSRLDLAQSLGLTQLQVKTWYQNRRMKWKK~~~~~~~~~~~~~~~~~~~
+seq0114    RRPRTIYTPSQLESLNSSFSQNAYLNLSARAELANNLGLTQTQVKIWFQN
+seq0115    KRHRTRFTSAQLNELERSFAKTHYPDIFMREELALRIGLTESRVQVWFQN
+seq0116    LEKYFEYNAYPSAPDRLLLARKSMMTPRQIEVWFQNHRTRARK~~~~~~~
+seq0117    FTSEQLERLRQEFEDNRYLTEKRRQDLAQELGLNESQIKIWFQNKRAKIK
+seq0118    EFLFNATVSKQKSWELARNLQLTERQVKIWFQNRRM~~~~~~~~~~~~~~
+seq0119    SESRPELEIKQQLANEIGLEPRQVAIWFQNRRARLKT~~~~~~~~~~~~~
+seq0120    RRNRTTFNQQQLNELEAAFHKSHYPDVFAREELAMKINLPEARVQVWFQN
+seq0121    RRKRTSITSSQLQKLEQLFKEEPWPSRESKENLAEEIGMSPQFVNIWFQN
+seq0122    KRRRTKLTEEQLNILEESYRINHHPSSEIKEAVAAKIGIPIKNVQIWFQN
+seq0123    CKQTNPKTQRLFESFQENRYPDISTRENLAKELQMTVKQVSNWFRNTRFS
+seq0124    KRRVYLTKERTEKLEEFYQSHIAFSYPDQETKELLASECGITYLQVTKWL
+seq0125    YNRRFDKITIYALEESFKKNPYPSEQEKARIQQEYGITLRQVSNWFTNKR
+seq0126    KKRAILSKDKTGILENYYQNNFNFPYPDRETCESLASQCGISGSQVNKWF
+seq0127    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEAKEELAKKCGITVSQVSNW
+seq0128    MRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARKCGITVSQVSNW
+seq0129    RRNRFKWGPASQQILFQAYERQKSPSKEERETLVEECNRAECIQRGVSPS
+seq0130    RRNRFKWGPASQQILFQAYERQKNPSKEEREALVEECNRVECIQRGVSPS
+seq0131    RRNRFKWGPASQQILYQAYERQKNPSKEEREALVEECNRAECLQRGVSPS
+seq0132    RRNRFKWGPASQQILYQAYERQKNPSKEEREALVEECNRAECLQRGVSPS
+seq0133    RRNRFKWGPASQQILFHAYERQRNPSKEEREGLVEECNRAECLQRGVSPS
+seq0134    RRNRFKWGPASQRILYEAYQRQRNPSKEEREALVEECNRAECLQRGVSPS
+seq0135    RRNRFKWGPASQQILYQAYDRQKNPSKEEREALVEECNSVHRAECLQRGV
+seq0136    RRNRFKWGPASQRILYHAYNQNRNPSKEERENLVIQCNAAECMQRGVSPS
+seq0137    FDLKRYLSSTERAGLAASLQLTETQVKIWFQNRR~~~~~~~~~~~~~~~~
+seq0138    RQKYLASAERSTLAKALKMTDAQVKTWFQNRRTKL~~~~~~~~~~~~~~~
+seq0139    EFHFNRYLCRPRRVEMANLLNLTERQVKIWFQNR~~~~~~~~~~~~~~~~
+seq0140    RKRRVLFSQAQVYELERRFKQQKYLSAPXREHLVQ~~~~~~~~~~~~~~~
+seq0141    RKRRVLFSQAQVYELERRYKQQKYLSAPEREHLASLINLTPTQVKIWFQN
+seq0142    RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASLINLTPTQVKIWFQN
+seq0143    RKRRVLFSKAQTYELERRFRQQKYLSAPEREHLASIIRLTPTQVKIWFQN
+seq0144    RKRRVLFSKAQTFELERRFRQQRYLSAPEREHLASIIRLTPTQVKIWFQN
+seq0145    RKRRVLFSKAQTYELERRFRQQRYLSAPEKEHLASLIRLTPTQVKIWFQN
+seq0146    RKRRVLFSKAQTYELERRFRQQRYLSAPEREHLANLIHLTPTQVKIWFQN
+seq0147    RKRRVLFSKAQTFELERRFRQQKYLSAPEREHLASIIRLTPTQVKIWFQN
+seq0148    RKRRVLFSKAQTFELERRFRQQRYLSAPEREHLAGLIRLTPNQVKIWFQN
+seq0149    RKRRVLFTQAQVYELERRFKQQKYLSAPEREHLASLIHLTPTQVKIWFQN
+seq0150    RKRRVLFTKAQTFELERRFRTQKYLSAPERESLAMQIRLTPTQVKIWFQN
+seq0151    RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLAQLINLTPTQVKIWFQN
+seq0152    LPAQTSELERRFRQQRYLSAPEREHLAGVLRLTPNQVKIWFQNHRYKMKR
+seq0153    RKRRVLFSQAQVFELERRFKQQKYLSAPEREALAQLINLTPTQVKIWFQN
+seq0154    MYIQAQTYELERRFRQQRYLSAPEREQLAHSINLTPTQVKIWFQNHRYKL
+seq0155    RRVLFSQAQVYDLERRFNHHKYLSAPEREHLASMIHLTPTQVKIWFQNHR
+seq0156    RKPRVLFSQAQVFELERRFKQQRYLSAPEREHLASTLKLTSTQVKIWFQN
+seq0157    RKPRVLFSQAQVYELERRFKQQRYLSAPERDQLASVLKLTSTQVKIWFQN
+seq0158    RKPRVLFSQAQVFELERRFKQQRYLSAPEREHLASSLKLTSTQVTIWFQN
+seq0159    RKPRVLFSQAQVYELERRFKQQRYLSPAERDQLASVLKLTSTQVKIWFQN
+seq0160    RKPRVLFSQTQVLELERRFKQQKYLSALEREHLANVLQLTSTQVKIWFQN
+seq0161    RKPRVLFSQAQVLELERRFQRQKYLSGPEREQLALQLQLSPTQVKIWFQN
+seq0162    KRSRAAFSHAQVYELERRFSQQRYLSGPERADLAVSLKLTETQVKIWFQN
+seq0163    RRPRGLFSHAQIYELERRYALQKYLTAHEREQLANMLRLTETQVKIWFQN
+seq0164    KRSRAAFSHAQVFELERRFNHQRYLSGPERADLAASLKLTETQVKIWFQN
+seq0165    KRSRAAFSHTQVIELERKFSRQKYLSAPERAHLAKNLKLTETQVKIWFQN
+seq0166    KRSRAAFSHSQVIELERKFSSQKYLSAPERAQLAKSLKLTETQVKIWFQN
+seq0167    KRSRAAFSHAQVFELERRFNHQRYLSPERADLAASLKLTETQVKIWFQNR
+seq0168    FDLKRYLSSAERAGLAASLQLTETQVKTWFQNRR~~~~~~~~~~~~~~~~
+seq0169    RRPRTAFSSQQLLELERHFSRQRYLSRPQRFQVASALMLTETQVKIWFQN
+seq0170    TTQQLLALERKFRNKQYLSIAERAEFSSSLNLTETQVKIWFQNRRAKEKR
+seq0171    TTQQLLALERKFRVKQYLSIAERAEFSGSLNLTETQVKIWFQNRRAKEKR
+seq0172    RKERTVFTKSQLSKLKARFCYQKYLSSEERAQLACSLSLTEEQVQRWFQN
+seq0173    RVELSADLLLSERQVKIWFQNRRMKEKK~~~~~~~~~~~~~~~~~~~~~~
+seq0174    MVGPERLYLAHALQLTEAQVKVWFQNRRIKWRK~~~~~~~~~~~~~~~~~
+seq0175    RLPRIPFTPAQLQALERAYKESNYLSAEDANKLAESLELTNTRVKIWFQN
+seq0176    RLPRIPFTPAQLQALESAYKESNYLSAEDANKLAESLDLTNTRVKIWFQN
+seq0177    RLPRIPFTPGQLQALESAYKESNYLSAEDANKLAESLELTNTRVKIWFQN
+seq0178    RRLYGPGGEELAMRLDLTEARVQVWFQNRRAKWRK~~~~~~~~~~~~~~~
+seq0179    KRCRTIFAPYQLQRLEKAFERQQYVAGEERRQLATGLNLTETQVKVWFQN
+seq0180    HAFTPLQLQELERIFQRKKFPSEFLRRRLAGSMNVTELAVQIWFENRRAK
+seq0181    TQVCPFSFSREELAMRLDLTEARVQVWFQNRRAKWRK~~~~~~~~~~~~~
+seq0182    RKMRFRPTPQQTEELRKVYNVNPHPSKEEREELGESIGMRYQSVTNWFQN
+seq0183    RRERTTFTRAQLEILEDLYSKTKYPDVFMREEIAIKINLPESRVQVWFKN
+seq0184    KPSSQEIMRMAEELNLEKEVVRVWFCNRRXREKR~~~~~~~~~~~~~~~~
+seq0185    KQKIKEITLKLVQHGQLSETNVYNWFQNRRARSKR~~~~~~~~~~~~~~~
+seq0186    KSRNFPREVRQKLEDFASGVSTNPSKAEREGLASETHLTTEQVYNWFANY
+seq0187    KNRNYSNEVRQQLYKFAAEVTTNPNKKQREGLAQDMNLQPAQVYNWFANY
+seq0188    KNRNYSEEVRQQLHRFAAEVTANPNKKQREELARDMNLQLTQVYNWFANY
+seq0189    RRKRITWTSKQKKKLEENYAREQYPTVLEIQSLALELGSVGEQVVKTWFR
+seq0190    RGARFTWPKECLSILENYYNANSYPDECKREEIAHACNTIIQSQKPGSML
+seq0191    KRERFTFKSAHLAVLERYYERDPYPDAQTREQIVEECNEAVERPERPLTE
+seq0192    RRNRFKWGPASQQILYQAYERQKNPSKEEREALVEECNRAECIQRGVSPS
+seq0193    PKFSQHVEILLQQYYRQEPSPNDDQKNFVASNLGIELWHVEAWFHHRRER
+seq0194    PKKFSPHVEKRLEEYYQTEPLPNDGQKAFFASNLGVEPWHVEVWFHHRRE
+seq0195    VRSRWTPKPEQILILESIFNSGMVNPPKDETVKIRKLLEKFGSVGDANVF
+seq0196    VSTRWNPTPEQLQALEEMYKRGTRTPSAEQIQQIAAKLRRFGKIEGKNVF
+seq0197    VSTRWNPTLEQIQTLEELYRRGTRTPSAEQIQHITAQLRRYGKIEGKNVF
+seq0198    KRARTRITDDQLKILRAHFDINNSPGEEQIMEMAAQSGLLPKVIKHWFRN
+seq0199    TRMRTSFDPELELPKLQRWFMENQHPSRQQIQQYVRELNSLESRRGRKPL
+seq0200    YNELLERAFKNNNKMKYKEVASIAKQTDMSERQIERWLRLRRAQDKP~~~
+seq0201    SRLYSSKQIQKLEEWYQKSSRPEASEIQAMYRIINSAEYADRELQPDGIS
+seq0202    KRPRLVFTDIQKRTLQAIFKETQRPSREMQQTIAEHLQLDLSTVANFFMN
+seq0203    KRARTRITDDQLKILRQYFDINNSPSEQQIKEMSLKAQLPEKVIKHWFRN
+seq0204    TRPRTKISVEALGILQSFIQDVGLYPDEEAIQTLSAQLDLPKYTIIKFFQ
+seq0205    PQSFAPHVEKRLEEYYQKQPFPNDSESAFLASNLGIEPFHLGLWFHHRRE
+seq0206    KSNGRIFNEKQLERMHALFDTSSRPANAVMDQLQDELNEGDGGTITKRQL
+seq0207    VRARSLIDDEQLAILKGYYAINPRPKREEIVMIANYIKFPTRVVQVWFQN
+seq0208    KRMRTSFKHHQLRTMKGYFQVNHNPDAKDLKQLSQKTGLPKRVLQVWFQN
+seq0209    TRMRTSFDPEMELPKLQKWFQENPHPSRQQIQTYVVQLNALESRRGRKPL
+seq0210    ATSRWNPTKEQIGILESLYRQGIRTPTADQIQQITGRLKAYGHIEGKNVF
+seq0211    KQHKFRLTIEQREYLWDIFFQNRKPNKKMKQDIADSLGITLQFVQNWFRN
+seq0212    SGSRWTPTPEQIRILKELYYGCGIRSPNSEQIQRITAMLRQHGKIEGKNV
+seq0213    MSSRWNPTPEQLRTLEDLYRRGTRTPSTDQIQDITAQLRRYGRIEGKNVF
+seq0214    KCSRFKKSKKQIDTLNDFYLRQQQWGQNTIKEIANVTNLPKEKIYKWYWD
+seq0215    EQKRSTFTPDQLEALEQAFNRGHYPTDPFNRDNMSNKVDLSQTRVQD~~~
+seq0216    SNHRRLSRVQSKQLDEFYRVNHAVDSKQKKELADRLNLRISQVDAWFRNR
+seq0217    SYKKTRLGSSNVATLEKVYAMTQYPDDALIESVRQATKLPASKIINWFQE
+seq0218    NSVLENFFKHSTKKPSQTDIYGLAKKCNLTERQVERWFRRRQNQDRP~~~
+seq0219    PQKRIRASGEVLNFLITEFNKNPNPSPDRRKVISDKAAMSEKAVRIWFQN
+seq0220    PYQAQPNAILEKVFMSITKYPDEKRLEGLSKQLDWDVRKIQCWFRHRRNQ
+seq0221    RAKRNTPEQTQILEAAYALDHYPPPGIKMILMWKTGLSYRKVKNWFEHKA
+seq0222    TCPRWTPTTDQIRILKELYYNNGVRSPTAEQIQKISARLRQYGKIEGKNV
+seq0223    PKPRTRFSDLQLAALDMVFTKTPNPSVEVLGELCITLNLELAQ~~~~~~~
+seq0224    ARRREHLTPYHMRYLERKYKHCSKPQECEIHGVAKALHVGEEQIRTWFRN
+seq0225    KRMRSKLSKRQVNKLDAAFMENDFPTTIARHKLAAEIKAPVKRIKSWLKQ
+seq0226    AQPNAILEKVFTAITKHPDEKRLEGLSKQLDWDVRSIQHWFRQRRNQEKP
+seq0227    YKNKKSHEQLSALKGSFCRNQFPGQSEVEHLTKVTGLSTREVRKWFSDRR
+seq0228    VAIFKETKRPSREMQLTISQQLQLDPTTVANFFMNARRRGH~~~~~~~~~
+seq0229    KRYVKKFTVEQKRKMDEVFVASRNPEKGKIAALVAELELTTTQVRQYFRK
+seq0230    RRGRIVYTAHELNVLEDYYEKDPNACADPKKRDMMCKTLSIDYHRLKVWF
+seq0231    KRARTRITDDQLKVLRQYFNINNSPSEAQIKEMSQKSGLPEKVIKHWFRN
+seq0232    ARSRLMFDPLTELPVLEKWFEENPHPTWMQIDQYTQFLNQCAYRENYPHI
+seq0233    NPKFRNSDEILETLKMHFDQNPYPDDVQIDYIGILVGASSEFVSNWFENQ
+seq0234    ANARWNPTKEQVAVLEGLYEHGLRTPSAEQIQQITGRLREHGAIEGKNVF
+seq0235    GSTRWCPTPEQLMVLEETYRGGLRTPNASQIQQITAHLACYGRIEGKNVF
+seq0236    IRSPTTDQTQRISARLRQYGKIEGKNVFYWFQNHK~~~~~~~~~~~~~~~
+seq0237    SPYKDHKSVLKAYFAMNMEPNSEELLKISIAVGLPQEFVKEWFEQRKVF~
+seq0238    VRVRTAISEEQQNELKKYYSLNNKPNREEFQLIAKRVGMEARVVQVWFQN
+seq0239    VRSRWSPKPEQILILESIFHSGMVNPPKEETVRIRKMLEKFGAVGDANVF
+seq0240    YNVSMDSNGFLKNSFNKFPYPTKAELCYLTVVTKYPEEQIKIWFTAQRLK
+seq0241    PQSRIPFEARQILEDEFAANPYPHNWEMDIIAHQANLDVKKVRNWFNNTR
+seq0242    RLRKKTREQLEMLRQSFLCCQWPTSDDYEILQKKTGLTRTEIIQWYGDTR
+seq0243    CKSKQEQLHLLKSTFARTQWPSPQDYDQLASQTGLVRTEIVKWFKDNRCV
+seq0244    KRARTRITDEQLKILRAHFDINNSPSEESIMEMSQKSNLPMKVVKHWFRN
+seq0245    KKPRLVFTDLQRRTLQAIFKETKRPSKEMQVTIARQLGLEPTTVGNFFMN
+seq0246    GTTRWNPSPDQIRVLEMLYRGGMRTPNSFQIEQITEELGKYGRIEGKNVF
+seq0247    TRMRTSFDPEMELPKLQKWFQENPHPSRQQIQTYVVQLNTLESRRGRKPL
+seq0248    VRVRTAINEEQQQQLKQHYALNARPSRDEFRMIAARLQLDPRVVQVWFQN
+seq0249    KRLRTTILPDQLNFLYECYQTESNPSRKMLEEISKKVNLKKRVVQVWFQN
+seq0250    TRMRTSFDPEMELPKLQKWFQENPHSSRQQIQNYVVQLNALESRRGRKPL
+seq0251    ELPKFQKWFQKNPHPSRQQIQTYVVQLNALQSRRGRKPLDVNNVVYWFKN
+seq0252    RSSRPKKAANVPILEAAYAKSSRLDNKRLAPLSKQTELTERQIERWWRLR
+seq0253    TRMRTSFDPEMELPKLQKWFQENPHPSRQQIQNYVVQFNALDSRRGRKSL
+seq0254    KRLRTTILPEQLNFLYECYQTESNPSRKMLEEISKKVNLKKRVVQVWFQN
+seq0255    RKRNRTFIDPVTEVPKLEQWFAMNTHPSHNLILKYSEDLNTMPYRQKFPR
+seq0256    IRSPSPEQIQRISACLRQYGKIEGKNVFYWFQNHK~~~~~~~~~~~~~~~
+seq0257    ARQRWQPTPMQLQILENIFDQGNGTPSKQRIKEITAELSHHGQISETNVY
+seq0258    ARQRWTPTPMQLQILENIFDQGNGTPSKQKIKDITAELSQHGQISETNVY
+seq0259    QGKKRRLSSEQVQFLEKSFEVENKLEPDRKVQLAKELGCNQ~~~~~~~~~
+seq0260    MRTSFKHSQLRAMKAYFTVNHNPDSKDLKQLSARTGLSKRVLQVWFQNAR
+seq0261    GTRWNPTQEQIGILEMLYRGGMRTPNAQQIEQITAQLGKYGKIEGKNVFY
+seq0262    SSTRWTPTTDQIRILKDLYYNNGIRSPSAEQIQRISARLRQYGKIEGKNV
+seq0263    RFLPSEVAEMEARLLQLNNGIPTRAVLQTLADKFSASPERAGKVAIQPKQ
+seq0264    FRFSSKEVQEMEKVLEDTKGAIPNRDMIRSLAEKFSASPERDGKILVQIK
+seq0265    RHPHCPFNQNALPILVDFFERNAFPSPSQKSRLASRTGMNYRQIAVWFQN
+seq0266    SRQRWTPKPAQLEILEQIFKQCNATPGRQKIKDITKELAQHGQISETNVY
+seq0267    GNSRWNPTKEQISMLESFYSQGIRTPSTEMIEQITSRLKAYGHIEGKNVF
+seq0268    KCGRWNPTTEQVKLLTDLFRSGLRTPSTDEIQNISTQLSFYGKIESKNVF
+seq0269    SRQRWAPKAEQLEILESIFTQSKATPGRQRIKEIATQLSLHGPISETNVY
+seq0270    AQKRLKKVHVETLERVYKRTKRPTNAMISSIVQVTNLPRKKVVKWFEDKR
+seq0271    ARQRWTPTPVQLQVLERIFDQGNGTPSKQKIKEITSELSQHGQISETNVY
+seq0272    GSSRWNPTPEQLLALEEMYRRGTKTPTAEQIQQIASQLRRFGKIEGKNVF
+seq0273    KRPLFRIPPSAVEKLRQVFAENELPSRTIKENLSKELGLEPGKVSKWFKN
+seq0274    VSSRWNPTPEQLRALEELYRRGTRTPTTEQIEHITKQLRRYGKIEGKNVF
+seq0275    TGSRWNPTKEQIDLLESLYRQGIRTPSAEQIQQITGRLRAFGHIEGKNVF
+seq0276    KVQLKELEKEYAANKFITKDKRRKISTATSLSERQITI~~~~~~~~~~~~
+seq0277    NKTRLGATNVATLEKVYAAERYPDDGMVDSVHRATKLPRSKIVAWFKTKR
+seq0278    SEEWEPTAAQLERLNELFKAGVQNPSERAIARIANQISTFGKCTDDNVER
+seq0279    GTARWNSTPEQLMILEDIYRGGIQNLTAVQIQQITAHLSLYGKIEGKNVF
+seq0280    TPMQLQILENIFEQGNGTPSKQKIKEITAELAQHGQISETNVYNWF~~~~
+seq0281    WNPKPEQILILESIFNSGMVNPPKDETVRIRKLLEKFGSVGDANVFYWFQ
+seq0282    TPMQLQILESLFIQGSGTPTKQKIKEITSELTQHGPITESNVYNWF~~~~
+seq0283    GTTRWNPTKEQIEVLEGLYRQGIRTPTAEQIQQITRRLRVYGHIEGKNVF
+seq0284    GTTRWNPTPEQLRTLEEMYRRGTRTPTADQIQYITGQLRRYGKIEGKNVF
+seq0285    ATTRWNPTAEQLMILEELYRGGMRTPSAEQIQQITAHLSLYGKIEGKNVF
+seq0286    SGARWNPTPEQLSILKELYHGRGIRSPSAEQIHHISWKLSSYGKIEGKNV
+seq0287    ATTRWNPTPEQLVILEEMYRGGIRTPNADQIQQITAHLALYGKIEGKNVF
+seq0288    SSTRWIPTAEQIRILRELYYNNGVRSPSAEQIQKISARLRQYGKIEGKNV
+seq0289    FERTVFTEEQVHLLTEHYENGMNCQAKSCLDKMLAVAKELNLEFDVVRNW
+seq0290    SRPRMRFTQDEVEVLEGEFQRTPWPDGYVPYERRTELAVQLGVTKSRIDA
+seq0291    ERKGKSEYQLDLLKINFQQNPYPSEFDVDKLREETKMTAREIGRWFNDCR
+seq0292    AEPNAILEKVFTSITKNPDEKRLQGLAKQLDWSERQVQRWFRRRRNQDRP
+seq0293    KCGRWNPTSEQVKVLTELFRSGLRTPSTDQIQKISSQLSFYGKIESKNVF
+seq0294    GTRWNPTQEQIGILEMLYGNGMRTPNANQIEQITAQLAKYGKIEGKNVFY
+seq0295    VSSRWNPTPEQLQTLEELYRRGTRTPSAEQIQQITAQLRRYGKIEGKNVF
+seq0296    SSTRWTPTTEQIRILKELYYNNGVRSPTAEQIQRISAKLRQYGKIEGKNV
+seq0297    SSGRWSPTQEQVMVLHALYRSGLTKPNPSQVERITSQLSLYGRVQSKNVL
+seq0298    KCGRWNPTTEQVKVLTDLFRSGLRTPSTDQIQKISTQLSFYGKIESKNVF
+seq0299    GTRWNPTQEQIGILEMLYRGGMRTPNAQQIEQITAQLSKYGKIEGKNVFY
+seq0300    SGSRWTPTPEQIRMLKELYYGCGIRSPSSEQIQRITAMLRQHGKIEGKNV
+seq0301    TSTRWTPTTEQIKILKELYYNNAIRSPTADQIQKITARLRQFGKIEGKNV
+seq0302    VSSRWNPTPEQLRTLEELYRRGTRTPSAEQIQHITAQLRRYGKIEGKNVF
+seq0303    GSSRWNPTPEQLQALEELYRRGTRTPTAEQIQQIAAQLRLFGKIEGKNVF
+seq0304    RAQPNAVLEKVFTSITKSPDSRHSEGLSKQLDWDVRKVQRWFRHRRNQDK
+seq0305    PKRRTMKFTEVQKKALNAIFEVTEKPPRETMQMISEHLQLEFKTVLNYFN
+seq0306    TRMRTSFDPEMELPKLQRWFQENPHPSRQQIQSYVVQLNSLDSRRGRKPL
+seq0307    TRMRTSFDPEMELPKLQKWFADNPHPSRQQIQTYVVQLNALESRRGRKPL
+seq0308    KRKRTSIAAMEKRALEAYFAIEPRPSSEKIAIIAEKLDLQKNVVR~~~~~
+seq0309    PYQAQPNAILEKVFISITKYPDKKRLEGLSKQLDWNVRKIQCWFRHRRNQ
+seq0310    GTRWNPTQEQIGILEMLYKGGMRTPNAQQIEHITLQLGKYGKIEGKNVFY
+seq0311    GKYVHYTPGQVEALERVYAECPKPRFSRRQQLLCELSILANIEPKQKIKV
+seq0312    KCGRWNPTIEQGKLLTDLFRSGVRTPSTDEIQNISTRLSFYGKIESKNVF
+seq0313    TSTRWTPTTDQIRILKELYYIKGVRSPNGAEIQQISARLRKYGKIEGKNV
+seq0314    GTRWNPTQEQIGILEMLYRGGMRTPNAQQIEQITAQLSRYGKIEGKNVFY
+seq0315    ASSRWCPTPEQLMILEELYRNGIRTPNASQIQRITAHLSLYGKIEGKNVF
+seq0316    VKTRLGANNVATLEKVYASDTHPSDDMVESVRRATKLPRSKIVAWFKTRR
+seq0317    PAAPVLEKVYKKEHKPTQTQIKELSEALNLSDRCIESWFRKRRNQEKF~~
+seq0318    ASTRWTPTPEQLMLLEDMYTNGIRNPTGEQIQQFTAHLSLYGKIEGRNLF
+seq0319    WSPKPEQITILEMFYKGGMRTPNAEQIEHITAQLRHYGKIEGKNVFYWFQ
+seq0320    SGTRWNPTPEQLSILSELYYRNGIRSPSADQIQRISWKLSRYGKIEGKNV
+seq0321    WSPKPEQILILESIFNSGMVNPPKDETVRIRKLLEKFGSVGDANVFYWFQ
+seq0322    PKPRWNPKPXQIRILEAIFNSGMVNPPRDEIRRIRTQLQEFGQVGDANVF
+seq0323    WNPTPEQLMILEEVYRSGVRTPNATQIQQITAHLSYYGKIEGKNVFYWFQ
+seq0324    LNPTKEQLRILENVYNGGNKSPRTEQIQHITAELRRHGNVAGINVFYWFQ
+seq0325    QRGTPSQVQLQILEKIFDQDKGTPSKQKIKEITAELSQHGHISETNVYNW
+seq0326    SGSRWNPTAEQVTLLKELYRSGMRTPTAEQIQQISSQLKRYGKIEGKNVF
+seq0327    QLMILEDMYRAGIRTPKASQIQQITAHLSFYGKIEGKNVFY~~~~~~~~~
+seq0328    QERQAFSNKQLETLKRYYENGMNSQRLANREKMLACATETGLEFDTVRNW
+seq0329    RRRLIINPVSELPRLQTWFNVNPKPSRSEMKKMAEELNASEWRRNQPFEL
+seq0330    ANARWNPTKEQVAVLEGLYEHGLRNPSAEQIQQITGRLREHGAIEGKNVF
+seq0331    GSRWTPTPEQIRILKEFYYGCGIRSPNSEQIQRITAMLRQHGKIEGKNVF
+seq0332    GTRWNPTQEQIGILEMLYKGGMRTPNAQQIEHITSQLGKYGKIEGKNVFY
+seq0333    SSTRWTPTTDQIRILKDLYYNNGIRSPNADQIQRISASLRQYGKIEGKNV
+seq0334    KRLRTSFKHHQLRMLKSYFATNHNPDAKDLKQEIAEDHPL~~~~~~~~~~
+seq0335    VQQRWEPNSYQLQILEEFYAKATPPSPENIANIAELVGQVDHSKVYYWFS
+seq0336    TRIRTSFDPEMELPKLHKWYLENPHPSRHQIFEYVTVLNSLESRKGRKQL
+seq0337    VKDKLRPKAQPISILETFYTVNCKNPKEGELISLAKQCDLPVRKVERWFR
+seq0338    TRVIRLTVDQEAVLQEQFNRWPRAPHTADVVLLAAETGLSEADVEGWYAI
+seq0339    MSITAQQNAFFEAYFAMKPAPCIKDIVALRALTGIRVNDISIWFRRRQLL
+seq0340    GTRWNPTQEQIGILEMLYSRGMRTPNAQQIEHITAQLGNYGKIEGKNVFY
+seq0341    KRPRTRITDDQLKILRANFDINNSPNEEQIQEMSEKSGLPQKL~~~~~~~
+seq0342    NEKPKMSADQESALDMHFNRNKTMHASDVAILSAETGLSEEQVQQWFLFR
+seq0343    QSKTFNVKQLSTLIECYERNPSPNSTRMDELVHILNHDDHSDGQNGNTIT
+seq0344    VRDKRRPKAQPSATLEGFYKLLGRTPKEGDLISVAKQSGLPVRTVQTWFR
+seq0345    VKEKTRLRASPNPTLEHFYLTSGKQPKQVEVELLSRQSGLSARQVERWFR
+seq0346    KCGRWNPTTEQVKVLTDLFRSGLRTPSTDQIQKISSQLSFYGKIESKNVF
+seq0347    QRKRPEPNEVMETMYKICKRPSAEDTTALSKRLDWSNKKILTWFRLRRNL
+seq0348    PQKAQHNAILEKVFTSITKHPDEKRLDGLSKQLDWDVRSIQRWFRQRRNQ
+seq0349    KRKRTSIENRVRGSLENLFLQCPKPTLQQISHIAQQLGLEKDVVHSQVVR
+seq0350    ETATGPTEDQVEILEYNFNKVDKHPDSTTLCLIAAEAGLSEEETQKWFKQ
+seq0351    SRGRIIYTSHELEILEKYYNEDPNASADPKKREGMCKALPRHDSIRLKNW
+seq0352    INPYKDHMSVLKAYFAMNMEPTSDELLKISIAVGLPQEFVKEWFEQRKVY
+seq0353    KRARTSFTAEQLQQVMQAQFAQDNNPDAQTLQKLADMTGSAEGS~~~~~~
+seq0354    VKEKTRLRAPPNVTLEHFYLTNGKQPKQVEVELLSRQSGLSGRQIERWFR
+seq0355    RAQPNAVLEKVFASITKNPDSRRLDGLSKQLDWEVRKVQRWFRQRRNQDK
+seq0356    VKDRIRIQADSVPKLETFYKQTSRQPLQKEAVSLGKQCGISQRNIQTWFR
+seq0357    VPDIPVLKRVFEKNHKPTYAQIKELSKTLNLSDRSIEAWFRKRRNCEKS~
+seq0358    KCGRWNPTTEQVKHLTQLFRAGLRTPSTDQIQKISNQLSFYGKIESKNVF
+seq0359    QKAQPNAILEKVFNAITKHPDEKRLEGLSKQLDWDVRTIQRWYRQRRNQE
+seq0360    LNPYRDHMSVLKAYFAMNMEPNSEELLKISIAVGLPQEFVKEWFDQRKMY
+seq0361    MERCVSVALRSFFMENQYPDEAKREEIANACNCVIQKPGCKLSEFERVTA
+seq0362    PQKAQSNAILEKVFTAITKHPDEKRLEGLSKQLDWDVRTIQRWFRQRRNQ
+seq0363    RAQPNAVLEKVFTSITKNPNSRHLDGLSKQLDWEVRKVQRWFRHRRNQDK
+seq0364    PKRSTHLPSYVLTVLKQIYSSHHGRIPTDLAERVADAYKVDKRRVINYFK
+seq0365    DSLLTAEQLQLLEENFKRVSKQPEQATLILIAAECGLSEEETVKWFKQRY
+seq0366    INPYKDHMSVLKAYYAMNMEPNSEELLKISIAVGLPQEFVKDWFEQRKIY
+seq0367    RAQPNTVLEKVFTSITKNPDSRHLDGLSKQLDWEVRKVQRWFRHRRNQDK
+seq0368    GRIFNVKQLATIIEEYEKNPRPTVARLEELQKVLNQGDHTDEHSVNALGV
+seq0369    RRPRVKFSLAQLVKLEKYFHKEDTPSKKKLDKIAARLNGIASLDPSSDVA
+seq0370    QLQILDDLFARRNCFPNKQEVKHIAAELSQYGQISEANVY~~~~~~~~~~
+seq0371    TSTRWTPTTEQIRILKDLYYNSGVRSPTADQIQKISARLRQYGKIEGKNV
+seq0372    NLRSVFTVEQQRILQRYYENGMTNQSKNCFQLILQCAQETKLDFSVVRTW
+seq0373    VKEKVRLKATPNPILEKHYISSCKHPKQADIEALSKKSGCSARQVERWFR
+seq0374    HAQKRLKKAHVDTLERVYRRSKRPTNAMISSIVHVTNIPRKKVVKWFEDK
+seq0375    KCGRWNPTTEQVKVLTDLFSSGLRTPSTDQIQKISNQLSFYGKIESKNVF
+seq0376    SMNLSQDQIAILEENFNKVSKHPDGTTLMLIAAECGLSEEETQKWFKLRN
+seq0377    SSTRWTPTSDQIRILKELYYNNGIRSPTADQIQRIAAQLRQYGKIEGKNV
+seq0378    KGLRTPTAEQIQQITARLREHGHIEGKNVFYWFQNHKARQRQ~~~~~~~~
+seq0379    GTTRWNPSPEQIKVLEMLYRGGMRTPNSVQIERITEELGKYGRIEGKNVF
+seq0380    PKRFANHVERRLEEYYQHEPLPNDAQSAMLASNLGIELWHLEVWFHHRRE
+seq0381    RPKTVQPISALENSYRIKKFPSEDTVKGLEKQTDMTEREIQRWFRMRRNQ
+seq0382    SARRRLKKVQLETLERVYLRSKRPTNTMISSIVQVTNLPRKTIVKWFEDR
+seq0383    KCGRWNPTVEQVKVLTDLFRSGLRTPTTDQIQKISSQLSFYGNIESKNVF
+seq0384    VRSRWNPKPEQIVILESIFNSGMVNPRKDETVRIRKMLEQFGAVGDANVF
+seq0385    GQYHKHSMEQIQRLDAFFKKCPHPDEDQQKQLGSEAGLHHKQS~~~~~~~
+seq0386    QPRGPTAEQLEILEHNFSRVNKHPDPTTLCLVAAEAGLSEEETLKWFQQR
+seq0387    HRAQPNAILEKVFTSITKCPDGRRLEGLSKQLDWDVRKIQHWFRHRRNQD
+seq0388    SSTRWTPTNDQIRILKDLYYNNGIRSPSAEQIQRISARLRQYGKIEGKNV
+seq0389    SSTRWTPTTEQIKLLKELYYNNGVRSPTADQIQAICSRLRRYGKIEGKNV
+seq0390    FKKTRLGASNVATLEKIWETGNHYPDDATIQGIRDATKLPASKIVNWFKE
+seq0391    LRTRWTPKPEQILILESIFNSGMVNPPKDETVRIRKLLEQFGSVGDANVF
+seq0392    LAQKRLKKVHIETLERVYLRTKRPTNAMISSIVHVTNLPWKRVLKWFEEK
+seq0393    MRKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQIKIWF
+seq0394    RRYRTAFSREQIGRLEREFAKENYVSRKTRGELAAELNLPEGTIKVWFQN
+seq0395    KRTRQTYSRNQTLELEKEFHYNKYLTRKRRQEISESLQLTERQVR~~~~~
+seq0396    RRIRTTFTSGQLKELERSFMESHYPDIYTREDIAMRIDLTEARVQKLRLK
+seq0397    ARSRLMFDPLTELPILEKWFEENPHPTWMQIDQYTQMLNGCPYRENYPHI
+seq0398    VSRRWCPTAEQVMILDELYRRGLKTPNSAQIQRIAGHLSFYGKVQGKNVF
+seq0399    SDKKRRLSLHQVKALEKNFEVENKLEPERKVKLAGELGLQPRQVAVWFQN
+seq0400    ARKKLRLSKEQAAVLEETFKEHNTLNPKQKMALAKQLNLRARQVEVWFQN
+seq0401    ARSRWTPKPEQIEILESLFNGGTVNPHRDETVRIRKMLQKFGPVGDANVF
+seq0402    PKKKRLSNEQLELLENSFQEDIKLEPEKKMKLSKELGLQPRQIAVWFQNR
+seq0403    RKRHHRHSAHQIQRMEELFTDSPHLDKKQRRELSEELGMEELQIKFWFQN
+seq0404    KKKKKRLTNEQLASLELSFQEDIKLDSDRKLKLSNELGLHPRQVAVWFQN
+seq0405    IKKKRLSSGQLASLERSFQEEIKLDSDRKVKLSRELGLQPRQIAVWFQNR
+seq0406    KRARTAYTSAQLVELEKEFHFNQYLCRPRRIEVAALLNLSERQIK~~~~~
+seq0407    KKGRQTYQRYQTSVLESKFQQSSYVSKKQREELRLQTNLSDRQIKIWFQN
+seq0408    RRKRTNLDLAQRSALDAYFDMNPRPDHDRMAEIAELVGLDRDVVRVWFCN
+seq0409    KAQRTVITDQQKEALKHVFERDQHPNQRTIEQLSQTLSLSTRTVSNWFHN
+seq0410    RRERTTFNRQQLEILENLFATTHYPDVFTREKIAEQIQLQESRIQNRRAK
+seq0411    KRQRTAYTRHQILELEKEFHYNRYLTRRRRIEIAHCLVLSERQIKIWFQN
+seq0412    RRRRTAFTHAQLAYLERKFRYQKYLSVADRSDVADALSLSETQVKTWYQN
+seq0413    KKPRTSFTRKQIASLESKFLAQKYLANTERVNLANQLEMSNMQVKTWFQN
+seq0414    QTGRTSYSTPQVVELEKEFRTNRYLNKQRRNELAALLALTDRQIKIWFQN
+seq0415    KKGRQTYQRYQTSVLENKFQQSSYVSKKQREELRLQTNLSDRQIKIWFQN
+seq0416    PRKRHRTTPAQLLVLEQIFTHTTTTPNAALRAALASRIDMPPRAVQVWFQ
+seq0417    EKKRRLSIDQVKALEKNFEVENKLEPERKVKLAQELGLQPRQVAVWFQNR
+seq0418    EKKRRLNMEQVKTLEKNFELGNKLEPERKMQLARALNLQPRQIAIWFQNR
+seq0419    GTRWNPTQEQIGILEMLYRGGMRTPNGQQIEDITAQLSRYGKIEGKNVFY
+seq0420    RRLRTAYTNTQLLKLEKEFHFNKYLCRP~~~~~~~~~~~~~~~~~~~~~~
+seq0421    EKKRRLNMEQVKTLEKNFELGNKLEPERKMQLARALGLQPRQIAIWFQNR
+seq0422    ALEFEKEFHYNKYLTRKRRLEIAHALNLSERQIKIWFQN~~~~~~~~~~~
+seq0423    KRARTAYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLSERQIKIWFQN
+seq0424    KRARTAYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLSXRQIKIWFQN
+seq0425    KRTRLVFTDLQRRTLMAIFRENHRPTKDLQITISQQLGLELSTVSNFFMN
+seq0426    IRAKKTKEQLAELKVSYLKNQFPHDSEXIXLMKITGLTKGEIKKWFSDTR
+seq0427    KRGRQTYSRYQTLELEIEFHFNRYLSRRRRIEIAHALCLTERQIKIWFQN
+seq0428    KKCCPYSNFQIRELERELFFNVYINKEKRLQLSRMLNLTDCQVKIWFHNG
+seq0429    KKRCPYSKFQIRELEREFFFNVYINKEKGLQLSRILNLTDRHVKIWFQKR
+seq0430    KKPRDLLNPKAVKSMQSLFAMKDTIGKKETREISASFGVTVTQVREFFAS
+seq0431    FRFTQEEVAEMESLLRHLNNGIPDGSLIQSLADRFTASAARAGKVGVRSK
+seq0432    PLQRYLCRPRRVEMANLLNLSERQIKIWFQTA~~~~~~~~~~~~~~~~~~
+seq0433    EFHFNRYLTRRRRIEIANNLCLNERQIKIWSK~~~~~~~~~~~~~~~~~~
+seq0434    RKKRVPYTKHQTLELEKEFLFNMYLTRERRLEISRSVHLTDRQVKIWSK~
+seq0435    RKKRVPYTKVQLKELEKEYAANKFITKDKRRKISAVTNLSERQITIWFQN
+seq0436    RKKRVPYTKVQLKELEKEYAANKFITKDKRRKISAVTNLSERQITIWSK~
+seq0437    RKKRVPYTKVQLKELEKEYAANKFITKDKRRKISAVTNLSERQITIWFQY
+seq0438    KRQRTSYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLSERQIKIWFQN
+seq0439    KRGRQTYTRYQTLELEKEFHYNQYLTRRRRIEIATGLGLTERQI~~~~~~
+seq0440    RKKRYHRHTAHQIQRLEGMFKECPHPDEKQRLQLSRELALAPRQIKFWFQ
+seq0441    RRGRTVFSAQQLQVLERVFAGSQYIVGSQRKFLASQLRLSETQVRVWFQN
+seq0442    RRKRTAFTSFQLKCLEDKFKFSKYLTIAERDMMARSLQLTNRQIKTWFQN
+seq0443    KKIRRQFTETQKRTLFAIFKETKKPTKDMQKAVAEELGLDLNSVANFFMN
+seq0444    RKPRTCFTNRQIIELERRFMYQKYLSPSDRDDIAMALGLPGAQIITWFQN
+seq0445    PRKRPVFHPDVVARLEQFFAKRRYINAEQQYELAKEINMTEEQIKSWLHN
+seq0446    GHRLPKQNVKLLERWYIQNVENPYLDDKSISELMKITSLSKVQIKNWVSN
+seq0447    KRARTAYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQIKIWFQN
+seq0448    KRSRTSYTRYQTLELEKEFHFNRYLSRRRRIEIAHTLCLNERQIKIWFQN
+seq0449    RRYRTAFTREQIARLEKEFYRENYVSRPRRCELAATLNLPETTIKVWFQN
+seq0450    QKTRTVFSSTQLCVLNDRFQRQKYLSLQQMQELSNILNLSYKQVKTWFQN
+seq0451    NAAMDSNSFLKNSFHKFPYPTKAELCYLTVVTKYPEEQLKIWFTAQRLKQ
+seq0452    AIRTNFTTHQLTELEKEYYTSKYLNRTRRAEIASILQLNETQII~~~~~~
+seq0453    ENXTIFTDKQLQELEATFDKQKYLSVQDRMDLAQRMGLSDTQVKTWYQNR
+seq0454    KRTRTLTTPHQAAVLHALLAQSRFPTTAMREEVGRSIGLSARKVQIWFQN
+seq0455    KRKRTSIAAPEKRLLEDYFRQQPRPSGERISAIANKLDLKKNVVRVWFCN
+seq0456    ETHRPHSVRATAILERAFAHAPNITQAEKYKLAQATGLQPRQVTIWVQHA
+seq0457    KKGRQTYQRFQTSVLEAKFQQSSYVSKKQREELRLQTQLTDRQIKIWFQN
+seq0458    KKTRLVFTDIQRRTLQAIFKETKRPSREMQITISQQLQLDPTTVANFFMN
+seq0459    TPKGYTTEQHRLLLEIYKEKQLPKCTDYTAISKAMGMTKERVRYWFKNKR
+seq0460    FQRTVITDYQKDVLRFVFVNELHPTNEMIEQIATKLEMSLRTVQNWFHNH
+seq0461    QRYTRRISEEKKSKLKQVFAINRNPDKATVSSLASELQMPRDHVIRYFSN
+seq0462    KRVRTTFADDQLSVLQTYFNRDSNPDGADLEKIANMTGLSKRVTQVWFQN
+seq0463    KKTRTKFTEYQEKALEAVFQLCQCPTTVTKRSLAKKLNLPFVVIQNYFLN
+seq0464    KKPRTEFHPVQRSALQTIFEENPKPSADVMAHIARNLKLDIGAVENFFQN
+seq0465    KKPRTVFFPVQKSALQSIFEENPKPSADVMAHIAQTLELDNDSVVNFFQN
+seq0466    KKTRTKFTKYQEKALEEVFKLCQCPTTLTKRSLAKDLNLPFVVIQNYFLN
+seq0467    KTNVKFKTEHVKILEEVFSVNRYLSAERVNQLAKDFYCEPTKLRNWFSHR
+seq0468    GSTRWCPTPEQLMILEDMYRGGLRTPNASQIQQITAHLACYGRIEGKNVF
+seq0469    KCGRWNPTPEQVKVLTELFHAGLRTPSADQIQRISAHLGAFGKVESKNVF
+seq0470    PKPRWNPRPEQIRILEAIFNSGMVNPPRDEIPRIRMRLQEYGQVGDANVF
+seq0471    PRPRWNPRPEQIRILEGIFNSGMVNPPRDEIRRIRLQLQEYGPVGDANVF
+seq0472    QMKVLTELFRAGLRTPSTEQIQRISTHLGAFGKVESKNVFY~~~~~~~~~
+seq0473    TEKKRRLSGDQVKALEKNFEVENKLEPERKVKLAQELGLQPRQVAVWFQN
+seq0474    LKRRMKTPVQLEALERVFAEDRYPAEAVRAELSTQLNLSDKQLQMWFCHR
+seq0475    EKKRRLTLDQVRSLERNFEVENKLEPDRKMQLAKELGMRPRQVAVWFQNR
+seq0476    NTGRTAFNTKQLTELEKEXHYNKYLTRARRIEIASALSLNETQVKIWFQN
+seq0477    SEKKRRLKVDQVKALEKNFELENKLEPERKTKLAQELGLQPRQVAVWFQN
+seq0478    EKKKKKMTSEQLKFLERSFQEEIKLNPDRKMKLNPDRKMKLSKELGLQPR
+seq0479    IKKKRLTSGQLASLERSFQEEIKLDSDRKVKLSRELGLQPRQIAVWFQNR
+seq0480    KRKRSRVTQEQLVHLEQYFKADRCPTATRRREISEQLGMQERQTQIWFQN
+seq0481    KRTRTLTTPHQSAVLHALLAQSRFPTTAMREEVGRSIGLSARKVQNQRQK
+seq0482    RRERTTFSRSQLDVLETLFHKTRYPDIFMR~~~~~~~~~~~~~~~~~~~~
+seq0483    KRNRTFIDPVTEVPKLEHWFSMNTHPSHNLILKYTEDLNRMAYRQKFPRL
+seq0484    RRERTTFTRAQLDVLEALFGKTRYPDIFMREEVALKINLPESRVQK~~~~
+seq0485    RKRRILFNKTQTYELERRFKQTRYLSAPEREHLASMINLSPTQVKIWFQN
+seq0486    EKKRTSIAAPEKRSLEAYFAVQPRPSGEKIAAIAEKLDLKKNVVRVWFCN
+seq0487    RKERTAFTKSQVKSLEAEFAHSNYLTRLRRYEIAVALSLSERQVKVWFQN
+seq0488    GTRKLTPFQIHQLELSYNTSHYPARPTVKQLASLLDLPESTIESWFAEHR
+seq0489    KRGRQTYTRYQTLELEKEFHFNRYLTRRRRIDIAHALCLTERQIKIWFQN
+seq0490    KYKERAPEQVRALEKSFFQSSFPTVDEVNRLRSETKMTRREIDSWFAEKR
+seq0491    SSTRWTPTTDQIRILKDLYYNNGLRSPSAEQIQRISARLRQYGKIEGKNV
+seq0492    KRSRTAYTRQQVLELEKEFHYNRYLTRRRRVEIAHTLCLSERQIKIWFQN
+seq0493    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELAKKCGITVSQVSNW
+seq0494    SKTYHRHTPHQTQRLEANFRTPDENQRRQLSRELGLDPKQIKFWFQNKRT
+seq0495    RRSRTKFTSKQVDELEKAFLKTQYPDVYTREELAQRLNLTEARVQVWFSN
+seq0496    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEAKEELAKKCSITVSQGVGT
+seq0497    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEAKEELARKCNISVAQISNW
+seq0498    RRHRTIFTEEQLELLETTFQKTHYPDVLLREELAMKVDLKEERVEVWFKN
+seq0499    RGPRTTIKAKQLDTLKAAFASTPKPTRHIREQLAQETGLNMRVIQVWFQN
+seq0500    RRYRTTFNSLQLQELERAFQRTHYPDVFFREELAVRIELTEARVQVWFQN
+seq0501    KKQRVLFSEEQKEALRLAFALDPYPNVQTIEFLATELGLSTRTITNWFHN
+seq0502    RRLRTAYTNTQLLELEKEFHFNKYLCRPRRVEIAALLNLTERQVKVWFQN
+seq0503    VRVRTAINEEQQQQLKQHYAHNARPSRDEFRLIAARLQLDPRVVQVWFQN
+seq0504    KRTRTSYSRYQTLELEKEFHFNRYLSRRRRIEIAHSLALTERQIKIWFQN
+seq0505    KRLRTTILPEQLDYLYQKYQMESNPSRKMLENIARDVGLKKRVVQVWFQN
+seq0506    LSRPRLTKEQVDTLEAQFQTHPKPNSNVKRQLATQTNLTLPRVANWFQNR
+seq0507    RAGRTRFTDYQIKVLQEFFEQNAYPKDDDLEHLSKILNLSPRVIVVWFQN
+seq0508    KKPRTSFSRLQIIELEKRFHRQKYLASAERSALAKGLKMTDAQVKTWFQN
+seq0509    PKKFSPHVERRLEEYYQTEPLPNDGQKAFFASNLGVEPWHVEVWFHHRRE
+seq0510    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEAKEELAKKCSITVSQSLVK
+seq0511    SDRKKTKEQIAHLKASFLQSQFPDDAEVYRLIEVTGLARSEIKKWFSDHR
+seq0512    ARKKLRLTKEQSALLEESFKQHSTLNPKQKQALAKQLNLTPRQVEVWFQN
+seq0513    TNNYFSQEVRSTLDAAFNLNNRPTPEMVKILREQTGLTAKQIRNYFKNKR
+seq0514    KRSRTSFSGKVRRILLSIFKKFKLMMFHVDPKKYLSISRRMDLSDELNLS
+seq0515    KKTRTVFSRNQVFQLETTFDAKRYLSSAERANLANSLRLTETQVKIWFQN
+seq0516    KRVRTLFTPFQLKEMEKCFSRTHYPDIFAREDLAQRTKLSESKVQVWFQN
+seq0517    KRLRTTITPEQLEILYDKYLLDSNPTRKMLDHIAREVGLKKRVVQVWFQN
+seq0518    TELFFPPQETKRPSKEMQVTIARQLGLEPTTVGNFFMNARRRSM~~~~~~
+seq0519    KKTRTVFSRQQVSQLEMTFDMKRYLSSQERAHLASTLRLTETQVKIWFQN
+seq0520    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEAKEELAKKCAITVSQVSNW
+seq0521    RSXXRNFNKQATEILNEYFYSHLSNPYPSEEAKEELAKKCGITVSQVSNW
+seq0522    KRIRTAFSPSQLLRLERAFEKNHYVERKQLAGSLSLSETQVKVWFQNRRT
+seq0523    RRKRRNFNKQATEVLNEYFYSHLSNPYPSEEAKEELAKKCGITVSQVSNW
+seq0524    RRKRRNFSKQATEVLNEYFYSHLNNPYPSEEAKEELARKGGITVSQVSNW
+seq0525    RKPRQAYSAKQLERLESEFKLDKYLSVSKRLELSKALGLTEVQIKTWFQN
+seq0526    TGTFNPRVAALLEAAWQQSNKLTPAEKECLAAATGLKSRQVSVWFANARQ
+seq0527    QEKKKRLTSEQMESLESSFQEEIKLDPQRKMKLSKELGLQPRQIAIWFQN
+seq0528    RRPRHRFTKGELWVLNQSFEQDPYPDFTTRKQLANQIHCHLYVIENWFQN
+seq0529    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELAKQCGITVSQVSNW
+seq0530    RRKRRNFNKQATEILNEYFYSHLSNPYPSEEAKEELAKKCGITVSQSKMS
+seq0531    QRNRTSFTQEQIEALEKEFERTHYPDVFALERLAAKIDLPEA~~~~~~~~
+seq0532    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELAKQCAITVSQVSNW
+seq0533    KRPRTTISAKSLETLKQAYQTSSKPARHVREQLAAETGLDMRVVQVWFQN
+seq0534    RRHRTIFSEEQLSILETTFSSTHYPDATTREELAVQCSLKEERVEVWFKN
+seq0535    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELAKKCGITISQVSNW
+seq0536    KGGQVRFSTEQTVTLERMFQNQKYLTPVERKQLASTLKLTERQVKTWFQN
+seq0537    RRHRTTFTSAHWEELEKVFQKTHYPDVYVREQLAMRTELTEARVQVWFQN
+seq0538    EKKRRLTLEQVRALEENFEMANKLEPEKKMQLAKALGLQPRQIAVWFQNR
+seq0539    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEAKEELARKCGITVSQISNW
+seq0540    PEKKRRLSVEQVKFLEKSFDEENKLEPERKIWLAKELGLQPRQVAIWFQN
+seq0541    KSKRRRTTTKEWNILLNEFNKNPNPNKIKRIQLSQQCNMTEKTVQIWFQN
+seq0542    SSTRKQLPKEAKEFLERVFKKQHTLNSKEREAVAKQCGISPIQVRVWFIN
+seq0543    KRKRTIFSRAQLSELEQAFAVTPYPDITLRERLAAHTHLPESKIQVWFQN
+seq0544    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEDLARKGGITVSQVSNW
+seq0545    KKRRVLFSKAQTLELERRFRQQRYLSAPELGQLAHLLSLTPTQVKIWFQN
+seq0546    RRKRRNFSKQASEILNAYFYSHLSNPYPSEEAKEELARKCDITVSQVSNW
+seq0547    RRRRRNFSKEASKILNAYFYSHLHNPYPSEEAKEELARQCEITVSQVSNW
+seq0548    VKHRKRTSKTQLKILEKTFEVNIKPDAVLRNQLSEQLGMTPRSVQVWFQN
+seq0549    RRERTTFTRSQLDVLEALFAKTRYPDIFMREEVALKINLPESRVQTRRAK
+seq0550    KRKRHHRHTPDQIQRLEAFFKECPHPDDRQRNELGRELGLEPLQVKFWFQ
+seq0551    RRKRRRTSPTELNILNQEFMLGSTPNKERRLQIAEKVSMTEKAVQIWFQN
+seq0552    RRKRRNFSKRATEVLNEYFYSHLNNPYPSEEAKERLARKGGITVSQVSNW
+seq0553    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEDLAKRGGISVSQVSNW
+seq0554    RRTRTNFSTWQLEELEKAFGDSHYPDVYMREALALRLDLVESRVQVWFQN
+seq0555    PPQRRNFNKQATEILNEYFYSHLSNPYPSEEAKEELAKKCGITVAQVSNW
+seq0556    RRSRTTFSTEQLDMLEKAFERSQYPDIYTRE~~~~~~~~~~~~~~~~~~~
+seq0557    RRKRRNFSRQATEVLNEFFYSHLSNPYPSEEAKEELAKKCGITVSQVSNR
+seq0558    KRQRTSYTRYQTLELEKEFHFNRYLTRRRRIEIAHSLCFSERQIKIWFQN
+seq0559    AEKKRRLSVEQVKALEKNFEIDNKLEPERKVKLAQELALQPRQVAIWFQN
+seq0560    RGPRTTIKAKQLETLKAAFAATPKPTRHIREQLAQETGLNMRVIQPF~~~
+seq0561    SKTRRFPKKIIEALEESFNIDNYPSDYEKSRLARMYKLSLKQINNWFTNK
+seq0562    AKPRWNPKPEQVRILEAVFNSGMVNPPRDEIRKIRVQLQQYGQVGDANVF
+seq0563    RKPRTIYSSFQLAALQRRFQKTQYLALPERAELAASLGLTQTQVKIWFQN
+seq0564    RRKRRNFSKTATEVLNEYFYSHLSNPYPSEEAKEELARKCGITVSQVNNW
+seq0565    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEAKEELAKKCNITVSQVANW
+seq0566    NNKRSIFSNYQLEKLEERFLKQSFLSREERVEFADVVGLTERQVLIWFQN
+seq0567    KRIRTAFTSRQLLELEREFASNMYLSRLRRIEIATYLNLSEKQVKIWFQN
+seq0568    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARKCSITVSQISNW
+seq0569    NKKRKLKTPAQLTALEKFYNEHKYPTEEMKLELAEELGLTEKQISGWFCH
+seq0570    RKPRVLFSQAQVYELERRFKQQRYLSAPERDHLANVLKLTSTQVKIWFQN
+seq0571    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEAKEELARKCAITVAQVSNW
+seq0572    GPIVNQKLKAYFEKEPYPSRPAKESLGQELGLTFHQITRWFSSTRYYSR~
+seq0573    DKYRVVYNDFQRLELEKEYCTSRYITIRRKSELAQILSLSERQVKIWFQN
+seq0574    RRKRRNFSKQASEILNEYFYSHFSNPYPSEEAK~~~~~~~~~~~~~~~~~
+seq0575    KRNRTAFTSAQLVELEKEFHFNRYLCRPRRVEMAKSLSLTERQIKIWFQN
+seq0576    RKRRTSFTPQALELLNAHFDRNTHPTGNEITTLAHRLGYDREVIRIWFCN
+seq0577    SRKKLRLSKDQSAVLEESFKEHNTLNPKQKLALAKQLGLRPRQVEVWFQN
+seq0578    FHFNRYLTRRRCIEIANALCLTERQVKIWFQNRRM~~~~~~~~~~~~~~~
+seq0579    RRTRTAFTHQQLTALEKVFSKTHYPDVEVREQLATSTNLQEARIQVWFKN
+seq0580    RKSRTVFTDLQLRVLEKTFSEQKYLDTSSRSKLAQTLGLNETQVKTWFQN
+seq0581    RKKRVPYTKVQLKELEREYATNKFITKDKRRRISAQTNLTERQVTIWFQN
+seq0582    LPNETVNELEERFKKQRYVTATEREELAQCLGLTATQVKIWFQNRRYKCK
+seq0583    DKYRVVYTDFQRLELEKEYHTSRYITIRRKTELAQSLQLSERQVKIWFQN
+seq0584    RKPRTIYSSLQLQALNRRFQQTQYLALPERAELAASLGLTQTQVP~~~~~
+seq0585    KGGQIRFTSQQTKNLENRFASSKYLSPEERRHLALQLKLTDRQVKTWFQN
+seq0586    RKPRTIYSSLQLQALNRRFQQTQYLALPERAELAASLGLTQTQVKIWFQN
+seq0587    SEKKRRLTLHQVKALEKNFEVDNKLVPERKLKLAEELCLQPRQVAIWFQN
+seq0588    KRPRTTITAKQLETLKQAYQNSPKPARHVREQLSQETGLDMRVVQVWFQN
+seq0589    QEKKKRLTSDQLDSLENSFQKEIKLDPDRKMKLSKELGLQPRQIAVWFQN
+seq0590    RKKRVPYTKLQLKDLEREYAASKFITKEKRRRIAANTNLSERQVTIWFQN
+seq0591    RKPRVLFSQAQVYELERRFKQQKYLSAPERDHLASVLKLTSTQVKIWFQN
+seq0592    ASGRTNFSTKQLTELEKEFHFHKYLNRARRIEIASSLGLNETQVKIWFQN
+seq0593    ARKKLRLTKEQSALLEESFKLHSTLNPKQKQALASELNLRPRQVEVWFQN
+seq0594    MSRTSYSTPQVVELEKEFRTNRYLNKQRRNELATLLALTDRQIKIWFQNR
+seq0595    EQKTHCFKERTRSTLREWYLKDPYPNPPKKKELAQATGLTQMQVGNWFKN
+seq0596    RRHRTIFTEEQLEQLEATFEKTHYPDVMLREELAIKVDLKEERVEVWFKN
+seq0597    KRPRTILTTQQRRAFKASFEVSSKPCRKVRETLAAETGLTVRVVQVWFQN
+seq0598    PKKRRLTDEQAEMLELSFREDRKLETGRKVYLAAELGLDPKQVAVWFQNR
+seq0599    VVLEKEFHFNRYLCRPRRVEMARLLRLSERQIKI~~~~~~~~~~~~~~~~
+seq0600    RRSRTAFTAMQLDALERTFKDGQYPDVETRESLAICTNLAEARIQVWFKN
+seq0601    KKPRVVLGLEEKETLKKAYQLEPYPSQQTIEQLSFQLNLKTNTVINWFHN
+seq0602    KRPRTAFTPEQIKRLEAEFHRNKYLSVGKRMELSKALKLTETQIKIWFQN
+seq0603    RRNRFKWGPASQHILYQAYERQKNPSKEEREALVEECNRAECLQRGVSPS
+seq0604    TRVRTVLNEKQLHTLRTCYAANCRPDALMKEQLTEMTGLSSRVIRVWFQN
+seq0605    PYQTQPNAILEKVFISITKYPDEKRLEGLSKQLDWDVRKIQCWFRHRRNQ
+seq0606    RNKKFVLSIKQREELEELYASGRQLGEEERIAIGNKMKVPEYCIKNWWTN
+seq0607    MYPDIQLRERLASLTLLPESRIQVWFQNRRAKSRR~~~~~~~~~~~~~~~
+seq0608    RSWNLPREVRQKLQDFASGMSTNPVKAQRETLSSETSLSEEQVYNWFANY
+seq0609    KRARTRITDEQLKILRSHFDINNSPSDEAIAKMAKQSGLATKVIKHWFRN
+seq0610    LRRAVFSAMQRKALEKMFQKQKYISKPDRKKLAAKLGLKDSQVKIWFQNR
+seq0611    GVRTNFTTRQLTELEKEFHFNKYLSRARRVEIAATLELNETQVKIWFQNR
+seq0612    RKKRTSIEVSVKGVLETHFLKCPKPSAQEISSLADSLQLEKEVVRVWFCN
+seq0613    RSSRTRFTDYQLRILQDFFDTNAYPKDDEIEQLSTVLNLPTRVIVVWFQN
+seq0614    RRQRTHFTSQQLQELEGLFARNRYPDMSTREEISAWTNLTEARVRVWFKN
+seq0615    RRHRTTFSQEQLDQLEAAFAKNHYPDIYCREELARTTKLNEARIQVWFQN
+seq0616    IKQRRRFSLEEAQFLEMEYNNNPSPTQDKIQQIASKINSPRKVVTTWFQN
+seq0617    RPKKLRLSKEQSRLLEESFRLNHTLSPKQKEALAIKLKLRPRQVEVWFQN
+seq0618    GQRRSRASGEILELLISEFNKSSNPSSAVRKIIATKTGMTERSVRIWFQN
+seq0619    RKPRTIYTSLQLQELQKRFHKTQYLALPERAELASRLGLTQTQVNLLRFQ
+seq0620    YQRRKLGLTKKQIEYLTSIYATNKKPTAYYRFQIAQKLGVPEDKVKNWFQ
+seq0621    SRKKLRLSKDQSAILEESFKEHNTLNPKQKLALAKQLNLRPRQVEVWFQN
+seq0622    SRKKLRLTKQQSFLLEESFRQNHTLNPKQKEALAMQLKLKARQVEVWFQN
+seq0623    RRNRFKWGPASLQILFNAYERQKNPSKEEREGLVEECNRAECLQRGVSPS
+seq0624    HKNRTTFTPEQSRALEQEFSQSQYADLYTREKLSAEIKLPEDTIKVWFSN
+seq0625    DRKKLRLSKDQAAVLEECFKMHSTLNPKQKTALANRLGLRPRQGEVWFQN
+seq0626    RRYRTAFTREQLARLEKEFYKENYVSRPRRCELASQLNLPESTIKVWFQN
+seq0627    RKKRYHRHTQHQIQEMEAFFKECPHPDDKQRKALSKELGLEPLQVKFWFQ
+seq0628    RRERTTFTRAQLDVLEALFLKTRYPDIFAREEVALKINLPESRVQVWFKN
+seq0629    FQQQRYLSANERDGLAKQLKLTPNQVKI~~~~~~~~~~~~~~~~~~~~~~
+seq0630    RRGRQTYTRFQTLELEKEFHFNHYLTRRRRIEIAHALCLTERQVKIWFQN
+seq0631    KRQRTAYTRQQILELEKEFHFNRYLTRRRRIEIAHSLCLSERQIKIWFQN
+seq0632    EEKRRGLTMEQINILEMKFKEDVELEPERKTLIAKQLGLRPRQVAIWFQN
+seq0633    VRSRWSPKPEQILILESIFNSGIVNPPKDETVRIRKMLEKFGVVGDANVF
+seq0634    RRHRTIFTEEQLDELERTFHKTHYPDVLLREELAIKIDLKEERVEVWFKN
+seq0635    MKRRKATSLGDKEILAREYRLNPRPNKAEFRQIQKGVHMTYKQIRIWFQN
+seq0636    PKPRWNPRPEQIRILEDLFNSGMVNPSRDEIKRIKNRLLPYGNVGDANVF
+seq0637    KRRRRRTTDAEASILEQYFLKTPKPNLLERQELSKELQSSMSPRELQIWF
+seq0638    RRYRTAFSREQVTQLEKEFYRENYVSRPRRCELAAALNLAESTIKVKLIF
+seq0639    KCGRWNPTAEQVKVLTELFRAGLQTPSTEQIQRISTHLSAFGKVESKNVF
+seq0640    KNKKSYEQLSALKDSFCRNQYPGQNEVERLTKITGLSIREVRKWFSDRRY
+seq0641    KKRYHRHTPQQIQELESLFKECPHPDEKQRLELSKRLCLESRQVKFWFQN
+seq0642    SKRRILFNKFQISQLEKRFRKQRYLTAQERQELAHAIGLTPTQVKIWFQN
+seq0643    EPNRTRFTDYQIKMLQDYFEQNAYPKDDELEHLSKMLSLSPRVIVVWFQN
+seq0644    RRIRTTFTSAQLKELERAFAETHYPDIYTREEIAMKTDLTEARVQVWFQN
+seq0645    PRKKLRLSKDQSAFLEDSFKEHSTLNPKQKIALAKQLNLRPRQVEVWFQN
+seq0646    NNKRRFSDEQVKSLEFMFESEARPESRMKHRMADELGLQPRQVAIWFQNK
+seq0647    ESKPRLSKDEVERLEKIFQENPKPSSSVKAQLAEELGLERPRINNWFQNR
+seq0648    KRNRTAFTSAQLVELEKEFHFNRYLCRPRRVEMAKSLNLTERQIKIWFQN
+seq0649    RKSYHRHTSEQVRVMEAVFKESPHPDEKQRQQLSKQLGLSPRQVKFWFQN
+seq0650    RRNRFKWGPASQQILFQAYERQKNPSKEEREGLVEECNRAECLQRGVSPS
+seq0651    RRKRTSFTKEHLELLRMAFSVDPYPGISVRESLSQATGLPESRIQVWFQN
+seq0652    RRHRTAFTREQLSRLEQEYGKESYVSRARRCELAAALNLPETTIKVWFQN
+seq0653    GKSSEQMKMLEECFQRNSLPTQAEIENLVTDTRLSKSEINGWFTERRALR
+seq0654    RRNRFKWGPASQQILFQAYERQKNPSKEERESLVEECNRAECLQRGVSPS
+seq0655    RRQRTHFTSQQLQELEATFQRNRYPDLSIREEIASWTNLTEPRVRVWFKN
+seq0656    RRARTAFTYEQLVALENKFKTSRYLSVCERLNLAIQLHLTETQVKIWFQN
+seq0657    RKRRVLFTKGQTYELERRFRTQRYLSAPEREQLAMQIRLTPTQVKIWFQN
+seq0658    RKARTIFTDKQLQELESTFEKQKYLSVQDRMDLAQRMGLTDTQVKTWYQN
+seq0659    RKRRVLFTQAQVYELERRFKQQRYLSAPEREHLASLIHLTPTQVKIWFQN
+seq0660    KRVRTTFTEEQLQILQANFNIDSNPDGQDLERIASVTGLSKRVTQVWFQN
+seq0661    RKRRVLFTKLQTFELERRFRTQRYLSAPEREQLAMQIRLTPTQVKIWFQN
+seq0662    RKPRQAYSAKQLERLEAEFKIDKYLSVSKRMELSKCLNLTEVQIKTWFQN
+seq0663    RKRRVLFTKAQTYELERRFRQQRYLSAPEREHLASLIRLTPTQVKIWFQN
+seq0664    RKPRTIYSSLQLQQLNRRFQRTQYLALPERAELAASLGLTQTQVKIWFQN
+seq0665    RKPRVLFTQSQVSELEERFKLQRYVNAAERERLAATLGLTPTQVKIWFQN
+seq0666    RKRRVLFSQNQVYELERRFRTSKYLTAPEREALASSIGLSATQVKIWFQN
+seq0667    ARQRWTPTPLQLQILERIFNEGNGTPSKQKIKEITTELSQHGQISETNVY
+seq0668    RKARTAFTDHQLAQLERSFERQKYLSVQDRMELAASLNLTDTQVKTWYQN
+seq0669    RRGRQIYSRYQTLELEKEFHFNRYLTRRRRIEIANALCLTERQIKIWFQN
+seq0670    FHFNKYLTRRRRIEIANALCLTERQIKIWFQNRRM~~~~~~~~~~~~~~~
+seq0671    KRVRTTFTEDQLQILQANFNIDSNPDGQDLERIAQLTGLSKRVTQVWFQN
+seq0672    RKRRVLFTKAQTYELERRFRQQRYLSAPEREQLARIINLTPTQVKIWFQN
+seq0673    RKERTVFSKYQLTELEREFCRNNYLTRLRRYEIAVSLDLGERQVKVWFQN
+seq0674    RKRRILFSKSQTFELERRFKQARYLSAPEREHLASMINLTPTQVKIWFQN
+seq0675    EGFSRQQVQAMEQKFAVKQFLARYERKQLTESIGLKEREVKEWFQDRRED
+seq0676    RRIRTTFTSGQLKELERAFCETHYPDIYTREEIAMRIDLTEARVQVWFQN
+seq0677    RKRRVLFSKAQTYELERRFRQQRYLSAPEREHLASLIRLTPTQVKIWFQN
+seq0678    RKPRVLFSQAQVYELERRFKQQKYLSAPERDHLANVLKLTSTQVKIWFQN
+seq0679    SWSRAVFSNLQRKGLEKRFEIQKYVTKPDRKQLAAMLGLTDAQVKVWFQN
+seq0680    RKKRCPYTKHQTLELEKEFLYNMYLSRERRLEISKSIDLTDRQVKIWFQN
+seq0681    RKKRCPYSKYQTLELEKEFLFNMYLTRDRRYEVARVLNLTERQVKIWFQN
+seq0682    KRSRTAFTSHQLLELEREFHLNKYMSRTRRIEISQRLNLTERQVKIWFQN
+seq0683    RKSRTAFTNQQIFELEKRFLYQKYLSPADRDEIAGCLGLSNAQVITWFQN
+seq0684    SKRRILFTQMQVSELEKRFKRQRYLSAQEREHLAKLIDLTPTQVKIWFQN
+seq0685    RKRRVLFTQAQVYELERRFKQQKYLSAPEREALAQGINLTPTQVKIWFQN
+seq0686    RRHRTIFTEEQLKELEQAFLKCHYPGVVTREAVAHKLSLKEERVEVWFKN
+seq0687    KRSRAAFSHAQVFELERRFNQQRYLSGPERADLAAALKLTETQVKIWFQN
+seq0688    RRGRQTYSRYQTLELEKEFQFNHYLTRKRRIEIAHALCLTERQIKIWFQN
+seq0689    NSVRTNFTTKQLTELEKEFHFNKYLTRARRVEIAASLQLNETQVKIWFQN
+seq0690    KRIRTVFTPEQLEKLEKEFLKQQYMVGTERVDLASTLNLTETQVKVWFQN
+seq0691    SRQRWTPKPAQLQILEQIFEQCNATPGRQKIKDITRELAQHGQISETNVY
+seq0692    ARKKLRLTKEQSALLEESFKQHSNLNPKQKEALARQLNLRPRQVEVWFQN
+seq0693    ELNRRFSRTQYLALPERAELAAELNLTQTQIKIWFQNKRSKLKK~~~~~~
+seq0694    RKARTAFTDHQLQTLEKSFERQKYLSVQERQELAHKLDLSDCQVKTWYQN
+seq0695    KHQTLELEKEFLFNMYLTRDRRLEISKSINLTDRQVKI~~~~~~~~~~~~
+seq0696    RKKRTSIETNVRVALEKAFIQNPKPTSEEIGIIAEQLGMEKEVVRVWFCN
+seq0697    RKRRILFTQAQIYELERRFKQQKYLSAPEREHLASMIGLTPTQVKIWFQN
+seq0698    RKKRCPYTKFQTLELEKEFLFNMYLTRERRVEISRLLNLTERQVKIWFQN
+seq0699    RKKRVPYTKVQLKELEREYATNKFITKDKRRRISASTNLSERQVTIWFQN
+seq0700    HAPRSAFTTVQQLEIEKEFLYDHYVSRVRRIEIVMALDLSEKQVRTWFQN
+seq0701    KKTRTVFSRSQVFQLESTFDLKRYLSSAERAGLAASLQLTETQVKIWFQN
+seq0702    RRSRTVFTPDQVAELKYHFMQCNYIRFEKAEQIAAKFSMPVGPVKVWFKN
+seq0703    RKPRTPFTTQQLLSLEKKFREKQYLSIAERAEFSSSLHLTETQVKIWFQN
+seq0704    RKPRTPFTTNQLLALEKKFRERQYLSVAERAEFSSSLSLTETQVKIWFQN
+seq0705    RKRRVLFSQAQVYELERRFKQAKYLTAPEREQLANSIRLTPTQVKIWFQN
+seq0706    GPRIFFFVNQKKVLNVEFKRNEYPSKEECERIAKKTKLTVKQVIRWFNDH
+seq0707    IYYSKDQEEKLREQFKKKPYIKFEERKKLGDEIGLTEAQVMLWFRENQSS
+seq0708    KRPRTAFTPHQIKTLESEFQKNRYLSVGKRVELADSLGLSETQIKIWFQN
+seq0709    LRKYLSLTERSQIAHALKLSEVQVKIWFQNRRAKWKR~~~~~~~~~~~~~
+seq0710    RRTRTTFTSAQIAELEQHFLQGRYLTSSRLAELSAKLALGTAQVKIWFKN
+seq0711    RKPRVLFSQAQVYELERRFKQQRYLSAPEREHLSLVLKLTPTQVKIWFQN
+seq0712    DKYRVVYTDHQRLELEKEFHYSRYITIRRKSELASVLGLSERQVKIWFQN
+seq0713    RTTFTNFQLEELEHAFHKTHYPDVFFREELAVKIDLTEARVQVWFQNRRA
+seq0714    RRARTVFTYEQLVALENKFKTTRYLSVCERLNLALSLSLTETQVKIWFQN
+seq0715    RKRRVLFSKAQTFELERRFRHQRYLSAPEREHLASLLKLTPTQVKIWFQN
+seq0716    RRHRTIFTEEQLQALETLFHQNQYPDVITREHLANRIHLKEERVEVWFKN
+seq0717    NQNPSLRLSHGCGNSSMVSLSRLQVWFQNRRAKWRK~~~~~~~~~~~~~~
+seq0718    YNASMDNSSFLKTSFSKFPYPTKAELCYLTVVTKYPEEQIKIWFTAQRLK
+seq0719    GKYVRYTPEQVEALERVYNECPKPSSLRRQQIIRDCPILCNIEPKQIKVW
+seq0720    VELEKEFHFNRYLCRPRRVEMANLLNLTEXQIKI~~~~~~~~~~~~~~~~
+seq0721    RKKRCPYSKHQILELEKEFLFNMYLTRDRRYEVARLLNLTERQVKIWFQN
+seq0722    KKRRVLFSKAQTYELERRFRQQRYLSAPEREHLASLIRLTPTQVKIWFQN
+seq0723    RFSRTKFTEFQAQALQSFFETSAYPKDGEVERLAGLLGLASRVVVVWFQN
+seq0724    KRPRTAYTRHQVLELEKEFHYNRYLTRRRRIEIAHGLCLSERQVKIWFQN
+seq0725    KKRRVLFSKAQTLELERRFRQQRYLSAPEREQLASLLRLTPTQVKIWFQN
+seq0726    KGGQVRFSNDQTAELEKKFDGQKYLSPPERKKLAKTLQLSERQVKTWFQN
+seq0727    RDQTRRQVKPNATLEKHFLTEGHRPKEPQLSLLAARCGLTLRQTQRWFRR
+seq0728    KGGQVRFSNEQTVELEKKFETQKYLSPPERKRLAKMLQLSERQV~~~~~~
+seq0729    KKTRTLYRSDQLEELERIFQEDHYPDSDKRREIAQKVGVTPQRIMV~~~~
+seq0730    RRIRTTFTSAQLKELERVFAETHYPDIYTREELALKIDLTEARVQVWFQN
+seq0731    KKRRVLFSKAQTLELERRFRQQRYLSAPEREQLASVLRLTPTQVKIWFQN
+seq0732    LTYLQRKGQKSIFLKLWLKEELAMRLDLTEARVQVWFQNRRAKWRK~~~~
+seq0733    RKKATRFSDSQLKILKKKFEESQHLKKGEAAALAAVLKLDERVVRTWFTN
+seq0734    PNKKTNFTPQQRKCLFAYFRMIEKPSDEDKEEIARVVGVPKRSVHHFYKN
+seq0735    KKTRTVFSRSQVFQLESTFDLKRYLSSSERAGLAASLHLTETQVKIWFQN
+seq0736    EKYRVVYTDHQRLELEKEFHCNRYITIRRKSELAANLGLSERQVKIWFQN
+seq0737    RRIRTTFTSAQLKELERVFAETHYPDIYTREELALKIDLTEARVQVWFQD
+seq0738    KRVRTMFNLEQLEELEKVFAKQHNLVGKKRAQLAARLKLTENQVRVWFQN
+seq0739    MKFPNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAK
+seq0740    KRVRTMFNLEQLEELERVFAKQHNLVGKKRAQLAARLNLTENQVRVWFQN
+seq0741    KKPRVVLAPEEKEALRRAYQLEPYPSQQTIELLSFQLNLKTNTVINWFHN
+seq0742    SDRKKTKLQIAHLKASFLQSQFPDDAEVYRLIEVTGLARSEIKKWFSDHR
+seq0743    RKKRCPYTKHQILELEKEFLFNMYLPRDRRYEVARVLSLTERQVKIWFQN
+seq0744    RRIRTTFTSAQLKELERVFAETHYPDIYTREELALKIDLTEARVQVWFQN
+seq0745    VRPRTIYSSFQLAALQRRFQKTQYLALPERAELAASLGLTQTQVKIWFQN
+seq0746    RRTRRRISESQLAALETLFGRTTHPSQAERDVLAKSINMEVKNVTIWFQN
+seq0747    ASRRAQSQEIFALEKTFEQTKYLAGPERARLAYSLGMTESQVKS~~~~~~
+seq0748    SGKYVRYTAEQIEALEKVYVECPKPSSLRRQQLIRECPVLANIEPKQIKV
+seq0749    YIHMVFKTCSYPDEKQRLQLGRELAMDPTKIKFWFQNRRTQLKT~~~~~~
+seq0750    KKRRVLFSKAQTLELERRFRQQRYLSAPEREQLASVLRLTPTQVKIWFQN
+seq0751    RRERTTFTRSQLDVLEALFAKTRYPDIFMREEVALKINLPESRVQVWFKN
+seq0752    KRSRAAFSHTQVIELEKKFSHQKYLSAPERAHLAKNLKLTETQVKIWFQN
+seq0753    RRKRTSFSAEQLQLLELVFRRTMYPDIHLRERLAALTLLPESRIQVWFQN
+seq0754    RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQN
+seq0755    EKRRVLFSKAQTYELERRFRQQRYLSAPEREHLASLIRLTPTQVKIWFQN
+seq0756    MRRKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWF
+seq0757    MDSKRTRQTYTRYQTLELEKEFHFNRYITRRRRIDIANALSLSERQIKIW
+seq0758    RTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFKNKRA
+seq0759    RKRRVLFSQAQVYELERRFKQAKYLTAPEREQLANSIHLTPTQAS~~~~~
+seq0760    RKPRVLFSQTQVYELEQRFKQQRYLSAPEREMLAQTLKLTSTQVKIWFQN
+seq0761    KRPRTAFTAEQLERLKQQFMDNRYLTEKRRQELAHELGLNESQIKIWFQN
+seq0762    KRKRTSIAAPEKRELEQFFKQQPRPSGERIASIADRLDLKKNVVRVWFCN
+seq0763    RTKRKPYEKWVTYLLEEEYLSNTYITKQKRYELSYRTSLTERQVKIWFQN
+seq0764    KRSRTAYTRQQALELEKEFHFNRYLTRRRRVEIAHTMCLTERQVKIWFQN
+seq0765    RKERTAFTKPQLKQLETEFGYSNYLTRLRRYEIAVALDLSERQVKVWFQN
+seq0766    RKPRTIYSSFQLAALQRRFQQTQYLALPERAELAASMGLTQTQVKIWFQN
+seq0767    QTQQIHTPKHSNKKRLTQDQVAIWYQNKRARWKT~~~~~~~~~~~~~~~~
+seq0768    RKPRVLFSQAQVFELERRFKQQRYLSAPEREQLAQMLKLTSTQVKIWFQN
+seq0769    KKRRVLFSKAQTFELEKRFRQQRYLSAPEREHLASILRLTPTQVKIWFQN
+seq0770    GRKFGPVVTQKLKVHFEKDPYPSRETKVNLSEELGLTFNQVSRWFSSTRH
+seq0771    KRQRTSYTRYQTLELEKEFGFNRYLTRRRRIEIAHALCLTERQIKI~~~~
+seq0772    KRSRAAFTHAQVFELERRFSQQRYLSGPERADLAQALKLTETQVKIWYQN
+seq0773    LENEFSIHNYLTRLRRYEIAVALDLTERQVKVWFQNRRMKWKR~~~~~~~
+seq0774    RKRRVLFSKAQTYELERRFRQQRYLSAPEREHLASIIRLTPTQVKIWFQN
+seq0775    RKPRTIYSSLQLQALNQRFQQTQYLALPERAELAAQLGLTQTQVKIWFQN
+seq0776    RKKRCPYTKYQTLELEKEFLFNMYLTRDRRHEVSRQLNLTERQVKIWFQN
+seq0777    RRSRTIFTELQLLGLEKKFQKQKYLSTPDRLDLAQSLGLTQLQVKTWYQN
+seq0778    KKRRVLFSKAQTLELERRFRQQRYLSAPEREQLASLLRLTPTQVKIWFQN
+seq0779    RKPRVLFSQAQVYELERRFKQQKYLSAPERDHLASALKLSSTQVKIWFQN
+seq0780    SPITIFTSGQLNELEKAFHEAHYPDVYQRELLSMKAELPEDRIQVWFQNR
+seq0781    RRKKLRLTKEQSSMLESTFKLHNTLNPVQKIALADQLSLKTRQIEVWFQN
+seq0782    RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASLIHLTPTQVKIWFQN
+seq0783    RKKRKPYSKPQLAELENEFLMNEFINRQKRKELSDKLDLSDQQVKIWFQN
+seq0784    QRNRTSFTQEQIENLEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSN
+seq0785    RKRRVLFTKAQTYELERRFQTQKYLSAPEREQLAMQIRLTPTQVKIWFQN
+seq0786    RRQRTHFTSHQLTELENWFSRNRYPDMATREEIAIWISLTEPRVRVWFKN
+seq0787    LRRAVFSDLQRTALERTFQKQKYISKPERKKLAGKLGLKDSQVKIWFQNR
+seq0788    RKRRVLFSQVQVYELERRFKQQKYLSAPEREHLAGLIHLTPNQVKIWFQN
+seq0789    RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMINLTPTQVKIWFQN
+seq0790    RKRRVLFTQAQVYELERRFKQQKYLSAPEREHLASLIHLTPTQFHN~~~~
+seq0791    KRGRQTYTRYQTLELEKEFHFNRYLTRRRAVEIAHALCLTERQIKIWFQN
+seq0792    KAKRKRASPSQLYILNQVFQQTCFPSTELRIELGKRLGMSPRTVQIWFQN
+seq0793    RKRRVLFSKAQTYELERRFRQQRYLSAPEREHLASIIRLTPVQVKIWFQN
+seq0794    KRSRAAFSHAQVFELERRFRHQRYLSGPERADLANALKLTETQIKIWFQN
+seq0795    RKRRVLFTQAQVYELERRFKQQKYLSAPEREHLASIIHLTPTQVKIWFQN
+seq0796    RRPRVLFSQAQVLALERRFKQQRYLSAPEREHLASALQLTSTQVKIWFQN
+seq0797    VRNSSDGAQVLALERRFKQQRYLSAPEREHLASALQLTSTQVKIWFQNRR
+seq0798    RKRRVLFSQAQVFELERRFKQQKYLSAPEREHLAGLIHLSPNQVKIWFQN
+seq0799    KRSRAAFSHEQVHELERRFSAQRYLSGPERADLACALKLTETQVKIWFQN
+seq0800    GRRFRKDVQQLLEKAFQCKPWPNPVEKTMLARRCGLTVRQVGVWFSNRRA
+seq0801    RKPRXXFTTSQLLALERKFRQKQYLSIAERAEFSSSLNLTETQVKIWFQN
+seq0802    KKRRVLFSKAQTYELERRFRQQRYLSAPEREQLAHLLRLTPTQVKIWFQN
+seq0803    RRSRTTFDAEQTTQLEKAFSRTHYPDIYTREELAQTSGLTEARIQVWFSN
+seq0804    KPRRSFFSADQVNQLERVFAAQQYVSAKERAEIAETFNMTDDQVKNWFQN
+seq0805    RRQRTHFTSAQLQELEATFQRNRYPDMSTREEIAVWTNLTEARVRVWFKN
+seq0806    ELEKKFQEKKYLSSAERGELAERLKLSDMQVKTWFQNRR~~~~~~~~~~~
+seq0807    RKPRVLFSQTQVFELERRFKQQRYLSAPERDHLALALKLTSTQVKIWFQN
+seq0808    RRQRTHFSSQQLQELENLFTRNRYPDMSTREDMSKWIGLSEQRVRVWFKN
+seq0809    RGGRTNFTNKQLTELEKEFHFNRYLTRARRIEIATSLTLNETQVKIWFQT
+seq0810    RKPRALFTRQQVVELESRFKSQRYVSAPERQELSARLKLSETQVKIWFQN
+seq0811    ETSYCFKEKSRSILREWYAHNPYPSPREKRELAEATGLTTTQVSNWFKNR
+seq0812    PRKKLRLTREQSRLLEDSFRQNHTLNPKQKEALAQHLMLRPRQIEVWFQN
+seq0813    KRSRAAFSHAQVFELERRFSHQRYLSAPERADLAQVLKLTETQVKIWFQN
+seq0814    KRQYGPIINQRLHEQFKSDQYPSRAVKESLAQELGLTFRQVEKWFESRRR
+seq0815    RRVRTAFTYEQLVSLENKFRQTRYLSVCERLNLALALSLTETQVKIWFQN
+seq0816    RRCRRFYNDQETEILENAFQKSNGYPEKSLILHICKILDVDEERIRNWFQ
+seq0817    KRARTSYSRYQTLELEKEFHFNRYLNGRRRIEIAHSLGLTERQIKIWFQN
+seq0818    KRSRAAFSHSQVFELERRFAQQRYLSGPERSELAKSLHLTETQVKIWFQN
+seq0819    KRIRTAFSPHQLVQLEKAFEHNHYVIGNERKELASRLSLTETQRKRRLQS
+seq0820    RKRRVLFTQAQVYELERRFKQQKYLSAPEREHLASLIHLTPTQALN~~~~
+seq0821    RKKRTSIEVGVKGVLEGHFIRQPKPAAQDITNLADTLGLEKEVVRVWFCN
+seq0822    KGGQVRFSNDQTMELEKKFENQKYLSPPERKKLAKVLQLSERQVKTWFQN
+seq0823    KKRRVLFSKTQTYELERRFRQQRYLSAPEREHLARALRLTPTQVKIWFQN
+seq0824    KRPRTAFSASQIKSLETEFERGKYLSVAKRTALAKQLHLTETQIKIWFQN
+seq0825    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARKCGITVAQVSNW
+seq0826    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELAKKGGITVSQVSNW
+seq0827    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELAKQCSITVSQVSNW
+seq0828    RRKRRNFSKQATEGLNEYFYSHLSNPYPSEEAKEDLAKQCGITVSQVCNW
+seq0829    RRKRRNFSKQSTEVLNEYFYSHLSNPYPSEETKEDLARSCGISVAQVSNW
+seq0830    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELAKKCGITVSQVTS~
+seq0831    RRKRRNFSKSSTQILNDYFAAHISHPYPSEEVKQALALQCNISVAQVSNW
+seq0832    RSRPVLSKSTIQKLEAWYTAHEEHPYPNNEVIEDLSNACGITYSQVRKWF
+seq0833    YYFKEKSRKLLRQQYAENPYPSQWEKKELARRTGLTAVQVSNWFKNRRQR
+seq0834    TSYCFKEKSRSVLREWYGHNPYPSPREKRELAEATGLTTTQVSNWFKNRR
+seq0835    SYQLEELEGAFERAPYPDVFAREELAVKLNLSESRV~~~~~~~~~~~~~~
+seq0836    VYMNKEKRLQLSRILNLTDRQVKIWFQNRRMKEKK~~~~~~~~~~~~~~~
+seq0837    LPSRLDLAQSLGLTQLQVKTWYQNRRMKWKK~~~~~~~~~~~~~~~~~~~
+seq0838    PDMSTREEIAVWTNFTEARVRVWFKNRRAKLRK~~~~~~~~~~~~~~~~~
+seq0839    RRSRTYYNCSQLHILVEAFENNPYPGIVSREQLAEEIGVPESRVQIWFQN
+seq0840    RRKRRRTSKHELTILQQEFEKCRAPSKERRMQLAPRCNMTEKAVQIWFQN
+seq0841    QRERFTFVKGHLEILERHYQRNPYPSQNDKERVVEECNAYSMESGSSRCG
+seq0842    RRNRFKWGPASLQILFHAYERQKNPSKEEREGLVEECNRAECLQRGVSPS
+seq0843    RRPRWRWSPVATQILTEAFKKNRFPTREQRLELSRICCEAESAMNNGEPL
+seq0844    RRNRFKWGPASQQILYQAYERQKNPSKEERESLVEECNRAECLQRGVSPS
+seq0845    NVHAFTPLQLQELERIFQRKQFPSQFLRRRLAGSMNVTELAVQIWFENRR
+seq0846    RRNRFKWGPASQQILYQAYERQKNPSKEERETLVEECNRAECLQRGVSPS
+seq0847    RRNRFKWGPASQHILYQAYERQKNPSKEEREALVEECNRAECIQRGVSPS
+seq0848    RRNRFKWGPASQQILYQAYDRQKNPSKEEREALVEECNRAECLQRGVSPS
+seq0849    RRNRFKWGPASQQILYQAYERQKNPSKDEREALVEECNRHRAECLQRGVS
+seq0850    KRERFTFKAAHLAILEKYYNADPYPDTQTREQIVEECNRAMTKPDRDLTD
+seq0851    KSRNFPREVRQKLEDFASGVSTNPSKAEREGLASEMHLTTEQVYNWFANY
+seq0852    HFNKYLCRPRRIEIAASLDLTERQVKIWFQNRR~~~~~~~~~~~~~~~~~
+seq0853    EFEKSHYPDVATREELAGKIDMSEARVQVWFSNR~~~~~~~~~~~~~~~~
+seq0854    SRSEAGRGPGVGARQVKIWFQNRRSKFKK~~~~~~~~~~~~~~~~~~~~~
+seq0855    TSYCFKERSRGVLRDWYAHNPYPSPREKRELAQATGLTTTQVSNWFKNRR
+seq0856    TSYCFKEKSRNILREWYSHNPYPSPREKRELAENTGLTTTQVSNWFKNRR
+seq0857    VARHLFKESSRSVLQDFYERNPYPSPEEKRELARQAKLSYCQVSNFFKNK
+seq0858    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARKGGITVSQVSNW
+seq0859    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARRGGITVSQVSNW
+seq0860    RRKRQNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARRGGITVSQVSNW
+seq0861    RRKRQNFSKQATEVLNEYFYSHLSNPYPSEETKEELARRGGITVSQVSNW
+seq0862    RPHRQNFTALQNRILTDWYNSHHYKPYPSTEDTKMLAQKSELTYSQVKKW
+seq0863    RPHRQNFTANQNRILNDWYNEHHYKPYPSTEDTKHLSNLAGLTYSQVKKW
+seq0864    MEQKQKAALARQLGLRPRQVEVWFQNRRARTKL~~~~~~~~~~~~~~~~~
+seq0865    KRPRTAFSSEQLQRLASEFTDNRYLSEERRQRLARQLGLNESQIKIWFQN
+seq0866    KRHRTRFTPAQLNELERSFAKTHYPDIFMREELALRIGLTESRVQVWFQN
+seq0867    RRPRTAFTSQQLLELEQQFISNKYLSRPKRFEVATSLGLTETQVKIWFQN
+seq0868    RRPRTSFTSEQLIELEKQFTENRYLSRPRRYQLAQQLSLTETQVKIWFQN
+seq0869    ELEKEFQKQKYLSTPDRLDLAQSLGLTQLQVKTWYQNRRMKWKK~~~~~~
+seq0870    RKRRVLFSPQQVNVLETKFQINKYLSAADREALARSINLTPTQVKIWFQN
+seq0871    KKRRVLFSKSQTYELERRFRQQRYLSAPEREHLATLLRLTPTQVKIWFQN
+seq0872    RKRRVLFSKAQTYELERRFRQQRYLSAPEREPLASLIRLTPTQVKIWFQN
+seq0873    RKRRVLFSQAQVYELERRFKQQRYLSAPEREHLASMIHLTPTQVKIWFQN
+seq0874    RKRRVLFSKAQTYELERRFRQQRYLSAPEREHLASLIRLTPTQVKIWFQN
+seq0875    RKRRVLFTKAQTYELERRFRTQRYLSAPEREQLAMQIRLTPTQVKIWFQN
+seq0876    RKRRVLFTKAQTYELERRFRTQKYLSAPEREALAMQIRLTPTQVKIWFQN
+seq0877    RKRRVLFSKNQTYELEKRFCQQRYLSAQEREILASTIRLTPTQVKIWFQN
+seq0878    KKRRVLFSKAQTLELERRFRQQRYLSAPEREQLARLLSLTPTQVKIWFQN
+seq0879    RKRRILFSQAQIYELERRFRQQKYLSAPEREHLATFIGLTPTQVKIWFQN
+seq0880    KKRRVLFSKAQTFELQKRFRQQRYLSAPEREQLAHLLRLTPTQVKIWFQN
+seq0881    RKRRVLFSKKQILELERHFRQKKYLSAPEREHLANLIGLSPTQVKIWFQN
+seq0882    RKPRVLFSQAQVLALERRFRQQRYLSAPEREHLASALQLTSTQVKIWFQN
+seq0883    KKRRILFTKSQIFELERRFRQQKYLSANEREQLARIIDLTPTQVKIWFQN
+seq0884    RKRRVLFSQNQVYELERRFRSSKYLTAPEREALANSIGLTATQVKIWFQN
+seq0885    RKPRVLFSQAQVLALERRFKQQRYLSAPEREQLARALQLTSTQVKIWFQN
+seq0886    RKRRILFSKLQTAKLEECFNEQRYLTASEREHLARILNLTPTQVKIWFQN
+seq0887    SKRRILFNKYQITELEKRFKLQRYLTSQEREELAKTIGLTPTQVKIWFQN
+seq0888    KKRRILFSKSQIHLLEKRFNQQRYLSTPEREQLATELRLTPIQIKIWFQN
+seq0889    RKPRVLFTQHQVNELEERFKKQRYVTASEREELAQCLGLTATQVKIWFQN
+seq0890    RKRRVLFSPQQVNLLEHKFGASKYLSAADREALAKTIGLTPTQVKIWFQN
+seq0891    KRSRAAFSHSQVIELERKFSHQKYLSAPERSHLARHLKLTETQVKIWFQN
+seq0892    SKRRVLFNKFQISQLEKRLKQRYLTAQERQELAHTIGLTPTQVKIWFQNH
+seq0893    KRSRAAFSHQQVFELERRFSHQKYLSGPERADLAAALKLTETQVKIWFQN
+seq0894    VPFDMKRYLSSSERACLASSLQLTETQVKTWFQNRRNKWKR~~~~~~~~~
+seq0895    QLEELENKFKTTRYLSVCERLNLALSLSLTETQVKIWFQNRRA~~~~~~~
+seq0896    RRRRTAFNSEQLLELEREFQSKKYLSLPERAHLAHNLKLSESQVKIWFQN
+seq0897    RKPRTIFTSQQLRELNRAFERTHYLSLPERAELAHALGLTQTQIKIWFQN
+seq0898    RRARTAFTYEQLVALENKFKSTRYLSVCERLNLALSLGLTETQVKIWFQN
+seq0899    ELEKKFNEKKYLSSAERGELAEKLKLSDMQVKTWFQNRR~~~~~~~~~~~
+seq0900    RKKRKPYTKYQTLELEKEFLYNTYVSKQKRWELARTLGLTERQVKIWFQN
+seq0901    RKKRKPYSKFQTLELEKEFLFNAYVSKQKRWELARNLNLTERQVKIWFQN
+seq0902    FTTEQLERLKREFDENRYLSEKRRQDLAQELGLNESQIKIWFQNKRAKIK
+seq0903    DRHRTRFTPAQLNELERSFAKTHYPDIFMREELALRIGLTESRVQVWFQN
+seq0904    TERRRXXLAAELGLAEAQIKIWFQNKRAKIKK~~~~~~~~~~~~~~~~~~
+seq0905    MHPSLATMGKLASKLQLDLSVVKIWFKNQRAKWKR~~~~~~~~~~~~~~~
+seq0906    VQTHYPDIYTREELALKIDLTEARVQVWFQNRRAKFRK~~~~~~~~~~~~
+seq0907    LQKQKTALANRLGLRPRQVEVWFQNRRARTKL~~~~~~~~~~~~~~~~~~
+seq0908    RRSRTTFTAEQLEILERSFEKTQYPDVYTREELAQKARLTEARVQVWFSN
+seq0909    TERRRQALAAELGLAEAQIXIWFQNKRAXIKK~~~~~~~~~~~~~~~~~~
+seq0910    STQRPRFKHEYSQLLENYFSKNAYPSRPDRAVLARKSGMTLKQIEVWFQN
+seq0911    APKRFSKNITDILEQSFKNSQYPSDFEKVQLADICNLSIKQVSNWFTNKR
+seq0912    PKGKSSISPQARAFLEQVFRRKQSLNSKEKEEVAKKCGITPLQVRVWFIN
+seq0913    ETSYCFKEKSRSVLREWYAHNPYPSPREKRELAEATGLTTTQVSNWFKNR
+seq0914    TSYCFKEKSRNILREWYSHNPYPSPREKRELAEGTGLTTTQVSNWFKNRR
+seq0915    RRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARKCTITVSQVSNW
+seq0916    RRKRRNFSKQATEILNEYFYSHLSNPYPSEEIKEELARKCDITISQISNW
+seq0917    RRNRFKWGPASQQILYQAYERQKNPSKEEREALVEECNRAECLQRGVSPS
+seq0918    RRNRFKWGPASQEILYQAYERQKNPSKEEREALVEECNRAECVQRGVSPS
+seq0919    KSRNFPREVRQKLEDFASGVSTNPSKAEREDLASETHLTTEQVYNWFANY
+seq0920    RLPRIPFTPAQLQALESAYKDSNYLSAEDANKLAESLDLTNTRVKIWFQN
+seq0921    RLPRIPFTPAQLQALERAYKESNYLSAEDANKLADSLELTNTRVKIWFQN
+seq0922    DTQTLEKSFERQKYLSVQDRMELAAKLNLTDTQVKTWYQNRRTKWKR~~~
+seq0923    RKPRVLFSQAQVFELERRFQQQRYLSAPERELLAGSLKLTSTQVKIWFQN
+seq0924    RKRRVLFTQAQVYELERRFKQQKYLSAPEREHLSQLINLTPTQVKIWFQN
+seq0925    RKRRVLFSKAQTFELERRFRQQRYLSVPEREHLAGLIRLTPNQVKIWFQN
+seq0926    KKRRVLFSKAQTLELERRFRQQRYLSAPEREHLASMIHLTPTQVKIWFQN
+seq0927    RKRRILFTKLQTFELERRFRIQRYLSAPEREQLATQIRLTPTQVKIWFQN
+seq0928    RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLANLINLTPTQVKIWFQN
+seq0929    RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLAGLIHLTPNQVKIWFQN
+seq0930    RKRRVLFSQAQVYELERRFKQQKYLSAPEREQLAALIGLSPTQVKIWFQN
+seq0931    RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQN
+seq0932    RKPRVLFSQAQVFELERRFKQQRYLSAPEREHLASALKLTSTQVKIWFQN
+seq0933    RKPRVLFSQVQVFELERRFKQQRYLSAPEREHLASTLKLTSTQVKIWFQN
+seq0934    RKPRILFSQGQVLELERRFRQQRYLSAPERETLAGMLKLTPTQVKIWFQN
+seq0935    RRPRVLFSQAQVLELERRFEQQRYVSAPEREQLASMLKLTSTQVKIWFQN
+seq0936    RKRRVLFSRAQVHELEKSFEMQKYLTAPEREHLATVTRLTPNQVKIWFQN
+seq0937    RKPRILFSQAQVYELERRFKQQRYLSAPERDQLATVLKLSSQQVKIWFQN
+seq0938    KRSRAAFSHAQVFELERRFAQQRYLSGPERSELAKNLRLTETQVKIWFQN
+seq0939    KRSRAAFSHAQVYELERRFNLQRYLSGPERADLAGALKLTETQVKIWFQN
+seq0940    KRSRAAFSHSQVYELERRFNQQRYLSGSERTDLANALKLTETQVKIWFQN
+seq0941    KRSRAAFSHTQVVELERKFSHQKYLSAPERAHLAKNLKLTETQVKIWFQN
+seq0942    KRSRAAFSHAQVFELERRFNHQRYLSGPERADLAASLKLTETQVKIWFQN
+seq0943    RKPRTPFTSTQLIALERKFRQQKYLSVAERAEFAEYLKLTETQVKIWFQN
+seq0944    KRSRAAFSHTQVIELERKFSHQKYLSAPERAHLAKNLKLTETQVKIWFQN
+seq0945    ERKYRQKQYLSIAERAEFSNSLNLTETQVKIWFQNRRAKAKR~~~~~~~~
+seq0946    NKFKTTRYLSVCERLNLAPSLNLTETQVKIWF~~~~~~~~~~~~~~~~~~
+seq0947    RKARTVFSDSQLNGLEKRFESQKYLSTPERMDLAAALNLTETQVKTWFQN
+seq0948    DKSETLLTLEQLVALENKFRATRYLSVCERLNLALSLSLTETQVKIWFQN
+seq0949    RKPRTIYSSFQLAALQRRFQQTQYLALPERAELAASLGVTQTQVKIWFQN
+seq0950    SKKYLSLTERSQIAHNLKLSEVQVKIWFQNRRMKL~~~~~~~~~~~~~~~
+seq0951    RLPRVPFTPAQLSALEDAYKVSTYLSSEEANQLAYSLELTNTRVKIWFQN
+seq0952    APIAVLEERFAAQKYLSSTERSLLAEELKMSDVQVKTWFQNRRTKWRL~~
+seq0953    RLPRIPFTPQQLQALESAYKESNYLSAEDANKLADSLELTNTRVKIWFQN
+seq0954    HSSQLQALERVFERTHYPDAFVREDLARRVNLTEARVQVWFQNRRAKFRR
+seq0955    LEELETAFAKTHYPDVFTREDLAMKINLTEARVQVWFQNRRAKWRK~~~~
+seq0956    KRCRTIFAPYQLQRLEKAFERQQYVAGEERRQLATGLNLTETQVKVWFQN
+seq0957    AAFGKTHYPDVFMREDLAMRINLTEARVQVWF~~~~~~~~~~~~~~~~~~
+seq0958    NVHAFTPLQLQELERIFQRKQFPSEFLRRRLAGSMNVTELAVQIWFENRR
+seq0959    RRKRRRTSKHELTILQQEFDQCRTPSKEKRIELATRCNMTEKAVQIWFQN
+seq0960    YTREELEKAFERTHYPDIYTREELAQRTKLTEARVQVWFSNRRARWRK~~
+seq0961    VGRNRFDDKQVAVLNRAFERNQNPNKKQREPLVGKTGLTDDQVRLWFRHR
+seq0962    KSRNFPREVREKLHNFAVGVNTNPSKAERENLALETSLTPEQVYNWFANY
+seq0963    RRKRITWTSKQKKKLEENYAREQYPTVLEIQSLALELGRVGEQVVKTWFR
+seq0964    RQKRKRTSPDDQAVLEAAYKLDAKPDKAARLQLVEQVALGEKEVQIWFQN
+seq0965    SYFNENQYPDEAKREEIDADCCNYASQSSGKKLSDLERVTSLKVYNWFAN
+seq0966    RGARFTWPKECLSILENYYNANSYPDECKREEIAHACNAIIQSQKPGSML
+seq0967    VRVRKFFSAADKSRLLQEYESNIHPNKEQRTRLAQELQTKEKRIRTWFAN
+seq0968    KRDRFVFKHVHHDILNEAFLRNRYPENDEKECLVDKCNAALENYKNRPLK
+seq0969    NKKRFRLTHQETKFMMSEFAKQPYPSAARREWLSLEIPGISPRQIQGTYQ
+seq0970    KRARTRITDDQLKILRQYFDINNSPSESQIKEMSIKAGLPEKVIKHWFRN
+seq0971    KRVRTTFAEEQLSVLQAHFQVDSNPDGADLERIANITGLSKRVTQVWFQN
+seq0972    YSFKENSRKYLKQFYKQNQYPTLDQKKEISRATDLEIVQISNWFKNRRQR
+seq0973    RRPIFRLPHNAVEKLRLVFAENELPARTLRMSLSEQLGLEFEKVNKWFKN
+seq0974    PKPRWNPRPEQIGILESIFNSGMVNPPRDEIRKIRAQLQEFGQVGDANVF
+seq0975    GRQRWTPTPMQLQILERIFDQGVGTPSKQKIKDITTELSQHGQISETNVY
+seq0976    SARKRLKKVQVETLEQVYRRSKRPTNAMISSIVHVTNLPKKKVVKWFEDK
+seq0977    GSRWNPTKEQINMLEGLYKQGLRTPTAEQIQQITVRLRDFGHIEGKNVFY
+seq0978    KRARTRITDEQLKILRAHFDINNSPGEEQILDMAAQSGLPPKVIKHWFRN
+seq0979    KRNRTFIDPVTEVPRLEYWFKRSTHPSHALILSYTEELNKMPYRQKFPRL
+seq0980    KRMRTSFKHHQLRTMKSYFNINHNPDAKDLKQLSQKTGLPKRVLQVWFQN
+seq0981    KRLRTTILPEQLNFLYECYQNDSNPSRKMLEEIAKKINLKKRVVQ~~~~~
+seq0982    KRVRTTFAEEQLAVLQTHFQIDSNPDGADLERIATITGLSKRVTQVWFQN
+seq0983    KRARTRITDDQLKILRQYFDINNSPSEQQIKEMSVKAQLPEKVIKHWFRN
+seq0984    SFKENARKKNKYPTLEDKKEIARITDLKIIQISNWFKNRRQRDKS~~~~~
+seq0985    TAKRFPPETVSALRETYNRTPYPEEREKKRLSRQCNLTMRQINHWFTNKR
+seq0986    KRPRDLLNPKAVKYMQSVFSIKDAISKKESREISALFGVTVTQVRDFFNS
+seq0987    MSSRWNPTPEQLRTLEELYRRGTRTPSTDQIQDITAQLRRYGRIEGKNVF
+seq0988    ARQRWTPTPVQLQILERIFDQGNGTPSKQKIKEITSELSQHGQISETNVY
+seq0989    ASTRWCPTPEQLMILEEMYRSGIRTPNAVQIQQITAHLAFYGRIEGKNVF
+seq0990    VRSRWTPKPEQILILESIFNSGMVNPPKEETIKIRKLLEKFGNVGDANVF
+seq0991    RRKRRRTSPNELSILNKEFLVGSTPNKMRRIEIAAKVNMTEKAVQIWFQN
+seq0992    GKYVRYTAEQVEALERVYAECPKPSSLRRQQLIRECPILSNIEPKQFKAL
+seq0993    KKPRLVFTDVQRRTLHAIFKENKRPSKELQITISQQLGLELSTVSNFFMN
+seq0994    ARPRTKISVEALGILQSFMQDVGLHPDEEAIQTLSAQLDLPQHTVIKFFQ
+seq0995    KVSRFVFTAHQKQTLQSMYKISSRPTREMQQKLADHLEISMETVENFFMN
+seq0996    KRPRLVFTDIQKRTLQAIFKETQRPSREMQQTIAEHLRLDLSTVANFFMN
+seq0997    PRTRLVFTDTQKAKLVDSFKRNPNPPPEHMAQLAVRLHLDLPTVRNFFVN
+seq0998    KRREGILSGEKKLRMEQVFAINRRPDKETIAALVSELGITKEKVEGWFST
+seq0999    QIAVLESLYKQGVRTPSAEQIQHITGKLREFGTIEGKNVFY~~~~~~~~~
+seq1000    IRSPTTDQTQRISARLRQYGKIEGKNVCYWFQNHK~~~~~~~~~~~~~~~
+
+           51                         79
+seq0001    KRIRYKKN~~~~~~~~~~~~~~~~~~~~~
+seq0002    GLGSNLVTEVRVYNWFANRRKEEAFRH~~
+seq0003    QNHRYKTKRAQNE~~~~~~~~~~~~~~~~
+seq0004    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0005    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0006    FGNKRIRXX~~~~~~~~~~~~~~~~~~~~
+seq0007    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0008    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0009    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0010    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0011    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0012    KRIRYKK~~~~~~~~~~~~~~~~~~~~~~
+seq0013    LGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0014    FGNKRIWYKK~~~~~~~~~~~~~~~~~~~
+seq0015    FCNKWIHYKK~~~~~~~~~~~~~~~~~~~
+seq0016    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0017    LASRRRRWRQ~~~~~~~~~~~~~~~~~~~
+seq0018    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0019    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0020    FGNRRIRTKK~~~~~~~~~~~~~~~~~~~
+seq0021    FGNKRIRFKK~~~~~~~~~~~~~~~~~~~
+seq0022    NKDK~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0023    SNRRNKDK~~~~~~~~~~~~~~~~~~~~~
+seq0024    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0025    RRAKYRK~~~~~~~~~~~~~~~~~~~~~~
+seq0026    SK~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0027    ERA~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0028    ERV~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0029    RRSKGKR~~~~~~~~~~~~~~~~~~~~~~
+seq0030    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0031    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0032    NVEGLGFNLVTESRVYNWFANRRKEE~~~
+seq0033    QLAGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0034    QAQGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0035    QAHGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0036    AKWRR~~~~~~~~~~~~~~~~~~~~~~~~
+seq0037    QAQGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0038    QAQGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0039    QAYGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0040    SQAQGLGSNLVTEVRVYNWFANRRKEE~~
+seq0041    QLAGLGSNLVTEVRVYNWFANRRKED~~~
+seq0042    KAHGLGSNLVTEVRVYNWFANRRKEEE~~
+seq0043    QLAGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0044    KHGLGSNLVTEVRVYNWFANRRKEE~~~~
+seq0045    HANGLGSNLVTEVRVYNWFANRRKED~~~
+seq0046    HESALGSSLVTEVRVYNWFANRRKED~~~
+seq0047    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0048    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0049    RRAEE~~~~~~~~~~~~~~~~~~~~~~~~
+seq0050    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0051    RRAKYRK~~~~~~~~~~~~~~~~~~~~~~
+seq0052    DRT~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0053    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0054    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0055    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0056    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0057    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0058    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0059    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0060    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0061    FGNKRIRYKR~~~~~~~~~~~~~~~~~~~
+seq0062    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0063    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0064    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0065    FIKR~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0066    KSSKKL~~~~~~~~~~~~~~~~~~~~~~~
+seq0067    RSPFT~~~~~~~~~~~~~~~~~~~~~~~~
+seq0068    FGNKRIRFKK~~~~~~~~~~~~~~~~~~~
+seq0069    FGNKRIRFRK~~~~~~~~~~~~~~~~~~~
+seq0070    NKDK~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0071    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0072    GRV~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0073    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0074    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0075    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0076    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0077    HRYKYRK~~~~~~~~~~~~~~~~~~~~~~
+seq0078    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0079    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0080    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0081    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0082    HRYKLKR~~~~~~~~~~~~~~~~~~~~~~
+seq0083    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0084    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0085    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0086    HRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0087    HRYKLKR~~~~~~~~~~~~~~~~~~~~~~
+seq0088    HRYKYKK~~~~~~~~~~~~~~~~~~~~~~
+seq0089    HRYKYKK~~~~~~~~~~~~~~~~~~~~~~
+seq0090    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0091    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0092    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0093    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0094    HRYKYRK~~~~~~~~~~~~~~~~~~~~~~
+seq0095    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0096    HRYKMKK~~~~~~~~~~~~~~~~~~~~~~
+seq0097    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0098    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0099    RRYKSKR~~~~~~~~~~~~~~~~~~~~~~
+seq0100    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0101    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0102    QRYKHKR~~~~~~~~~~~~~~~~~~~~~~
+seq0103    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0104    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0105    RRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0106    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0107    RRSKLKK~~~~~~~~~~~~~~~~~~~~~~
+seq0108    RRMKNKR~~~~~~~~~~~~~~~~~~~~~~
+seq0109    KRSKFKK~~~~~~~~~~~~~~~~~~~~~~
+seq0110    KRSKYKK~~~~~~~~~~~~~~~~~~~~~~
+seq0111    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0112    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0113    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0114    HRSKLKK~~~~~~~~~~~~~~~~~~~~~~
+seq0115    RRAKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0116    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0117    K~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0118    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0119    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0120    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0121    KRARIKK~~~~~~~~~~~~~~~~~~~~~~
+seq0122    RRAKDKS~~~~~~~~~~~~~~~~~~~~~~
+seq0123    TSK~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0124    RN~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0125    NRSKL~~~~~~~~~~~~~~~~~~~~~~~~
+seq0126    SNRRNKDK~~~~~~~~~~~~~~~~~~~~~
+seq0127    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0128    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0129    QAQGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0130    QAQGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0131    KAQGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0132    KAHGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0133    QLAGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0134    QASGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0135    SPSKAHGLGSNLVTEVRVYNWFANRRKEE
+seq0136    QVGGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0137    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0138    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0139    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0140    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0141    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0142    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0143    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0144    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0145    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0146    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0147    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0148    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0149    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0150    HRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0151    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0152    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0153    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0154    KK~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0155    YKMKR~~~~~~~~~~~~~~~~~~~~~~~~
+seq0156    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0157    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0158    RRG~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0159    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0160    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0161    RRYKSKR~~~~~~~~~~~~~~~~~~~~~~
+seq0162    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0163    RRYKNKR~~~~~~~~~~~~~~~~~~~~~~
+seq0164    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0165    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0166    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0167    RYKTKR~~~~~~~~~~~~~~~~~~~~~~~
+seq0168    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0169    RRMKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0170    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0171    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0172    RRAKVKR~~~~~~~~~~~~~~~~~~~~~~
+seq0173    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0174    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0175    RRARERR~~~~~~~~~~~~~~~~~~~~~~
+seq0176    RRARERR~~~~~~~~~~~~~~~~~~~~~~
+seq0177    RRARERR~~~~~~~~~~~~~~~~~~~~~~
+seq0178    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0179    RRIRFRK~~~~~~~~~~~~~~~~~~~~~~
+seq0180    WRR~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0181    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0182    QRSLAKKR~~~~~~~~~~~~~~~~~~~~~
+seq0183    RRAKERK~~~~~~~~~~~~~~~~~~~~~~
+seq0184    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0185    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0186    RRRQRA~~~~~~~~~~~~~~~~~~~~~~~
+seq0187    RRRQKS~~~~~~~~~~~~~~~~~~~~~~~
+seq0188    RRRQKS~~~~~~~~~~~~~~~~~~~~~~~
+seq0189    NRRKG~~~~~~~~~~~~~~~~~~~~~~~~
+seq0190    TELDKVTTVKVYNWFANRRKDDKR~~~~~
+seq0191    REKVSLPVVNNWFNNRRKEAKK~~~~~~~
+seq0192    KAQGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0193    D~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0194    KD~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0195    YWFQNRRSRSRR~~~~~~~~~~~~~~~~~
+seq0196    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0197    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0198    TLFKERQ~~~~~~~~~~~~~~~~~~~~~~
+seq0199    DVNNVVYWFKNARAAQKR~~~~~~~~~~~
+seq0200    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0201    VKQIRIWFDNRRAKERL~~~~~~~~~~~~
+seq0202    ARRRSRS~~~~~~~~~~~~~~~~~~~~~~
+seq0203    TLFKERQ~~~~~~~~~~~~~~~~~~~~~~
+seq0204    NQRYYLKH~~~~~~~~~~~~~~~~~~~~~
+seq0205    RD~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0206    KTWFSNKRAKDRQ~~~~~~~~~~~~~~~~
+seq0207    SRARDRR~~~~~~~~~~~~~~~~~~~~~~
+seq0208    ARAKWRR~~~~~~~~~~~~~~~~~~~~~~
+seq0209    DVNNVVYWFKNARAAQKR~~~~~~~~~~~
+seq0210    YWFQNHKARQRQ~~~~~~~~~~~~~~~~~
+seq0211    SRATFKS~~~~~~~~~~~~~~~~~~~~~~
+seq0212    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0213    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0214    QNKKFKQE~~~~~~~~~~~~~~~~~~~~~
+seq0215    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0216    RLRSKQ~~~~~~~~~~~~~~~~~~~~~~~
+seq0217    RRRG~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0218    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0219    RRAKQRK~~~~~~~~~~~~~~~~~~~~~~
+seq0220    DKP~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0221    KV~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0222    FYWFQNYKARERL~~~~~~~~~~~~~~~~
+seq0223    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0224    RRSED~~~~~~~~~~~~~~~~~~~~~~~~
+seq0225    KRAKNRA~~~~~~~~~~~~~~~~~~~~~~
+seq0226    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0227    YHCRN~~~~~~~~~~~~~~~~~~~~~~~~
+seq0228    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0229    QRFKN~~~~~~~~~~~~~~~~~~~~~~~~
+seq0230    QNRRRKDKV~~~~~~~~~~~~~~~~~~~~
+seq0231    TLFKERQ~~~~~~~~~~~~~~~~~~~~~~
+seq0232    SQHNVKIWFKNRRAKCKR~~~~~~~~~~~
+seq0233    RNEE~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0234    YWFQNHKARQRQ~~~~~~~~~~~~~~~~~
+seq0235    YCFQNHKARDRQ~~~~~~~~~~~~~~~~~
+seq0236    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0237    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0238    NRSRERK~~~~~~~~~~~~~~~~~~~~~~
+seq0239    YWFQNRRSRSRR~~~~~~~~~~~~~~~~~
+seq0240    Q~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0241    ARKKV~~~~~~~~~~~~~~~~~~~~~~~~
+seq0242    YHVKH~~~~~~~~~~~~~~~~~~~~~~~~
+seq0243    LK~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0244    TLFKERQ~~~~~~~~~~~~~~~~~~~~~~
+seq0245    ACRRSMDK~~~~~~~~~~~~~~~~~~~~~
+seq0246    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0247    DVNNVVYWFKNARAAQKR~~~~~~~~~~~
+seq0248    NRSRERK~~~~~~~~~~~~~~~~~~~~~~
+seq0249    SRAKDKK~~~~~~~~~~~~~~~~~~~~~~
+seq0250    DVNNVVYWFKNARAAQKR~~~~~~~~~~~
+seq0251    ARAAQKR~~~~~~~~~~~~~~~~~~~~~~
+seq0252    RAQDKP~~~~~~~~~~~~~~~~~~~~~~~
+seq0253    DVNNVVYWFKNARAAQKR~~~~~~~~~~~
+seq0254    SRAKDKK~~~~~~~~~~~~~~~~~~~~~~
+seq0255    LESKNVHFWFKNRRAKCKR~~~~~~~~~~
+seq0256    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0257    NWFQNRRARSNR~~~~~~~~~~~~~~~~~
+seq0258    NWFQNRRARSKR~~~~~~~~~~~~~~~~~
+seq0259    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0260    AKWRR~~~~~~~~~~~~~~~~~~~~~~~~
+seq0261    WFQNHKARERQ~~~~~~~~~~~~~~~~~~
+seq0262    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0263    VWNWFQNRRYSHRA~~~~~~~~~~~~~~~
+seq0264    QVWTWFQNKRYSQKT~~~~~~~~~~~~~~
+seq0265    RRHRFRK~~~~~~~~~~~~~~~~~~~~~~
+seq0266    NWFQNRRARSKR~~~~~~~~~~~~~~~~~
+seq0267    YWFQNHKARQRQ~~~~~~~~~~~~~~~~~
+seq0268    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0269    NWFQNRRARSKR~~~~~~~~~~~~~~~~~
+seq0270    NED~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0271    NWFQNRRARSKR~~~~~~~~~~~~~~~~~
+seq0272    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0273    ARYLALK~~~~~~~~~~~~~~~~~~~~~~
+seq0274    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0275    YWFQNHKARQRQ~~~~~~~~~~~~~~~~~
+seq0276    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0277    EEEKA~~~~~~~~~~~~~~~~~~~~~~~~
+seq0278    WFAVKRG~~~~~~~~~~~~~~~~~~~~~~
+seq0279    YWFQNHKARDRQ~~~~~~~~~~~~~~~~~
+seq0280    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0281    NHKA~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0282    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0283    YWFQ~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0284    YWF~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0285    YWFQNHKARDRQ~~~~~~~~~~~~~~~~~
+seq0286    FYWFQNHKARQRQ~~~~~~~~~~~~~~~~
+seq0287    YWFQNHKARDRQ~~~~~~~~~~~~~~~~~
+seq0288    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0289    VGNQRRKRRM~~~~~~~~~~~~~~~~~~~
+seq0290    WFNHRRTKEKY~~~~~~~~~~~~~~~~~~
+seq0291    REK~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0292    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0293    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0294    WFQNHKARERQ~~~~~~~~~~~~~~~~~~
+seq0295    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0296    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0297    YWFQNRKARDRK~~~~~~~~~~~~~~~~~
+seq0298    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0299    WFQNHKARERQ~~~~~~~~~~~~~~~~~~
+seq0300    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0301    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0302    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0303    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0304    P~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0305    RNRQRQLD~~~~~~~~~~~~~~~~~~~~~
+seq0306    DVNNVVYWFKNARAAQKR~~~~~~~~~~~
+seq0307    DVNNVVYWFKNARAAQKR~~~~~~~~~~~
+seq0308    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0309    DKP~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0310    WFQNHKARERQ~~~~~~~~~~~~~~~~~~
+seq0311    WFPKQKL~~~~~~~~~~~~~~~~~~~~~~
+seq0312    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0313    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0314    WFQNHKARERQ~~~~~~~~~~~~~~~~~~
+seq0315    YWFQNHKARDRQ~~~~~~~~~~~~~~~~~
+seq0316    EEDKM~~~~~~~~~~~~~~~~~~~~~~~~
+seq0317    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0318    YWFQNRKARDRL~~~~~~~~~~~~~~~~~
+seq0319    NHKA~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0320    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0321    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0322    YWFQ~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0323    NHKA~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0324    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0325    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0326    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0327    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0328    VGNYRRKLRL~~~~~~~~~~~~~~~~~~~
+seq0329    KSVAIWFKNARAKVAK~~~~~~~~~~~~~
+seq0330    YWFQNHKARQRH~~~~~~~~~~~~~~~~~
+seq0331    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0332    WFQNHKARERQ~~~~~~~~~~~~~~~~~~
+seq0333    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0334    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0335    NKKSREKR~~~~~~~~~~~~~~~~~~~~~
+seq0336    DINNVLYWFKNARAAQKR~~~~~~~~~~~
+seq0337    RRRNTDRP~~~~~~~~~~~~~~~~~~~~~
+seq0338    RLAQWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0339    ERQ~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0340    WFQNHKARERQ~~~~~~~~~~~~~~~~~~
+seq0341    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0342    LASWRK~~~~~~~~~~~~~~~~~~~~~~~
+seq0343    KQQIQAWFGRRRAKEKK~~~~~~~~~~~~
+seq0344    HRRAQDH~~~~~~~~~~~~~~~~~~~~~~
+seq0345    RRRNQDRP~~~~~~~~~~~~~~~~~~~~~
+seq0346    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0347    DRP~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0348    EKP~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0349    VWFCNRRQ~~~~~~~~~~~~~~~~~~~~~
+seq0350    RLAKWRR~~~~~~~~~~~~~~~~~~~~~~
+seq0351    FKHRRRKDRK~~~~~~~~~~~~~~~~~~~
+seq0352    Q~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0353    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0354    RRRNQDRP~~~~~~~~~~~~~~~~~~~~~
+seq0355    P~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0356    HRRNQDRP~~~~~~~~~~~~~~~~~~~~~
+seq0357    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0358    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0359    KP~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0360    Q~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0361    LKVYNWFANRRKEMKR~~~~~~~~~~~~~
+seq0362    EKP~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0363    P~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0364    NRRQRQRQ~~~~~~~~~~~~~~~~~~~~~
+seq0365    SKWRE~~~~~~~~~~~~~~~~~~~~~~~~
+seq0366    Q~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0367    P~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0368    TKQRIKTWFSNRRAKERI~~~~~~~~~~~
+seq0369    QRSIDYKQIRCWFYKRRSANQ~~~~~~~~
+seq0370    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0371    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0372    VGNKRRKMS~~~~~~~~~~~~~~~~~~~~
+seq0373    RRRNQDRP~~~~~~~~~~~~~~~~~~~~~
+seq0374    RAEE~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0375    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0376    AQWRQ~~~~~~~~~~~~~~~~~~~~~~~~
+seq0377    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0378    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0379    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0380    SD~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0381    ERP~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0382    REQD~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0383    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0384    YWFQNRRSRSRR~~~~~~~~~~~~~~~~~
+seq0385    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0386    LAEWRR~~~~~~~~~~~~~~~~~~~~~~~
+seq0387    KP~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0388    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0389    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0390    KRDGARS~~~~~~~~~~~~~~~~~~~~~~
+seq0391    YWFQNRRSRSRR~~~~~~~~~~~~~~~~~
+seq0392    RLED~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0393    QNRRMKWKKENKTKGEPG~~~~~~~~~~~
+seq0394    RRMKDKR~~~~~~~~~~~~~~~~~~~~~~
+seq0395    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0396    VWFQNRRAKYRK~~~~~~~~~~~~~~~~~
+seq0397    SQHNVKIWFKNRRAKCKR~~~~~~~~~~~
+seq0398    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0399    RRARWKT~~~~~~~~~~~~~~~~~~~~~~
+seq0400    RRA~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0401    YWFQNRRSRSRR~~~~~~~~~~~~~~~~~
+seq0402    RARWKA~~~~~~~~~~~~~~~~~~~~~~~
+seq0403    KRTQMKG~~~~~~~~~~~~~~~~~~~~~~
+seq0404    RRARWKV~~~~~~~~~~~~~~~~~~~~~~
+seq0405    RARWKA~~~~~~~~~~~~~~~~~~~~~~~
+seq0406    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0407    RRMKAKK~~~~~~~~~~~~~~~~~~~~~~
+seq0408    RRQKLRK~~~~~~~~~~~~~~~~~~~~~~
+seq0409    YRTRQKA~~~~~~~~~~~~~~~~~~~~~~
+seq0410    QRQ~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0411    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0412    RRTKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0413    RRTKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0414    RRMKEKK~~~~~~~~~~~~~~~~~~~~~~
+seq0415    RRMKAKK~~~~~~~~~~~~~~~~~~~~~~
+seq0416    NRRAKVKN~~~~~~~~~~~~~~~~~~~~~
+seq0417    RARWKT~~~~~~~~~~~~~~~~~~~~~~~
+seq0418    RARWKT~~~~~~~~~~~~~~~~~~~~~~~
+seq0419    WFQNHKARERQ~~~~~~~~~~~~~~~~~~
+seq0420    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0421    RARWKT~~~~~~~~~~~~~~~~~~~~~~~
+seq0422    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0423    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0424    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0425    ARRRN~~~~~~~~~~~~~~~~~~~~~~~~
+seq0426    YNQRN~~~~~~~~~~~~~~~~~~~~~~~~
+seq0427    RRMKW~~~~~~~~~~~~~~~~~~~~~~~~
+seq0428    RMKEKN~~~~~~~~~~~~~~~~~~~~~~~
+seq0429    GMNEKK~~~~~~~~~~~~~~~~~~~~~~~
+seq0430    QRTRVRK~~~~~~~~~~~~~~~~~~~~~~
+seq0431    QVWYWFQNRKYSQRS~~~~~~~~~~~~~~
+seq0432    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0433    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0434    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0435    RRM~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0436    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0437    RRM~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0438    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0439    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0440    NRRTQMKA~~~~~~~~~~~~~~~~~~~~~
+seq0441    RRIKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0442    RRTKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0443    ARRRHT~~~~~~~~~~~~~~~~~~~~~~~
+seq0444    RRAKMRR~~~~~~~~~~~~~~~~~~~~~~
+seq0445    KRTAMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0446    RRRKEKS~~~~~~~~~~~~~~~~~~~~~~
+seq0447    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0448    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0449    RRMKDKR~~~~~~~~~~~~~~~~~~~~~~
+seq0450    QRMKSKR~~~~~~~~~~~~~~~~~~~~~~
+seq0451    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0452    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0453    RTKWKR~~~~~~~~~~~~~~~~~~~~~~~
+seq0454    QRQKARR~~~~~~~~~~~~~~~~~~~~~~
+seq0455    QRQKQKR~~~~~~~~~~~~~~~~~~~~~~
+seq0456    CTDNPLQFQNRRNRRAH~~~~~~~~~~~~
+seq0457    RRMKAKK~~~~~~~~~~~~~~~~~~~~~~
+seq0458    ARRRGHE~~~~~~~~~~~~~~~~~~~~~~
+seq0459    RIDRK~~~~~~~~~~~~~~~~~~~~~~~~
+seq0460    RTRSKA~~~~~~~~~~~~~~~~~~~~~~~
+seq0461    MRGRN~~~~~~~~~~~~~~~~~~~~~~~~
+seq0462    SRARQKK~~~~~~~~~~~~~~~~~~~~~~
+seq0463    HRRRK~~~~~~~~~~~~~~~~~~~~~~~~
+seq0464    TRKRTN~~~~~~~~~~~~~~~~~~~~~~~
+seq0465    TRKRTN~~~~~~~~~~~~~~~~~~~~~~~
+seq0466    HRRRK~~~~~~~~~~~~~~~~~~~~~~~~
+seq0467    RQAVKA~~~~~~~~~~~~~~~~~~~~~~~
+seq0468    YWFQNHKARDRQ~~~~~~~~~~~~~~~~~
+seq0469    YWFQNHKARERH~~~~~~~~~~~~~~~~~
+seq0470    YWFQNRKSRSKN~~~~~~~~~~~~~~~~~
+seq0471    YWFQNRKSRTKH~~~~~~~~~~~~~~~~~
+seq0472    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0473    RRARWKT~~~~~~~~~~~~~~~~~~~~~~
+seq0474    RLKDRK~~~~~~~~~~~~~~~~~~~~~~~
+seq0475    RARWKT~~~~~~~~~~~~~~~~~~~~~~~
+seq0476    RRMKQKK~~~~~~~~~~~~~~~~~~~~~~
+seq0477    RRARWKT~~~~~~~~~~~~~~~~~~~~~~
+seq0478    QIAVWFQNRKARWKN~~~~~~~~~~~~~~
+seq0479    RARWKA~~~~~~~~~~~~~~~~~~~~~~~
+seq0480    RRAKAKL~~~~~~~~~~~~~~~~~~~~~~
+seq0481    ARR~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0482    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0483    ESKNVQFWFKNRRAKCKR~~~~~~~~~~~
+seq0484    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0485    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0486    QRQKQKR~~~~~~~~~~~~~~~~~~~~~~
+seq0487    RRMKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0488    QMS~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0489    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0490    KRL~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0491    FYWFQNHKARERQ~~~~~~~~~~~~~~~~
+seq0492    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0493    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0494    QRKT~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0495    RRARLRK~~~~~~~~~~~~~~~~~~~~~~
+seq0496    TITVAQVSNWFGNKRIRYKK~~~~~~~~~
+seq0497    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0498    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0499    RRSKERR~~~~~~~~~~~~~~~~~~~~~~
+seq0500    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0501    HRMRLKQ~~~~~~~~~~~~~~~~~~~~~~
+seq0502    RRMKHKR~~~~~~~~~~~~~~~~~~~~~~
+seq0503    NRSRERK~~~~~~~~~~~~~~~~~~~~~~
+seq0504    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0505    TRARERK~~~~~~~~~~~~~~~~~~~~~~
+seq0506    RAKAKQ~~~~~~~~~~~~~~~~~~~~~~~
+seq0507    ARQKARK~~~~~~~~~~~~~~~~~~~~~~
+seq0508    RRTKWRR~~~~~~~~~~~~~~~~~~~~~~
+seq0509    RD~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0510    VPEERGRGTGLRQTSVSNWFGNKRIRYKK
+seq0511    YRCQR~~~~~~~~~~~~~~~~~~~~~~~~
+seq0512    RRARTKL~~~~~~~~~~~~~~~~~~~~~~
+seq0513    SRS~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0514    ENQIKIWFQNRRTKWKR~~~~~~~~~~~~
+seq0515    RRNKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0516    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0517    TRARERK~~~~~~~~~~~~~~~~~~~~~~
+seq0518    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0519    RRNKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0520    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0521    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0522    KYKR~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0523    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0524    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0525    RRTKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0526    RRKR~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0527    RRARWKT~~~~~~~~~~~~~~~~~~~~~~
+seq0528    RRARL~~~~~~~~~~~~~~~~~~~~~~~~
+seq0529    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0530    VFFN~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0531    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0532    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0533    RRAKEKR~~~~~~~~~~~~~~~~~~~~~~
+seq0534    RRAKERK~~~~~~~~~~~~~~~~~~~~~~
+seq0535    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0536    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0537    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0538    RARWKT~~~~~~~~~~~~~~~~~~~~~~~
+seq0539    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0540    RRARWKT~~~~~~~~~~~~~~~~~~~~~~
+seq0541    RRQANKK~~~~~~~~~~~~~~~~~~~~~~
+seq0542    KRMRSK~~~~~~~~~~~~~~~~~~~~~~~
+seq0543    RRARSIK~~~~~~~~~~~~~~~~~~~~~~
+seq0544    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0545    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0546    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0547    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0548    RRAKQKK~~~~~~~~~~~~~~~~~~~~~~
+seq0549    GRQ~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0550    NKRTQIKN~~~~~~~~~~~~~~~~~~~~~
+seq0551    KRQSIRK~~~~~~~~~~~~~~~~~~~~~~
+seq0552    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0553    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0554    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0555    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0556    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0557    FGNKKIRYKK~~~~~~~~~~~~~~~~~~~
+seq0558    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0559    RRARWKT~~~~~~~~~~~~~~~~~~~~~~
+seq0560    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0561    RNRTKL~~~~~~~~~~~~~~~~~~~~~~~
+seq0562    YWFQNRKSRTKL~~~~~~~~~~~~~~~~~
+seq0563    RXX~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0564    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0565    FGNKRIRFKK~~~~~~~~~~~~~~~~~~~
+seq0566    RR~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0567    RRVKYKK~~~~~~~~~~~~~~~~~~~~~~
+seq0568    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0569    RRLKDKR~~~~~~~~~~~~~~~~~~~~~~
+seq0570    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0571    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0572    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0573    RRAKERK~~~~~~~~~~~~~~~~~~~~~~
+seq0574    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0575    RRMKYKR~~~~~~~~~~~~~~~~~~~~~~
+seq0576    KRQALKN~~~~~~~~~~~~~~~~~~~~~~
+seq0577    RRARTKL~~~~~~~~~~~~~~~~~~~~~~
+seq0578    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0579    RRAKYRK~~~~~~~~~~~~~~~~~~~~~~
+seq0580    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0581    RRVKEKK~~~~~~~~~~~~~~~~~~~~~~
+seq0582    R~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0583    RRAKERK~~~~~~~~~~~~~~~~~~~~~~
+seq0584    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0585    RRAKWRR~~~~~~~~~~~~~~~~~~~~~~
+seq0586    KRSKYKK~~~~~~~~~~~~~~~~~~~~~~
+seq0587    RRARWKT~~~~~~~~~~~~~~~~~~~~~~
+seq0588    RRAKEKR~~~~~~~~~~~~~~~~~~~~~~
+seq0589    RRARWKN~~~~~~~~~~~~~~~~~~~~~~
+seq0590    RRVKEKK~~~~~~~~~~~~~~~~~~~~~~
+seq0591    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0592    RRMKAKK~~~~~~~~~~~~~~~~~~~~~~
+seq0593    RRARTKL~~~~~~~~~~~~~~~~~~~~~~
+seq0594    RMKEKK~~~~~~~~~~~~~~~~~~~~~~~
+seq0595    RRQRDRA~~~~~~~~~~~~~~~~~~~~~~
+seq0596    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0597    QRAKMKK~~~~~~~~~~~~~~~~~~~~~~
+seq0598    RARHKN~~~~~~~~~~~~~~~~~~~~~~~
+seq0599    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0600    RRAKYRK~~~~~~~~~~~~~~~~~~~~~~
+seq0601    YRSRMRR~~~~~~~~~~~~~~~~~~~~~~
+seq0602    RRTKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0603    KAHGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0604    KRCKDKK~~~~~~~~~~~~~~~~~~~~~~
+seq0605    DKP~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0606    RSRKNKD~~~~~~~~~~~~~~~~~~~~~~
+seq0607    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0608    CRKRRA~~~~~~~~~~~~~~~~~~~~~~~
+seq0609    TLFKERQ~~~~~~~~~~~~~~~~~~~~~~
+seq0610    RMKWRN~~~~~~~~~~~~~~~~~~~~~~~
+seq0611    RMKQKK~~~~~~~~~~~~~~~~~~~~~~~
+seq0612    RRQKEKR~~~~~~~~~~~~~~~~~~~~~~
+seq0613    ARQKARK~~~~~~~~~~~~~~~~~~~~~~
+seq0614    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0615    RRAKQRK~~~~~~~~~~~~~~~~~~~~~~
+seq0616    RRAKNRR~~~~~~~~~~~~~~~~~~~~~~
+seq0617    RRARTKL~~~~~~~~~~~~~~~~~~~~~~
+seq0618    RRAKQRK~~~~~~~~~~~~~~~~~~~~~~
+seq0619    N~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0620    NRRAKDRR~~~~~~~~~~~~~~~~~~~~~
+seq0621    RRARR~~~~~~~~~~~~~~~~~~~~~~~~
+seq0622    RRARSKL~~~~~~~~~~~~~~~~~~~~~~
+seq0623    QLAGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0624    RRAKWRR~~~~~~~~~~~~~~~~~~~~~~
+seq0625    RRARTKL~~~~~~~~~~~~~~~~~~~~~~
+seq0626    RRMKDKR~~~~~~~~~~~~~~~~~~~~~~
+seq0627    NKRTQMKT~~~~~~~~~~~~~~~~~~~~~
+seq0628    RRAKVRQ~~~~~~~~~~~~~~~~~~~~~~
+seq0629    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0630    RRMKLKK~~~~~~~~~~~~~~~~~~~~~~
+seq0631    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0632    RRARWKN~~~~~~~~~~~~~~~~~~~~~~
+seq0633    YWFQNRRSRSRR~~~~~~~~~~~~~~~~~
+seq0634    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0635    RRYQDLR~~~~~~~~~~~~~~~~~~~~~~
+seq0636    YWFQNRKSRTKQ~~~~~~~~~~~~~~~~~
+seq0637    QNKRQSLRK~~~~~~~~~~~~~~~~~~~~
+seq0638    LSRFWFQNRRMKDKR~~~~~~~~~~~~~~
+seq0639    YWFQNHKARERH~~~~~~~~~~~~~~~~~
+seq0640    HWKN~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0641    RRTQMKT~~~~~~~~~~~~~~~~~~~~~~
+seq0642    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0643    ARQKARK~~~~~~~~~~~~~~~~~~~~~~
+seq0644    RRAKFRK~~~~~~~~~~~~~~~~~~~~~~
+seq0645    RRARTKL~~~~~~~~~~~~~~~~~~~~~~
+seq0646    RARSKT~~~~~~~~~~~~~~~~~~~~~~~
+seq0647    RAKAKQ~~~~~~~~~~~~~~~~~~~~~~~
+seq0648    RRMKYKR~~~~~~~~~~~~~~~~~~~~~~
+seq0649    RRTQIKA~~~~~~~~~~~~~~~~~~~~~~
+seq0650    QLAGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0651    KRARTLK~~~~~~~~~~~~~~~~~~~~~~
+seq0652    RRMKDKR~~~~~~~~~~~~~~~~~~~~~~
+seq0653    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0654    QLAGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0655    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0656    RRTKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0657    HRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0658    RRTKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0659    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0660    SRARQKK~~~~~~~~~~~~~~~~~~~~~~
+seq0661    HRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0662    RRTKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0663    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0664    RRSKYKK~~~~~~~~~~~~~~~~~~~~~~
+seq0665    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0666    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0667    NWFQNRRARSKR~~~~~~~~~~~~~~~~~
+seq0668    RRTKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0669    RRMKSMK~~~~~~~~~~~~~~~~~~~~~~
+seq0670    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0671    SRARQKK~~~~~~~~~~~~~~~~~~~~~~
+seq0672    HRYKFKK~~~~~~~~~~~~~~~~~~~~~~
+seq0673    RRMKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0674    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0675    E~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0676    RRAKYRK~~~~~~~~~~~~~~~~~~~~~~
+seq0677    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0678    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0679    RRMKWRH~~~~~~~~~~~~~~~~~~~~~~
+seq0680    RRMKLKK~~~~~~~~~~~~~~~~~~~~~~
+seq0681    RRMKMKK~~~~~~~~~~~~~~~~~~~~~~
+seq0682    RRMKSKK~~~~~~~~~~~~~~~~~~~~~~
+seq0683    RRAKLKR~~~~~~~~~~~~~~~~~~~~~~
+seq0684    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0685    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0686    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0687    RRYKAKR~~~~~~~~~~~~~~~~~~~~~~
+seq0688    RRMKLKK~~~~~~~~~~~~~~~~~~~~~~
+seq0689    RRMKQKK~~~~~~~~~~~~~~~~~~~~~~
+seq0690    RRIKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0691    NWFQNRRARSKR~~~~~~~~~~~~~~~~~
+seq0692    RRARTKL~~~~~~~~~~~~~~~~~~~~~~
+seq0693    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0694    RRTKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0695    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0696    RRQKEKR~~~~~~~~~~~~~~~~~~~~~~
+seq0697    HRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0698    RRMKLKK~~~~~~~~~~~~~~~~~~~~~~
+seq0699    RRVKEKK~~~~~~~~~~~~~~~~~~~~~~
+seq0700    RRMKLKR~~~~~~~~~~~~~~~~~~~~~~
+seq0701    RRNKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0702    QRRKLKI~~~~~~~~~~~~~~~~~~~~~~
+seq0703    RRAKAKR~~~~~~~~~~~~~~~~~~~~~~
+seq0704    RRAKAKR~~~~~~~~~~~~~~~~~~~~~~
+seq0705    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0706    RYMKKN~~~~~~~~~~~~~~~~~~~~~~~
+seq0707    D~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0708    RRTKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0709    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0710    RRRRHKI~~~~~~~~~~~~~~~~~~~~~~
+seq0711    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0712    RRAKERK~~~~~~~~~~~~~~~~~~~~~~
+seq0713    KFRK~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0714    RRTKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0715    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0716    RRAKWRH~~~~~~~~~~~~~~~~~~~~~~
+seq0717    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0718    Q~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0719    FQNRRCREKQ~~~~~~~~~~~~~~~~~~~
+seq0720    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0721    RRMKMKK~~~~~~~~~~~~~~~~~~~~~~
+seq0722    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0723    ARQKARK~~~~~~~~~~~~~~~~~~~~~~
+seq0724    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0725    HRYKLKR~~~~~~~~~~~~~~~~~~~~~~
+seq0726    RRAKWRR~~~~~~~~~~~~~~~~~~~~~~
+seq0727    RRKQDRP~~~~~~~~~~~~~~~~~~~~~~
+seq0728    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0729    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0730    RRAKFRP~~~~~~~~~~~~~~~~~~~~~~
+seq0731    HRYKLE~~~~~~~~~~~~~~~~~~~~~~~
+seq0732    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0733    RRCKEYK~~~~~~~~~~~~~~~~~~~~~~
+seq0734    NKKSK~~~~~~~~~~~~~~~~~~~~~~~~
+seq0735    RRNKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0736    RRAKERK~~~~~~~~~~~~~~~~~~~~~~
+seq0737    APSFRK~~~~~~~~~~~~~~~~~~~~~~~
+seq0738    RRVKYQK~~~~~~~~~~~~~~~~~~~~~~
+seq0739    WRR~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0740    RRVKYQK~~~~~~~~~~~~~~~~~~~~~~
+seq0741    YRSRMRR~~~~~~~~~~~~~~~~~~~~~~
+seq0742    YRCQR~~~~~~~~~~~~~~~~~~~~~~~~
+seq0743    RRMKMKK~~~~~~~~~~~~~~~~~~~~~~
+seq0744    AAPSRSRAR~~~~~~~~~~~~~~~~~~~~
+seq0745    RRSKFKK~~~~~~~~~~~~~~~~~~~~~~
+seq0746    RRQAARK~~~~~~~~~~~~~~~~~~~~~~
+seq0747    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0748    WFQNRRCREKQ~~~~~~~~~~~~~~~~~~
+seq0749    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0750    HRYKLKR~~~~~~~~~~~~~~~~~~~~~~
+seq0751    RRAKWRH~~~~~~~~~~~~~~~~~~~~~~
+seq0752    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0753    RRAKSRR~~~~~~~~~~~~~~~~~~~~~~
+seq0754    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0755    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0756    QNHRYKMKRQAKDKAAQQ~~~~~~~~~~~
+seq0757    FQNRRMKSKKDRTLDSSPEH~~~~~~~~~
+seq0758    KIKKS~~~~~~~~~~~~~~~~~~~~~~~~
+seq0759    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0760    RRYKNKR~~~~~~~~~~~~~~~~~~~~~~
+seq0761    KRAKLKK~~~~~~~~~~~~~~~~~~~~~~
+seq0762    QRQKQKR~~~~~~~~~~~~~~~~~~~~~~
+seq0763    RRMKSKK~~~~~~~~~~~~~~~~~~~~~~
+seq0764    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0765    RRMKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0766    RRSKFKK~~~~~~~~~~~~~~~~~~~~~~
+seq0767    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0768    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0769    HRYKLKK~~~~~~~~~~~~~~~~~~~~~~
+seq0770    YSR~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0771    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0772    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0773    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0774    HRYKLKR~~~~~~~~~~~~~~~~~~~~~~
+seq0775    KRSKYKK~~~~~~~~~~~~~~~~~~~~~~
+seq0776    RRMKMKK~~~~~~~~~~~~~~~~~~~~~~
+seq0777    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0778    HRYKLE~~~~~~~~~~~~~~~~~~~~~~~
+seq0779    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0780    RAKWRK~~~~~~~~~~~~~~~~~~~~~~~
+seq0781    RRARTKL~~~~~~~~~~~~~~~~~~~~~~
+seq0782    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0783    RRMKKKR~~~~~~~~~~~~~~~~~~~~~~
+seq0784    RRAKWRR~~~~~~~~~~~~~~~~~~~~~~
+seq0785    HRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0786    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0787    RMKWRN~~~~~~~~~~~~~~~~~~~~~~~
+seq0788    HRYKLKR~~~~~~~~~~~~~~~~~~~~~~
+seq0789    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0790    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0791    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0792    KRQSTRT~~~~~~~~~~~~~~~~~~~~~~
+seq0793    HRYKLKR~~~~~~~~~~~~~~~~~~~~~~
+seq0794    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0795    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0796    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0797    YKCKR~~~~~~~~~~~~~~~~~~~~~~~~
+seq0798    HRYKLKR~~~~~~~~~~~~~~~~~~~~~~
+seq0799    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0800    RC~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0801    RRAKAKR~~~~~~~~~~~~~~~~~~~~~~
+seq0802    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0803    RRARWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0804    RRMKRKR~~~~~~~~~~~~~~~~~~~~~~
+seq0805    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0806    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0807    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0808    RRAKWRK~~~~~~~~~~~~~~~~~~~~~~
+seq0809    RRMKQKK~~~~~~~~~~~~~~~~~~~~~~
+seq0810    RRYKCKK~~~~~~~~~~~~~~~~~~~~~~
+seq0811    R~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0812    RRARSKL~~~~~~~~~~~~~~~~~~~~~~
+seq0813    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0814    HIR~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0815    RRTKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0816    NRRAKCKK~~~~~~~~~~~~~~~~~~~~~
+seq0817    RRMKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0818    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0819    KR~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0820    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0821    RRQKQKR~~~~~~~~~~~~~~~~~~~~~~
+seq0822    RRAKWRR~~~~~~~~~~~~~~~~~~~~~~
+seq0823    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0824    R~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0825    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0826    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0827    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0828    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0829    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0830    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0831    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0832    ANKRNRSK~~~~~~~~~~~~~~~~~~~~~
+seq0833    DRT~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0834    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0835    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0836    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0837    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0838    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0839    RRSRL~~~~~~~~~~~~~~~~~~~~~~~~
+seq0840    KRQGMRK~~~~~~~~~~~~~~~~~~~~~~
+seq0841    FMTITNVSNWFANRRKRE~~~~~~~~~~~
+seq0842    QLAGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0843    QVQGASGDSEGITEQRINTWFTNRRK~~~
+seq0844    KAQGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0845    AKWRR~~~~~~~~~~~~~~~~~~~~~~~~
+seq0846    KAHGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0847    KAHGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0848    KAHGLGSNLVTEVRVYNWFANRRKEEA~~
+seq0849    PSKAHGLGSNLVTEVRVYNWFANRRKEE~
+seq0850    KERVTLNVVTNWFNNRRKEAKQ~~~~~~~
+seq0851    RRRQRA~~~~~~~~~~~~~~~~~~~~~~~
+seq0852    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0853    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0854    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0855    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0856    QRDRA~~~~~~~~~~~~~~~~~~~~~~~~
+seq0857    RGRQKV~~~~~~~~~~~~~~~~~~~~~~~
+seq0858    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0859    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0860    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0861    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0862    FANKRARTS~~~~~~~~~~~~~~~~~~~~
+seq0863    FANKRART~~~~~~~~~~~~~~~~~~~~~
+seq0864    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0865    KRAKLKK~~~~~~~~~~~~~~~~~~~~~~
+seq0866    RRAKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0867    RRMKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0868    RRMKSKR~~~~~~~~~~~~~~~~~~~~~~
+seq0869    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0870    QRYKHKR~~~~~~~~~~~~~~~~~~~~~~
+seq0871    HRYKMKK~~~~~~~~~~~~~~~~~~~~~~
+seq0872    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0873    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0874    HHYKMNR~~~~~~~~~~~~~~~~~~~~~~
+seq0875    HRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0876    HRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0877    HRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0878    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0879    HRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0880    HRYKMKK~~~~~~~~~~~~~~~~~~~~~~
+seq0881    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0882    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0883    HRYKFKK~~~~~~~~~~~~~~~~~~~~~~
+seq0884    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0885    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0886    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0887    HRYKVKR~~~~~~~~~~~~~~~~~~~~~~
+seq0888    HRYKFKK~~~~~~~~~~~~~~~~~~~~~~
+seq0889    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0890    QRYKHKR~~~~~~~~~~~~~~~~~~~~~~
+seq0891    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0892    AYKMKR~~~~~~~~~~~~~~~~~~~~~~~
+seq0893    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0894    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0895    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0896    RRAKWKR~~~~~~~~~~~~~~~~~~~~~~
+seq0897    KRSKFKK~~~~~~~~~~~~~~~~~~~~~~
+seq0898    RRTKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0899    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0900    RRMKDKK~~~~~~~~~~~~~~~~~~~~~~
+seq0901    RRMKNKK~~~~~~~~~~~~~~~~~~~~~~
+seq0902    K~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0903    RRAKWKK~~~~~~~~~~~~~~~~~~~~~~
+seq0904    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0905    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0906    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0907    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0908    RRARLRK~~~~~~~~~~~~~~~~~~~~~~
+seq0909    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0910    HRSRAKK~~~~~~~~~~~~~~~~~~~~~~
+seq0911    NRFKS~~~~~~~~~~~~~~~~~~~~~~~~
+seq0912    KRMRSK~~~~~~~~~~~~~~~~~~~~~~~
+seq0913    R~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0914    QRDRA~~~~~~~~~~~~~~~~~~~~~~~~
+seq0915    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0916    FGNKRIRYKK~~~~~~~~~~~~~~~~~~~
+seq0917    KAQGLGTNLVTEVRVYNWFANRRKEE~~~
+seq0918    KAHGLGSNLVTEVRVYNWFANRRKEE~~~
+seq0919    RRRQRA~~~~~~~~~~~~~~~~~~~~~~~
+seq0920    RRARERR~~~~~~~~~~~~~~~~~~~~~~
+seq0921    RRARERR~~~~~~~~~~~~~~~~~~~~~~
+seq0922    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0923    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0924    HRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0925    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0926    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0927    HRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0928    HRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0929    HRYKLKR~~~~~~~~~~~~~~~~~~~~~~
+seq0930    HRYKTKK~~~~~~~~~~~~~~~~~~~~~~
+seq0931    HRLQDER~~~~~~~~~~~~~~~~~~~~~~
+seq0932    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0933    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0934    RRYKSKR~~~~~~~~~~~~~~~~~~~~~~
+seq0935    RRYKCKR~~~~~~~~~~~~~~~~~~~~~~
+seq0936    HRYKMKK~~~~~~~~~~~~~~~~~~~~~~
+seq0937    RRYKMKR~~~~~~~~~~~~~~~~~~~~~~
+seq0938    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0939    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0940    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0941    RRYKTKR~~~~~~~~~~~~~~~~~~~~~~
+seq0942    RRYKDQR~~~~~~~~~~~~~~~~~~~~~~
+seq0943    RRAKEKR~~~~~~~~~~~~~~~~~~~~~~
+seq0944    RRYKTKRKQLSSELGDLEKR~~~~~~~~~
+seq0945    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0946    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0947    RRMKHKK~~~~~~~~~~~~~~~~~~~~~~
+seq0948    RRT~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0949    RRSKFKK~~~~~~~~~~~~~~~~~~~~~~
+seq0950    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0951    RRARDRR~~~~~~~~~~~~~~~~~~~~~~
+seq0952    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0953    RRARERR~~~~~~~~~~~~~~~~~~~~~~
+seq0954    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0955    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0956    RRIRFSKH~~~~~~~~~~~~~~~~~~~~~
+seq0957    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0958    ATWRR~~~~~~~~~~~~~~~~~~~~~~~~
+seq0959    KRQSMKK~~~~~~~~~~~~~~~~~~~~~~
+seq0960    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0961    RE~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0962    RRRQRA~~~~~~~~~~~~~~~~~~~~~~~
+seq0963    NRRKG~~~~~~~~~~~~~~~~~~~~~~~~
+seq0964    RRQSCRR~~~~~~~~~~~~~~~~~~~~~~
+seq0965    RRKEIKR~~~~~~~~~~~~~~~~~~~~~~
+seq0966    TELDKVTTVKVYNWFANRRKDDKR~~~~~
+seq0967    KRARDRR~~~~~~~~~~~~~~~~~~~~~~
+seq0968    ESEKMTILNITNWFNNRRKEKKR~~~~~~
+seq0969    VKRRAKIKR~~~~~~~~~~~~~~~~~~~~
+seq0970    TLFKERQ~~~~~~~~~~~~~~~~~~~~~~
+seq0971    SRARQKK~~~~~~~~~~~~~~~~~~~~~~
+seq0972    DKT~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0973    ARYLA~~~~~~~~~~~~~~~~~~~~~~~~
+seq0974    YWFQNRKSRSKH~~~~~~~~~~~~~~~~~
+seq0975    NWFQNRRARSKR~~~~~~~~~~~~~~~~~
+seq0976    REEE~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0977    WFQNHKARQRQ~~~~~~~~~~~~~~~~~~
+seq0978    TLFKERQ~~~~~~~~~~~~~~~~~~~~~~
+seq0979    EPKNVQFWFKNRRAKNKR~~~~~~~~~~~
+seq0980    ARAKWRR~~~~~~~~~~~~~~~~~~~~~~
+seq0981    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0982    SRARQKK~~~~~~~~~~~~~~~~~~~~~~
+seq0983    TLFKERQ~~~~~~~~~~~~~~~~~~~~~~
+seq0984    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq0985    MRDKR~~~~~~~~~~~~~~~~~~~~~~~~
+seq0986    QRSRVRK~~~~~~~~~~~~~~~~~~~~~~
+seq0987    YWFQNHKARERQ~~~~~~~~~~~~~~~~~
+seq0988    NWFQNRRARSKR~~~~~~~~~~~~~~~~~
+seq0989    YWFQNHKARDRQ~~~~~~~~~~~~~~~~~
+seq0990    YWFQNRRSRSRR~~~~~~~~~~~~~~~~~
+seq0991    KRQSLRK~~~~~~~~~~~~~~~~~~~~~~
+seq0992    FQNRRCREKQ~~~~~~~~~~~~~~~~~~~
+seq0993    ARRRS~~~~~~~~~~~~~~~~~~~~~~~~
+seq0994    NQRYHLKH~~~~~~~~~~~~~~~~~~~~~
+seq0995    SRRRDRY~~~~~~~~~~~~~~~~~~~~~~
+seq0996    ARRRSRL~~~~~~~~~~~~~~~~~~~~~~
+seq0997    YRRRLKD~~~~~~~~~~~~~~~~~~~~~~
+seq0998    KRYRN~~~~~~~~~~~~~~~~~~~~~~~~
+seq0999    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+seq1000    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

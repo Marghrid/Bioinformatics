@@ -1,0 +1,26 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/HMG_box_ref.msf MSF:  89 Type: P 07/12/19 CompCheck: 3389 ..
+
+  Name: 1hrza      Len: 89  Check: 3094 Weight: 1.00
+  Name: 1nhn       Len: 89  Check: 5980 Weight: 1.00
+  Name: 1ckta      Len: 89  Check: 3978 Weight: 1.00
+  Name: 1hma       Len: 89  Check: 5579 Weight: 1.00
+  Name: 2lefa      Len: 89  Check: 4758 Weight: 1.00
+
+//
+
+           1                                               50
+1hrza      ~DRVKRPMNAFIVWSRDQRRKMALENPRMR..NSEISKQLGYQWKMLTEA
+1nhn       ~NAPKRPPSAFFLFCSEYRPKIKGEHPGLS..IGDVAKKLGEMWNNTAAD
+1ckta      ~~KPRGKMSSYAFFVQTCREEHKKKHPDASVNFSEFSKKCSERWKTMSAK
+1hma       SDKPKRPLSAYMLWLNSARESIKRENP..GIKVTEVAKRGGELWRAMK..
+2lefa      ~MHIKKPLNAFMLYMKEMRANVVAEST..LKESAAINQILGRRWHALSRE
+
+           51                                   89
+1hrza      EKWPFFQEAQKLQAMHREKYPNYKYR~~~~~~~~~~~~~
+1nhn       DKQPYEKKAAKLKEKYEKDIAAYRAKG.......KPDAA
+1ckta      EKGKFEDMAKADKARYEREMKTY~~~~~~~~~~~~~~~~
+1hma       DKSEWEAKAAKAKDDYDRAVKEFEANG~~~~~~~~~~~~
+2lefa      EQAKYYELARKERQLHMQLYPGWSARDNYGKKKKRKREK
+

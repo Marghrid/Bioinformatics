@@ -1,0 +1,26 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/hr_ref.msf MSF:  82 Type: P 07/12/19 CompCheck: 7955 ..
+
+  Name: 2nlla      Len: 82  Check: 6331 Weight: 1.00
+  Name: 1hra       Len: 82  Check: 8979 Weight: 1.00
+  Name: 2nllb      Len: 82  Check:  890 Weight: 1.00
+  Name: 1hcp       Len: 82  Check: 1782 Weight: 1.00
+  Name: 1lata      Len: 82  Check: 9973 Weight: 1.00
+
+//
+
+           1                                               50
+2nlla      ~~~~~~~CAICGDRSSGKHYGVYSCEGCKGFFKRTVRKDL..TYTCRDNK
+1hra       MPRVYKPCFVCQDKSSGYHYGVSACEGCKGFFRRSIQKNM..IYTCHRDK
+2nllb      ~~~~DELCVVCGDKATGYHYRCITCEGCKGFFRRTIQKNLHPSYSCKYEG
+1hcp       ~MKETRYCAVCNDYASGYHYGVWSCEGCKAFFKRSIQGHN..DYMCPATN
+1lata      ~~~~~RPCLVCSDEASGCHYGVLTCEGCKAFFKRAVEGQH..NYLCKYEG
+
+           51                            82
+2nlla      DCLIDKRQRNRCQYCRYQKCLAMGM~~~~~~~
+1hra       NCVINKVTRNRCQYCRLQKCFEVGMSKESVRN
+2nllb      KCVIDKVTRNQCQECRFKKCIYVGMATDLVLD
+1hcp       QCTIDKNRRKSCQACRLRKCYEVGMMKG~~~~
+1lata      KCIIDKIRRKNCPACRYRKCLQAGMNLE~~~~
+

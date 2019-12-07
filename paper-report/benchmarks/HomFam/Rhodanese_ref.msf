@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/Rhodanese_ref.msf MSF:  216 Type: P 07/12/19 CompCheck: 8084 ..
+
+  Name: 1e0ca1     Len: 216  Check: 3407 Weight: 1.00
+  Name: 1rhs1      Len: 216  Check: 3059 Weight: 1.00
+  Name: 1c25       Len: 216  Check: 5416 Weight: 1.00
+  Name: 1qb0a      Len: 216  Check: 5493 Weight: 1.00
+  Name: 1e0ca2     Len: 216  Check: 9326 Weight: 1.00
+  Name: 1rhs2      Len: 216  Check: 1383 Weight: 1.00
+
+//
+
+           1                                               50
+1e0ca1     ~~~~~~~~~~~~~~~~~MDDFASLPLVIEPADLQARL....S..APELIL
+1rhs1      ~~~~~~~~~~~~~~~~VHQV..LYRALVSTKWLAESVRAGKV..GPGLRV
+1c25       ~~~MLIGDFSKGYLFHTVAGKHQDLKYISPEIMASVLNGKFANLIKEFVI
+1qb0a      DHRELIGDYSKAFLLQTVDGKHQDLKYISPETMVALLTGKFSNIVDKFVI
+1e0ca2     ~~~~~~~~~~~~~~GGPVALSLHDEPTASRDYLLGRLGA......ADLAI
+1rhs2      ~~~~~~~~~~~~~~A.IFKATLNRSLLKTYEQVLENLES......KRFQL
+
+           51                                             100
+1e0ca1     VDLTS........AARYAE............GHIPGARFVDPKRTQLGQP
+1rhs1      LDASWYSPGTREARKEYLE............RHVPGASFFDIEECRDKAS
+1c25       IDCRY........PYEYE............GGHIKGAVNLHM........
+1qb0a      VDCRY........PYEYE............GGHIKTAVNLPL........
+1e0ca2     WDARS........PQEYRGEKVL..AA..KGGHIPGAVNFEWTAAMDPSR
+1rhs2      VDSRA........QGRYLGTQPEPDAVGLDSGHIRGSVNMPFMNFLTE..
+
+           101                                            150
+1e0ca1     PAPGLQPPREQLESLFGELGHRP.....EAVYVVYDDE..GGGWAGRFIW
+1rhs1      PYEVMLPSEAGFADYVGSLGISN.....DTHVVVYDGDDLGSFYAPRVWW
+1c25       ........EEEVEDFLLKKPIVPT.DGKRVIVVFHCE..FSSERGPRMCR
+1qb0a      ........ERDAESFLLKSPIAPCSLDKRVILIFHCE..FSSERGPRMCR
+1e0ca2     A..LRIRT..DIAGRLEELGITP.....DKEIVTHQ....THHRSGLTYL
+1rhs2      D..GFEKSPEELRAMFEAKKVDL.....TKPLIATR....KGVTACHIAL
+
+           151                                            200
+1e0ca1     LLDVIG..........QQRYHYLNGGLTAWLAE...DRPLSRE.......
+1rhs1      MFRVFG..........HRTVSVLNGGFRNWLKE...GHPVTSE.......
+1c25       YVRERDRLGNEYPKLHYPELYVLKGGYKEFFMKC.QSYCEPPSYRPMHHE
+1qb0a      FIRERDRAVNDYPSLYYPEMYILKGGYKEFFPQH.PNFCEPQDYRPMNHE
+1e0ca2     IAKALG..........YPRVKGYAGSWGEWGNH..PDTPVEL~~~~~~~~
+1rhs2      AAYLCG..........KPDVAIYDGSWFEWFHRAPPETWVSQG.......
+
+           201          216
+1e0ca1     ..........LPAPA~
+1rhs1      ..........PSRPEP
+1c25       DFKE~~~~~~~~~~~~
+1qb0a      AFKDELKTFRLKTRSW
+1e0ca2     ~~~~~~~~~~~~~~~~
+1rhs2      ..............KG
+

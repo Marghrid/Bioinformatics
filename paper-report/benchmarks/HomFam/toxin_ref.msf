@@ -1,0 +1,71 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/toxin_ref.msf MSF:  78 Type: P 07/12/19 CompCheck: 2974 ..
+
+  Name: 1kbt       Len: 78  Check: 5192 Weight: 1.00
+  Name: 2crt       Len: 78  Check: 5491 Weight: 1.00
+  Name: 2cdx       Len: 78  Check: 4394 Weight: 1.00
+  Name: 1cdta      Len: 78  Check: 4720 Weight: 1.00
+  Name: 1tgxa      Len: 78  Check: 4529 Weight: 1.00
+  Name: 1kxia      Len: 78  Check: 2955 Weight: 1.00
+  Name: 1tfs       Len: 78  Check: 1323 Weight: 1.00
+  Name: 1drs       Len: 78  Check: 8911 Weight: 1.00
+  Name: 1txb       Len: 78  Check: 9903 Weight: 1.00
+  Name: 2ctx       Len: 78  Check:  766 Weight: 1.00
+  Name: 1ntn       Len: 78  Check:  607 Weight: 1.00
+  Name: 1lsi       Len: 78  Check: 6512 Weight: 1.00
+  Name: 2abxa      Len: 78  Check:  136 Weight: 1.00
+  Name: 2nbta      Len: 78  Check: 9358 Weight: 1.00
+  Name: 1nean      Len: 78  Check: 1176 Weight: 1.00
+  Name: 1nor       Len: 78  Check: 1631 Weight: 1.00
+  Name: 1cod       Len: 78  Check: 2469 Weight: 1.00
+  Name: 1nxb       Len: 78  Check: 1709 Weight: 1.00
+  Name: 1ntx       Len: 78  Check:  810 Weight: 1.00
+  Name: 1fas       Len: 78  Check:  382 Weight: 1.00
+
+//
+
+           1                                               50
+1kbt       RKCN.KLVP..LFYKTCPAGKNLCYKMFMVSNL.T...VPVKRGCIDVCP
+2crt       LKCN.KLVP..LFYKTCPAGKNLCYKMFMVATP.K...VPVKRGCIDVCP
+2cdx       LKCN.KLIP..IASKTCPAGKNLCYKMFMMSDL.T...IPVKRGCIDVCP
+1cdta      LKCN.KLIP..IAYKTCPEGKNLCYKMMLASKK.M...VPVKRGCINVCP
+1tgxa      LKCN.QLIP..PFWKTCPKGKNLCYKMTMRAAP.M...VPVKRGCIDVCP
+1kxia      LKCHNTQLP..FIYKTCPEGKNLCFKATLKKFPLK...FPVKRGCADNCP
+1tfs       RICYSHKASLPRATKTCV..ENTCYKMFIRTH....REYISERGCG..CP
+1drs       RICYNHLGTKPPTTETCQ..EDSCYKNIWTFD......NIIRRGCG..CF
+1txb       TKCYVT..P.DATSQTCPDGQDICYTKTWCDGFCSSRGKRIDLGCAATCP
+2ctx       IRCFIT..P.DGTSKDCPNG.HVCYTKTWCDGFCSIRGKRVDLGCAATCP
+1ntn       ITCYKT..P.IITSETCAPGQNLCYTKTWCDAWCGSRGKVIELGCAATCP
+1lsi       RECYLN..P.HDT.QTCPSGQEICYVKSWCNAWCSSRGKVLEFGCAATCP
+2abxa      IVCHTTATI.PSSAVTCPPGENLCYRKMWCDAFCSSRGKVVELGCAATCP
+2nbta      RTCLISPS...STPQTCPNGQDICFLKAQCDKFCSIRGPVIEQGCVATCP
+1nean      LECHNQQSSQPPTTKTCP.GETNCYKKVWRDH....RGTIIERGCG..CP
+1nor       LECHNQQSSQPPTTKTCS.GETNCYKKWWSDH....RGTIIERGCG..CP
+1cod       LECHNQQSSQTPTTTGCSGGETNCYKKRWRDH....RGYRTERGCG..CP
+1nxb       RICFNQHSSQPQTTKTCSPGESSCYHKQWSDF....RGTIIERGCG..CP
+1ntx       RICYNHQSTTRATTKSCE..ENSCYKKYWRDH....RGTIIERGCG..CP
+1fas       TMCYSHTTTSRAILTNCGE..NSCYRKSRRHPPK....MVLGRGCG..CP
+
+           51                        78
+1kbt       KNSAL.VKYVCCNT.DRCN~~~~~~~~~
+2crt       KSSLL.VKYVCCNT.DRCN~~~~~~~~~
+2cdx       KNSLL.VKYVCCNT.DRCN~~~~~~~~~
+1cdta      KNSAL.VKYVCCST.DRCN~~~~~~~~~
+1tgxa      KSSLL.IKYMCCNT.DKCN~~~~~~~~~
+1kxia      KNSAL.LKYVCCST.DKCN~~~~~~~~~
+1tfs       TAMW.PYQTECCKG.DRCNK~~~~~~~~
+1drs       TPRGDMPGPYCCES.DKCNL~~~~~~~~
+1txb       KVKPGV.DIKCCST.DNCNPFPTWKRKH
+2ctx       TVKTGV.DIQCCST.DNCNPFPTGGAP~
+1ntn       TVESYQ.DIKCCST.DNCNPHPKQKR.P
+1lsi       SVNTGT.EIKCCSA.DKCNTYP~~~~~~
+2abxa      SKKPYE.EVTCCST.DKCNHPPKRQ.PG
+2nbta      QFRSNYRSLLCCTT.DNCNH~~~~~~~~
+1nean      TVKPG.IKLNCCTT.DKCNN~~~~~~~~
+1nor       KVKPG.VNLNCCRT.DRCNN~~~~~~~~
+1cod       SVKNG.IEINCCTT.DRCNN~~~~~~~~
+1nxb       TVKPG.IKLSCCES.EVCNN~~~~~~~~
+1ntx       KVKPG.VGIHCCQS.DKCNY~~~~~~~~
+1fas       PGDDY.LEVKCCTSPDKCNY~~~~~~~~
+

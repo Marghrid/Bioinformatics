@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/tgfb_ref.msf MSF:  118 Type: P 07/12/19 CompCheck: 8039 ..
+
+  Name: 1nyud      Len: 118  Check: 2563 Weight: 1.00
+  Name: 1nysb      Len: 118  Check: 2988 Weight: 1.00
+  Name: 3bmpa      Len: 118  Check: 8312 Weight: 1.00
+  Name: 1lxia      Len: 118  Check: 6159 Weight: 1.00
+  Name: 2tgi       Len: 118  Check: 5788 Weight: 1.00
+  Name: 1tgj       Len: 118  Check:  169 Weight: 1.00
+  Name: 1klda      Len: 118  Check: 7841 Weight: 1.00
+  Name: 1agqa      Len: 118  Check: 4219 Weight: 1.00
+
+//
+
+           1                                               50
+1nyud      ~~~~~~~~~~~~~~CCKKF.FVS..........IIAPSGYH.NYCEGECP
+1nysb      ~~~~~LECDG..NICCKKQFFVSFK.DIGWNDWIIAPSGYHANYCEGECP
+3bmpa      R.........LKSSCKRHPLYVDFS.DVGWNDWIVAPPGYHAFYCHGECP
+1lxia      ~~~~~~~~~~~~QACKKHELYVSFR.DLGWQDWIIAPEGYAAYYCEGECA
+2tgi       ALDAAYCFRNVQDNCCLRPLYIDFKRDLGW.KWIHEPKGYNANFCAGACP
+1tgj       ALDTNYCFRNLEENCCVRPLYIDFRQDLGW.KWVHEPKGYYANFCSGPCP
+1klda      ALDTNYCFSSTEKNCCVRQLYIDFRKDLGW.KWIHEPKGYHANFCLGPCP
+1agqa      ~~~~~~~~~~~NRGCVLTAIHLNVT.DLGLGYETKE..ELIFRYCSGSCE
+
+           51                                             100
+1nyud      ..............................CCVPTKLR.PMSMLYYDDG.
+1nysb      ........................SHILKSCCVPTKLR.PMSMLYYDDGQ
+3bmpa      FPLADHLNSTNHAIVQTLVNSVNSK.IPKACCVPTELS.AISMLYLDENE
+1lxia      FPLNSYMNATNHAIVQTLVHFINPETVPKPCCAPTQLN.AISVLYFDDSS
+2tgi       YLW...SSDTQHSRVLSLYNTINPEASASPCCVSQDLE.PLTILYYIG.K
+1tgj       YLR...SADTTHSTVLGLYNTLNPEASASPCCVPQDLE.PLTILYYVG.R
+1klda      YIW...SLDTQYSKVLALYNQHNPGASAAPCCVPQALE.PLPIVYYVG.R
+1agqa      ......AAETMYDKILKNLSRSRV...GQACCRPVAFDDDLSFLDDS...
+
+           101            118
+1nyud      .IIKKDIQNMIVEECGCS
+1nysb      NIIKKDIQNMIVEECGCS
+3bmpa      KVVLKNYQDMVVEGCGCR
+1lxia      NVILKKYRNMVVRACGCH
+2tgi       TPKIEQLSNMIVKSCKCS
+1tgj       TPKVEQLSNMVVKSCKCS
+1klda      KPKVEQLSNMIVRSCKCS
+1agqa      .LVYHILRKHSAKRCGCI
+

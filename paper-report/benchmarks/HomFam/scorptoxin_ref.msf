@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/scorptoxin_ref.msf MSF:  74 Type: P 07/12/19 CompCheck: 7799 ..
+
+  Name: 1vna       Len: 74  Check:  376 Weight: 1.00
+  Name: 2sn3       Len: 74  Check: 9877 Weight: 1.00
+  Name: 2b3ca      Len: 74  Check:  927 Weight: 1.00
+  Name: 1cn2       Len: 74  Check:   84 Weight: 1.00
+  Name: 1aho       Len: 74  Check: 4344 Weight: 1.00
+  Name: 1lqq       Len: 74  Check: 3476 Weight: 1.00
+  Name: 1nrb       Len: 74  Check: 8202 Weight: 1.00
+  Name: 1bmr       Len: 74  Check:  513 Weight: 1.00
+
+//
+
+           1                                               50
+1vna       ~KEGYLVKKSDGCKYDCFWLGKNEHCNTECKAKNQGGSYGYCYA.....F
+2sn3       ~KEGYLVKKSDGCKYGCLKLGENEGCDTECKAKNQGGSYGYCYA.....F
+2b3ca      ~KDGYLVEK.TGCKKTCYKLGENDFCNRECKWKHIGGSYGYCYG.....F
+1cn2       ~KEGYLVDKNTGCKYECLKLGDNDYCLRECKQQYGKGAGGYCYA.....F
+1aho       VKDGYIVDD.VNCTYFCGR...NAYCNEECTK..LKGESGYCQWASPYGN
+1lqq       VRDAYIAKN.YNCVYECFR...DSYCNDLCTKN..GASSGYCQWAGKYGN
+1nrb       KKDGYPVDS.GNCKYECLK...DDYCNDLCLER..KADKGYCYWG...KV
+1bmr       VRDGYIAQP.ENCVYHCFP..GSSGCDTLCKEK..GGTSGHCGFKVGHGL
+
+           51                    74
+1vna       ACWCEGLPESTPTYPLPNKSC~~~
+2sn3       ACWCEGLPESTPTYPLPNKSC~~~
+2b3ca      GCYCEGLPDSTQTWPLPNKTC~~~
+1cn2       ACWCTHLYEQAIVWPLPNKRCS~~
+1aho       ACYCYKLPDHVRTKG..PGRCH~~
+1lqq       ACWCYALPDNVPIRV..PGKCH~~
+1nrb       SCYCYGLPDNSPTKT..SGKCNPA
+1bmr       ACWCNALPDNVGIIVE.GEKCHS~
+

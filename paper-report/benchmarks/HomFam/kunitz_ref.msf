@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/kunitz_ref.msf MSF:  64 Type: P 07/12/19 CompCheck:   71 ..
+
+  Name: 1tfxc      Len: 64  Check: 3531 Weight: 1.00
+  Name: 1knt       Len: 64  Check: 4286 Weight: 1.00
+  Name: 1dem       Len: 64  Check: 4033 Weight: 1.00
+  Name: 1dtx       Len: 64  Check: 3897 Weight: 1.00
+  Name: 1dtk       Len: 64  Check: 3627 Weight: 1.00
+  Name: 1aapa      Len: 64  Check: 3763 Weight: 1.00
+  Name: 1shp       Len: 64  Check: 3962 Weight: 1.00
+  Name: 5pti       Len: 64  Check: 2697 Weight: 1.00
+  Name: 1tap       Len: 64  Check: 7460 Weight: 1.00
+  Name: 1bf0       Len: 64  Check: 2815 Weight: 1.00
+
+//
+
+           1                                               50
+1tfxc      ~~KPDFCFLEEDPG.ICR..GYITRYFYNNQTKQCERFKYGGCLGN.MNN
+1knt       ~~~TDICKLPKDEG.TCR..DFILKWYYDPNTKSCARFWYGGCGGN.ENK
+1dem       QPLRKLCILHRNPG.RCY..QKIPAFYYNQKKKQCEGFTWSGCGGN.SNR
+1dtx       ~PRRKLCILHRNPG.RCY..DKIPAFYYNQKKKQCERFDWSGCGGN.SNR
+1dtk       ~~AAKYCKLPLRIG.PCK..RKIPSFYYKWKAKQCLPFDYSGCGGN.ANR
+1aapa      ~~VREVCSEQAETG.PCR..AMISRWYFDVTEGKCAPFFYGGCGGN.RNN
+1shp       ~~~~SICSEPKKVG.RCK..GYFPRFYFDSETGKCTPFIYGGCGGN.GNN
+5pti       ~~RPDFCLEPPYTG.PCK..ARIIRYFYNAKAGLCQTFVYGGCRAK.RNN
+1tap       ~~YNRLCIKPRDWIDECDSNEGGERAYFRNGKGGCDSFWICPEDHTGADY
+1bf0       WQPPWYCKEPVRIG.SCK..KQFSSFYFKWTAKKCLPFLFSGCGGN.ANR
+
+           51          64
+1tfxc      FETLEECKNICEDG
+1knt       FGSQKECEKVCA~~
+1dem       FKTIEECRRTCIRK
+1dtx       FKTIEECRRTCIG~
+1dtk       FKTIEECRRTCVG~
+1aapa      FDTEEYCMAVCG~~
+1shp       FETLHQCRAICRA~
+5pti       FKSAEDCMRTCGGA
+1tap       YSSYRDCFNACI~~
+1bf0       FQTIGECRKKCLGK
+

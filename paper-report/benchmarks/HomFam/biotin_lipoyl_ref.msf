@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/biotin_lipoyl_ref.msf MSF:  112 Type: P 07/12/19 CompCheck: 8676 ..
+
+  Name: 1bdo       Len: 112  Check: 7137 Weight: 1.00
+  Name: 1lac       Len: 112  Check: 6395 Weight: 1.00
+  Name: 1ghk       Len: 112  Check: 8396 Weight: 1.00
+  Name: 1iyv       Len: 112  Check: 8935 Weight: 1.00
+  Name: 1pmr       Len: 112  Check:  266 Weight: 1.00
+  Name: 1qjoa      Len: 112  Check: 2693 Weight: 1.00
+  Name: 1fyc       Len: 112  Check: 4854 Weight: 1.00
+
+//
+
+           1                                               50
+1bdo       ~~~~~EISGHIVRSPM.....VGTFYRTPSPDAKAFIEVGQKVNVGDTLC
+1lac       ~~~~~~~~AFEFKLPDIGEGIHEGEIVK......WFVKPGDEVNEDDVLC
+1ghk       ~~~~~~~~AIDIKAPTFPESIADGTVAT......WHKKPGEAVKRDELIV
+1iyv       ~~~~~~~~SEIIRVPDIG...GDGEVIE......LLVKTGDLIEVEQGLV
+1pmr       ~~~~~~~SSVDILVPDLPESVADATVAT......WHKKPGDAVVRDEVLV
+1qjoa      ~~~~~~~MVKEVNVPDIG..GDEVEVTE......VMVKVGDKVAAEQSLI
+1fyc       GSNMSYPPHMQVLLPALSPTMTMGTVQR......WEKKVGEKLSEGDLLA
+
+           51                                             100
+1bdo       IVEAMKMMNQIEADKSGTVKAILVESGQPVE.FDEPLVVIE~~~~~~~~~
+1lac       EVQNDKAVVEIPSPVKGKVLEILVPEGTVAT.VGQTLITLDAPGY~~~~~
+1ghk       DIETDKVVMEVLAEADGVIAEIVKNEGDTVL.SGELLGKLTEG...G~~~
+1iyv       VLESAKASMEVPSPKAGVVKSVSVKLGDKLK.EGDAIIELEPAAGAR~~~
+1pmr       EIETDKVVLEVPASADGILDAVLEDEGTTVT.SRQILGRLREGN~~~~~~
+1qjoa      TVEGDKASMEVPAPFAGVVKELKVNVGDKVK.TGSLIMIFEVEGAA~~~~
+1fyc       EIETDKATIGFEVQEEGYLAKILVPEGTRDVPLGTPLCIIVEKEADISAF
+
+           101      112
+1bdo       ~~~~~~~~~~~~
+1lac       ~~~~~~~~~~~~
+1ghk       ~~~~~~~~~~~~
+1iyv       ~~~~~~~~~~~~
+1pmr       ~~~~~~~~~~~~
+1qjoa      ~~~~~~~~~~~~
+1fyc       ADYRPTEVTDLK
+

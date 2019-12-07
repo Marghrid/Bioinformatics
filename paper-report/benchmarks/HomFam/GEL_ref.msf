@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  benchmarks/HomFam/GEL_ref.msf MSF:  150 Type: P 07/12/19 CompCheck: 4660 ..
+
+  Name: 1d0na2     Len: 150  Check:  562 Weight: 1.00
+  Name: 1d0na1     Len: 150  Check: 5789 Weight: 1.00
+  Name: 1svr       Len: 150  Check:  416 Weight: 1.00
+  Name: 1yagg      Len: 150  Check: 2789 Weight: 1.00
+  Name: 2vil       Len: 150  Check: 5104 Weight: 1.00
+
+//
+
+           1                                               50
+1d0na2     ~~~~~~RLKDKKMDAHPPRLFACSNKIGRFVIEEVP..GEFMQEDLATDD
+1d0na1     ~~~~~~EDAANRK...LAKLYKVSNGAGPMVVSLVADENPFAQGALRSED
+1svr       ~~~~~~~~~~~~~~EYKPRLLHISGDK.NAKVAEVP.LATSS...LNSGD
+1yagg      MVVEHPEFLKAGK.EPGLQIWRVE.K...FDLVPVPTNLYGD...FFTGD
+2vil       VELSKKVTGKLDKTTPGIQIWRI.EN...MEMVPVPTKSYGN...FYEGD
+
+           51                                             100
+1d0na2     VMLLDT...W......DQVFVWVGKDSQDEEKTEALTSAKRYIDTDPAHR
+1d0na1     CFILDH...GKD....GKIFVWKGKQANMEERKAALKTASDFISKM..DY
+1svr       CFLLDAG.........LTIYQFNGSKSSPQEKNKAAEVARAIDAERK...
+1yagg      AYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLN...
+2vil       CYVLLSTRKTG.SGFSYNIHYWLGKNSSQDEQGAAAIYTTQMDEYLG...
+
+           101                                            150
+1d0na2     DRRTPITVVKQ..GFEPPSFVGWFLGWDDSYWS....VDPLDRALAELAA
+1d0na1     PKQTQVSVLPE..GGETPLFRQFFKNWRDPDQTEGLGLAYL~~~~~~~~~
+1svr       .GLPKVEVFCETDSDIPAEFWKLLGG~~~~~~~~~~~~~~~~~~~~~~~~
+1yagg      .GRAVQHREVQ..GFESATFLGYFKS........GLKYK..KGGVASGF~
+2vil       .SVAVQHREVQ..GHESETFRAYFKQ........GLIYK..QGGVASGMK
+
