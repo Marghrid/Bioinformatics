@@ -4,16 +4,60 @@ import glob
 import subprocess
 import re
 import csv
+import threading
 
 
-def output(file):
+def output(file, aligner):
     filename, file_extension = os.path.splitext(file)
-    return filename + '.out'
+    return filename + '.out' + '_' + aligner
 
 
 def solution(file):
     filename, file_extension = os.path.splitext(file)
     return filename + '.msf'
+
+
+results = []
+
+
+def run_aligner(aligner, inflag, outflag, extraflags):
+    print('Running', aligner, '...')
+
+    counter = 0
+    for name, benchmark in instances.items():
+        for instance in benchmark:
+            p = subprocess.Popen(['timeout', '3600', '/usr/bin/time', '-f', '%e %M', aligner, inflag, instance, outflag, output(instance, aligner)]
+                                 + extraflags, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
+            p.wait()
+
+            if p.returncode != 124:
+                out = p.stderr.read().split()
+                time = float(out[0])
+                ram = float(out[0])
+
+                p = subprocess.Popen(['./bali_score', solution(instance), output(instance, aligner)], stdout=subprocess.PIPE)
+                p.wait()
+                out = p.stdout.read().decode()
+
+                regex_out = SP_regex.search(out)
+                if regex_out:
+                    SP = regex_out.group(1)
+                else:
+                    SP = -1
+
+                regex_out = TC_regex.search(out)
+                if regex_out:
+                    TC = regex_out.group(1)
+                else:
+                    TC = -1
+
+                counter += 1
+                results.append((aligner, instance, time, ram, SP, TC))
+                print('\t', aligner, '(' + str(counter) + '/' + str(total) + ')')
+
+            else:
+                results.append((aligner, instance, -1, -1, -1, -1))
+                print('\tInstance', instance, 'on', aligner, 'timed out.')
 
 
 SP_regex = re.compile("SP score= (.*)")
@@ -38,42 +82,22 @@ total = sum(map(len, instances.values()))
 print('Found', total, 'instances in total.')
 print()
 
-counter = 0
+threads = []
+for aligner in [
+    ('kalign', '-i', '-o', ['--format', 'msf']),
+    ('clustalo', '-i', '-o', ['--outfmt', 'msf', '--threads', '8', '--MAC-RAM', '48000', '--iterations', '2', '--force']),
+    ('muscle', '-in', '-out', ['-msf', '-maxiters', '2', '-quiet'])
+]:
+    t = threading.Thread(target=run_aligner, args=aligner)
+    t.start()
+    threads.append(t)
+
+for t in threads:
+    t.join()
+
 with open('results.csv', 'w') as out_file:
     csv_out = csv.writer(out_file)
     csv_out.writerow(['aligner', 'instance', 'time', 'ram', 'SP', 'TC'])
 
-    print('Running kalign...')
-    for name, benchmark in instances.items():
-        print("\tRunning instances of", name, '...')
-
-        for instance in benchmark:
-            p = subprocess.Popen(['/usr/bin/time', '-f', '%e %M', '../kalign', instance, '-o', output(instance), '--format', 'msf'],
-                                 stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
-            p.wait()
-            out = p.stderr.read().split()
-            time = float(out[0])
-            ram = float(out[0])
-
-            p = subprocess.Popen(['./bali_score', solution(instance), output(instance)], stdout=subprocess.PIPE)
-            p.wait()
-            out = p.stdout.read().decode()
-
-            regex_out = SP_regex.search(out)
-            if regex_out:
-                SP = regex_out.group(1)
-            else:
-                SP = -1
-
-            regex_out = TC_regex.search(out)
-            if regex_out:
-                TC = regex_out.group(1)
-            else:
-                TC = -1
-
-            csv_out.writerow(('kalign', instance, time, ram, SP, TC))
-            counter += 1
-            print('\t(' + str(counter) + '/' + str(total) + ')')
-
-        out_file.flush()
-
+    for row in results:
+        csv_out.writerow(row)
