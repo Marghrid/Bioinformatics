@@ -8,7 +8,7 @@ import csv
 
 def output(file):
     filename, file_extension = os.path.splitext(file)
-    return filename + '.out'
+    return filename + '.out_clust'
 
 
 def solution(file):
@@ -43,12 +43,14 @@ with open('results.csv', 'w') as out_file:
     csv_out = csv.writer(out_file)
     csv_out.writerow(['aligner', 'instance', 'time', 'ram', 'SP', 'TC'])
 
-    print('Running kalign...')
+    print('Running clustalo...')
     for name, benchmark in instances.items():
         print("\tRunning instances of", name, '...')
 
         for instance in benchmark:
-            p = subprocess.Popen(['/usr/bin/time', '-f', '%e %M', '../kalign', instance, '-o', output(instance), '--format', 'msf'],
+            
+            p = subprocess.Popen(['/usr/bin/time', '-f', '%e %M', '../clustalo', '-i',instance, '-o', output(instance), '--outfmt=msf', '--threads=8','--MAC-RAM=48000','--iterations=2'],
+
                                  stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
             p.wait()
             out = p.stderr.read().split()
@@ -71,7 +73,7 @@ with open('results.csv', 'w') as out_file:
             else:
                 TC = -1
 
-            csv_out.writerow(('kalign', instance, time, ram, SP, TC))
+            csv_out.writerow(('clustalo', instance, time, ram, SP, TC))
             counter += 1
             print('\t(' + str(counter) + '/' + str(total) + ')')
 
