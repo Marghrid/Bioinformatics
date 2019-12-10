@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/bin/python3
 import os
 import glob
 import subprocess
@@ -26,29 +26,31 @@ def run_aligner(aligner, inflag, outflag, extraflags):
     counter = 0
     for name, benchmark in instances.items():
         for instance in benchmark:
-            p = subprocess.Popen(['timeout', '3600', '/usr/bin/time', '-f', '%e %M', aligner, inflag, instance, outflag, output(instance, aligner)]
+            p = subprocess.Popen(['timeout', '600', '/usr/bin/time', '-f', '%e %M', aligner, inflag, instance, outflag, output(instance, aligner)]
                                  + extraflags, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
             p.wait()
 
             if p.returncode != 124:
                 out = p.stderr.read().split()
-                time = float(out[0])
-                ram = float(out[0])
+                try:
+                    time = float(out[0])
+                    ram = float(out[0])
+                except:
+                    time = -1
+                    ram = -1
 
                 p = subprocess.Popen(['./bali_score', solution(instance), output(instance, aligner)], stdout=subprocess.PIPE)
                 p.wait()
                 out = p.stdout.read().decode()
-
-                regex_out = SP_regex.search(out)
-                if regex_out:
-                    SP = regex_out.group(1)
-                else:
+                
+                try:
+                    SP = SP_regex.search(out).group(1)
+                except:
                     SP = -1
 
-                regex_out = TC_regex.search(out)
-                if regex_out:
-                    TC = regex_out.group(1)
-                else:
+                try:
+                    TC = TC_regex.search(out).group(1)
+                except:
                     TC = -1
 
                 counter += 1
