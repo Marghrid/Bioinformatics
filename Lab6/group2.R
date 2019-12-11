@@ -2,30 +2,26 @@ library(randomcoloR)
 library(ramify)
 
 data = read.csv('TCGA_BRCA_Gene_ReadCounts.txt', sep='\t', header=TRUE)
-stds = apply(data, 2, sd)
-min = names(which.min(stds))
-max = names(which.max(stds))
 
-people = sample(colnames(data), size=5)
-sample_n = 20000
+sample_n = 38
+increment = 8000
 
-sample_vector = rep(rownames(data), data[[min]])
-total = length(unique(sample_vector))
 list = c()
-
 for (i in 1:sample_n) {
-  list = append(list, c(length(unique(sample(sample_vector, size=i))) / total))
+  list = append(list, c(length(unique(sample(rownames(data), size=i*increment, prob=data$TCGA.A1.A0SB.01, replace=TRUE))) / nrow(data)))
 }
 
-plot(1:length(list), unlist(list), type="l", col='blue')
+plot(1:length(list), unlist(list), type="l", col='blue', ylim=c(0,0.7))
 
-sample_vector = rep(rownames(data), data[[max]])
-total = length(unique(sample_vector))
-list = c()
-
-for (i in 1:sample_n) {
-  list = append(list, c(length(unique(sample(sample_vector, size=i))) / total))
+first = TRUE
+for (person in colnames(data)) {
+  if (first) {
+    first = FALSE
+    next
+  }
+  list = c()
+  for (i in 1:sample_n) {
+    list = append(list, c(length(unique(sample(rownames(data), size=i*increment, prob=data[[person]], replace=TRUE))) / nrow(data)))
+  }
+  lines(1:length(list), unlist(list), col=randomColor())
 }
-
-lines(1:length(list), unlist(list), col='red')
- 
