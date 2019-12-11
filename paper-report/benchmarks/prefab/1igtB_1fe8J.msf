@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1igtB_1fe8J.msf MSF:  444 Type: P 11/12/19 CompCheck: 8240 ..
+
+  Name: 1igtB      Len: 444  Check: 1133 Weight: 1.00
+  Name: 1fe8J      Len: 444  Check: 7107 Weight: 1.00
+
+//
+
+           1                                               50
+1igtB      EVKLQESGGGLVQPGGSLKLSCATSGFTFSDYYMYWVRQTPEKRLEWVAY
+1fe8J      DVKLVQSGPGLVAPSQSLSITCTVSGFSLTTYGVSWVRQPPGKGLEWLGV
+
+           51                                             100
+1igtB      ISNGGgSTYYPDTVKGRFTISRDNAKNTLYLQMSRLKSEDTAMYYCARHG
+1fe8J      IWGDG.NTTYHSALISRLSISKDNSRSQVFLKLNSLHTDDTATYYCAGNY
+
+           101                                            150
+1igtB      GyyAMDYWGQGTTVTVSSAKTTAPSVYPLAPVcgdttgSSVTLGCLVKGY
+1fe8J      Y..GMDYWGQGTSVTVSSAETTAPSVYKLEPV......SSVTLGCLVKGY
+
+           151                                            200
+1igtB      FPEPVTLTWNSGSLSSGVHTFPAVLQSDLYTLSSSVTVTSSTWPSQSITC
+1fe8J      FPEPVTLTWNSGSLSSGVHTFPAVLQSDLYTLSSSVTVTSSTWPSQSITC
+
+           201                                            250
+1igtB      NVAHPASSTKVDKKIEPRGptikpcppckcpapnllggpsvfifppkikd
+1fe8J      NVAHPASSTKVDKKIEPRG~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1igtB      vlmislspivtcvvvdvseddpdvqiswfvnnvevhtaqtqthredynst
+1fe8J      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1igtB      lrvvsalpiqhqdwmsgkefkckvnnkdlpapiertiskpkgsvrapqvy
+1fe8J      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                            400
+1igtB      vlpppeeemtkkqvtltcmvtdfmpediyvewtnngktelnykntepvld
+1fe8J      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           401                                      444
+1igtB      sdgsyfmysklrvekknwvernsyscsvvheglhnhhttksfsr
+1fe8J      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

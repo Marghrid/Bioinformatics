@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fgkA_1ia8A.msf MSF:  325 Type: P 11/12/19 CompCheck: 4885 ..
+
+  Name: 1fgkA      Len: 325  Check: 2825 Weight: 1.00
+  Name: 1ia8A      Len: 325  Check: 2060 Weight: 1.00
+
+//
+
+           1                                               50
+1fgkA      elpedprwelpr.....drlvlgkplg.....qvvlaeaiglpnrVTKVA
+1ia8A      ~~~~~~~~~~~~avpfvedwdlvqtlgegaygevqlavnrvt...EEAVA
+
+           51                                             100
+1fgkA      VKMLKsdatekdlsdlisemEMMKMIgkHKNIINLLGACTQDGPLYVIVE
+1ia8A      VKIVD..mkrcpenikkei.CINKML.nHENVVKFYGHRREGNIQYLFLE
+
+           101                                            150
+1fgkA      YASk.GNLREYLqarrppeeQLSSKDLVSCAYQVARGMEYLASKKCIHRD
+1ia8A      YCS.gGELFDRI..epd..iGMPEPDAQRFFHQLMAGVVYLHGIGITHRD
+
+           151                                            200
+1fgkA      LAARNVLVTEDNVMKIADfglardihhidyykk.................
+1ia8A      IKPENLLLDERDNLKISD.fg............latvfrynnrerllnkm
+
+           201                                            250
+1fgkA      .ttngrlPVKWMAPEALFDr.IYTHQSDVWSFGVLLWEIFTLgGSPYpgv
+1ia8A      cg.....TLPYVAPELLKRreFHAEPVDVWSCGIVLTAMLAG.ELPWdq.
+
+           251                                            300
+1fgkA      pveelfkl...LKEGHrm.....d.kPSNCTNELYMMMRDCWHAVPSQRP
+1ia8A      ....psdscqeYSDWK..ekktylnpWKKIDSAPLALLHKILVENPSARI
+
+           301                   325
+1fgkA      TFKQLVEDldriv.alts~~~~~~~
+1ia8A      TIPDIKKD..rwynkpl.kkgakrp
+

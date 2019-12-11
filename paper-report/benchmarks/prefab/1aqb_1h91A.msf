@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aqb_1h91A.msf MSF:  175 Type: P 11/12/19 CompCheck: 8473 ..
+
+  Name: 1aqb       Len: 175  Check: 6818 Weight: 1.00
+  Name: 1h91A      Len: 175  Check: 1655 Weight: 1.00
+
+//
+
+           1                                               50
+1aqb       ERDaRvSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDnIVAEFSVDEN
+1h91A      ~~~~KaASVDLWAEQNRNSYAGVWYQFALTNNPYQLIEKbVRNEYSFD.G
+
+           51                                             100
+1aqb       GHMSATAKGRVRLLNNWDVbADMVGTFTDTEDPAKFKMKYWGVASFLQKG
+1h91A      KQFVIKSTGIAYD....GNlLKRNGKLYPNGEPH.LSIDYE......NSF
+
+           101                                            150
+1aqb       NDDHWIIDTDYDTYAvQYScRLQNLDGTcADSYSFVFARDPHGFSPEVQK
+1h91A      AAPLVILETDYSNYAcLYSa.IDYNFGYh.SDFSFIFSRSA.NLADQYVK
+
+           151                   175
+1aqb       IvRQRQEELaLARQYRIITHNgYbD
+1h91A      KcEAAFKNInVTTRFVKTVQSbPyD
+

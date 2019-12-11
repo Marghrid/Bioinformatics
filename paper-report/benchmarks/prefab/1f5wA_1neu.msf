@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1f5wA_1neu.msf MSF:  124 Type: P 11/12/19 CompCheck: 6919 ..
+
+  Name: 1f5wA      Len: 124  Check: 6035 Weight: 1.00
+  Name: 1neu       Len: 124  Check:  884 Weight: 1.00
+
+//
+
+           1                                               50
+1f5wA      FARSLSITTPEEMIEKAKGETAYLPaKFTLSPEDQGPLDIEWLISPADNQ
+1neu       ~~~~IVVY.TDREVYGAVGSQVTLHaSFWSSEWVSDDISFTWRYQPE.GG
+
+           51                                             100
+1f5wA      KVDQVIILYSGDKIYDDYYPDLKGRVHFTSNDLKSGDASINVTNLQLSDI
+1neu       RDAISIFHYAKGQPYIDEVGTFKERIQWVG.DPSWKDGSIVIHNLDYSDN
+
+           101                  124
+1f5wA      GTYQaKVKKAPGVANKKIHLVVLV
+1neu       GTFTaDVKN...GKTSQVTLYVFE
+

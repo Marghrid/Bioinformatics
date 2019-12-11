@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cztA_1eut.msf MSF:  160 Type: P 11/12/19 CompCheck: 8331 ..
+
+  Name: 1cztA      Len: 160  Check: 8571 Weight: 1.00
+  Name: 1eut       Len: 160  Check: 9760 Weight: 1.00
+
+//
+
+           1                                               50
+1cztA      GaSTPLGMENGKIENKQITASSFKKSWWGDYWEPFRARLNAQGRVNAWQA
+1eut       ~~VGLLDQ..ARMS..IADVDSEETA..REDGRASNVIGNPS...TFWHT
+
+           51                                             100
+1cztA      KANNNKQWLEIDLLKIKKITAIITQGCKSLSSEMYVKSYTIHYSEQGVEW
+1eut       EPGYP.HRISLDLGGTHTISGLQYTRRQN..ANEQVADYEIYTSLNGTTW
+
+           101                                            150
+1cztA      KPYRLKSSMVDKIFEGNTNTKGHVKNFFNPPIISRFIRVIPKTWNQSITL
+1eut       DGPV.......ASGRFTTS.LAPQRAVF.PARDARYIRLVALSEQTYAAV
+
+           151    160
+1cztA      RLELFGaDIY
+1eut       ELEVEGqR~~
+

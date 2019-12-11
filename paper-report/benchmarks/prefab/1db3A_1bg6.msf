@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1db3A_1bg6.msf MSF:  564 Type: P 11/12/19 CompCheck: 4630 ..
+
+  Name: 1db3A      Len: 564  Check: 8590 Weight: 1.00
+  Name: 1bg6       Len: 564  Check: 6040 Weight: 1.00
+
+//
+
+           1                                               50
+1db3A      SKVALITGVtGQDGSYLAEFLLEKGYEVHGIKR.................
+1bg6       SKTYAVLGL.GNGGHAFAAYLALKGQSVLAWDIdaqrikeiqdrgaiiae
+
+           51                                             100
+1db3A      ........PKFHLHYgdlsdtsnltrilrev..QPDEVYNLGamshvavs
+1bg6       gpglagtaHPDLLTS...........diglavkDADVILIVV........
+
+           101                                            150
+1db3A      fespeytadvdamgtlrlleairflglEKKTRFYQAStselyglvqeipq
+1bg6       ..........paihhasiaaniasy.iSEGQLIILNP.............
+
+           151                                            200
+1db3A      kettpfyprspyava.kLYAYWITVNyres...YGMYACNGILfnhe...
+1bg6       ...............gaTGGALEFRKilrengaPEVTIGETSS....mlf
+
+           201                                            250
+1db3A      sprrgetfvtrkitraianiaqglesclylgnmdslrdwg........ha
+1bg6       tcrse...................................rpgqvtvnai
+
+           251                                            300
+1db3A      kdyvkmqwmm..............lqqeqpedfviatgvqysvrqfvema
+1bg6       kg........amdfaclpaakagwaleq......................
+
+           301                                            350
+1db3A      aaqlgiklrfegtgveekgivvsvtghdapgvkpgdviiavdpryfrpae
+1bg6       ..................................................
+
+           351                                            400
+1db3A      etllgdptk........aheklgwkpeitlremvsemvandleaakkhs~
+1bg6       .........igsvlpqyvave............................n
+
+           401                                            450
+1db3A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bg6       vlhtsltnvnavmhplptllnaarcesgtpfqyylegitpsvgslaekvd
+
+           451                                            500
+1db3A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bg6       aeriaiakafdlnvpsvcewypatiyeavqgnpayrgiagpinlntryff
+
+           501                                            550
+1db3A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bg6       edvstglvplselgravnvptplidavldlisslidtdfrkegrtleklg
+
+           551        564
+1db3A      ~~~~~~~~~~~~~~
+1bg6       lsgltaagirsave
+

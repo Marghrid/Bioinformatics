@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1awe_1btkA.msf MSF:  189 Type: P 11/12/19 CompCheck: 7780 ..
+
+  Name: 1btkA      Len: 189  Check: 3273 Weight: 1.00
+  Name: 1awe       Len: 189  Check: 4507 Weight: 1.00
+
+//
+
+           1                                               50
+1btkA      ~~~~~~~~~~~~~~~~~~~AAVILESIFLKRSqqkkktsplNFKKCLFLL
+1awe       neiqknidgwegkdigqccNEFIMEGTLTRVG.........AKHERHIFL
+
+           51                                             100
+1btkA      TVHKLSYYEYDFE........rgrrgSKKGSIDVEKItCVETVVPEKNPp
+1awe       FDGLMICCKSNHGqprlpgasnaey.RLKEKFFMRKV.QINDKDDTNEY.
+
+           101                                            150
+1btkA      perqimeqisiierfPYPFQVV.yDEGPLYVFSPTEELRKRWIHQLKNVI
+1awe       ...............KHAFEIIlkDENSVIFSAKSAEEKNNWMAALISLQ
+
+           151                                 189
+1btkA      RYNSDlvqkyhpcfwidgqylccsqtaknamgcqilen~
+1awe       YRSTL.................................e
+

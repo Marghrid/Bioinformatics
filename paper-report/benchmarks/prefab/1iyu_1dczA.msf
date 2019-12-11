@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1iyu_1dczA.msf MSF:  87 Type: P 11/12/19 CompCheck: 5857 ..
+
+  Name: 1iyu       Len: 87  Check: 9795 Weight: 1.00
+  Name: 1dczA      Len: 87  Check: 6062 Weight: 1.00
+
+//
+
+           1                                               50
+1iyu       ~~~~~~~sEIIRVPdigg.DGEVIELLVKTGDLIEVEQGLVVLESAKASM
+1dczA      agagkageGEIPAP....lAGTVSKILVKEGDTVKAGQTVLVLEAMKMET
+
+           51                                 87
+1iyu       EVPSPKAGVVKSVSVKLGDKLKEGDAIIELEpaagar
+1dczA      EINAPTDGKVEKVLVKERDAVQGGQGLIKIG~~~~~~
+

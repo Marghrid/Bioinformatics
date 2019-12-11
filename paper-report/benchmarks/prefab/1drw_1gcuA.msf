@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1drw_1gcuA.msf MSF:  432 Type: P 11/12/19 CompCheck: 9388 ..
+
+  Name: 1gcuA      Len: 432  Check: 3939 Weight: 1.00
+  Name: 1drw       Len: 432  Check: 5449 Weight: 1.00
+
+//
+
+           1                                               50
+1gcuA      daepk..rKFGVVVVGV.GRAGSVRLRDLKDprsaafLNLIGFVSRr.e.
+1drw       ~~~~~hdaNIRVAIAGAgGRMGRQLIQAALA...legVQLGAALERegss
+
+           51                                             100
+1gcuA      .lgsl.........DEVr.QISL.edalrSQEIDVAYICSESSSHEDYIR
+1drw       llgsdagelagagkTGV.tVQSSldav..KDDFDVFIDFTRPEGTLNHLA
+
+           101                                            150
+1gcuA      QFLQAGKHVLVEYPmTLSFAAAQELWELAAqkGRVLHEE.hvellmeefe
+1drw       FCRQHGKGMVIGTT.GFDEAGKQAIRDAAA..DIAIVFAanfsv......
+
+           151                                            200
+1gcuA      flrrevlgkellkgslrftaspleeerfgfpafsgisrltwlvslfgels
+1drw       ..................................................
+
+           201                                            250
+1gcuA      lisatleerkedqymkmtvqletqnkgllswieekgpglkrnryvnfqft
+1drw       ..................................................
+
+           251                                            300
+1gcuA      sgsleevpsvgvnk....................................
+1drw       ..............gvnvmlkllekaakvmgdytdieiieahhrhkvdap
+
+           301                                            350
+1gcuA      ..................................................
+1drw       sgtalamgeaiahaldkdlkdcavysreghtgervpgtigfatvragdiv
+
+           351                                            400
+1gcuA      ........................niflkdqdifvqklldqv....saed
+1drw       gehtamfadigerleithkassrmtfangavrsalwlsg...kesgl...
+
+           401                          432
+1gcuA      laaekkrimhclglasdiqklch~~~~~~~~~
+1drw       fdm....................rdvldlnnl
+

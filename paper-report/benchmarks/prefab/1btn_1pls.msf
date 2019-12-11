@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1btn_1pls.msf MSF:  128 Type: P 11/12/19 CompCheck: 9903 ..
+
+  Name: 1pls       Len: 128  Check: 7109 Weight: 1.00
+  Name: 1btn       Len: 128  Check: 2794 Weight: 1.00
+
+//
+
+           1                                               50
+1pls       epkriREGYLVKKGsv..........FNTWKPMWVVLLEDGIEFYKKKSD
+1btn       ~~~~~MEGFLNRKH..eweahnkkasSRSWHNVYCVINNQEMGFYKDAKS
+
+           51                                             100
+1pls       ...nspk...GMIPLKGSTLTSpCQDFGKRMFVFKITTTKQQDHFFQAAF
+1btn       aasgipyhseVPVSLKEAICEV.ALDYKKKKHVFKLRLSDGNEYLFQAKD
+
+           101                      128
+1pls       LEERDAWVRDINKAikcieglehhhhhh
+1btn       DEEMNTWIQAISSA~~~~~~~~~~~~~~
+

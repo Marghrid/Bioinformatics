@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1j9yA_1oyc.msf MSF:  522 Type: P 11/12/19 CompCheck: 9049 ..
+
+  Name: 1j9yA      Len: 522  Check: 9524 Weight: 1.00
+  Name: 1oyc       Len: 522  Check: 9525 Weight: 1.00
+
+//
+
+           1                                               50
+1j9yA      pvtvklvdsqatmetr....................SLFAFmqeqrr..H
+1oyc       ~~~~~~~~~~~~~~~~sfvkdfkpqalgdtnlfkpiKIGNN......elL
+
+           51                                             100
+1j9yA      SIMFG.hqhettqgltit...........rtdgtq..sdtfnavgdfa..
+1oyc       HRAVIppltr........mralhpgnipnrdwaveyytqra.......qr
+
+           101                                            150
+1j9yA      ....avygwdtlsivapk.....aegd.....ivaqvkkayarg.....g
+1oyc       pgtmiitegaf..ispq.aggydnapgvwseeqmvewtkifnaihekksf
+
+           151                                            200
+1j9yA      iitvsshfdnpktdtq...kgvw....pvgtswdqtpavvdslpgga...
+1oyc       vwvqlwvlgw......aafpdnlardglryd......sasd......nvf
+
+           201                                            250
+1j9yA      ...................ynpvlngyldqvaewannlkdeqgr.lIPVI
+1oyc       mdaeqeakakkannpqhsltkdeikqyikeyvqaaknsia....agADGV
+
+           251                                            300
+1j9yA      FRLYHEntgsw...fwwg.dKQS........tPEQYKQLFRYSVEYLRdv
+1oyc       EIHSANg....yllnqfldpHSNtrtdeyggsIENRARFTLEVVDALV..
+
+           301                                            350
+1j9yA      kgvrn..FLYAYSPNNfwdvte..........anylery..PGDEW....
+1oyc       .eaigheKVGLRLSPYg.....vfnsmsggaetgivaqyayVAGELekra
+
+           351                                            400
+1j9yA      .....VDVLGFDT.....YGPVad.naDWfrnvvanaalva......rma
+1oyc       kagkrLAFVHLVEprvtnPFLT..egeGE............yeggsndfv
+
+           401                                            450
+1j9yA      ea.RGKIPVIseigilydnqwyrk...lisglka.dpdar...EIAFLLV
+1oyc       ysiWKGPVIR..............agnfalhpevvreev.kdkRTLIGYG
+
+           451                                            500
+1j9yA      wtle....dfqaf.yadeftafnrdieqvyqrpt~~~~~~~~~~~~~~~~
+1oyc       ....rffisnpdlvdrle................kglplnkydrdtfyqm
+
+           501                522
+1j9yA      ~~~~~~~~~~~~~~~~~~~~~~
+1oyc       sahgyidyptyeealklgwdkk
+

@@ -1,0 +1,81 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b37B_1gpeA.msf MSF:  889 Type: P 11/12/19 CompCheck: 4024 ..
+
+  Name: 1gpeA      Len: 889  Check: 3506 Weight: 1.00
+  Name: 1b37B      Len: 889  Check:  518 Weight: 1.00
+
+//
+
+           1                                               50
+1gpeA      lpaqqidvqssllsdpskvagkty.DYIIAGGGLTGLTVAAKLTENPKIK
+1b37B      ~~~~~~~~~~~~~~~~~~~~~~~~pRVIVVGAGMSGISAAKRLSEAGITD
+
+           51                                             100
+1gpeA      VLVIEKGFyesndgaiiedpnaygqifgttvdqnyltvplinnrtnnika
+1b37B      LLILEATD..........................................
+
+           101                                            150
+1gpeA      gkGLGGST..........................................
+1b37B      ..HIGGRMhktnfaginvelganwvegvnggkmnpiwpivnstlklrnfr
+
+           151                                            200
+1gpeA      ..................................................
+1b37B      sdfdylaqnvykedggvydedyvqkrieladsveemgeklsatlhasgrd
+
+           201                                            250
+1gpeA      ..................................................
+1b37B      dmsilamqrlnehqpngpatpvdmvvdyykfdyefaepprvtslqntvpl
+
+           251                                            300
+1gpeA      ...................lingdswtrpdkvqidswekvfgmegwnwdn
+1b37B      atfsdfgddvyfvadqrgye..............................
+
+           301                                            350
+1gpeA      mfeymkkaeaartptaaqlaaghsfnatchgtngtvqsgardngqpwspi
+1b37B      ..................................................
+
+           351                                            400
+1gpeA      mkalmntvsalgvpvqqdflcghprgvsmimnnldenqvrvdaarAWLLP
+1b37B      ........................................avvy.YLAGQ
+
+           401                                            450
+1gpeA      NYQRsnl..........EILTGQMVGKVLFKQtasgpQAVGVNFGTnkav
+1b37B      YLKT...ddksgkivdpRLQLNKVVREIKYSP.....GGVTVKTED....
+
+           451                                            500
+1gpeA      NFDVFAkhEVLLAAGSAIS..plileysgiglksvldqanvtqlldl..p
+1b37B      NSVYSA.dYVMVSASLGVLqsdliq.fkpk.............lptwkvr
+
+           501                                            550
+1gpeA      vginmqdqttttvssrassagagqgqavffanftetfgdyapqardllnt
+1b37B      aiyq..............................................
+
+           551                                            600
+1gpeA      kldqwaeetvarggfhnvtalkvqyenyrnwlldedvafaelfmdtegki
+1b37B      ..................................................
+
+           601                                            650
+1gpeA      nfdlwdlipftrgsvhilssdpylwqfandpkfflnefdllgqaaaskla
+1b37B      ..................................................
+
+           651                                            700
+1gpeA      rdltsqgamkeyfagetlpgynlvqnatlsqwsdyvlqnfrpnwhavssc
+1b37B      ..................................................
+
+           701                                            750
+1gpeA      smms..............................................
+1b37B      ....fdmavytkiflkfprkfwpegkgrefflyassrrgyygvwqefekq
+
+           751                                            800
+1gpeA      ..................................................
+1b37B      ypdanvllvtvtdeesrrieqqsdeqtkaeimqvlrkmfpgkdvpdatdi
+
+           801                                            850
+1gpeA      ......................relg..GVVDatakvyg.TQGLRVIDGS
+1b37B      lvprwwsdrfykgtfsnwpvgvnryeydQLRA.......pVGRVYFTGEH
+
+           851                                 889
+1gpeA      IPPTqvss..HVMTIFYGMALKVADAILDDYAKSA~~~~
+1b37B      TSEH....ynGYVHGAYLSGIDSAEILINCAQKKMckyh
+

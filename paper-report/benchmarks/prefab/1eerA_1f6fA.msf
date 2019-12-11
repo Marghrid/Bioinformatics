@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eerA_1f6fA.msf MSF:  217 Type: P 11/12/19 CompCheck:  735 ..
+
+  Name: 1f6fA      Len: 217  Check: 2396 Weight: 1.00
+  Name: 1eerA      Len: 217  Check: 8339 Weight: 1.00
+
+//
+
+           1                                               50
+1f6fA      qhppycrnqpgkcq...iplqslFDRATTVANYNSKLAGEMVNRFdeqyv
+1eerA      ~~~~~~~~~~~~~~apprlicd.SRVLERYLLEAKEAEKITTGCAe....
+
+           51                                             100
+1f6fA      .....iNCHTssITTPNSKAEAIN....tEDKILFKLVISLLHSWDEPLH
+1eerA      hcslneKITV..PDTKVNFYAWKRmevgqQAVEVWQGLALLSEAVLRGQA
+
+           101                                            150
+1f6fA      HAVTELAnpalltkAQEIKEKAKVLVDGVEVIQKRIH..pgeknepypvw
+1eerA      LLVKSSQ..pwep.LQLHVDKAVSGLRSLTTLLRALGaqkeai.......
+
+           151                                            200
+1f6fA      seqssltsqdenvrrvafy................rlfhclhrdsskiy.
+1eerA      ...................snsdaasaaplrtitadtfrklfrvysnflr
+
+           201           217
+1f6fA      TYLRILKCRLTSc~~~~
+1eerA      GKLKLYTGEACR.tgdr
+

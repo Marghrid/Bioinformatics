@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1azsA_1culB.msf MSF:  190 Type: P 11/12/19 CompCheck: 5487 ..
+
+  Name: 1azsA      Len: 190  Check: 6788 Weight: 1.00
+  Name: 1culB      Len: 190  Check: 8699 Weight: 1.00
+
+//
+
+           1                                               50
+1azsA      DMMFHKIYIQKHDNVSILFADIEGFTSLASQCTAQELVMTLNELFARFDK
+1culB      ~~~~~~~YHQSYDCVCVMFASIPDFKEFYT..EGLECLRLLNEIIADFDD
+
+           51                                             100
+1azsA      LAAENHCLRIKILGDCYYCVSGLPEARADHAHCCVEMGMDMIEAISLVRE
+1culB      LLSFSGVEKIKTIGSTYMAATGLSA.QYMHIGTMVEFAYALVGKLDAINK
+
+           101                                            150
+1azsA      MTGVNVNMRVGIHSGRVHCGVLGLRKWQFDVWSNDVTLANHMEAGGKAGR
+1culB      HSFNDFKLRVGINHGPVIAGVIGAQKPQYDIWGNTVNVASRMDSTGVLDK
+
+           151                                  190
+1azsA      IHITKATLSYLNGDYEVEPGCGGERNAYLKEHSIETFLIL
+1culB      IQVTEETSLILTLGYTCTCRG.IINVKG..KGDLKTYFVN
+

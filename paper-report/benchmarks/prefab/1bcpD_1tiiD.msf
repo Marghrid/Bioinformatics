@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bcpD_1tiiD.msf MSF:  128 Type: P 11/12/19 CompCheck: 5605 ..
+
+  Name: 1tiiD      Len: 128  Check: 5533 Weight: 1.00
+  Name: 1bcpD      Len: 128  Check:   72 Weight: 1.00
+
+//
+
+           1                                               50
+1tiiD      asqffkdncnrt...TASLVEGVELTKYISDInnnt....DGMYVVSS..
+1bcpD      ~~~~~~~~~~~~dvpYVLVKTNMVVTSVAMKPyev.tptrMLVCGIAAkl
+
+           51                                             100
+1tiiD      ........TGGVWRISRAKDypdnvmt..AEMRKIAMAAVLSGMRVNMCA
+1bcpD      gaaasspdAHVPFCFGKDLKrp.....gsSPMEVMLRAVFMQQRPLRMFL
+
+           101                      128
+1tiiD      SPAS......sPNVIWAIELEA~~~~~~
+1bcpD      GPKQltfegkpALELIRMVECSgkqdcp
+

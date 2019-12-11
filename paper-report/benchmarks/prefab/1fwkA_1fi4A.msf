@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fwkA_1fi4A.msf MSF:  416 Type: P 11/12/19 CompCheck: 4772 ..
+
+  Name: 1fwkA      Len: 416  Check:  780 Weight: 1.00
+  Name: 1fi4A      Len: 416  Check: 3992 Weight: 1.00
+
+//
+
+           1                                               50
+1fwkA      ~MKVRVKAPCTSAnlgvGFD..............VFGLCLK..ePYDVIE
+1fi4A      vYTASVTAPVNIA...tLKYwgkrdtklnlptnsSISVTLSqddLRTLTS
+
+           51                                             100
+1fwkA      VEAI.dDKEIIIEVddknip..TDPDKNva....GIVAKKMIDDFN....
+1fi4A      AATApeFERDTLWL......ngEPHSID..nertQNCLRDLRQLRKexes
+
+           101                                            150
+1fwkA      ........IGKGVKITIKKGVKAGSGLGSSAASSAGTAYAINELFKLNLD
+1fi4A      kdaslptlSQWKLHIVSENNFPTAAGLASSAAGFAALVSAIAKLYQLPQS
+
+           151                                            200
+1fwkA      KLKLVDYASYGElassgakhad.NVAPAIFGGFTMVTNy.....EPLEVL
+1fi4A      TSEISRIARKGS..........gSACRSLFGGYVAWEXgkaedgHDSXAV
+
+           201                                            250
+1fwkA      H.ipid..fKLDILIAIPNI...SINTKEAREIL..PKAVGLKDl.VNNV
+1fi4A      QiadssdwpQXKACVLVVSDikkDVSSTQGXQLTvaTSELFKERieHVVP
+
+           251                                            300
+1fwkA      GKACGMVYALYNKDKSLFGRYMMSD.KVIEPVRg.......klip.NYFK
+1fi4A      KRFEVXRKAIVEKDFATFAKETXXDsNSFHATC.ldsfppifyxndTSKR
+
+           301                                            350
+1fwkA      IKEEVKDK.......VYGITISgSGPSIIAFP...keefiDEVENil...
+1fi4A      IISWCHTInqfygetIVAYTFD.AGPNAVLYYlaenesklFAFIY..klf
+
+           351                                            400
+1fwkA      ....................................rdYYENTIRTEVGK
+1fi4A      gsvpgwdkkftteqleafnhqfessnftareldlelqkDVARVILTQVGS
+
+           401          416
+1fwkA      GVEVV~~~~~~~~~~~
+1fi4A      GPQETneslidaktgl
+

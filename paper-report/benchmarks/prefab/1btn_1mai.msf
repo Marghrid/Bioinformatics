@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1btn_1mai.msf MSF:  136 Type: P 11/12/19 CompCheck: 8039 ..
+
+  Name: 1mai       Len: 136  Check: 1410 Weight: 1.00
+  Name: 1btn       Len: 136  Check: 6629 Weight: 1.00
+
+//
+
+           1                                               50
+1mai       lqddpdlqallKGSQLLKVKs..........ssWRRERFYKLQedCKTIW
+1btn       ~~~~~~~~~~~MEGFLNRKH.eweahnkkassrSWHNVYCVIN..NQEMG
+
+           51                                             100
+1mai       QESrkv......mrsp..esqlfsiediqEVRMGHRteglekfARDIPed
+1btn       FYK...daksaasgipyhsevpvslkea.ICEVALD.......YKKKK..
+
+           101                              136
+1mai       RCFSIVFKDqrNTLDLIAPSPADAQHWVQGLRKIih
+1btn       HVFKLRLSD.gNEYLFQAKDDEEMNTWIQAISSA~~
+

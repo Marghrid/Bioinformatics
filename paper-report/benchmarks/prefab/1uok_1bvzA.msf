@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1uok_1bvzA.msf MSF:  558 Type: P 11/12/19 CompCheck: 2554 ..
+
+  Name: 1uok       Len: 558  Check: 7581 Weight: 1.00
+  Name: 1bvzA      Len: 558  Check: 4973 Weight: 1.00
+
+//
+
+           1                                               50
+1uok       MEKQWWKESVVYQIYPRSFMDSNGDGIGDLRGIISKLDYLKELGIDVIWL
+1bvzA      TTPEWAKEAVIYQIFPERFANGDPSYGGDLKGVIDRLPYLEELGVTALYF
+
+           51                                             100
+1uok       SPVYESPNDDNGYDISDYCKIMNEFGTMEDWDELLHEMHERNMKLMMDLV
+1bvzA      TPIFASPS.HHKYDTADYLAIDPQFGDLPTFRRLVDEAHRRGIKIILDAV
+
+           101                                            150
+1uok       VNHTSDEHNWFIESRKSKDNKYRDYYIWRPGKEGKEPNNWGAAFSGSAWQ
+1bvzA      FN................................................
+
+           151                                            200
+1uok       YDEMTDEYYLHLFSKKQPDLNWDNEKVRQDVYEMMKFWLEKGIDGFRMDV
+1bvzA      ....................RTENPEVKEYLFDVARFWMEQGIDGWRLDV
+
+           201                                            250
+1uok       INFISKEEGLPTVETEEEGYVSGHKHFMNGPNIHKYLHEMNEEVLSHYDI
+1bvzA      ANEV............................DHAFWREFRR.LVKSPDA
+
+           251                                            300
+1uok       MTVGEMPGVTTEEAKLYTGEERKELQMVFQFEHMDLDSGEGGKWDVKPCS
+1bvzA      LIVGEIWHD....ASGWLMG..DQFDSVMNYLFRES...........EIH
+
+           301                                            350
+1uok       LLTLKENLTKWQKALEHTGWNSLYWNNHDQPRVVSRFGNDGMYRIESAKM
+1bvzA      AERFDAELTRARMLYPEQAALWNLLDSHDTERFLTS.CGGN...EAKFRL
+
+           351                                            400
+1uok       LATVLHMMKGTPYIYQGEEIGMTNVRFESIDEYRDIETLNMYKEKVMERG
+1bvzA      AVLFQMTYLGTPLIYYGDEIGMA...........................
+
+           401                                            450
+1uok       EDIEKVMQSIYIKGRDNARTPMQWDDQNHAGFTTGEPWITVNPNYKEINV
+1bvzA      .................CRRPMIWEE........................
+
+           451                                            500
+1uok       KQAIQNKDSIFYYYKKLIELRKNNEIVVYGSYDLILENNPSIFAYVRTYG
+1bvzA      EQNR....GLFEFYKELIRLRHRLASLTRGNVRSWHADKANLYAFVRTVQ
+
+           501                                            550
+1uok       VEKLLVIANFTAEECIFELPEDISYSEVELLIHNYDVENGPIENITLRPY
+1bvzA      DQHVGVVLNNRGEKQTVLLQVESGGKTWLDCL...TGEEVHGLKLTLRPY
+
+           551  558
+1uok       EAMVFKLK
+1bvzA      QGMILWNG
+

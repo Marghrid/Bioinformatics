@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1epaA_1bj7.msf MSF:  167 Type: P 11/12/19 CompCheck: 7526 ..
+
+  Name: 1epaA      Len: 167  Check: 4287 Weight: 1.00
+  Name: 1bj7       Len: 167  Check: 3239 Weight: 1.00
+
+//
+
+           1                                               50
+1epaA      vkdfdISKFLGFWYEIAFASkeekm.............GAMVVELKE..N
+1bj7       ~~~idPSKIPGEWRIIYAAAd....nkdkiveggplrnYYRRIECINdcE
+
+           51                                             100
+1epaA      LLALTTTYYSEDHCVLEKVTATEGDgpAKFQVTRLsGKKEVVVEATdYLT
+1bj7       SLSITFYLKDQGTCLLLTEVAKRQE.gYVYVLEFY.GTNTLEVIHV.SEN
+
+           101                                            150
+1epaA      YAIIDITSLVAGAVHRTMKLYSRSLddnge.ALYNFRKITSDHGFSETDL
+1bj7       MLVTYVENYDGERITKMTEGLAKGT.sftpeELEKYQQLNSERGVPNENI
+
+           151           167
+1epaA      YILKHDLTCVKvlqsaa
+1bj7       ENLIKTDNCPP~~~~~~
+

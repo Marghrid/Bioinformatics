@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fmb_2hpeA.msf MSF:  105 Type: P 11/12/19 CompCheck: 5328 ..
+
+  Name: 1fmb       Len: 105  Check: 7408 Weight: 1.00
+  Name: 2hpeA      Len: 105  Check: 7920 Weight: 1.00
+
+//
+
+           1                                               50
+1fmb       VTYNLEKRPTTIVLINDTPLNVLLDTGADTSVLttahynrlkyRGRKYQG
+2hpeA      PQFSLWKRPVVTAYIEGQPVEVLLDTGADDSIV.agie.....LGNNYSP
+
+           51                                             100
+1fmb       TGIGGVGGNVETFSTP.VTIKKKGRHIKTRMLVADIPVTILGRDILQDLG
+2hpeA      KIVGGIGGFINTLEYKnVEIEVLNKKVRATIMTGDTPINIFGRNILTALG
+
+           101
+1fmb       AKLVL
+2hpeA      MSLNL
+

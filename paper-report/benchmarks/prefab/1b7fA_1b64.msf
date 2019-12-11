@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b7fA_1b64.msf MSF:  186 Type: P 11/12/19 CompCheck: 7660 ..
+
+  Name: 1b7fA      Len: 186  Check: 6464 Weight: 1.00
+  Name: 1b64       Len: 186  Check: 1196 Weight: 1.00
+
+//
+
+           1                                               50
+1b7fA      s......nTNLIVNYLPQDMTDRELYALFRAIG....PINTCRIMRDykt
+1b64       ~mlvakssILLDVKPWDDETDMAKLEECVRSIQadglVWGSSKLVPVg..
+
+           51                                             100
+1b7fA      gysygYAFVDFTSe....MDSQRAIKVLNGITVrnkr..LKVSYARPgge
+1b64       ygik.KLQIQCVV.eddkVGTDMLEEQITAFED....yvQSMDVAAF...
+
+           101                                            150
+1b7fA      sikdtnlyvtnlprtitddqldtifgkygsivqknilrdkltgrprgvaf
+1b64       ..................................................
+
+           151                              186
+1b7fA      vrynkreeaqeaisalnnvipeggsqplsvrla~~~
+1b64       .................................nki
+

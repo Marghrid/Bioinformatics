@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ae9A_1aihA.msf MSF:  207 Type: P 11/12/19 CompCheck:  421 ..
+
+  Name: 1aihA      Len: 207  Check: 6603 Weight: 1.00
+  Name: 1ae9A      Len: 207  Check: 3818 Weight: 1.00
+
+//
+
+           1                                               50
+1aihA      telaflyeRDIYRLLAECDNSrNPDLGLIVRICLATGARWSEAETLTQSQ
+1ae9A      ~~rsrltaDEYLKIYQAAESS.PCWLRLAMELAVVTGQRVGDLCEMKWSD
+
+           51                                             100
+1aihA      VMPYKITFTNTk.SKKNRTVPIs..........DELFDMLPk..krgrlf
+1ae9A      IVDGYLYVEQS.kTGVKIAIPTalhidalgismKETLDKCKeilggetii
+
+           101                                            150
+1aihA      n..........DAYESFENAVLRAEIEL.PKGQLTHVLRHTFASHFMMNg
+1ae9A      astrreplssgTVSRYFMRARKASGLSFeGDPPTFHELRSLSARLYEKQ.
+
+           151                                            200
+1aihA      GNILVLKEILGHstiemtmryahfapshlesavkfnplsnpaq~~~~~~~
+1ae9A      ISDKFAQHLLGH...............................frddrgr
+
+           201 207
+1aihA      ~~~~~~~
+1ae9A      ewdkiei
+

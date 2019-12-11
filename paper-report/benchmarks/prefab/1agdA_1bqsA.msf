@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1agdA_1bqsA.msf MSF:  399 Type: P 11/12/19 CompCheck: 8311 ..
+
+  Name: 1agdA      Len: 399  Check: 7435 Weight: 1.00
+  Name: 1bqsA      Len: 399  Check:  876 Weight: 1.00
+
+//
+
+           1                                               50
+1agdA      gshsmryfdtamsrpgrgeprfisvgyvddtqfvrfdsdaaspreeprap
+1bqsA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1agdA      wieqegpeywdrntqifktntqtdreslrnlrgyynqseagshtlqsmyg
+1bqsA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1agdA      cdvgpdgrllrghnqyaydgkdyialnedlrswtaadtaaqitqrkweaa
+1bqsA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1agdA      rvaeqdraylegtcvewlrrylengkdtle....................
+1bqsA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~vkplqveppepvvavalgas
+
+           201                                            250
+1agdA      ..................................................
+1bqsA      rqltcrlacadrgasvqwrgldtslgavqsdtgrsvltvrnaslsaagtr
+
+           251                                            300
+1agdA      ..................RADPP.KTHVTHhpisd.....HEATLRCWAL
+1bqsA      vcvgscggrtfqhtvqllVYAFPnQLTVSP.....aalvpGDPEVACTAH
+
+           301                                            350
+1agdA      GFYPAe...ITLTWQRDGEDQTQDTELVETRPAG........DRTFQKWA
+1bqsA      KVTPVdpnaLSFSLLVGGQELEGAQALGPEVQEEeeepqgdeDVLFRVTE
+
+           351                                           399
+1agdA      AVVVPSgeeq......RYTCHVQHEgl....PKPLTLRWEP~~~~~~~~
+1bqsA      RWRLPPl...gtpvppALYCQATMR..lpglELSHRQAIPVlhsptspe
+

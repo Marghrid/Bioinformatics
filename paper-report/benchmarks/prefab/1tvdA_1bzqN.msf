@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1tvdA_1bzqN.msf MSF:  116 Type: P 11/12/19 CompCheck: 4516 ..
+
+  Name: 1tvdA      Len: 116  Check: 7172 Weight: 1.00
+  Name: 1bzqN      Len: 116  Check: 7344 Weight: 1.00
+
+//
+
+           1                                               50
+1tvdA      DKVTQSSPDQTVASGSEVVLLaTYDTVYSNPDLFWYRIRPDYSFQFVFYG
+1bzqN      VQLVE.SGGGLVQAGGSLRLStAASGYATYIYMGWFRQAPGKEREGVAAM
+
+           51                                             100
+1tvdA      DDSRSEGADFTQGRFSVKHILTQKAFHLVISPVRTEDSATYYaAFTLPPP
+1bzqN      DS.GTLYADSVKGRFTISRDKGKNTVYLQMDSLKPEDTATYYtAAGGY..
+
+           101          116
+1tvdA      TDKLIFGKGTRVTVEP
+1bzqN      ...GQWGQGTQVTVS~
+

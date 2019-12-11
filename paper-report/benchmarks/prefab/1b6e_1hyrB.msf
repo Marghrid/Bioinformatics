@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b6e_1hyrB.msf MSF:  130 Type: P 11/12/19 CompCheck: 4825 ..
+
+  Name: 1b6e       Len: 130  Check: 3255 Weight: 1.00
+  Name: 1hyrB      Len: 130  Check: 1570 Weight: 1.00
+
+//
+
+           1                                               50
+1b6e       ~~~~~~~~CSCQEKWVGYRCNCYFISSEQKTWNESRHLCASQKSSLLQLQ
+1hyrB      ipltesycGPCPKNWICYKNNCYQFFDESKNWYESQASCMSQNASLLKVY
+
+           51                                             100
+1b6e       NTDELDFMSSSQQFYWIGLSYSEEHTAWLWENGSALSQYLFPSfe.TFNT
+1hyrB      SKEDQDLLKLVKSYHWMGLVHIPTNGSWQWEDGSILSPNLLTI..iEMQK
+
+           101                        130
+1b6e       KNCIAYNPNGNALDESCEDKNRYICKQQLi
+1hyrB      GDCALYASSFKGYIENCSTPNTYICMQRTv
+

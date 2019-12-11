@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1derA_1a6dA.msf MSF:  591 Type: P 11/12/19 CompCheck: 6964 ..
+
+  Name: 1derA      Len: 591  Check: 2137 Weight: 1.00
+  Name: 1a6dA      Len: 591  Check: 4827 Weight: 1.00
+
+//
+
+           1                                               50
+1derA      aakdVKFGNDAGVKMLRGVNVLADAVKVTLGPKGRNVVLDKSFGAPTITK
+1a6dA      ~~~~REQGKNAQRNNIEAAKAIADAVRTTLGPKGMDKMLVDSIGDIIISN
+
+           51                                             100
+1derA      DGVSVAR.EIELedkfeNMGAQMVKEVASKanDAAGD..GTTTATVLAQA
+1a6dA      DGATILKeMDVE.....HPTAKMIVEVSKA..QDTAVgdGTTTAVVLSGE
+
+           101                                            150
+1derA      IITEGLKAVAAGMNPMDLKRGIDKAVTVAVEELKALSVPCsdskaiaqvg
+1a6dA      LLKQAETLLDQGVHPTVISNGYRLAVNEARKIIDEIAEKStddatlrkia
+
+           151                                            200
+1derA      tisans.......detvgkliaeamdkvg........kegv.itvedgtg
+1a6dA      ltals.gkntglsndfladlvvkavnavaevrdgktivdtanikvdkkng
+
+           201                                            250
+1derA      l...qdeldvvegmqfdrgylspyfinkpetgavelespfilladkkisn
+1a6dA      gsvndtqfis..gividkekvhskmp.......dvvknakialidsalei
+
+           251                                            300
+1derA      ...........................irem.lpvleavakagkp.llii
+1a6dA      kkteieakvqisdpskiqdflnqetntfkqmvekikksg......anvvl
+
+           301                                            350
+1derA      a.edvegealatlvvntmrgivkvaavkapgfgdrrkamlqdiatltggt
+1a6dA      cqkgiddvaqhylake......giyavrrv.....kksdmeklakatgak
+
+           351                                            400
+1derA      viseeigmelekatledlgqakrvvinkd.......tttiidgvgeeaai
+1a6dA      ivt.....dlddltpsvlgeaetvee...rkigddrmtfvmgckn.....
+
+           401                                            450
+1derA      qgrvaqirqqieeatsdydreklqervaklaggvavikvgaatevemkek
+1a6dA      ...............................pkavsilirggtdhvvsev
+
+           451                                            500
+1derA      KARVEDALHATRAAvee.GVVAGGGVALIRVASKLADL..rgqneDQNVG
+1a6dA      ERALNDAIRVVAITkedgKFLWGGGAVEAELAMRLAKYansvgg.REQLA
+
+           501                                            550
+1derA      IKVALRAMEAPLRQIVLNCGEEPSVVANTVKGG....DGNYGYNAATEEY
+1a6dA      IEAFAKALEIIPRTLAENAGIDPINTLIKLKADdekgRISVGVDLDNNGV
+
+           551                                   591
+1derA      GNMIDMGILDPTKVTRSALQYAASVAGLMITTECMVtdlpk
+1a6dA      GDMKAKGVVDPLRVKTHALESAVEVATMILRIDDVI~~~~~
+

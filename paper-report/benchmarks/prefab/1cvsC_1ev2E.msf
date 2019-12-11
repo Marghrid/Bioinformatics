@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cvsC_1ev2E.msf MSF:  211 Type: P 11/12/19 CompCheck: 3464 ..
+
+  Name: 1cvsC      Len: 211  Check: 4910 Weight: 1.00
+  Name: 1ev2E      Len: 211  Check: 8554 Weight: 1.00
+
+//
+
+           1                                               50
+1cvsC      mpVAPYWTSPEKMEKKLHAVPAAKTVKFKCPSSGTPQPTLRWLKNGKEFK
+1ev2E      nkRAPYWTNTEKMEKRLHAVPAANTVKFRCPAGGNPMPTMRWLKNGKEFK
+
+           51                                             100
+1cvsC      PDHRIGGYKVRYATWSIIMDSVVPSDKGNYTCIVENEYGSINHTYQLDVV
+1ev2E      QEHRIGGYKVRNQHWSLIMESVVPSDKGNYTCVVENEYGSINHTYHLDVV
+
+           101                                            150
+1cvsC      ERSPHRPILQAGLPANKTvalgsNVEFMCKVYSDPQPHIQWLKHIevngs
+1ev2E      ERSPHRPILQAGLPANAS.....DVEFVCKVYSDAQPHIQWIKHV.....
+
+           151                                            200
+1cvsC      kigpdnlPYVQILKTAGVNTTDKEMEVLHLRNVSFEDAGEYTCLAGNSIG
+1ev2E      .......PYLKVLKAAGVNTTDKEIEVLYIRNVTFEDAGEYTCLAGNSIG
+
+           201     211
+1cvsC      LSHHSAWLTVl
+1ev2E      ISFHSAWLTVl
+

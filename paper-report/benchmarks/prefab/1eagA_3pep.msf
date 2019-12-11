@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eagA_3pep.msf MSF:  371 Type: P 11/12/19 CompCheck: 6810 ..
+
+  Name: 1eagA      Len: 371  Check:  223 Weight: 1.00
+  Name: 3pep       Len: 371  Check: 6587 Weight: 1.00
+
+//
+
+           1                                               50
+1eagA      qAVPVTLHNEQv.TYAADITVGsn..NQKLNVIVDTGSSDLWVPDVNVDC
+3pep       ~IGDEPLENYLdtEYFGTIGIG..tpAQDFTVIFDTGSSNLWVPSVYCSS
+
+           51                                             100
+1eagA      qvtysdqtadFCKQKGTYDPSGSsa..SQDLNTPFKIGYgdgSSSQGTLY
+3pep       .........lACSDHNQFNPDDS..stFEATSQELSITY.gtGSMTGILG
+
+           101                                            150
+1eagA      KDTVGFGGVSIKNQVLADVDSt.Si.......dQGILGVGYKTNEAgGSY
+3pep       YDTVQVGGISDTNQIFGLSET.ePgsflyyapfDGILGLAYPSISA.SGA
+
+           151                                            200
+1eagA      DNVPVTLKkq..GVIAKNAYSLYLNs.PDAAt.GQIIFGGVDNAKYSGSL
+3pep       TPVFDNLW..dqGLVSQDLFSVYLS.sNDDS.gSVVLLGGIDSSYYTGSL
+
+           201                                            250
+1eagA      IALPVTSDRELRISLGSVEVSGKTIntd....NVDVLLDSGTTITYLQQD
+3pep       NWVPVSVEGYWQITLDSITMDGETI...acsgGCQAIVDTGTSLLTGPTS
+
+           251                                            300
+1eagA      LADQIIKAFNGKLTQdsngnSFYEVDCNL...sGDVVFNFSknaKISVPA
+3pep       AIANIQSDIGASENS....dGEMVISCSSidslPDIVFTID.gvQYPLSP
+
+           301                                            350
+1eagA      SEFAASLdgqpy.dkCQLLFDVND.......aNILGDNFLRSAYIVYDLD
+3pep       SAYILQD.....ddsCTSGFEGMDvptssgelWILGDVFIRQYYTVFDRA
+
+           351               371
+1eagA      DNEISLAQVKytsassisalt
+3pep       NNKVGLAPVA~~~~~~~~~~~
+

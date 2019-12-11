@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dkuA_1qb7A.msf MSF:  413 Type: P 11/12/19 CompCheck: 6891 ..
+
+  Name: 1qb7A      Len: 413  Check: 6314 Weight: 1.00
+  Name: 1dkuA      Len: 413  Check:  577 Weight: 1.00
+
+//
+
+           1                                               50
+1qb7A      fkevspnsfllddshalsqllkksyrwyspvfsprnvprfadvssitesp
+1dkuA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1qb7A      etlka.............................................
+1dkuA      ~~~~~lkifslnsnpelakeiadivgvqlgkcsvtrfsdgevqinieesi
+
+           101                                            150
+1qb7A      ..................................................
+1dkuA      rgcdcyiiqstsdpvnehimellimvdalkrasaktinivipyygyarqd
+
+           151                                            200
+1qb7A      ................................................IR
+1dkuA      rkarsrepitaklfanlletagatrvialdlhapqiqgffdipidhlmGV
+
+           201                                            250
+1qb7A      DFLVQRYRAMSPAPTHILGFDARGFLFGPMIAVELEIPFVLMRKAdknag
+1dkuA      PILGEYFEGKNLEDIVIVSPDHGGVTRARKLADRLKAPIAIIDKR.....
+
+           251                                            300
+1qb7A      llirsepyekeykeaapevmTIRyg.sigkgSRVVLIDDVLATGGTALSG
+1dkuA      ...................mNIV..gnieg.KTAILIDDIIDTAGTITLA
+
+           301                                            350
+1qb7A      LQLVEASDAVVVEMVSILSIPFLKAAEKIHstansrykd...IKFISLLS
+1dkuA      ANALVENGAKEVYACCTHPVLSGPAVERINn........stiKELVVTNS
+
+           351                                            400
+1qb7A      DDAlteencgdsknytgprvlscgdvlaehph~~~~~~~~~~~~~~~~~~
+1dkuA      IKL.............................kierfkqlsvgpllaeai
+
+           401       413
+1qb7A      ~~~~~~~~~~~~~
+1dkuA      irvheqqsvsylf
+

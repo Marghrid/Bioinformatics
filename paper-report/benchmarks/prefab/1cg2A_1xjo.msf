@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cg2A_1xjo.msf MSF:  389 Type: P 11/12/19 CompCheck: 9257 ..
+
+  Name: 1cg2A      Len: 389  Check: 7202 Weight: 1.00
+  Name: 1xjo       Len: 389  Check: 2055 Weight: 1.00
+
+//
+
+           1                                               50
+1cg2A      QKRDNVLFQAATDEQPAVIKTLEKLVNIETGTGDAEGIAAAGNFLEAELK
+1xjo       ~~~~~~~APDI..PLANVKAHLTQLSTIARAHGR.PGYKASVDYVKAKLD
+
+           51                                             100
+1cg2A      NLGFTVTRSKSAGLVVGDNIVGKIKGRGGKNLLLMSHMDTVYLKGILAKA
+1xjo       AAGYTTTLQQFTSGATGYNLIANWPGGDPKVLMAGAHLDSVSS.......
+
+           101                                            150
+1cg2A      PFRVEGDKAYGPGIADDKGGNAVILHTLKLLKEYGVRDYGTITVLFNTDE
+1xjo       ...........AGINDNGSGSAAVLETALAVSRAGYQPDKHLRFAWWGAE
+
+           151                                            200
+1cg2A      EKGSFGSRDLIQEEAKLADYVLSFEPTSAGDEKLSLGTSGIAYVQVNITG
+1xjo       ELGLIGSKFYVNNL.SKLAGYLNFDXIPNPGYFVYDD.............
+
+           201                                            250
+1cg2A      KASHAGAAPELGVNALVEASDLVLRTMNIDDKAKNLRFNWTIAKAGNVSN
+1xjo       ..................................................
+
+           251                                            300
+1cg2A      IIPASATLNADVRYARNEDFDAAMKTLEERAQQKKLPEADVKVIVTRGRP
+1xjo       ..................................................
+
+           301                                            350
+1cg2A      AFNAGEGGKKLVDKAVAYYKEAGGTLGVEERTGGGTDAAYAALSGKPVIE
+1xjo       .......DPVIEKTFKNYFAGLNVPTEI......RSDHAPFKNVGVPVGG
+
+           351                                 389
+1cg2A      SLGLPGFgYHSDkAEYVDISAIPRRLYMAARLIMDLGAG
+1xjo       L..FTGAaYHSSaDSNINDTALDRNSDAAAHAIWTLSS~
+

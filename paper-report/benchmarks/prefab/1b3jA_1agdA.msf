@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b3jA_1agdA.msf MSF:  291 Type: P 11/12/19 CompCheck: 5737 ..
+
+  Name: 1b3jA      Len: 291  Check: 6735 Weight: 1.00
+  Name: 1agdA      Len: 291  Check: 9002 Weight: 1.00
+
+//
+
+           1                                               50
+1b3jA      ephslrynltvlswdgsv...qsgfltevhlDGQPFLRCDR....QKCRA
+1agdA      gshsmryfdtamsrp...grgeprfisvgyvDDTQFVRFDSdaasPREEP
+
+           51                                             100
+1b3jA      kpqgqwaedvLGNKTWDRETRDLTGNGKDLRMTLAHI..kdqke..glhs
+1agdA      r..apwieq.EGPEYWDRNTQIFKTNTQTDRESLRNLrgyynqseagsht
+
+           101                                            150
+1b3jA      lqeirvceihedns.trssqhfyydgelflsqnlETke.wtmpqssraQT
+1agdA      lqsmygcdvgpdgrllrghnqyaydgkdyialn.EDlrswtaa.....DT
+
+           151                                            200
+1b3jA      LAMNVRNFLKEdam..........adclqelrrylksgvvl..rrtvppm
+1agdA      AAQITQRKWEAar.vaeqdraylegtcvewlrryle.ngkdtleradppk
+
+           201                                            250
+1b3jA      vnvtrseasegnitvtcrasgfypwnitlswrqdgvslshdtqqwgdvlp
+1agdA      thvthhpisdheatlrcwalgfypaeitltwqrdgedqt.qdtelvetrp
+
+           251                                   291
+1b3jA      dgngtyqtwvatricqgeeqrftcymehs..gnhsthpvps
+1agdA      agdrtfqkwaavvvpsgeeqrytchvqheglpkpltlrwep
+

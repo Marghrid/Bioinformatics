@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fi2A_1caxB.msf MSF:  226 Type: P 11/12/19 CompCheck: 4869 ..
+
+  Name: 1fi2A      Len: 226  Check: 9457 Weight: 1.00
+  Name: 1caxB      Len: 226  Check: 5412 Weight: 1.00
+
+//
+
+           1                                               50
+1fi2A      tdpdplqdfcvadldgkavsvnghtckpm..seagddFLFSskltka.gN
+1caxB      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~tlssqdk.PFNL.rsrdpiyS
+
+           51                                             100
+1fi2A      TStpnGSAVTELDVAEWPGTNTLGVSMNRVDFAPGGTNPPHIHPRATEIG
+1caxB      NN...YGKLYEITPEKNSQLRDLDILLNCLQMNEGALFVPHYNSRATVIL
+
+           101                                            150
+1fi2A      MVMKGELLVGILGSLDs.........GNKLYSRVVRAGETFVIPRGLMHF
+1caxB      VANEGRAEVELVGLEQ.qqqqglesmQLRRYAATLSEGDIIVIPSSFPVA
+
+           151                                            200
+1fi2A      QFNVGktEAYMVVSFN.sqnPGIVFVP....LTLFgsdpPIPTPVLTKAL
+1caxB      LKAAS..DLNMVGIGVnaenNERNFLAghkeNVIR....QIPRQVSDLTF
+
+           201                    226
+1fi2A      RVEAGVVELLKSKfaggs~~~~~~~~
+1caxB      PGSGEEVEELLEN.qkesyfvdgqpr
+

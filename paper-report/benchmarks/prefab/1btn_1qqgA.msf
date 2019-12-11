@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1btn_1qqgA.msf MSF:  222 Type: P 11/12/19 CompCheck: 2555 ..
+
+  Name: 1qqgA      Len: 222  Check: 8427 Weight: 1.00
+  Name: 1btn       Len: 222  Check: 4128 Weight: 1.00
+
+//
+
+           1                                               50
+1qqgA      vrKVGYLRKP............KSMHKRFFVLRAaseaggpARLEYYENE
+1btn       ~~MEGFLNRKheweahnkkassRSWHNVYCVINN.......QEMGFYKDA
+
+           51                                             100
+1qqgA      KKWRhksSAP..KRSIPLESCfNINKRA.DSKNKHLVALYT.rDEHFAIA
+1btn       KSAA.sgIPYhsEVPVSLKEA.ICEVALdYKKKKHVFKLRLsdGNEYLFQ
+
+           101                                            150
+1qqgA      ADSEAEQDSWYQALLQLhafkevwqvilkpkglgqtknligiyrlcltsk
+1btn       AKDDEEMNTWIQAISSA~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1qqgA      tisfvklnseaaavvlqlmnirrcghsenfffievgrsavtgpgefwmqv
+1btn       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                222
+1qqgA      ddsvvaqnmhetileamramsd
+1btn       ~~~~~~~~~~~~~~~~~~~~~~
+

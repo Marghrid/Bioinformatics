@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1k89_1bw9A.msf MSF:  464 Type: P 11/12/19 CompCheck: 1656 ..
+
+  Name: 1k89       Len: 464  Check: 9305 Weight: 1.00
+  Name: 1bw9A      Len: 464  Check: 2351 Weight: 1.00
+
+//
+
+           1                                               50
+1k89       skyvdrviaevekkyadepefvqtveevlsslgpvvdahpeyeevaller
+1bw9A      ~~~~~~~~~~~~~sidsa................................
+
+           51                                             100
+1k89       m..vIPERVIEFRVPweddngkVHVNTGYRVQFNGAIGPYLGGLRFAPS.
+1bw9A      .lnwDGEMTVTRFDS.......MTGAHFVIRLDSTQLGPAAGGTRAAQYs
+
+           101                                            150
+1k89       ...VNLSIMKFLGFEQAFKDSLTTLPMGGAKGGSDF..dPNGKSDREVMR
+1bw9A      nlaDALTDAGKLAGAMTLKMAVSNLPMGGGKSVIALpapRHSIDPSTWAR
+
+           151                                            200
+1k89       FCQAFMTELYRHIGpdIDVPAGDLGVGARELGYMYGQYRkivggfyngVL
+1bw9A      ILRIHAENIDKLSG..NYWTGPDVNTNSADMDTLNDTTE.........FV
+
+           201                                            250
+1k89       TGKARSFGGSLVRPEATGYGSVYYVEAVMKHEN.DTLVGKTVALAGFGNV
+1bw9A      FGRSLERGGAGSSAFTTAVGVFEAMKATVAHRGlGSLDGLTVLVQGLGAV
+
+           251                                            300
+1k89       AWGAAKKLAELGAKAVTLSGpdgyiydpegitteekinymlemrasgrnk
+1bw9A      GGSLASLAAEAGAQLLVADTdt..........................er
+
+           301                                            350
+1k89       vqdyadkfgvqff....PGEKPWGQKVDIIMPCATQNDVDLEQAKKIvan
+1bw9A      vahavalg.....htavALEDVLSTPCDVFAPCAMGGVITTEVARTL...
+
+           351                                            400
+1k89       nVKYYIEVANMPTTN.EALRFLMQQpNMVVAPSKAVNAGGVLVSGF.ems
+1bw9A      dCSVVAGAANNVIADeAASDILHAR.GILYAPDFVANAGGAIHLVGrevl
+
+           401                                            450
+1k89       qnserlsWTAEEVDSKLHqVMTDIHDGSAAAAEryglgyNLVAGANIVGF
+1bw9A      g......WSESVVHERAV.AIGDTLNQVFEISDndgv..TPDEAARTLAG
+
+           451        464
+1k89       QKIADammaqgiaw
+1bw9A      RRAREast~~~~~~
+

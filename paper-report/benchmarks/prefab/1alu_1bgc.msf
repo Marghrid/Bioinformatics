@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1alu_1bgc.msf MSF:  157 Type: P 11/12/19 CompCheck: 9527 ..
+
+  Name: 1alu       Len: 157  Check: 1614 Weight: 1.00
+  Name: 1bgc       Len: 157  Check: 7913 Weight: 1.00
+
+//
+
+           1                                               50
+1alu       LTSSERIDKQIRYILDGISALRKETaNKSnMaENLNLPKMAEKDGbFQSG
+1bgc       QSFLLKCLEQVRKIQADGAELQERLaAKLaHpEGIPQAPL...SSbSSQS
+
+           51                                             100
+1alu       FNEETbLVKIITGLLEFEVYLEYLQNRFESSEEQARAVQMSTKVLIQFLQ
+1bgc       LQLRGbLNQLHGGLFLYQGLLQAL.AGISELAPTLDTLQLDVTDFATNIW
+
+           101                                            150
+1alu       KKAKNLDAITTPDPTTNASLLTKLQAQNQWLQDMTTHLILRSFKEFLQSS
+1bgc       LQMELGAAP.........AMPT....TSAFQRRAGGVLVASQLHRFLELA
+
+           151 157
+1alu       LRALRQM
+1bgc       YRGLRYL
+

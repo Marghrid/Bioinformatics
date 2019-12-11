@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bag_1smd.msf MSF:  527 Type: P 11/12/19 CompCheck:   33 ..
+
+  Name: 1bag       Len: 527  Check: 3405 Weight: 1.00
+  Name: 1smd       Len: 527  Check: 6628 Weight: 1.00
+
+//
+
+           1                                               50
+1bag       l......tapsiksGTILHAWNWSFNTLKHNM.KDIHDAGYTAIQTSPIN
+1smd       ~xyssntqqgr...TSIVHLFEWRWVDIALECeRYLAPKGFGGVQVSPPN
+
+           51                                             100
+1bag       QVKEGNQGDKsmsNWYWLYQPTSYQIGNrYLGTEQEFKEMCAAAEEYGIK
+1smd       ENVAIHNPFR...PWWERYQPVSYKLCT.RSGNEDEFRNMVTRCNNVGVR
+
+           101                                            150
+1bag       VIVDAVINHTTF.dyaai................SNEVKSIPNWTHGn..
+1smd       IYVDAVINHMCGnavsa.gtsstcgsyfnpgsrdFPAVPYSGWDFND.gk
+
+           151                                            200
+1bag       .....TQIKNWSDRWDVTQNSLLGLYDWNTQNTQVQSYLKRFLERALNDG
+1smd       cktgsGDIENYNDATQVRDCRLSGLLDLALGKDYVRSKIAEYMNHLIDIG
+
+           201                                            250
+1bag       ADGFRFDAAKHIELPddgsygsqFWPNIT..nTSa..........EFQYG
+1smd       VAGFRIDASKHMWPG........DIKAILdklHNlnsnwfpegskPFIYQ
+
+           251                                            300
+1bag       QILQD..SASRDAAYANYMDVTASNYGHSIRSALKN...rNLG.vsnis.
+1smd       EVIDLggEPIKSSDYFGNGRVTEFKYGAKLGTVIRKwngeKMSylknwge
+
+           301                                            350
+1bag       .hyasdvSADKLVTWVESHDTYAnd...dees.TWMSDDDIRLGWAVIAS
+1smd       gwgfm..PSDRALVFVDNHDNQRghgaggasilTFWDARLYKMAVGFMLA
+
+           351                                            400
+1bag       RSGSTPLFFSRPegggngvrfpgksq...................igdr.
+1smd       HPYGFTRVMSSYr.......wpry..fengkdvndwvgppndngvtkevt
+
+           401                                            450
+1bag       ..........GSALFEDQAITAVNRFHNVMAGQPEE.lsnpngNNQIFMN
+1smd       inpdttcgndWVCEHRWRQIRNMVNFRNVVDGQPFTnwydn..GSNQVAF
+
+           451                                            500
+1bag       QRGSHGVVLANAGSSSVSINTATKLPDGRYDNKAG.........AGSFQV
+1smd       GRGNRGFIVFNNDDWTFSLTLQTGLPAGTYCDVISgdkingnctGIKIYV
+
+           501                     527
+1bag       N.DGKLTGTINA...RSVAVLYPD~~~
+1smd       SdDGKAHFSISNsaeDPFIAIHAEskl
+

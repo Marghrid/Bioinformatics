@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cyo_1cxyA.msf MSF:  93 Type: P 11/12/19 CompCheck:  414 ..
+
+  Name: 1cyo       Len: 93  Check:  656 Weight: 1.00
+  Name: 1cxyA      Len: 93  Check: 9758 Weight: 1.00
+
+//
+
+           1                                               50
+1cyo       kAVKYYTLEEIQKHNNSKSTWLILHYKVYDLTKFLEEHPGge..EVLREQ
+1cxyA      ~TLPVFTLEQVAEHHSPDDCWMAIHGKVYDLTPYVPNHPG..paGMMLVW
+
+           51                                       93
+1cyo       AGGDATENFEDv....GHSTDARELSKTFIIGELhpddrskit
+1cxyA      CGQESTEAWETksygePHSSLAARLLQRYLIGTL~~~~~~~~~
+

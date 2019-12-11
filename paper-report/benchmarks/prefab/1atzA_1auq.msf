@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1atzA_1auq.msf MSF:  184 Type: P 11/12/19 CompCheck: 3942 ..
+
+  Name: 1atzA      Len: 184  Check: 6208 Weight: 1.00
+  Name: 1auq       Len: 184  Check: 7734 Weight: 1.00
+
+//
+
+           1                                               50
+1atzA      QPLDVILLLDGSSSFPASYFDEMKSFAKAFISKANIGPRLTQVSVLQYGS
+1auq       RLLDLVFLLDGSSRLSEAEFEVLKAFVVDMMERLRISQKWVRVAVVEYHD
+
+           51                                             100
+1atzA      ITTIDVPWNVVPEKAHLLSLVDVMQREGGPSQIGDALGFAVRYLTSEMHG
+1auq       GSHAYIGLKDRKRPSELRRIASQVKYAGSVASTSEVLKYTLFIFSKID..
+
+           101                                            150
+1atzA      ARPGASKAVVILVTDVSVDSVDAAADAARSNRVTVFPIGIGDRYDAAQLR
+1auq       .RPEASRIALLLMASQEPRNFVRYVQGLKKKKVIVIPVGIGPHANLKQIR
+
+           151                            184
+1atzA      ILAGPAGDSNVVKLQRIEDLPTMVTLGNSFLHKL
+1auq       LIEQAPE..KAFVLSSVDELEQQR...DEIVSYL
+

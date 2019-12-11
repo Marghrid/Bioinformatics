@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1itbB_1tit.msf MSF:  313 Type: P 11/12/19 CompCheck: 9026 ..
+
+  Name: 1tit       Len: 313  Check: 6200 Weight: 1.00
+  Name: 1itbB      Len: 313  Check: 2826 Weight: 1.00
+
+//
+
+           1                                               50
+1tit       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1itbB      kereekiilvssaneidvrpcplnpnehkgtitwykddsktpvsteqasr
+
+           51                                             100
+1tit       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1itbB      ihqhkeklwfvpakvedsghyycvvrnssyclrikisakfvenepnlcyn
+
+           101                                            150
+1tit       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1itbB      aqaifkqklpvagdgglvcpymeffknennelpklqwykdckpllldnih
+
+           151                                            200
+1tit       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1itbB      fsgvkdrlivmnvaekhrgnytchasytylgkqypitrviefitleenkp
+
+           201                                            250
+1tit       ~LIEVEKP.lYGVEVFVGETAHFEIELSEPD.VHGQWKLKGQPLTA.SPD
+1itbB      tRPVIVSPanETMEVDLGSQIQLICNVTGQLsDIAYWKWNGSVIDEdDPV
+
+           251                                            300
+1tit       CEIIEDG...........KKHILILHNCQLGMT.GEVSFQAA....NAKS
+1itbB      LGEDYYSvenpankrrstLITVLNISEIESRFYkHPFTCFAKnthgIDAA
+
+           301       313
+1tit       AANLKvkel~~~~
+1itbB      YIQLI....ypvt
+

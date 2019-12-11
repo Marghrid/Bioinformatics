@@ -1,0 +1,73 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1kit_2sli.msf MSF:  757 Type: P 11/12/19 CompCheck: 2145 ..
+
+  Name: 1kit       Len: 757  Check: 2766 Weight: 1.00
+  Name: 2sli       Len: 757  Check: 9379 Weight: 1.00
+
+//
+
+           1                                               50
+1kit       ALFDYNATGDTEFDSPAKQGWMQDNTNNGSGVLTNADGMPAWLVQGIGGR
+2sli       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1kit       AQWTYSLSTNQHAQASSFGWRMTTEMKVLSGGMITNYYANGTQRVLPIIS
+2sli       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1kit       LDSSGNLVVEFEGQTGRTVLATGTAATEYHKFELVFLPGSNPSASFYFDG
+2sli       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1kit       KLIRDNIQPTASKQNMIVWGNGSSNTDGVAAYRDIKFEIQGDVIFRGPDR
+2sli       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GENIFY.YFR
+
+           201                                            250
+1kit       IPSIVASSVTPGVVTAFAEKRVGGGDPGALSNTNDIITRTSRDGGITWDT
+2sli       IPSLLTLS..TGTVISAADARYGTHDK....SKINIAFAKSTDGGNTWS.
+
+           251                                            300
+1kit       ELNLTEQINVSDEFDFSDPRPIYDPSSNTVLVSYARWPTDAAQNGDRIKP
+2sli       PTLPLK.F.DDYSASYIDPVLLEDKLTKRIFLFADLMPG.IGS..SNASS
+
+           301                                            350
+1kit       WMPNGIFYSVYDVASGNWQAPIDVTDQVKERSFQIAGWGGSELYRRNTSL
+2sli       GPTNYLAMRYSDDEGASWSDLDIVSSF.K..P..................
+
+           351                                            400
+1kit       NSQQDWQSNAKIRIVDGAANQIQVADGSRKYVVTLSIDESGGLVANLNGV
+2sli       ..................................................
+
+           401                                            450
+1kit       SAPIILQSEHAKVHSFHDYELQYSALNHTTTLFVDGQQITTWAGEVSQEN
+2sli       ..................................................
+
+           451                                            500
+1kit       NIQFGNADAQIDGRLHVQKIVLTQQGHNLVEFDAFYLAQQTPEVEKDLEK
+2sli       ..................................................
+
+           501                                            550
+1kit       LGWTKIKTGNTMSLYGNASVNPGPGHGITLTRQQNISGSQNGRLIYPAIV
+2sli       ..............EVSKFLVVGPGIGKQIS.........AGRLLVPLYS
+
+           551                                            600
+1kit       LDRFFLNVMSIYSDDGGSNWQTGSTLPIPFRWKSSSILETLEPSEADMVE
+2sli       KS..SAELGFMYSD.HGDNWTY.VEAD..............ATAEAQIVE
+
+           601                                            650
+1kit       LQNGDLLLTARLDFNQIVNGVNYSPRQQFLSKDGGITWSLLEANNANVFS
+2sli       M.DGSLKTYLRT...........NCIAEVTSIDGGETWSDR..VPLQI..
+
+           651                                            700
+1kit       NISTGTVDASITRFEQSDGSHFLLFTNPQGNPAGTNGRQNLGLWFSFDEG
+2sli       .STTSGTQLSVINYSQ.PGKPAIILSSPNA...TN..RKNGKIWIGLVNS
+
+           701                                            750
+1kit       VTWKGPIQLVNGASAYSDIYQLDSENAIVIVETDNSNMRILRMPITLLKQ
+2sli       VEWKYSYAVDPQMGSYSCLAELPDGQVGLLYEKY.DILKFEKYS.ISEL~
+
+           751 757
+1kit       KLTLSQN
+2sli       ~~~~~~~
+

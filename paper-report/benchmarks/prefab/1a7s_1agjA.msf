@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a7s_1agjA.msf MSF:  221 Type: P 11/12/19 CompCheck: 7581 ..
+
+  Name: 1a7s       Len: 221  Check: 6620 Weight: 1.00
+  Name: 1agjA      Len: 221  Check:  961 Weight: 1.00
+
+//
+
+           1                                               50
+1a7s       IVGGRKARPRQFPFLASIQNQGRHFaGGALIHARFVMTAASaFPGVSTVV
+1agjA      ~~LFSKVDRQKYNTIGNVFVKGQTSaTGVLIGKNTVLTNRHiAKSKVSFR
+
+           51                                             100
+1a7s       LGAYDLRRRERQSRQTFSISSMSENGYDPQQNLNDLMLLQLDREANLTSS
+1agjA      PSINT.GNTE..PYGEYEVKEILPFGAG.....VDLALIRLKPSLGDK..
+
+           101                                            150
+1a7s       VTILPLPLQNATVEAGTRbQVAGWGSQRSGGRLSRFPRFVNVTVTPEDQc
+1agjA      ISPAKIGT..NDLKDGDKlELIGYPF.....DHKVQMHRSEIELTT...l
+
+           151                                            200
+1a7s       RPNNVcTGVLTRRGGIdNGDGGTPLVbEGLAHGVASFSLGPdGRGPDFFT
+1agjA      SRG.LrYY.....GFTvPGNSGSGIFnSGELVGIHSSKVS...HQINYGV
+
+           201               221
+1a7s       RVALFRDWIDGVLNNPGPGPA
+1agjA      GIGNVKRIINEKN~~~~~~~~
+

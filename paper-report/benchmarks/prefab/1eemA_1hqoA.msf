@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eemA_1hqoA.msf MSF:  237 Type: P 11/12/19 CompCheck: 4724 ..
+
+  Name: 1eemA      Len: 237  Check: 4731 Weight: 1.00
+  Name: 1hqoA      Len: 237  Check: 9993 Weight: 1.00
+
+//
+
+           1                                               50
+1eemA      SARSLGKGSAPPGPVPEGSIRIYSMRFCPFAERTRLVLKAKGIRHEVINI
+1hqoA      ~~~~~~~~~~FQEQ.PLEGYTLFSHRSAPNGFKVAIVLSELGFHYNTIFL
+
+           51                                             100
+1eemA      NLKNKPEWFFKKNPFGLVPVLENSQGQLIYESAITCEYLDEAYPGKKLLP
+1hqoA      DFNLRAPEFVSVNPNARVPALIDHDNLSIWESGAILLHLVNKYYNPLLWS
+
+           101                                            150
+1eemA      DDPYEKACQKMILELFSKVPSLVGSFIRSQNKEDYAGLKEEFRKEFTKLE
+1hqoA      DDLADQSQINAWLFFQSGHAPXIGQALHFKIASAVERYTDEVRRVYGVVE
+
+           151                                            200
+1eemA      EVLTNKKTTFFGGNSISMIDYLIWPWFERLEAMKLNECVDHTPKLKLWMA
+1hqoA      XALAERRPVWLVGDKLTIADLAFVPWNNVVDRIGIN..KIEFPEVYKWTK
+
+           201                               237
+1eemA      AMKEDPTVSALLTSEKDWQGFLELYLQNSPEACDYGL
+1hqoA      HXXRRPAVIKALR~~~~~~~~~~~~~~~~~~~~~~~~
+

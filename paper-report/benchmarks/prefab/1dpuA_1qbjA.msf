@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dpuA_1qbjA.msf MSF:  72 Type: P 11/12/19 CompCheck: 8574 ..
+
+  Name: 1qbjA      Len: 72  Check: 4350 Weight: 1.00
+  Name: 1dpuA      Len: 72  Check: 4224 Weight: 1.00
+
+//
+
+           1                                               50
+1qbjA      iy...QDQEQRILKFLEELGe.GKATTAHDLSGKLg.TPKKEINRVLYSL
+1dpuA      ~~nglTVAQNQVLNLIKACP.rPEGLNFQDLKNQLkhMSVSSIKQAVDFL
+
+           51                  72
+1qbjA      AKKGKLQKEAGtpPLWKIA~~~
+1dpuA      SNEGHIYSTVD.dDHFKSTdae
+

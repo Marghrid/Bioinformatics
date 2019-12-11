@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1orc_4croE.msf MSF:  70 Type: P 11/12/19 CompCheck: 4354 ..
+
+  Name: 1orc       Len: 70  Check: 3466 Weight: 1.00
+  Name: 4croE      Len: 70  Check:  888 Weight: 1.00
+
+//
+
+           1                                               50
+1orc       qRITLKDYAMRFGQTKTAKDLGVYQSAINKAIHAGRKIFLTINADGSVYA
+4croE      qRITLKDYAMRFGQTKTAKDLGVYQSAINKAIHAGRKIFLTINADGSVYA
+
+           51                70
+1orc       EEVKDGevkpfpsn~~~~~~
+4croE      EEVKPFp.......snkktt
+

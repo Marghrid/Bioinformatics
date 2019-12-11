@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1amk_1hg3A.msf MSF:  250 Type: P 11/12/19 CompCheck: 5434 ..
+
+  Name: 1amk       Len: 250  Check: 5096 Weight: 1.00
+  Name: 1hg3A      Len: 250  Check:  338 Weight: 1.00
+
+//
+
+           1                                               50
+1amk       SAKPQPIAAANWKCNGTTASIEKLVQVFNEHTISHDVQCVVAPTFVHIPL
+1hg3A      ~~~KEPIIAINFKTYATGKRALEIAKAAEKKETG..VTIVVAPQLVDLRM
+
+           51                                             100
+1amk       VQAKLRNPKYVISAENAIAKSGAFTGEVSMPILKDIGVHWVILGHSERRT
+1hg3A      IAESVE...IPVFAQHIDPKPGSHTGHVLPEAVKEAGAVGTLLNHSENR.
+
+           101                                            150
+1amk       YYGETDEIVAQKVSEACKQGFMVIACIGETLQQREANQTAKVVLSQTSAI
+1hg3A      ...MILADLEAAIRRAEEVGLMTMVCSNN..........PAVSAAVAALN
+
+           151                                            200
+1amk       AAKLTKDAWNQVVLAYEPVWAIGTGKVATPEQAQEVHLLLRKWVSENIGT
+1hg3A      ...........DYVAVEPPELIGTGIPVKPEVITNTVELVKKVNP.....
+
+           201                                            250
+1amk       DVAAKLRILYGGSVNAANAATLYAKPDINGFLVGGASLKPEFRDIIDATR
+1hg3A      ....EVKVLCGAGISTEDVKKAIEL.GTVGVLLASGVTEKAIWDLVSGI~
+

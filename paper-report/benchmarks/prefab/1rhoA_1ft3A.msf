@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1rhoA_1ft3A.msf MSF:  145 Type: P 11/12/19 CompCheck: 4078 ..
+
+  Name: 1rhoA      Len: 145  Check: 1747 Weight: 1.00
+  Name: 1ft3A      Len: 145  Check: 2331 Weight: 1.00
+
+//
+
+           1                                               50
+1rhoA      vavsadpNVPNVVVTGLTLVCSSAPGPLELDLTgdlesfkkqSFVLKEGV
+1ft3A      ~~~~~~~MVPNVVVTGLTLVCSSAPGPLELDLT.........SFVLKEGV
+
+           51                                             100
+1rhoA      EYRIKISFRVNREIVSGXKYIEHTYRKGVKIDKTDYXVGSYGPRAEEYEF
+1ft3A      EYRIKISFRVNREIVSGMKYIQHTYRKGVKIDATDYMVGSYGPRAEEYEF
+
+           101                                       145
+1rhoA      LTPVEEAPKGXLARGSYSIKSRFTDDDKTDHLSWEWNLTIKKDWK
+1ft3A      LTPVEEAPKGMLARGSYSIKSRFTDDDKTDHLSWEWNLTIKKDWK
+

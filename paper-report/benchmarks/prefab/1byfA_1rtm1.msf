@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1byfA_1rtm1.msf MSF:  123 Type: P 11/12/19 CompCheck:  420 ..
+
+  Name: 1byfA      Len: 123  Check: 5966 Weight: 1.00
+  Name: 1rtm1      Len: 123  Check: 4454 Weight: 1.00
+
+//
+
+           1                                               50
+1byfA      DYEILFSDETMNYADAGTYaQSRGMALVSSAMRDSTMVKAILAFTEVKGH
+1rtm1      KKFFVTNHERMPFSKVKALaSELRGTVAI..PRNAEENKAIQEVAK...T
+
+           51                                             100
+1byfA      DYWVGADNLQDGAYNFLWNDGVSLPTDSDLWSPNEPSNPQSWQLbVQIWS
+1rtm1      SAFLGITDEVTE.GQFMYVTGGRLT..YSNWKKDEPNDHGSGEDbVTIVD
+
+           101                 123
+1byfA      KYNLLDDVGbGGARRVIaEKELD
+1rtm1      .NGLWNDISbQASHTAVaEFPA~
+

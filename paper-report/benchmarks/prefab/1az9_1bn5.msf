@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1az9_1bn5.msf MSF:  440 Type: P 11/12/19 CompCheck: 7288 ..
+
+  Name: 1az9       Len: 440  Check: 3966 Weight: 1.00
+  Name: 1bn5       Len: 440  Check: 3322 Weight: 1.00
+
+//
+
+           1                                               50
+1az9       SEISRQEFQRRRQALVEQMQPGSAALIFAAPEVTRSADSEYPYRQNSDFW
+1bn5       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1az9       YFTGFNEPEAVLVLIKSDDTHNHSVLFNRVRDLTAEIWFGRRLGQDAAPE
+1bn5       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1az9       KLGVDRALAFSEINQQLYQLLNGLDVVYHAQGEYAYADVIVNSALEKLRK
+1bn5       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1az9       GSRQNLTAPATMIDWRPVVHEMRLFKSPEEIAVLRRAGEITAMAHTRAME
+1bn5       ~~~~~~~~~~~~~~~~~~~~~~~~~~SEEIWNDFREAAEAHRQVRKYVMS
+
+           201                                            250
+1az9       KCRPGMFEYHLEGEIHHEFNRHGARYPSYNTIVGSGENGcILHYTENECE
+1bn5       WIKPGMTMIEICEKLEDCSRKLIKEGLAFPTGCSLNN..aAAHYTP.TTV
+
+           251                                            300
+1az9       MRDGDLVLIDAGCEYKGYAGDITRTFPVNGKFTQAQREIYDIVLESLETS
+1bn5       LQYDDICKIDFGTHISGRIIDCAFTVT...FNPK.YDTLLKAVKDATNTG
+
+           301                                            350
+1az9       LRLYRPGTSILEVTGEVVRIMVSGLVKLGILKGDVDELIAQNAHRPFFMH
+1bn5       IKCAGIDVRLCDVGEAIQEVMESYE..KTYQ...............KPIR
+
+           351                                            400
+1az9       GLSHWLGLDVHDVGVYGQDRSRILEPGMVLTVEPGLYIAPDAEVPEQYRG
+1bn5       LNGHSIGQRIHAGK....GEATRMEEGEVYAIETFGSTDIKG.......S
+
+           401                                  440
+1az9       IGIRIEDDIVITETGNENLTASVVKKPEEIEALMVAARKQ
+1bn5       YTAQFEHTILLRPTCKEVVSRGDDY~~~~~~~~~~~~~~~
+

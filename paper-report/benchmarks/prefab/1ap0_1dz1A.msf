@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ap0_1dz1A.msf MSF:  85 Type: P 11/12/19 CompCheck: 8338 ..
+
+  Name: 1ap0       Len: 85  Check: 2844 Weight: 1.00
+  Name: 1dz1A      Len: 85  Check: 5494 Weight: 1.00
+
+//
+
+           1                                               50
+1ap0       hmveev.....leeeee.....EYVVEKVLDRRVVKGKVEYLLKWKGFsd
+1dz1A      ~~~~~~hmkeesekp..rgfarGLEPERIIGATDSSGELMFLMKWKNS..
+
+           51                               85
+1ap0       EDNTWEPEENL..DCPDLIAEFLQSQktahetdks
+1dz1A      DEADLVPAKEAnvKCPQVVISFYEER..ltwh~~~
+

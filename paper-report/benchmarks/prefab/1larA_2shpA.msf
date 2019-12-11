@@ -1,0 +1,73 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1larA_2shpA.msf MSF:  760 Type: P 11/12/19 CompCheck: 6219 ..
+
+  Name: 1larA      Len: 760  Check: 7633 Weight: 1.00
+  Name: 2shpA      Len: 760  Check: 8586 Weight: 1.00
+
+//
+
+           1                                               50
+1larA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2shpA      srrwfhpnitgveaenllltrgvdgsflarpsksnpgdltlsvrrngavt
+
+           51                                             100
+1larA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2shpA      hikiqntgdyydlyggekfatlaelvqyymehhgqlkekngdvielkypl
+
+           101                                            150
+1larA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2shpA      ncadptserwfhghlsgkeaeklltekgkhgsflvresqshpgdfvlsvr
+
+           151                                            200
+1larA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mitdladnierlkandgl
+2shpA      tgdndgkskvthvmircqelkydvgggerfdsltdlvehykknp......
+
+           201                                            250
+1larA      kfsq.eyesidpgqqftwensnlevnkpknryanviaydhsrviltsidg
+2shpA      ....mvetlg........................................
+
+           251                                            300
+1larA      vpgsdyinanyidgyrkqnayiatqgplpetmgdfwrmvweqrtatvvmm
+2shpA      ..................................................
+
+           301                                            350
+1larA      trleeksrvkcdqywpargtetcgliqvtlldtvelatytvrtfalhksg
+2shpA      ..................................................
+
+           351                                            400
+1larA      ssekrelrqfqfmawpdhgvpeyptpilaflrrvkacnpldagpmvvhcs
+2shpA      ..................................................
+
+           401                                            450
+1larA      agvgrtgcfividamlermkhektvdiyghvtcmrsqrnymvqtedq.yv
+2shpA      ...............................................tvl
+
+           451                                            500
+1larA      fihealleaatcghtevparnlyahiqklgqvppgesvtAMELEFKLLAS
+2shpA      ql...kqpl...nttrinaaeiesrvrelsk........GFWEEFETLQQ
+
+           501                                            550
+1larA      S.....SRFISANLPCNKFKNRLVNIMPYELTRVCLQpirgvegSDYINA
+2shpA      QeckllYSRKEGQRQENKNKNRYKNILPFDHTRVVLHd......SDYINA
+
+           551                                            600
+1larA      SFLDgyrqqkAYIATQGPLAESTEDFWRMLWEHNSTIIVMLTKLREMGRE
+2shpA      NIIMp...kkSYIATQGCLQNTVNDFWRMVFQENSRVIVMTTKEVERGKS
+
+           601                                            650
+1larA      KCHQYWPA.eRSARYQYFVVDPMAEYNMPQYILREFKVTDARDG.QSRTI
+2shpA      KCVKYWPDeyALKEYGVMRVRNVKESAAHDYTLRELKLSKVGQGnTERTV
+
+           651                                            700
+1larA      RQFQFTDWPEQGVPKTGEGFIDFIGQVHKTKEQFGQDGPITVHCSAGVGR
+2shpA      WQYHFRTWPDHGVPSDPGGVLDFLEEVHHKQESIMDAGPVVVHCSAGIGR
+
+           701                                            750
+1larA      TGVFITLSIVLERMRYE...GVVDMFQTVKTLRTQRPAMVQTEDQYQLCY
+2shpA      TGTFIVIDILIDIIREKgvdCDIDVPKTIQMVRSQRSGMVQTEAQYRSIY
+
+           751    760
+1larA      RAALEYLGSF
+2shpA      MAVQHYIETL
+

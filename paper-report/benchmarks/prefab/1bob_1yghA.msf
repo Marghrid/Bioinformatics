@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bob_1yghA.msf MSF:  344 Type: P 11/12/19 CompCheck: 5603 ..
+
+  Name: 1yghA      Len: 344  Check: 1935 Weight: 1.00
+  Name: 1bob       Len: 344  Check: 3668 Weight: 1.00
+
+//
+
+           1                                               50
+1yghA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bob       kpetwtssanealrvsivgenavqfsplftypiygdsekiygykdliihl
+
+           51                                             100
+1yghA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bob       afdsvtfkpyvnvkysaklgddnivdvekkllsflpkddvivrdeakwvd
+
+           101                                            150
+1yghA      ~~~~~~~~~~~~~~~~~~~~~~~~~~kIEFRVVNNDntkeNMMVLTGLKN
+1bob       cfaeerkthnlsdvfekvseyslngeeFVVYKSSLV.ddfARRMHRRVQI
+
+           151                                            200
+1yghA      IFQKQLPKMpkeyiarlvy.DRSHLSMAVIRk.PLTVVGGITYRPFD...
+1bob       FSLLFIEAA...nyide..tDPSWQIYWLLNkkTKELIGFVTTYKYWhyi
+
+           201                                            250
+1yghA      .KREFAEIVFCAISSTEQVRGYGAHLMNHLKDYVRNTSNIKYFLT.YADN
+1bob       dKKFRAKISQFLIFPPYQNKGHGSCLYEAIIQSWLEDKSITEITVeDPNE
+
+           251                                            300
+1yghA      YAIGYFKKQGf...................................tkei
+1bob       AFDDLRDRND.iqrlrklgydavfqkhsdlsdeflessrkslkleerqfn
+
+           301                                      344
+1yghA      tldksiwmgyikdyeggtlmqcsmlpriryld~~~~~~~~~~~~
+1bob       ................................rlvemllllnns
+

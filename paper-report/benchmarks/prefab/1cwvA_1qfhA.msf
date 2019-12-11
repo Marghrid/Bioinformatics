@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cwvA_1qfhA.msf MSF:  570 Type: P 11/12/19 CompCheck: 7329 ..
+
+  Name: 1cwvA      Len: 570  Check: 6201 Weight: 1.00
+  Name: 1qfhA      Len: 570  Check: 1128 Weight: 1.00
+
+//
+
+           1                                               50
+1cwvA      ltltaavigdgapangktaitveftvadfegkplagqevvittnngalpn
+1qfhA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1cwvA      kitektdangvarialtnttdgvtvvtaevegqrqsvdthfvKGTIAADK
+1qfhA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~KPAPSAEH
+
+           101                                            150
+1cwvA      STLAAVP.tsiiadglmastitlelkdtygdpq..AGANVAFDTTLg...
+1qfhA      SYAEGEGlvkvfdn..apaeftifavdtkgvartdGGDPFEVAING.pdg
+
+           151                                            200
+1cwvA      ..NMGVITDHNDGTYSAPLTSTTLGVATVTVKVdgaafsv..PSVTVNFT
+1qfhA      lvVDAKVTDNNDGTYGVVYDAPVEGNYNVNVTL..rgnpiknMPIDVKCI
+
+           201                                            250
+1cwvA      ADPIPDagrssftvstpdiladgtmsstlsfvpvdknghfisgm.qglsf
+1qfhA      EGANGE......................................dssfgs
+
+           251                                            300
+1cwvA      tqngvpvsispiteqpdsytatvvgnsvgdvtitpqvdtlils.......
+1qfhA      ft....................ftvaa................knkkgev
+
+           301                                            350
+1cwvA      .................tlqkkislfpvptltgilvngqnfatdkgfpkt
+1qfhA      ktyggdkfevsitgpaeeitldaidnqd......................
+
+           351                                            400
+1cwvA      ifknatfqlqmdndvanntqyewsssftpnvsvndqgqvtityqtyseva
+1qfhA      ..................................................
+
+           401                                            450
+1cwvA      vtaksk.....................kfpsysvsyrfypnrwiydggrs
+1qfhA      ......gtytaayslvgngrfstgvklngkh...................
+
+           451                                            500
+1cwvA      lvssleasrqcqgsdmsavlessratngtrapdgtlwgewgsltayssdw
+1qfhA      ..................................................
+
+           501                                            550
+1cwvA      qsgeywvkktstdfetmnmdtgalqpgpaylafplcalsi~~~~~~~~~~
+1qfhA      ........................................iegspfkqvl
+
+           551              570
+1cwvA      ~~~~~~~~~~~~~~~~~~~~
+1qfhA      gnpgkknpevksftttrtan
+

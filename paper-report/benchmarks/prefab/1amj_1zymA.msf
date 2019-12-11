@@ -1,0 +1,85 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1amj_1zymA.msf MSF:  913 Type: P 11/12/19 CompCheck: 4336 ..
+
+  Name: 1amj       Len: 913  Check: 1471 Weight: 1.00
+  Name: 1zymA      Len: 913  Check: 2865 Weight: 1.00
+
+//
+
+           1                                               50
+1amj       rakvamshfepheyirydlleknidivrkrlnrpltlsekivyghlddpa
+1zymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1amj       nqeiergktylrlrpdrvamqdataqmamlqfissglpkvavpstihcdh
+1zymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1amj       lieaqlggekdlrrakdinqevynflatagakygvgfwrpgsgiihqiil
+1zymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1amj       enyaypgvlligtdshtpnggglggicigvggadavdvmagipwelkcpk
+1zymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1amj       vigvkltgslsgwtspkdvilkvagiltvkggtgaiveyhgpgvdsisct
+1zymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1amj       gmaticnmgaeigattsvfpynhrmkkylsktgradianladefkdhlvp
+1zymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1amj       dsgchydqlieinlselkphingpftpdlahpvaevgsvaekegwpldir
+1zymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                            400
+1amj       vgligsctnssyedmgrsaavakqalahglkcksqftitpgseqiratie
+1zymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           401                                            450
+1amj       rdgyaqvlrdvggivlanacgpcigqwdrkdikkgekntivtsynrnftg
+1zymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           451                                            500
+1amj       rndanpethafvtspeivtalaiagtlkfnpetdfltgkdgkkfkleapd
+1zymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           501                                            550
+1amj       adelpraefdpgqdtyqhppkdssgqrvdvsptsqrlqllepfdkwdgkd
+1zymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           551                                            600
+1amj       ........LEDLQIlikvkgkcttdhisaagpwlkfrghldnisnnllig
+1zymA      sgilaspgIAFGKA.lllke..............................
+
+           601                                            650
+1amj       ainsenrkansvrnavtqefgpvpdtaryykqhg................
+1zymA      ..................................deividrkkisadqvd
+
+           651                                            700
+1amj       ..................................................
+1zymA      qeverflsgrakasaqletiktkagetfgeekeaifeghimlledeeleq
+
+           701                                            750
+1amj       ..................................................
+1zymA      eiialikdkhmtadaaaheviegqasaleelddeylkeraadvrdigkrl
+
+           751                                            800
+1amj       ................IRWVVIGDenygegssrehsal....eprflGGR
+1zymA      lrnilglkiidlsaiqDEVILVAAd.ltps........etaqlnlk.KVL
+
+           801                                            850
+1amj       AIITKS.farih.ETNLKKQGLLPLTFAdpaDYNKIHPVDKLTIQGLkdf
+1zymA      GFITDAggrtshtSIMARSLELPAIVGTgs.VTSQVKNDDYLILDAV...
+
+           851                                            900
+1amj       apgkPLTCIIKHpngtqetillnhtfnetqiewfragsalnrmkelqqk~
+1zymA      ....NNQVYVNP.tnev................................i
+
+           901       913
+1amj       ~~~~~~~~~~~~~
+1zymA      dkmravqeqvase
+

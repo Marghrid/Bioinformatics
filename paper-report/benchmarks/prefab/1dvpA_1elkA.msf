@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dvpA_1elkA.msf MSF:  230 Type: P 11/12/19 CompCheck: 5505 ..
+
+  Name: 1dvpA      Len: 230  Check: 9692 Weight: 1.00
+  Name: 1elkA      Len: 230  Check: 5813 Weight: 1.00
+
+//
+
+           1                                               50
+1dvpA      mf.........rssFCKNLENATSHLRLEPDWPSILLICDEINQKDVTPK
+1elkA      ~~sdfllgnpfsspVGQRIEKATDGSLQSEDWALNMEICDIINETEEGPK
+
+           51                                             100
+1dvpA      NAFAAIKKKMN.SPNPHSSCYSLLVLESIVKNCGAPVHEEVFTKENCEM.
+1elkA      DALRAVKKRIVgNKNFHEVMLALTVLETCVKNCGHRFHVLVASQDFVESv
+
+           101                                            150
+1dvpA      FSSFLE..STPHENVRQKMLELVQTWAYAFRSSDKYQAIKDTMTILKAKG
+1elkA      LVRTILpkNNPPTIVHDKVLNLIQSWADAFRSSPDLTGVVTIYEDLRRKG
+
+           151                                            200
+1dvpA      HTFPElremftadtapnwadgrvchrcrveftftnrkhhcrncgqvfcgq
+1elkA      LEFPM~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                        230
+1dvpA      ctakqcplpkygiekevrvcdgcfaalqrg
+1elkA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

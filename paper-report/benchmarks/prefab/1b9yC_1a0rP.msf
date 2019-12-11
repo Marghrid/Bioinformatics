@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b9yC_1a0rP.msf MSF:  188 Type: P 11/12/19 CompCheck: 3873 ..
+
+  Name: 1b9yC      Len: 188  Check: 6631 Weight: 1.00
+  Name: 1a0rP      Len: 188  Check: 7242 Weight: 1.00
+
+//
+
+           1                                               50
+1b9yC      ~EGQATHTGPKGVINDWRKFKLESe....................GCLRK
+1a0rP      fEGQASHTGPKGVINDWRKFKLESefsrkmsvqeyelihkdkedeNCLRK
+
+           51                                             100
+1b9yC      YRRQCMQDMHQKLSFGPRYGFVYELETGEQFLETIEKEQKVTTIVVNIYE
+1a0rP      YRRQCMQDMHQKLSFGPRYGFVYELESGEQFLETIEKEQKITTIVVHIYE
+
+           101                                            150
+1b9yC      DGVRGCDALNSSLECLAAEYPMVKFCKIRASNTGAGDRFSSDVLPTLLVY
+1a0rP      DGIKGCDALNSSLICLAAEYPMVKFCKIKASNTGAGDRFSSDVLPTLLVY
+
+           151                                188
+1b9yC      KGGELISNFISVAEQFAEDFFAADVESFLNEYGLLPER
+1a0rP      KGGELLSNFISVTEQLAEEFFTGDVESFLNEYGLLPEK
+

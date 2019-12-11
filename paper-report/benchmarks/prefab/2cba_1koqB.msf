@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2cba_1koqB.msf MSF:  263 Type: P 11/12/19 CompCheck: 8116 ..
+
+  Name: 2cba       Len: 263  Check: 3306 Weight: 1.00
+  Name: 1koqB      Len: 263  Check: 4810 Weight: 1.00
+
+//
+
+           1                                               50
+2cba       hHWGYGKHNGPEHWHKD...FPIAk.GERQSPVDIDthTAKYDPsLKPLS
+1koqB      ~HWGYTGHDSPESWGNLseeFRLCstGKNQSPVNIT..ETVSGK.LPAIK
+
+           51                                             100
+2cba       VSYDqATSLRILNNGHAFNVEFDDsqdKAVLKGgpLDGTYRLIQFHFHWg
+1koqB      VNYK.PSMVDVENNGHTIQVNYPE..gGNTLTV..NGRTYTLKQFHFHV.
+
+           101                                            150
+2cba       sldgqGSEHTVDKKKYAAELHLVHWNTKYgdfgkavqqpdGLAVLGIFLK
+1koqB      .....PSENQIKGRTFPMEAHFVHLDENK...........QPLVLAVLYE
+
+           151                                            200
+2cba       VGSAKPGLQKVVDVLdsIKTKgKSADF.tNFDPRGLLPESLDYWTYPGSL
+1koqB      AGKTNGRLSSIWNVM..PMTA.GKVKLnqPFDASTLLPKRLKYYRFAGSL
+
+           201                                            250
+2cba       TTPPLLECVTWIVLKEPISVSSEQVLKFRKLNfngegepeelmVDNWRPA
+1koqB      TTPPCTEGVSWLVLKTYDHIDQAQAEKFTRAVg..........SENNRPV
+
+           251       263
+2cba       QPLKNRQIKAsfk
+1koqB      QPLNARVVIE~~~
+

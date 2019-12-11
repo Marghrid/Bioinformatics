@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fhuA_1mucA.msf MSF:  386 Type: P 11/12/19 CompCheck: 4046 ..
+
+  Name: 1fhuA      Len: 386  Check:  795 Weight: 1.00
+  Name: 1mucA      Len: 386  Check: 3251 Weight: 1.00
+
+//
+
+           1                                               50
+1fhuA      m...rsaqvyrwqipmdl.ktrdglyvclre.GEREGWGEIS........
+1mucA      ~alieridaiivdlpti.rqqqtlvvlrvrcsDGVEGIGEATtigglayg
+
+           51                                             100
+1fhuA      ..plpgfsqetWEEAQSVLL.AWVNNWLAGd.........CELP....QM
+1mucA      yes........PEGIKANIDaHLAPALIGL.aadninaamLKLDklakGN
+
+           101                                            150
+1fhuA      PSVAFGVSCALAELTD.....tlpq......aANYRAAPLCNgd......
+1mucA      TFAKSGIESALLDAQGkrlglpvsellggrvrDSLEVAWTLA..sgdtar
+
+           151                                            200
+1fhuA      .............ekVAKVKVGLYEAVRDGMVVNLLLEaipd.LHLRLDA
+1mucA      diaearhmleirrhrVFKLKIGANPVEQDLKHVVTIKRelgdsASVRVDV
+
+           201                                            250
+1fhuA      NRAWTPLKGQQFAKYVnpdyr.drIAFLEEPCK..TRDDSRAFARETGIA
+1mucA      NQYWDESQAIRACQVL....gdngIDLIEQPISriNRGGQVRLNQRTPAP
+
+           251                                            300
+1fhuA      IAWDESLREPDFaf..VAEEGVRAVVIKPTLT.gsLEKVREQVQAAHALG
+1mucA      IMADESIESVEDafslAADGAASIFALKIAKNgg.PRAVLRTAQIAEAAG
+
+           301                                            350
+1fhuA      LTAVISSSIESSLGLTQLARIAAWLTPD.tIPG.ldTLDLMQAQQV.rrw
+1mucA      IGLYGGTMLEGSIGTLASAHAFLTLRQLtwGTElf.GPLLLTEEIVnepp
+
+           351                              386
+1fhuA      pgstlpv...............vevdalerll~~~~
+1mucA      qyr....dfqlhiprtpglgltldeqrla...rfar
+

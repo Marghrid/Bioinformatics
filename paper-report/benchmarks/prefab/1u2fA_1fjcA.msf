@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1u2fA_1fjcA.msf MSF:  116 Type: P 11/12/19 CompCheck: 4263 ..
+
+  Name: 1u2fA      Len: 116  Check: 8479 Weight: 1.00
+  Name: 1fjcA      Len: 116  Check: 5784 Weight: 1.00
+
+//
+
+           1                                               50
+1u2fA      ~~~~~~~~~~~~~~~ARRLYVGNIPFGit..EEAMMDFFNaqmrlggltq
+1fjcA      shmledpctskkvraARTLLAKNLSFN..itEDELKEVFE..........
+
+           51                                             100
+1u2fA      apgnPVLAVQINQD....KNFAFLEFRsv..DETTQAMA.FDGIIFQGQS
+1fjcA      ....DALEIRLVSQdgksKGIAYIEFK..seADAEKNLEeKQGAEIDGRS
+
+           101          116
+1u2fA      LKIRRP..hdyqplpg
+1fjcA      VSLYYTgekggtrg~~
+

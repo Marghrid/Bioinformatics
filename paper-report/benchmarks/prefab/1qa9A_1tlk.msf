@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qa9A_1tlk.msf MSF:  121 Type: P 11/12/19 CompCheck: 2480 ..
+
+  Name: 1tlk       Len: 121  Check: 8194 Weight: 1.00
+  Name: 1qa9A      Len: 121  Check: 4286 Weight: 1.00
+
+//
+
+           1                                               50
+1tlk       aeekphvkpyftkti...lDMDVVEGSAARFDC..KVEGYPDPEVMWFKD
+1qa9A      ~~~~~~~~~~~~~~~tnalETWGALGQDINLDIpsFQMSDDIDDIKWEKT
+
+           51                                             100
+1tlk       ..DNPV..........KESRHFQIDYdeegNCSLTISEVCGDDDAKYTCK
+1qa9A      sdKKKIaqfrkeketfKEKDTYELLK....NGALKIKHLKTDDQDIYKVS
+
+           101               121
+1tlk       AVN.slge.ATCTAELLVETM
+1qa9A      IYDtkgknvLEKIFDLKIQER
+

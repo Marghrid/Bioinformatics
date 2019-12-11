@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ezvB_1be3B.msf MSF:  432 Type: P 11/12/19 CompCheck: 4548 ..
+
+  Name: 1ezvB      Len: 432  Check: 4840 Weight: 1.00
+  Name: 1be3B      Len: 432  Check: 9708 Weight: 1.00
+
+//
+
+           1                                               50
+1ezvB      ~~~~~~~~~~~~LTVSARDAPTKISTLAVKVHGGSRYAT..KDGVAHLLN
+1be3B      pqdleftrlpngLVIASLENYAPASRIGLFIKAGSRYENsnNLGTSHLLR
+
+           51                                             100
+1ezvB      RFNFQNTNTRSALKLVRESELLGGTFKSTLDREYITLKATFLKDDLPYYV
+1be3B      LASSLTTKGASSFKITRGIEAVGGKLSVTSTRENMAYTVECLRDDVDILM
+
+           101                                            150
+1ezvB      NALADVLYKTAFKPHELTEsVLPAARYDYAVAEQCPVKSAEDQLYAITFR
+1be3B      EFLLNVTTAPEFRRWEVAA.LQPQLRIDKAVALQNPQAHVIENLHAAAYR
+
+           151                                            200
+1ezvB      KGLGNPLLYDGVE..RVSLQDIKDFADKVYTKENLEVSGENVVEADLKRF
+1be3B      NALANSLYCPDYRigKVTPVELHDYVQNHFTSARMALIGLGVSHPVLKQV
+
+           201                                            250
+1ezvB      VDesLLStlPAGKSLvskse.....PKFFLgEENRVRFIG.DSVAAIGIP
+1be3B      AE.qFLN..IRGGLG.....lsgakAKYHG.GEIREQNGDsLVHAALVAE
+
+           251                                            300
+1ezvB      VNK...ASLAQYEVLANYLTS.........ALSE.lsgl........ISS
+1be3B      SAAigsAEANAFSVLQHVLGAgphvkrgsnATSSlyqavakgvhqpfDVS
+
+           301                                            350
+1ezvB      AKLDKFTDGGLFTLFVRDqDSAVVSSNIKKIVADLKKGK.......DLSP
+1be3B      AFNASYSDSGLFGFYTIS.QAASAGDVIKAAYNQVKTIAqgnlsnpDVQA
+
+           351                                            400
+1ezvB      AINYTKLKNAVQN......esvssp...............ielnfdav..
+1be3B      AKNKLKAGYLMSVessegfldev..gsqalaagsytppstvlqqidavad
+
+           401                          432
+1ezvB      .kdfk.....lgkf.NYVAVGDVSNLPYLDEL
+1be3B      advinaakkfvsgrkSMAASGNLGHTPFIDEL
+

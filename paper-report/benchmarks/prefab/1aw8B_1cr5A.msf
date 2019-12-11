@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aw8B_1cr5A.msf MSF:  205 Type: P 11/12/19 CompCheck:  698 ..
+
+  Name: 1aw8B      Len: 205  Check: 8960 Weight: 1.00
+  Name: 1cr5A      Len: 205  Check: 1738 Weight: 1.00
+
+//
+
+           1                                               50
+1aw8B      ~~~~~~~~~~~~~~~~~~XCAIDQDFLdaagilENEAIDIWnvtngkRFS
+1cr5A      trhlkvsncpnnsyalanVAAVSPNDF.....pNNIYIIID.....nLFV
+
+           51                                             100
+1aw8B      TYAIAAERGSR.IISVNGAAAH..CASVGDIVIIAS.fvt...mpde...
+1cr5A      FTTRHSNDIPPgTIGFNGNQRTwgGWSLNQDVQAKAfdlfkysgk..qsy
+
+           101                                            150
+1aw8B      ..................................................
+1cr5A      lgsididisfravfdqdelakqfvrcyesqifsptqylimefqghffdlk
+
+           151                                            200
+1aw8B      .....ea.rtwrpnvayfegdnemk~~~~~~~~~~~~~~~~~~~~~~~~~
+1cr5A      irnvqaidlg...............dieptsavatgietkgiltkqtqin
+
+           201
+1aw8B      ~~~~~
+1cr5A      ffkgr
+

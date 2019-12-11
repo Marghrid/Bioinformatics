@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ga8A_1g8oA.msf MSF:  360 Type: P 11/12/19 CompCheck: 5656 ..
+
+  Name: 1ga8A      Len: 360  Check: 1273 Weight: 1.00
+  Name: 1g8oA      Len: 360  Check: 4383 Weight: 1.00
+
+//
+
+           1                                               50
+1ga8A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~xd
+1g8oA      sklklsdwfnpfkrpevvtmtkwkapvvwegtynravldnyyakqkitvg
+
+           51                                             100
+1ga8A      ivfaaddnyaa.YLCVAAKSVEAA.hpdteirfhvldagiseanraavaa
+1g8oA      ltvfavgryiehYLEEFLTSANKHfmvghpvifyimvdd..vsrm..pli
+
+           101                                            150
+1ga8A      NLRGggg..nirfidvnpedfagfplnirh.isittyarlk.LGEYI.ad
+1g8oA      ELGP...lrsfkvfkikpek..........rwqdismmrmktIGEHIvah
+
+           151                                            200
+1ga8A      cd....KVLYLDIdvlvrdsltplwdtDLgdnwLGASIDLFVE.rqeg..
+1g8oA      iqhevdFLFCMDVdqvfqdkfgv.etlGE....SVAQLQAWWYkadpndf
+
+           201                                            250
+1ga8A      YKQK.....IGXa..DGEYYFNAGVLLINLKKWRr..hdifkxssewv.e
+1g8oA      TYERrkesaAYIpfgEGDFYYHAAIFGGTPTQVLnitqecfkgilkdkkn
+
+           251                                            300
+1ga8A      qykdvXQYQDQDILNGLFK.ggvc.YANSRFNFXPTnyafxasrhtdply
+1g8oA      die..AQWHDESHLNKYFLlnkptkILSPEYCWDYH.iglp.........
+
+           301                                            350
+1ga8A      rdrt.ntvxpVAVSHYCGPakpwhrdctawgaerftelagslttvpeewr
+1g8oA      ....adikl.VKMSWQTKE...............................
+
+           351    360
+1ga8A      gkl~~~~~~~
+1g8oA      ...ynvvrnn
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3chy_4tmyB.msf MSF:  128 Type: P 11/12/19 CompCheck: 3251 ..
+
+  Name: 3chy       Len: 128  Check: 5571 Weight: 1.00
+  Name: 4tmyB      Len: 128  Check: 7680 Weight: 1.00
+
+//
+
+           1                                               50
+3chy       ADKELKFLVVDDFSTMRRIVRNLLKELGFNNVEEAEDGVDALNKLQAGGY
+4tmyB      ~~~GKRVLIVDDAAFMRMMLKDIITKAGYEVAGEATNGREAVEKYKELKP
+
+           51                                             100
+3chy       GFVISDWNMPNMDGLELLKTIRADGAMSALPVLMVTAEAKKENIIAAAQA
+4tmyB      DIVTMDITMPEMNGIDAIKEIMKI..DPNAKIIVCSAMGQQAMVIEAIKA
+
+           101                      128
+3chy       GASGYVVKPFTAATLEEKLNKIFEKLGM
+4tmyB      GAKDFIVKPFQPSRVVEALNKVS~~~~~
+

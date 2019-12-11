@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fqtA_1rfs.msf MSF:  136 Type: P 11/12/19 CompCheck: 8719 ..
+
+  Name: 1rfs       Len: 136  Check: 5907 Weight: 1.00
+  Name: 1fqtA      Len: 136  Check: 2812 Weight: 1.00
+
+//
+
+           1                                               50
+1rfs       ~~tiakdalgndviaaewlkth.APGDRTLTQglKGDPTYLVVESdktla
+1fqtA      kftrvc.......drrd.....vPEGEALKVE.sGGTSVAIFNVD.gelf
+
+           51                                             100
+1rfs       tfGINAVCTHLGCVV....pfnaaeNKFICPCHGSQYNN.qGRVVRGPAP
+1fqtA      ..ATQDRCTHGDWSLsdggyleg..DVVECSLHMGKFCVrtGKVKSPPPC
+
+           101                              136
+1rfs       LSLALAHCDVDDGKVVFVpwtet.dfrtgeapwwsa
+1fqtA      EALKIFPIRIEDNDVLVDfea..gylap~~~~~~~~
+

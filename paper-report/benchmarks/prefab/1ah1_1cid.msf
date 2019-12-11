@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ah1_1cid.msf MSF:  193 Type: P 11/12/19 CompCheck:  868 ..
+
+  Name: 1cid       Len: 193  Check:  299 Weight: 1.00
+  Name: 1ah1       Len: 193  Check:  569 Weight: 1.00
+
+//
+
+           1                                               50
+1cid       ~~~~TSITAYKSEGESAEFSFPLNl...geeSLQGELRWKAekaPSSQSW
+1ah1       mhvaQPAVVLASSRGIASFVCEYA.spgkatEVRVTVLRQA..dSQVTEV
+
+           51                                             100
+1cid       ITFSLKNQKVSVQKSTSnpKFQLSETL.PLTLQIPQVSLQFAGSGNLTLT
+1ah1       CAATYMMGNELTFLDDS..ICTGTSSGnQVNLTIQGLRAMDTGLYICKVE
+
+           101                                            150
+1cid       Ld....rgilyq.EVNLVVMKVTQPd...sntltcevmgptspkmrlilk
+1ah1       LmypppyylgignGTQIYVIDPEPC.pdsdqepk~~~~~~~~~~~~~~~~
+
+           151                                     193
+1cid       qenqearvsrqekviqvqapeagvwqcllsegeevkmdskiqv
+1ah1       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

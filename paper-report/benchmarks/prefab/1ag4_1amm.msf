@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ag4_1amm.msf MSF:  191 Type: P 11/12/19 CompCheck:  717 ..
+
+  Name: 1ag4       Len: 191  Check:  276 Weight: 1.00
+  Name: 1amm       Len: 191  Check:  441 Weight: 1.00
+
+//
+
+           1                                               50
+1ag4       svckgvsgnpa.......................................
+1amm       ~~~~~~~~~~~gkitfyedrgfqghcyecssdcpnlqpyfsrcnsirvds
+
+           51                                             100
+1ag4       ...............................................KGE
+1amm       gcwmlyerpnyqghqyflrrgdypdyqqwmgfndsirscrlipqhtgTFR
+
+           101                                            150
+1ag4       VFLYKHVNFQGDSWKVTGNVYDFRSVs.glndvVSSVKVGPnTKAFIFKD
+1amm       MRIYERDDFRGQMSEITDDCPSLQDR.fhlte.VHSLNVLE.GSWVLYEM
+
+           151                                   191
+1ag4       DRFNGNFIRLEeSSQVTDLT..TRNLndAISSIIVAtfesa
+1amm       PSYRGRQYLLR.PGEYRRYLdwGAMN.aKVGSLRRV.mdfy
+

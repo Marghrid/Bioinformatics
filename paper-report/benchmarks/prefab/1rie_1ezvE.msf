@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1rie_1ezvE.msf MSF:  186 Type: P 11/12/19 CompCheck: 9822 ..
+
+  Name: 1rie       Len: 186  Check: 6731 Weight: 1.00
+  Name: 1ezvE      Len: 186  Check: 3091 Weight: 1.00
+
+//
+
+           1                                               50
+1rie       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1ezvE      kstyrtpnfddvlkenndadkgrsyayfmvgamgllssagakstvetfis
+
+           51                                             100
+1rie       ~~~~~~~~~amSKIEIKLSDIPEGKNMAFKWRGKPLFVRHRTKKEIDQEA
+1ezvE      smtatadvlamAKVEVNLAAIPLGKNVVVKWQGKPVFIRHRTPHEIQEAN
+
+           101                                            150
+1rie       AVEVSQLRDPQHDLERVKKPEWVILIGVCTHLGCVPIANAGDFGGYYCPC
+1ezvE      SVDMSALKDPQTDADRVKDPQWLIMLGICTHLGCVPIGEAGDFGGWFCPC
+
+           151                              186
+1rie       HGSHYDASGRIRKGPAPLNLEVPSYEFTSdDMVIVG
+1ezvE      HGSHYDISGRIRKGPAPLNLEIPAYEFDG.DKVIVG
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aerA_1aerB.msf MSF:  210 Type: P 11/12/19 CompCheck: 8640 ..
+
+  Name: 1aerA      Len: 210  Check: 8619 Weight: 1.00
+  Name: 1aerB      Len: 210  Check:   21 Weight: 1.00
+
+//
+
+           1                                               50
+1aerA      FLGDGGDVSFSTRGTQNWTVERLLQAHRQLEERGYVFVGYHGTFLEAAQS
+1aerB      FLGDGGDVSFSTRGTQNWTVERLLQAHRQLEERGYVFVGYHGTFLEAAQS
+
+           51                                             100
+1aerA      IVFGGVRA......AIWRGFYIAGDPALAYGYaQDQEPDARGRIRNGALL
+1aerB      IVFGGVRArsqdldAIWRGFYIAGDPALAYGY.AQDQEPDRGRIRNGALL
+
+           101                                            150
+1aerA      RVYVPRSSLPGFYRTSLTLAAPEAAGEVERLIGHPLPLRLDAITGPeeeg
+1aerB      RVYVPRSSLPGFYRTSLTLAAPEAAGEVERLIGHPLPLRLDAITGP....
+
+           151                                            200
+1aerA      gRLETILGWPLAERTVVIPSAIPTDPRNVGGDLDPSSIPDKEQAISALPD
+1aerB      .RLETILGWPLAERTVVIPSAIPTDPRNVGGDLDPSSIPDKEQAISALPD
+
+           201    210
+1aerA      Yasqpgkppr
+1aerB      Y~~~~~~~~~
+

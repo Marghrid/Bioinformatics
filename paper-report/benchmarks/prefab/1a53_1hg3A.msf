@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a53_1hg3A.msf MSF:  247 Type: P 11/12/19 CompCheck: 9378 ..
+
+  Name: 1a53       Len: 247  Check: 7530 Weight: 1.00
+  Name: 1hg3A      Len: 247  Check: 1848 Weight: 1.00
+
+//
+
+           1                                               50
+1a53       PRYLKGWLKDVVQLSLRRPSFRASRQRPIISLNERILEFNKRNITAIIAE
+1hg3A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~KLKE.......PIIAIN
+
+           51                                             100
+1a53       YKRKSPSGLDVERDPIEYSKFMERYAVGLSILTEEKYFNGSYETLRKIAS
+1hg3A      FKT......YIEARALEIAKAAEKVTIVVAPQL.........VDLRMIAE
+
+           101                                            150
+1a53       SVSIPILMKDFIVKESQIDDAYNLGADTVLLIVKILTERELESLLEYARS
+1hg3A      SVEIPVFAQH.IDPIVLPEAVKEAGAVGTLLN..RMILADLEAAIRRAEE
+
+           151                                            200
+1a53       YGMEPLIEINDENDLDIALRIGARFIGINSRDLETLEINKENQRKLISMI
+1hg3A      VGLMTMVCSNNPAVSAAVAALNPDYVAVEPPE.....AKPEVITNTVELV
+
+           201                                         247
+1a53       PSNVVKVAESGISERNEIEELRKLGVNAFLIGSSLMRNPEKIKEFIL
+1hg3A      KPEVKVLCGAGISTGEDVKKAIELGTVGVLLASGVTKAEKAIWDLVS
+

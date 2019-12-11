@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qq4A_1arb.msf MSF:  292 Type: P 11/12/19 CompCheck: 9318 ..
+
+  Name: 1qq4A      Len: 292  Check:  792 Weight: 1.00
+  Name: 1arb       Len: 292  Check: 8526 Weight: 1.00
+
+//
+
+           1                                               50
+1qq4A      ani......................VGGIEYSINNASLCSVGFSVTr...
+1arb       ~~~gvsgscnidvvcpegdgrrdiiRAVGAYSKSGTLACTGSLVNN.tan
+
+           51                                             100
+1qq4A      gATKGFVTAGHC.gtvn...ATARIG........................
+1arb       dRKMYFLTAHHCgmgtastaASIVVYwnyqnstcrapntpasgangdgsm
+
+           101                                            150
+1qq4A      ..GAVVGTFAARVFpGNDRAWVSLTSAQT....LLPrvangssfvtvr.G
+1arb       sqTQSGSTVKATYA.TSDFTLLELNNAANpafnLFWa...........gW
+
+           151                                            200
+1qq4A      STEa.AVGAAVCHSGRT....TGYQCG.titaknVTANyaegav....RG
+1arb       DRR.dQNYPGAIAIHHPnvaeKRISNStsptsf.VAWG......ggagTT
+
+           201                                            250
+1qq4A      LTQSNA.....CMGRGDSGGSWITSAGQAQGVMSGGNVqsngnNCGIPAS
+1arb       HLNVQWqpsggVTEPGSSGSPIYSPEKRVLGQLHGGPS.....SCSATGT
+
+           251                                    292
+1qq4A      QRSSLFERLQPILs........qygls.........lvtg~~
+1arb       NRSDQYGRVFTSWtgggaaasrlsdwldpastgaqfidglds
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1gefA_1hh1A.msf MSF:  144 Type: P 11/12/19 CompCheck: 3260 ..
+
+  Name: 1gefA      Len: 144  Check: 1215 Weight: 1.00
+  Name: 1hh1A      Len: 144  Check: 2045 Weight: 1.00
+
+//
+
+           1                                               50
+1gefA      myrkgAQAERELIKLLEKHGFAVVRSAGsKKVDLVAGNGKKYLCIEVKvt
+1hh1A      ~~~~~SAVERNIVSRLRDKGFAVVRAPA.PIPDIIALKNGVIILIEMK..
+
+           51                                             100
+1gefA      kk......DHLYVGKRDMGRLIEFSRRFGGIPVLAVKFlnVGWRFIEVSp
+1hh1A      ..srkdieGKIYVRREQAEGIIEFARKSGGSLFLGVKKp.GVLKFIPFE.
+
+           101                                      144
+1gefA      ki.......ekfvftp.SSGVSLEVLLGIqktle~~~~~~~~~~
+1hh1A      ..klrrtetgnyvadseIEGLDLEDLVRL.....veakisrtld
+

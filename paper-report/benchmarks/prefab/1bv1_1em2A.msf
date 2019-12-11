@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bv1_1em2A.msf MSF:  240 Type: P 11/12/19 CompCheck: 9633 ..
+
+  Name: 1em2A      Len: 240  Check: 4558 Weight: 1.00
+  Name: 1bv1       Len: 240  Check: 5075 Weight: 1.00
+
+//
+
+           1                                               50
+1em2A      fsaqereyirqgkeatavvdqilaqeenwkfeknneygdtvytievpfh.
+1bv1       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g
+
+           51                                             100
+1em2A      GKTFILKTFLPCPAELVYQEVILQPERXV.lwnk.TVTACQILQRVed.n
+1bv1       VFNYETETTSVIPAARLFKAFILDGDNLFpkvapqAISSVENIEGN..gg
+
+           101                                            150
+1em2A      tli.SYDVsagaaggvv.....sPRDFVNVR.RIERRrdRYLSSGIATsh
+1bv1       pgtiKKIS.........fpeglpFKYVKDRVdEVDHT..NFKYNYSVI..
+
+           151                                            200
+1em2A      sakppthky.vrge.....NGPGGXIVLKSasnprVCTFVWILNTDlkgr
+1bv1       .........eggpigdtleKISNEIKIVAT..pdgGSILKISNKYH....
+
+           201                                  240
+1em2A      l....pryliHQSLAATXFEFAFHLRQRISELGA~~~~~~
+1bv1       .tkgdhevk.AEQVKASKEMGETLLRAVESYLLAhsdayn
+

@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/4mbp_1eu8A.msf MSF:  415 Type: P 11/12/19 CompCheck: 3484 ..
+
+  Name: 4mbp       Len: 415  Check: 2064 Weight: 1.00
+  Name: 1eu8A      Len: 415  Check: 1420 Weight: 1.00
+
+//
+
+           1                                               50
+4mbp       ki.eeGKLVIWINGDk..GYNGLAEVGKKFEKdtg.IKVTVEHPD....K
+1eu8A      ~~ieeGKIVFAVGGA.pnEIEYWKGVIAEFEKkypgVTVELKRQAtdteQ
+
+           51                                             100
+4mbp       LEEKFPQVAATGD.GPDIIFWAHDRFGGYAQSGLLAEIT..PDka..FQD
+1eu8A      RRLDLVNALRGKSsDPDVFLMDVAWLGQFIASGWLEPLDdyVQkdnyDLS
+
+           101                                            150
+4mbp       KLYPFTWD.AVRYNGKLIAYPIAVEALSLIYNKDLLP.....NPPKTWEE
+1eu8A      VFFQSVINlADKQGGKLYALPVYIDAGLLYYRKDLLEkygysKPPETWQE
+
+           151                                            200
+4mbp       IPALDKELKAKG......KSALMFNLQ....EPYFTWPLIAADGGYAFKY
+1eu8A      LVEMAQKIQSGEretnpnFWGFVWQGKqyegLVCDFVEYVYSNGGSLGEF
+
+           201                                            250
+4mbp       ENgkydikDVGVDNAGAKAGLTFLVDLIKN.KHMN...adtdy.SIAEAA
+1eu8A      KDgkw...VPTLNKPENVEALQFMVDLIHKyKISPpntytemteEPVRLM
+
+           251                                            300
+4mbp       FNKGETAMTINGPWAWSNID..tSKV..NYGVTVLPTFKGQPSKPFVGVL
+1eu8A      FQQGNAAFERNWPYAWGLHNaddSPVkgKVGVAPLPHFPGHKSAATLGGW
+
+           301                                            350
+4mbp       SAGINAASPNKELAKEFLEnYLLTDEGLEAVNKDKPLGaVALKSYEEE..
+1eu8A      HIGISKYSDNKALAWEFVK.FVESYSVQKGFAMNLGWN.PGRVDVYDDpa
+
+           351                                            400
+4mbp       lakd.PRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDE
+1eu8A      vvsksPHLKELRAVFENAVPRPIVPYYPQLSEIIQKYVNSALAGKISPQE
+
+           401         415
+4mbp       ALKDAQTRIT~~~~~
+1eu8A      ALDKAQKEAEelvkq
+

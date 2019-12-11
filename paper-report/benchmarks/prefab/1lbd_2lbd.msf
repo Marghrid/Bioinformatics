@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1lbd_2lbd.msf MSF:  238 Type: P 11/12/19 CompCheck: 2448 ..
+
+  Name: 1lbd       Len: 238  Check: 2067 Weight: 1.00
+  Name: 2lbd       Len: 238  Check:  381 Weight: 1.00
+
+//
+
+           1                                               50
+1lbd       SANEDMPVERILEAELAVEPKTETYVEANMGLNPSSPNDPVTNICQAADK
+2lbd       PQLEE.LITKVSKAHQETFP.QLGK..YTTN..........DKFSELAT.
+
+           51                                             100
+1lbd       QLFTLVEWAKRIPHFSELPLDDQVILLRAGWNELLIASFSHRSIAVKDGI
+2lbd       CIIKIVEFAKRLPGFTGLSIADQITLLKAACLDILMLRICTRY.TPEQTM
+
+           101                                            150
+1lbd       LLATGLHVHRNSAHSAGVGAIFDRVLTELVSKMRDMQMDKTELGCLRAIV
+2lbd       TFSDGLTLNRTQMHNAGFGPLTDLVFAFAGQLL.PLEMDDTETGLLSAIC
+
+           151                                            200
+1lbd       LFNPDSKGLSNPAEVEALREKVYASLEAYCKHKYPEQPGRFAKLLLRLPA
+2lbd       LICGDRMDLEEPEKVDKLQEPLLEALRLYARRRRPSQPYMFPRMLMKITD
+
+           201                                238
+1lbd       LRSIGLKCLEHLFFFKLIGDTPIDTFLMEMLEAPHQMT
+2lbd       LRGISTKGAERA~~~~~~~~~~~~~~~~~~~~~~~~~~
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1kb5B_1qfoA.msf MSF:  137 Type: P 11/12/19 CompCheck: 8900 ..
+
+  Name: 1qfoA      Len: 137  Check: 3435 Weight: 1.00
+  Name: 1kb5B      Len: 137  Check: 5465 Weight: 1.00
+
+//
+
+           1                                               50
+1qfoA      wgvs.SPKNVQGLSGSCLLIPCIFSYpadvpvg...ITAIWYYDys...G
+1kb5B      tlleqNPRWRLVPRGQAVNLRCILKN.......sqyPWMSWYQQ..dlqK
+
+           51                                             100
+1qfoA      KRQVVIHSGdpklvdk......rfrg...RAELMGNmdhKVCNLLLKDLK
+1kb5B      QLQWLFTLR.......spgdkevkslpgaDYLATRV.tdTELRLQVANMS
+
+           101                               137
+1qfoA      peDSGTYNFRFEIS.......snrwldvKGTTVTVtt
+1kb5B      ..QGRTLYCTCSAApdwgasaetlyfg.SGTRLTVl~
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cqkA_1hxmD.msf MSF:  101 Type: P 11/12/19 CompCheck:  763 ..
+
+  Name: 1cqkA      Len: 101  Check: 2580 Weight: 1.00
+  Name: 1hxmD      Len: 101  Check: 8183 Weight: 1.00
+
+//
+
+           1                                               50
+1cqkA      PAAPQVYTIPPPLEQMAKDLVSLTaMITDFFPEDITVEWQWNGQPAENYK
+1hxmD      DVSPKPTIFLPSIAETKLKAGTYLhLLEKFFPDVIKIHWEEKNTILG.SQ
+
+           51                                             100
+1cqkA      NTQPIMDTDGSYFVYSKLNVQKSNWEAGNTFTaSVLHEGLHNHHTEKSLS
+1hxmD      EGNTMKT.NDTYMKFSWLTVPEKSL..DKEHRhIVRHENNKGVDQEIIFP
+
+           101 101
+1cqkA      H
+1hxmD      P
+

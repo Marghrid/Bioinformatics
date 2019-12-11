@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1mnmA_1c7uB.msf MSF:  90 Type: P 11/12/19 CompCheck: 6575 ..
+
+  Name: 1mnmA      Len: 90  Check: 7276 Weight: 1.00
+  Name: 1c7uB      Len: 90  Check: 9299 Weight: 1.00
+
+//
+
+           1                                               50
+1mnmA      ke.RRKIEIKFIENKTRRHVTFSKRKHGIMKKAFELSVLTGTQVLLLVVS
+1c7uB      ~~gRKKIQITRIMDERNRQVTFTKRKFGLMKKAYELSVLADAEIALIIFN
+
+           51                                    90
+1mnmA      ETGLVYTFSTPkfepivt.qqegrnliqaclnapdd~~~~
+1c7uB      SSNKLFQYAST.dmdk..vllkyte...........ynep
+

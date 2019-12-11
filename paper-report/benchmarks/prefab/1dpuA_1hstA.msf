@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dpuA_1hstA.msf MSF:  80 Type: P 11/12/19 CompCheck: 3735 ..
+
+  Name: 1hstA      Len: 80  Check: 7101 Weight: 1.00
+  Name: 1dpuA      Len: 80  Check: 6634 Weight: 1.00
+
+//
+
+           1                                               50
+1hstA      h...pTYSEMIAAAIRAEKSRGGSSRQSIQKYIKshykvghn..ADLQIK
+1dpuA      ~ngltVAQNQVLNLIKACPRPEGLNFQDLKNQLK........hmSVSSIK
+
+           51                          80
+1hstA      LSIRRLLAAGVLKQTKgvgASGSFRLAK~~
+1dpuA      QAVDFLSNEGHIYSTV...DDDHFKSTDae
+

@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aw0_1cc8A.msf MSF:  75 Type: P 11/12/19 CompCheck: 7506 ..
+
+  Name: 1cc8A      Len: 75  Check: 6327 Weight: 1.00
+  Name: 1aw0       Len: 75  Check: 1179 Weight: 1.00
+
+//
+
+           1                                               50
+1cc8A      eikhyqfnvv.MTCSGCSGAVNKVLTKLEpDVSKIDISLEKQLVDVYTT.
+1aw0       ltqetvinidgMTCNSCVQSIEGVISKKP.GVKSIRVSLANSNGTVEYDp
+
+           51                     75
+1cc8A      ..LPYDFILEKIKKTGKEVrsgkql
+1aw0       llTSPETLRGAIEDMGFDA.tlsd~
+

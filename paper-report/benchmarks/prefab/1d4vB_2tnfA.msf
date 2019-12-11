@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d4vB_2tnfA.msf MSF:  163 Type: P 11/12/19 CompCheck: 9787 ..
+
+  Name: 1d4vB      Len: 163  Check: 8294 Weight: 1.00
+  Name: 2tnfA      Len: 163  Check: 1493 Weight: 1.00
+
+//
+
+           1                                               50
+1d4vB      PQRVAAHITGTRGRSNTLSSPNSKNEKALGRKINSWESSRSGHSFLSNLH
+2tnfA      SDKPVAHVVANHQVE..................LEWLSQ.RANALLAGMD
+
+           51                                             100
+1d4vB      LRNGELVIHEKGFYYIYSQTYFRFQEeIKENTKNDKQMVQYIYKYTSYPD
+2tnfA      LKDNQLVVPADGLYLVYSQVLFKGQGaP.....DYVLLTHTVSRFASYQE
+
+           101                                            150
+1d4vB      PILLMKSARNSCWSKDAEYGLYSIYQGGIFELKENDRIFVSVTNEHLIDM
+2tnfA      KVNLLSAVKSPPKDTPLKPWYEPIYLGGVFQLEKGDQLSAEVNLPKYLDF
+
+           151       163
+1d4vB      DHEASFFGAFLVG
+2tnfA      ESGQVYFGVIAL~
+

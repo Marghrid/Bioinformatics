@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dz3A_3chy.msf MSF:  123 Type: P 11/12/19 CompCheck: 5520 ..
+
+  Name: 1dz3A      Len: 123  Check: 1095 Weight: 1.00
+  Name: 3chy       Len: 123  Check: 4425 Weight: 1.00
+
+//
+
+           1                                               50
+1dz3A      SIKVCIADDNRELVSLLDEYISSQPDMEVIGTAYNGQDCLQMLEEKRPDI
+3chy       ELKFLVVDDFSTMRRIVRNLLKELG.FNNVEEAEDGVDALNKLQAGGYGF
+
+           51                                             100
+1dz3A      LLLDIIMPHLDGLAVLERIRAGFEHQPNVIMLTAFGQEDVTKKAVELGAS
+3chy       VISDWNMPNMDGLELLKTIRADGAMALPVLMVTAEAKKENIIAAAQAGAG
+
+           101                 123
+1dz3A      YFILKPFDMENLAHHIRQVYGKT
+3chy       YVVKPF~~~~~~~~~~~~~~~~~
+

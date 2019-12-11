@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2pkaA_1aksA.msf MSF:  128 Type: P 11/12/19 CompCheck:  336 ..
+
+  Name: 2pkaA      Len: 128  Check:  814 Weight: 1.00
+  Name: 1aksA      Len: 128  Check: 9522 Weight: 1.00
+
+//
+
+           1                                               50
+2pkaA      IIGGRECEKNSHPWQVAIYHySSFQCGGVLVNPKWVLTAAHCKn.DNYEV
+1aksA      IVGGYTCAANSIPYQVSLNS.GSHFCGGSLINSQWVVSAAHCY.kSRIQV
+
+           51                                             100
+2pkaA      WLGRHNLFENEn.TAQFFGVTADFPHPGFNLs~~~~~~~~~~~~~~~~~~
+1aksA      RLGEHNIDVLE.gNEQFINAAKIITHPNFNGntldndimliklsspatln
+
+           101                      128
+2pkaA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1aksA      srvatvslprscaaagteclisgwgntk
+

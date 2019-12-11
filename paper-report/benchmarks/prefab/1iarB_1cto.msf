@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1iarB_1cto.msf MSF:  214 Type: P 11/12/19 CompCheck: 3144 ..
+
+  Name: 1iarB      Len: 214  Check:   20 Weight: 1.00
+  Name: 1cto       Len: 214  Check: 3124 Weight: 1.00
+
+//
+
+           1                                               50
+1iarB      fkvlqeptcvsdymsistcewkmngptncstelrllyqlvfllseahtci
+1cto       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1iarB      pennggagcvchllmddvvsadnytldlwagqqllwkgsfkpsehvkpra
+1cto       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1iarB      p......gnltvh...........dTLLLTWSNpyppdnylyNHLTYAVN
+1cto       ~gssleppmlqaldigpdvvshqpgCLWLSWKP.wkpsey..MEQECELR
+
+           151                                            200
+1iarB      IWSENDPADFRIYN.vtylepSLRIAAg....ISYRARVRAWAQAYNTTW
+1cto       YQPQLKGANWTLVFhlpsskdQFELCG.lhqaPVYTLQMRCIRSSLPGFW
+
+           201        214
+1iarB      SEWSPSTKWH~~~~
+1cto       SPWSPGLQLRptmk
+

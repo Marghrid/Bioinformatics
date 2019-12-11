@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1awcA_2hts.msf MSF:  123 Type: P 11/12/19 CompCheck: 1240 ..
+
+  Name: 1awcA      Len: 123  Check: 7826 Weight: 1.00
+  Name: 2hts       Len: 123  Check: 3414 Weight: 1.00
+
+//
+
+           1                                               50
+1awcA      ~~IQLWQFLLELLTDKDARDCISWVGDEGEFKLNqpelvaq.kwgqrknk
+2hts       arPAFVNKLWSMVNDKSNEKFIHWSTSGESIVVPnrerfvqevlpkyfkh
+
+           51                                             100
+1awcA      ptMNYEKLSRALRYYydgdmiCKVQGk.........RFVYKFVcdlktli
+2hts       ..SNFASFVRQLNMYg.....WHKVQ.dvksgsndsRWEFENErh.....
+
+           101                 123
+1awcA      gysaaelnrlvieceqkklarm~
+2hts       ......................a
+

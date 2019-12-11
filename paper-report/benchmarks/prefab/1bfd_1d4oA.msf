@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bfd_1d4oA.msf MSF:  571 Type: P 11/12/19 CompCheck:  339 ..
+
+  Name: 1d4oA      Len: 571  Check: 2316 Weight: 1.00
+  Name: 1bfd       Len: 571  Check: 8023 Weight: 1.00
+
+//
+
+           1                                               50
+1d4oA      thtei.............................................
+1bfd       ~~~~~svhgttyellrrqgidtvfgnpgsnelpflkdfpedfryilalqe
+
+           51                                             100
+1d4oA      ..................................................
+1bfd       acvvgiadgyaqasrkpafinlhsaagtgnamgalsnawnshsplivtag
+
+           101                                            150
+1d4oA      ..................................................
+1bfd       qqtramigvealltnvdaanlprplvkwsyepasaaevphamsraihmas
+
+           151                                            200
+1d4oA      .........................................NLDNAIDMI
+1bfd       mapqgpvylsvpyddwdkdadpqshhlfdrhvsssvrlndqDLDILVKAL
+
+           201                                            250
+1d4oA      REANSIIITPGYGLCAAKAQYPIADLVKMLSeqgkkVRFGIHPVAGRmpg
+1bfd       NSASNPAIVLGPDVDAANANADCVMLAERLK.....APVWVAPSAPR...
+
+           251                                            300
+1d4oA      qlnv.LLAEagvpydi.VLEMDe.....INHDFPDTDLVLVIGANdtvns
+1bfd       ....cPFPT...rhpcfRGLMP.agiaaISQLLEGHDVVLVIGAP.vfry
+
+           301                                            350
+1d4oA      aaqedpnsiIAGMpvlevw......KSKQVIVMKRSLGVgyaav..dnpi
+1bfd       .........HQYD......pgqylkPGTRLISVTCDPLE.....aarapm
+
+           351                                            400
+1d4oA      fykpnTAMLLGDAKKTCDALQAKVRes~~~~~~~~~~~~~~~~~~~~~~~
+1bfd       .....GDAIVADIGAMASALANLVE..essrqlptaapepakvdqdagrl
+
+           401                                            450
+1d4oA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bfd       hpetvfdtlndmapenaiylneststtaqmwqrlnmrnpgsyyfcaaggl
+
+           451                                            500
+1d4oA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bfd       gfalpaaigvqlaeperqviavigdgsanysisalwtaaqyniptifvim
+
+           501                                            550
+1d4oA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bfd       nngtygalrwfagvleaenvpgldvpgidfralakgygvqalkadnleql
+
+           551               571
+1d4oA      ~~~~~~~~~~~~~~~~~~~~~
+1bfd       kgslqealsakgpvlievstv
+

@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1abrB_1dqgA.msf MSF:  267 Type: P 11/12/19 CompCheck: 2234 ..
+
+  Name: 1abrB      Len: 267  Check:  426 Weight: 1.00
+  Name: 1dqgA      Len: 267  Check: 1808 Weight: 1.00
+
+//
+
+           1                                               50
+1abrB      IVEKSKIaSSRYEPTVRIGGRDGMbVDVYDNGYHNGNRIIMWKbKDRLEE
+1dqgA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1abrB      NQLWTLKSDKTIRSNGKcLTTYGYAPGSYVMIYDcTSAVAEATYWEIWDN
+1dqgA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1abrB      GTIINPKSALVLSAESSSMGGTLTVQTNEYLMRQGWRTGNNTSPFVTSIS
+1dqgA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~RQFLIY
+
+           151                                            200
+1abrB      GYSDLdMQAQGSNVWMADdDSNKKEQQWALYTDGSIRSVQNTNNeLTSKD
+1dqgA      NEHKRaVDALSASVQTATaNPEAESQKFRWVSDSQIMSVAFK.LbLGVPS
+
+           201                                            250
+1abrB      HKQGSTILLMGeSNGWASQRWVfKNDGSIYSLYDDMVMDVKGSDPSLKQI
+1dqgA      KTDWASVTLYAbDSKSEYQKWEcKNDTLFGIKGTELYFNYGNRQ..EKNI
+
+           251           267
+1abrB      ILWPYTGKPNQIWLTLF
+1dqgA      KLYKG.SGLWSRWKVYG
+

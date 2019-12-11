@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1prtF_2bosA.msf MSF:  99 Type: P 11/12/19 CompCheck: 9630 ..
+
+  Name: 2bosA      Len: 99  Check: 8896 Weight: 1.00
+  Name: 1prtF      Len: 99  Check:  734 Weight: 1.00
+
+//
+
+           1                                               50
+2bosA      ~adcak.GKIEFSKYNEd...NTFTVKVS.....GREYWTN.........
+1prtF      pthlyknFTVQELALKLkgknQEFCLTAFmsgrsLVRACLSdaghehdtw
+
+           51                                             99
+2bosA      RWNLQPLLQSAQLTGMTVTIISNTcs.....SGSGFAEVQFN~~~~~~~
+1prtF      FDTMLGFAISAYALKSRIALTVED..spypgTPGDLLELQICplngyce
+

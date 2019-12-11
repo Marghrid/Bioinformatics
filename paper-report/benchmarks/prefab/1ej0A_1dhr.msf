@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ej0A_1dhr.msf MSF:  280 Type: P 11/12/19 CompCheck: 8374 ..
+
+  Name: 1ej0A      Len: 280  Check: 6249 Weight: 1.00
+  Name: 1dhr       Len: 280  Check: 2125 Weight: 1.00
+
+//
+
+           1                                               50
+1ej0A      glrsrawfkldeiqqsdklfkPGMTVVDLGAAP...GGWSQYVVTQiggk
+1dhr       ~~~~~~~~~~~~~~~~~~~~~EARRVLVYGGRGalgSRCVQAFRARn...
+
+           51                                             100
+1ej0A      GRIIACDLLPMDPIvgVDFLQGDf.......RDELVMKALLERVGDSKVQ
+1dhr       WWVASIDVVENEEA..SASVIVK.mtdsfteQADQVTAEVGKLLGDQKVD
+
+           101                                            150
+1ej0A      VVMSDMApnmsg.........tpavdipr.amylvelalemcrdvlAPGG
+1dhr       AILCVAG.gwaggnakskslfkncdlmwkqsiwtstisshlatkhlKEGG
+
+           151                                            200
+1ej0A      SFVVKVFq............GEGFD...eylreirslf............
+1dhr       LLTLAGAkaaldgtpgmigyGMAKGavhqlcqslag..knsgmpsgaaai
+
+           201                                            250
+1ej0A      ............................................tkvkvr
+1dhr       avlpvtldtpmnrksmpeadfsswtpleflvetfhdwitgnkrpnsgsli
+
+           251                        280
+1ej0A      kpd.....ssrarsrevyivatgrkp~~~~
+1dhr       qvvttdgktelt..............payf
+

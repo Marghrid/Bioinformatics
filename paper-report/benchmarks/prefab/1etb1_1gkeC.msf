@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1etb1_1gkeC.msf MSF:  120 Type: P 11/12/19 CompCheck: 9727 ..
+
+  Name: 1etb1      Len: 120  Check: 5488 Weight: 1.00
+  Name: 1gkeC      Len: 120  Check: 4239 Weight: 1.00
+
+//
+
+           1                                               50
+1etb1      ~kCPLMVKVLDAVRGSPAINVAVHVFRKAADDTWEPFASGKTSESGELHG
+1gkeC      skCPLMVKVLDAVRGSPAVDVAVKVFKKTADGSWEPFASGKTAESGELHG
+
+           51                                             100
+1etb1      LTTEEEFVEGIYKVEIDTKSYWKALGISPFHEHAEVVFTANDSGPRRYTI
+1gkeC      LTTDEKFTEGVYRVELDTKSYWKALGISPFHEYAEVVFTANDSGHRHYTI
+
+           101              120
+1etb1      ATLLSPYSYSTTAVVTNPK~
+1gkeC      AALLSPYSYSTTAVVSNPQn
+

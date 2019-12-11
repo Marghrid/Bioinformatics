@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ejhA_1ap8.msf MSF:  230 Type: P 11/12/19 CompCheck: 2355 ..
+
+  Name: 1ejhA      Len: 230  Check: 1219 Weight: 1.00
+  Name: 1ap8       Len: 230  Check: 1136 Weight: 1.00
+
+//
+
+           1                                               50
+1ejhA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ehyikh...PLQNRWALWFFKN
+1ap8       msveevskkfeenvsvddttatpktvlsdsahfdvkhPLNTKWTLWYTKP
+
+           51                                             100
+1ejhA      DKs..KTWQANLRLISKFDTvedfwalyn..hiqlss.NLMPGCDYSLFK
+1ap8       AVdksESWSDLLRPVTSFQT...veefwaiiqnipephELPLKSDYHVFR
+
+           101                                            150
+1ejhA      dg...iepmwedek..NKRGGRWLITLNKQqRRSDLDRFWLETLLCLIGE
+1ap8       ..ndvrpewed...eaNAKGGKWSFQLRGK.GADIDELWLRTLLAVIGET
+
+           151                                            200
+1ejhA      SfddYSDDVCGAVVNVRAKGDKIAIWTTEce.nrdavthigrvykerlgl
+1ap8       I.deDDSQINGVVLSIRKGGNKFALWTKS..edkepllriggkfkqv...
+
+           201                        230
+1ejhA      p...pkiv.IGYQSHADTAT...knrfvv~
+1ap8       .lkltddghLEFFPHSSANGrhpqpsit.l
+

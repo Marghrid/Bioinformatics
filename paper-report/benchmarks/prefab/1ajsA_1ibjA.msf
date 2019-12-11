@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ajsA_1ibjA.msf MSF:  521 Type: P 11/12/19 CompCheck:  872 ..
+
+  Name: 1ajsA      Len: 521  Check: 5747 Weight: 1.00
+  Name: 1ibjA      Len: 521  Check: 5125 Weight: 1.00
+
+//
+
+           1                                               50
+1ajsA      ppsvfaevpqaqpvlvfkliadfredpdprkvnlgvgayrtddcqpwvlp
+1ibjA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1ajsA      vvrkve...................qriannss.lnhe............
+1ibjA      ~~~~~~asvstllvnldnkfdpfdamstp....lyqtatfkqpsaiengp
+
+           101                                            150
+1ajsA      ..YLPIlg....LAEFRTCASRLALgddspalqekr.VGGVQSLGGTGAL
+1ibjA      ydYTRS..gnptRDALESLLAKLDK...........aDRAFCFTSGMAAL
+
+           151                                            200
+1ajsA      RIGAEflarwyngtnnkdtpvyvssPTWENHNGVFTTAGF...kdirsyr
+1ibjA      SAVTH.li.......kngeeivagdDVYGGSDRLLSQVVPrsgvvvkrvn
+
+           201                                            250
+1ajsA      ywdtekrgldlqgflsdLENA.pefs.IFVLHaCAHNPTGTDPtpeQWKQ
+1ibjA      t..........tklde.VAAAigpqtkLVWLE.SPTNPRQQIS...DIRK
+
+           251                                            300
+1ajsA      IASVMKRrf..LFPFFDSAYQGfasgnl.ekdawAIRYFVsegfeLFCAQ
+1ibjA      ISEMAHA..qgALVLVDNSIMS......pvlsr.PLELGA.....DIVMH
+
+           301                                            350
+1ajsA      SFSkn.FGLYNERVGNLTVVAkepds..ILRVLSQMQKIVrvtws.NPPA
+1ibjA      SATkfiAGHSDVMAGVLAVKGe....klAKEVYFLQNSEG.....sGLAP
+
+           351                                            400
+1ajsA      QGARIVARtlsdpelfhEWTGNVKTMADRILSMRSELRARlealktpgtw
+1ibjA      FDCWLCLRgik......TMALRIEKQQENARKIAMYLSSH.......prv
+
+           401                                            450
+1ajsA      nhitdqig...................mfsftg.lnpkqveylinqkhi.
+1ibjA      kkv.yyaglpdhpghhlhfsqakgagsvfsfitgsva.lskhlvettk.y
+
+           451                                            500
+1ajsA      .............yLLPS....................GRINMCGl...t
+1ibjA      fsiavsfgsvksliSMPCfmshasipaevreargltedLVRISAG.iedv
+
+           501               521
+1ajsA      tknldyvatsiheavtkiqx~
+1ibjA      ddlisdldiafktfp.....l
+

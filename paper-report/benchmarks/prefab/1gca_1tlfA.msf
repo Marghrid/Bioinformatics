@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1gca_1tlfA.msf MSF:  309 Type: P 11/12/19 CompCheck: 6709 ..
+
+  Name: 1gca       Len: 309  Check: 4853 Weight: 1.00
+  Name: 1tlfA      Len: 309  Check: 1856 Weight: 1.00
+
+//
+
+           1                                               50
+1gca       ADTRIGVTIYKYDDNFMSVVRKAIEKDGKSAPDVQLLMNDSQNDQSKQND
+1tlfA      ~SLLIGVATSSLALHAPSQIVAAIKSRADQL.GASVVVSMVERSGEACKA
+
+           51                                             100
+1gca       QIDVLLAKGVKALAINLVDPAAAGTVIEKARGQNVPVVFFNKEPSRKALD
+1tlfA      AVHNLLAQRVSGLIINYPLDQDAIAVEAACT..NVPALFLDVS..QTPI.
+
+           101                                            150
+1gca       SYDKAYYVGTDSKESGVIQGDLIAKHWQANQGWDLNKDGKIQYVLLKGEP
+1tlfA      .....NSIIFSHEDGTRLGVEHLVALG.............QQIALLAGPL
+
+           151                                            200
+1gca       GHPDAEARTTYVVKELNDKGIQTEQLALDTAMWDTAQAKDKMDAWLSGPN
+1tlfA      SSVSARLRLAGWHKYLTR..NQIQPIAEREGDWSAMSGFQQTMQMLNEGI
+
+           201                                            250
+1gca       ANKIEVVIANNDAMAMGAVEALKAHNKSSIPVFGVDALPEALALVKSGAM
+1tlfA      V..PTAMLVANDQMALGAMRAITESGLRDISVVGYDDTEDSSCY..IPPL
+
+           251                                            300
+1gca       AGTVLNDANNQAKATFDLAKNLAEGKGAADGTSWKIENKIVRVPYVGVDK
+1tlfA      .TTIKQDFRLLGQTSVDRLLQLSQGQAV.........KGNQLLPVSLVKR
+
+           301   309
+1gca       DNLSEFTQK
+1tlfA      ~~~~~~~~~
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1gakA_1lis.msf MSF:  147 Type: P 11/12/19 CompCheck: 2628 ..
+
+  Name: 1gakA      Len: 147  Check: 5577 Weight: 1.00
+  Name: 1lis       Len: 147  Check: 7051 Weight: 1.00
+
+//
+
+           1                                               50
+1gakA      fddv......VVSRQEQSYVQRGMVNFLDEEMHKLVKRFrdmr.WNLGPG
+1lis       ~~~~hyvepkFLNKAFEVALKVQIIAGFDRGLVKWLRVH....gRTLSTV
+
+           51                                             100
+1gakA      FVFLLKKVNRERMMRYCMDYARYSKKILQLKHl.PVNKKTLTKMGRFVGY
+1lis       QKKALYFVNRRYMQTHWANYMLWINKKIDALG.rTPVVGDYTRLGAEIGR
+
+           101                                         147
+1gakA      RNYgvIRELYADVFRDVqgfr.GPKMTAAMRKYSSKDPGTFPCKNe~
+1lis       RID..MAYFYDFLKDKN....mIPKYLPYMEEINRMRPADVPVKY.m
+

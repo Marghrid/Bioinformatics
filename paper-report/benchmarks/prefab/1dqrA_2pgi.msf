@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dqrA_2pgi.msf MSF:  589 Type: P 11/12/19 CompCheck: 3535 ..
+
+  Name: 1dqrA      Len: 589  Check: 1358 Weight: 1.00
+  Name: 2pgi       Len: 589  Check: 2177 Weight: 1.00
+
+//
+
+           1                                               50
+1dqrA      altrnpqfqklqqwhrehgselnlrhlfdtdkerfnhfsltlntnhgHIL
+2pgi       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AIS
+
+           51                                             100
+1dqrA      LDYSKN..LVTEEVMHMLLDLAKsrGVEAARESMfngekiNStedRAVLH
+2pgi       FDYSNAlpFMQENELDYLSEFVK..AAHHMLHER...kgpGS...DFLGW
+
+           101                                            150
+1dqrA      VALRNRsntpivvdgkdvmpe.VNKVLDKMKAFCQRVRSgdwkgytgkTI
+2pgi       VDWPIR...............yDKNEFSRIKQAAERIRN.........HS
+
+           151                                            200
+1dqrA      TDVINIGIGGSDLGPLMVTEALKpyss....GGPRVWFV.SNIDGTHIAK
+2pgi       DALVVIGIGGSYLGARAAIEALShtfhnqmnDTTQIYFAgQNISSTYISH
+
+           201                                            250
+1dqrA      TLACLNPESSLFIIASKTFTTQETITNAKTAKDWFLLSAkDPSTVAKHFV
+2pgi       LLDVLEGKDLSINVISKSGTTTEPAIAFRIFRDYMEKKY.GKEEARKRIY
+
+           251                                            300
+1dqrA      ALST.....NTAKVKEfgidpqNMFEFWDWVGGRYsLWSAI..GLSIALH
+2pgi       VTTDrtkgaLKKLADQegy...ETFVIPDNIGGRY.SVLTAvgLLPIAVA
+
+           301                                            350
+1dqrA      VGfdNFEQLLSGAHWMDQHFRTTPLEKNAPVLLAMLGIWYIncFGCETQA
+2pgi       GL..NIDRMMEGAASAYHKYNNPDLLTNESYQYAAVRNILYr.KGKAIEL
+
+           351                                            400
+1dqrA      VLPYDQYLHRFAAYFQQGDMESNGKYitksgarvdhqTGPIVWGEPGTNG
+2pgi       LVNYEPSLHYVSEWWKQLFGESEGKDq..........KGLFPASVDFTTD
+
+           401                                            450
+1dqrA      QHAFYQLIHQGTKMIPCDFLIPVQTQHPIRK...............GLHH
+2pgi       LHSMGQYVQEGRRNLIETVLHVKKPQIELTIqedpenidglnflagKTLD
+
+           451                                            500
+1dqrA      KILLANFLAQTEALMKgksteearkelqaagkspedlmkllphkvfeGNR
+2pgi       EVNKKAFQGTLLAHVD...............................GGV
+
+           501                                            550
+1dqrA      PTNSIVFTKLTPFILGALIAMYEHKIFVQGVVWDINSFDQWGVELGKQLA
+2pgi       PNLIVELDEMNEYTFGEMVYFFEKACGISGHLLGVNPFDQPGVEAYKKNM
+
+           551                                 589
+1dqrA      KKIEPEldgsspv.....tshdsstnglinfikqqreak
+2pgi       FALLGKpg.....fedekaalmkrl~~~~~~~~~~~~~~
+

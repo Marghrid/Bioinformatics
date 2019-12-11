@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aoiB_1jfiB.msf MSF:  139 Type: P 11/12/19 CompCheck: 7493 ..
+
+  Name: 1jfiB      Len: 139  Check: 3474 Weight: 1.00
+  Name: 1aoiB      Len: 139  Check: 4019 Weight: 1.00
+
+//
+
+           1                                               50
+1jfiB      ~~ddlt..IPRAAINKMIKETLPnvRVANDARELVVNCCTEFIHLISSEA
+1aoiB      vlrdniqgITKPAIRRLARRGGV.kRISGLIYEETRGVLKVFLENVIRDA
+
+           51                                             100
+1jfiB      NEICNKSEKKTISPEHVIQALESLGFGsyisevkevlqecktvalkrrka
+1aoiB      VTYTEHAKRKTVTAMDVVYALKRQGRT..lygfgg~~~~~~~~~~~~~~~
+
+           101                                 139
+1jfiB      ssrlenlgipeeellrqqqelfakarqqqaelaqqewlq
+1aoiB      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

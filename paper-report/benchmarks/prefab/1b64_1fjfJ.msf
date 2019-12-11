@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b64_1fjfJ.msf MSF:  117 Type: P 11/12/19 CompCheck: 3616 ..
+
+  Name: 1b64       Len: 117  Check: 2982 Weight: 1.00
+  Name: 1fjfJ      Len: 117  Check:  634 Weight: 1.00
+
+//
+
+           1                                               50
+1b64       mlvaksSILLDVKPwddetd.MAKLEECVRSI.qadglvwgsSKLVPVGY
+1fjfJ      ~~~~~~KIRIKLRG..fdhktLDASAQKIVEAarrsgaqvsgPIPLPTRV
+
+           51                                             100
+1b64       .....................GIKKLQIQCVVeddk...VGTDMLEEQit
+1fjfJ      rrftvirgpfkhkdsrehfelRTHNRLVDIIN....pnrKTIEQLMTL..
+
+           101           117
+1b64       AFEDYVqsmdvaafnki
+1fjfJ      DLPTGV.eieikt~~~~
+

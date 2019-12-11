@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dmhA_3pchA.msf MSF:  360 Type: P 11/12/19 CompCheck: 6509 ..
+
+  Name: 3pchA      Len: 360  Check: 3623 Weight: 1.00
+  Name: 1dmhA      Len: 360  Check: 2886 Weight: 1.00
+
+//
+
+           1                                               50
+3pchA      ~~~~~~~~~~~~~~~~~~~~~~~~~~piellpetpsqtagpyvhiglale
+1dmhA      kifntqdvqdflrvasgleqeggnprvkqi....................
+
+           51                                             100
+3pchA      aagnptrd..........................................
+1dmhA      ........ihrvlsdlykaiedlnitsdeywagvaylnqlganqeaglls
+
+           101                                            150
+3pchA      .....................................qEIW....NRLAK
+1dmhA      pglgfdhyldmrmdaedaalgienatprtiegplyvagAPEsvgyARMDD
+
+           151                                            200
+3pchA      PDA.pGEHILLLGQVYDGNGHLVRDSFLEVWQADANGEYQD......ayn
+1dmhA      GSDpnGHTLILHGTIFDADGKPLPNAKVEIWHANTKGFYSHfdptgeqqa
+
+           201                                            250
+3pchA      lenafnsfgrtattfdAGEWTLHTVKPGVVNNAa.............GVP
+1dmhA      f....nmrrsiitde.NGQYRVRTILPAGYGCPpegptqqllnqlgrHGN
+
+           251                                            300
+3pchA      MAPHINISLFARGIniHLHTRLYFDDEaQANAKCPVLNlieqpqr.RETL
+1dmhA      RPAHIHYFVSADGH.rKLTTQINVAGD.PYTYDDFAYA.......tREGL
+
+           301                                            350
+3pchA      IAKRCEVd............gKTAYRFDIRIQgegetvffdf~~~~~~~~
+1dmhA      VVDAVEHtdpeaikandvegpFAEMVFDLKLT..........rlvdgvdn
+
+           351    360
+3pchA      ~~~~~~~~~~
+1dmhA      qvvdrprlav
+

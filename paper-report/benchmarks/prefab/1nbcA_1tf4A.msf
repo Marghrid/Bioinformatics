@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1nbcA_1tf4A.msf MSF:  155 Type: P 11/12/19 CompCheck: 9439 ..
+
+  Name: 1nbcA      Len: 155  Check: 2042 Weight: 1.00
+  Name: 1tf4A      Len: 155  Check: 7397 Weight: 1.00
+
+//
+
+           1                                               50
+1nbcA      NLKVEFYNSNPSDTTNSINPQFKVTNTGSSAIDLSKLTLRYYYTVDGQKD
+1tf4A      EIFVEAQINTPG..TTFTEIKAMIRNQSARMLD..KGTFRYWFTLDVDPA
+
+           51                                             100
+1nbcA      QTFWCDHAAIIGSNGSYNGITSnVKGTFVKMSSSTNNADTYLEISfTGGT
+1tf4A      ITVSSAYNQ.............bATPDVHHVSGD....LYYVEIDb.GEK
+
+           101                                            150
+1nbcA      LEPGAHVQIQGRFAKNDWSNYTQSNDYSFKSASQFVEWDQVTAYLNGVLV
+1tf4A      IFPEHRREVQFRIAG..GPGWDPSNDWSFGIGNELAPAPYIVLYDDGVPV
+
+           151
+1nbcA      WGKEP
+1tf4A      WGTAP
+

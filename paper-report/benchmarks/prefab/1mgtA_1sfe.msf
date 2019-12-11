@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1mgtA_1sfe.msf MSF:  169 Type: P 11/12/19 CompCheck: 8709 ..
+
+  Name: 1mgtA      Len: 169  Check: 9406 Weight: 1.00
+  Name: 1sfe       Len: 169  Check: 9303 Weight: 1.00
+
+//
+
+           1                                               50
+1mgtA      MLSVEKFRVGERVVWIGVIFSGRVQGIAFAFDRGTLMKRIHDLAEHLGKR
+1sfe       RYALADCE.....GRCLVAESEGICAILLGDDDATLISELQQMFP.....
+
+           51                                             100
+1mgtA      GVSISLDVQPSDYPEKVFKVLIGELDNASFLRELSFEGVTPFEKKVYEWL
+1sfe       ....AADNAPQQHVREVIASLQRDTP...LTLPLDI.RGTAFQQQVWQAL
+
+           101                                            150
+1mgtA      TKNVKRGSVITYGDLAKALNTSPRAVGGAMKRNPYPIVVPCHRVVAHDGI
+1sfe       R.TIPCGETVSYQQLANAIGKAVRAVASACAANKLAIVIPCHRVVRGDSL
+
+           151             169
+1mgtA      GYYSSGIEEKKFLLEIEGV
+1sfe       SGYRWGVSRKAQLLRREAE
+

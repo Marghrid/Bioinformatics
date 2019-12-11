@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1btkA_1pls.msf MSF:  177 Type: P 11/12/19 CompCheck: 4915 ..
+
+  Name: 1pls       Len: 177  Check: 2321 Weight: 1.00
+  Name: 1btkA      Len: 177  Check: 2594 Weight: 1.00
+
+//
+
+           1                                               50
+1pls       ep.KRIREGYLVKKGSVf.....NTWKPMWVVLLEDGIEFYKKk.....s
+1btkA      ~~aAVILESIFLKRSQQkkktspLNFKKCLFLLTVHKLSYYEY.dfergr
+
+           51                                             100
+1pls       dnspkgmiplkgs.TLTSpcqdfgkr...................mfvfk
+1btkA      rgskkgsidvekitCVET.vvpe...knppperqimeqisiierfpypfq
+
+           101                                            150
+1pls       itttKQQDHFFQAAFLEERDAWVRDINKAikcieglehhhhhh~~~~~~~
+1btkA      vvy.DEGPLYVFSPTEELRKRWIHQLKNV.iryns........dlvqkyh
+
+           151                     177
+1pls       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1btkA      pcfwidgqylccsqtaknamgcqilen
+

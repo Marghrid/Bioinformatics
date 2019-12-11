@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cdkA_1csn.msf MSF:  343 Type: P 11/12/19 CompCheck: 7737 ..
+
+  Name: 1cdkA      Len: 343  Check: 2581 Weight: 1.00
+  Name: 1csn       Len: 343  Check: 5156 Weight: 1.00
+
+//
+
+           1                                               50
+1cdkA      KGSEQESVKEFLAKAKEDFLKKWENPAQNTAHLDQFERIKTLGTGSFGRV
+1csn       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~VGVHYKVGRRIGEGSFGVI
+
+           51                                             100
+1cdkA      MLVKHKETGNHFAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLVKLE
+1csn       FEGTNLLNNQQVAIKFEPRR...SDAPQ..LRDEYRTYKLLGCTGIPNVY
+
+           101                                            150
+1cdkA      YSFKDNSNLYMVMEYVPGGEMFSHLRRIGRFSEPHARFYAAQIVLTFEYL
+1csn       YFGQEGLHNVLVIDLL.GPSLEDLLDLCRKFSVKTVAMAAKQMLARVQSI
+
+           151                                            200
+1cdkA      HSLDLIYRDLKPENLLIDQQGYIQVTDFGFAKRVKGRTWTLCGTPEYLAP
+1csn       HEKSLVYRDIKPDNFLIGNANMIYVVDFGMVKFYRD..KNLSGTARYMSI
+
+           201                                            250
+1cdkA      EIILSKGYNKAVDWWALGVLIYEMAAGYPPFFADQPIQIYEKIVSGKVRF
+1csn       NTHLGREQSRRDDLEALGHVFMYFLRGSLPWQGLKYERIGEKKQSTPLLC
+
+           251                                            300
+1cdkA      PSHFSSDLKDLLRNLLQVDLTKRFGNLKDGVNDIKNHKWFATTDWIAIYQ
+1csn       AG.FPEEFYKYMHYA..RNLA....DATPDYDYLQGL.FSKVLE......
+
+           301                                     343
+1cdkA      RKVEAPFIPKFKGPGDTSNFDDYEEEEIRVSINEKCGKEFSEF
+1csn       ..EDENF~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1tit_1wit.msf MSF:  96 Type: P 11/12/19 CompCheck: 8826 ..
+
+  Name: 1wit       Len: 96  Check: 3541 Weight: 1.00
+  Name: 1tit       Len: 96  Check: 5285 Weight: 1.00
+
+//
+
+           1                                               50
+1wit       KPKILTASRKIKIKAGFTHNLEVDFIGApDPTATWTVGDsgAALAP..EL
+1tit       LIEVEKPLYGVEVFVGETAHFEIELSEP.DVHGQWKLKG..QPLTAspDC
+
+           51                                          96
+1wit       LVDAKSSTTSIFFPSAKRADSGNYKLKVKnelgEDEAIFEVIVQ~~
+1tit       EIIEDGKKHILILHNCQLGMTGEVSFQAA....NAKSAANLKVKel
+

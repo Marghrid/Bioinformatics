@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cnt3_1cnt2.msf MSF:  152 Type: P 11/12/19 CompCheck: 5478 ..
+
+  Name: 1cnt3      Len: 152  Check: 7711 Weight: 1.00
+  Name: 1cnt2      Len: 152  Check: 7767 Weight: 1.00
+
+//
+
+           1                                               50
+1cnt3      phrrdlcsrsiwlarkirsdltaltesyvkhqglwse....LTEAERLQE
+1cnt2      ~~~~hrrdlcsrsiwlarkirsdltaltesyvk....hqglLTEAERLQE
+
+           51                                             100
+1cnt3      NLQAYRTFHVLLARLLedqqvhftptEGDFHQAIHTLLLQVAAFAYQIEE
+1cnt2      NLQAYRTFHVLLARLL..........EGDFHQAIHTLLLQVAAFAYQIEE
+
+           101                                            150
+1cnt3      LMILLEYKIPRNeadggglfekklwglkvlqelsqwtvrsihdlrfissh
+1cnt2      LMILLEYKIPRN....fekklwglkvlqelsqwtvrsihdlrfisshqtg
+
+           151 152
+1cnt3      ~~
+1cnt2      ip
+

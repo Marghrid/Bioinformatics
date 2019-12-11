@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1amp_1b8oA.msf MSF:  415 Type: P 11/12/19 CompCheck: 7633 ..
+
+  Name: 1amp       Len: 415  Check: 4330 Weight: 1.00
+  Name: 1b8oA      Len: 415  Check: 3303 Weight: 1.00
+
+//
+
+           1                                               50
+1amp       mppitqqatvtawlpqvdasqitgtisslesftnrfytttsgaqasdwia
+1b8oA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1amp       sewq................alsasl....................pnas
+1b8oA      ~~~~ngytyedyqdtakwllshte..qrpqvavicgsglgglvnkltqaq
+
+           101                                            150
+1amp       vkqvshsg...ynqk.......svvmtitgseapdewivigghldstigs
+1b8oA      tfdys...eipnfpestvpghagrlvfgi.....................
+
+           151                                            200
+1amp       htneqsvapgadddasgiaavtevirvlsennfq.PKRSIAFMAYAAEE.
+1b8oA      ..................................lNGRACVMMQGRFHMy
+
+           201                                            250
+1amp       ...vglrgsQDLANQYKsegKNVVSALQLDMtnyk.......gSAQDVVF
+1b8oA      egypfwkv.TFPVRVFRl..LGVETLVVTNA....agglnpnfEVGDIML
+
+           251                                            300
+1amp       ITD..............................yTDSNFTQYLTQLMDEY
+1b8oA      IRDhinlpgfsgenplrgpneerfgvrfpamsdaYDRDMRQKAHSTWKQM
+
+           301                                            350
+1amp       LPSLTYGFDTCGYa...........................CSDHASWHN
+1b8oA      GEQRELQEGTYVM.lggpnfetvaecrllrnlgadavgmstVPEVIVARH
+
+           351                                            400
+1amp       AGYPAAMPFESkfndYNpriht.......tqdtlansdpt..GSHAKKFT
+1b8oA      CGLRVFGFSLI....TNkv...imdyesqgkanheevle.agKQAAQKLE
+
+           401         415
+1amp       QLGLAYAIEMgsatg
+1b8oA      QFVSLLMASI~~~~~
+

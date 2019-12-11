@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a6m_1flp.msf MSF:  151 Type: P 11/12/19 CompCheck: 7597 ..
+
+  Name: 1a6m       Len: 151  Check: 7337 Weight: 1.00
+  Name: 1flp       Len: 151  Check:  260 Weight: 1.00
+
+//
+
+           1                                               50
+1a6m       VLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRFKHLK
+1flp       SLEAAQKSNVTSSWAKASAAWGTAGPEFFMALFDAHDDVFAKFGLFSGAA
+
+           51                                             100
+1a6m       TEAEMKASEDLKKHGVTVLTALGAILKKKGHHEAELKPLAQSHATKHKIP
+1flp       KG.TVKNTPEMAAQAQSFKGLVSNWVDNLDNLEGQCKTFAANHKA.RGIS
+
+           101                                            150
+1a6m       IKYLEFISEAIIHVLHSRHPGDFGADAQGAMNKALELFRKDIAAKYKELG
+1flp       AGQLEAAFKVLSGFMKSYG.......DEGAWTAVAGALMGEIEPDM~~~~
+
+           151 151
+1a6m       Y
+1flp       ~
+

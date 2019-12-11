@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1g6gA_1qu5A.msf MSF:  198 Type: P 11/12/19 CompCheck: 3881 ..
+
+  Name: 1qu5A      Len: 198  Check: 3611 Weight: 1.00
+  Name: 1g6gA      Len: 198  Check:  270 Weight: 1.00
+
+//
+
+           1                                               50
+1qu5A      aetreqkllhsnntenvksskkkg.NGRFLTLKPLpdsiIQESLEIQQgv
+1g6gA      ~~~~~~~~~~~~~~~~~~~~~~~~gENIVCRVICTtg..QIPIRDLSA..
+
+           51                                             100
+1qu5A      .............NPFFIGRSEDCNCKIE.dnRLSRVHCFIFKKRhavgk
+1g6gA      disqvlkekrsikKVWTFGRNPACDYHLGnisRLSNKHFQILLGEd....
+
+           101                                            150
+1qu5A      smyespaqglDDIWYCHTGTNVSYLNNNRMIQGTKFLLQDGDEIKiiwdk
+1g6gA      ..........GNLLLNDISTNGTWLNGQKVEKNSNQLLSQGDEIT.vgvg
+
+           151                                          198
+1qu5A      NNKFVIGFKVEIndttglfneglgmlqeqrvvlkqtaeekdlvkkl~~
+1g6gA      VESDILSLVIFI.ndkfkq...........................cl
+

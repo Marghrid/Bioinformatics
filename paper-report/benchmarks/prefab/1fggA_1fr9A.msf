@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fggA_1fr9A.msf MSF:  283 Type: P 11/12/19 CompCheck: 9673 ..
+
+  Name: 1fggA      Len: 283  Check: 6755 Weight: 1.00
+  Name: 1fr9A      Len: 283  Check: 2918 Weight: 1.00
+
+//
+
+           1                                               50
+1fggA      ~~~mtiyvvtptya..RLVQK......AELVRLSQTLSLVPrlhwllved
+1fr9A      nlmttitgvvlag.gkVDKGLlelngkPLWQHVADALMTQL.shvvvnan
+
+           51                                             100
+1fggA      aegptplvsgllaasgllFTHLVVltpwvh.....PRGVEQRNKALDWLr
+1fr9A      r..hqeiyqasg......LKVIED......sladyPGPLAGMLSVMQQEa
+
+           101                                            150
+1fggA      grggavggekdppppgtq.GVVYFADDDN.tYSRELFEEMRWt....RGV
+1fr9A      ..................gEWFLFCPCDTpyIPPDLAARLNH.qrkdAPV
+
+           151                                            200
+1fggA      SVWPVglvgglrfegpqvqdgrvvgfhtawepsrpfpvdmagFAVALPLL
+1fr9A      VWVHD.......gerd.....................hpti.ALVNRAIE
+
+           201                                            250
+1fggA      ldkpnaqf..dstaprghLESSLLSHLVdpkdlepraanctrvl..VWHT
+1fr9A      ...plll.eylqage..rRVMVFMRLAG....ghavd..fsdh.kdAFVN
+
+           251                           283
+1fggA      RTEKPkmkqeeqlqrqgrgsdpaiev~~~~~~~
+1fr9A      VNTPE.....................elarwqe
+

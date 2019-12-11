@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a7s_2cgaB.msf MSF:  221 Type: P 11/12/19 CompCheck:  880 ..
+
+  Name: 1a7s       Len: 221  Check: 6620 Weight: 1.00
+  Name: 2cgaB      Len: 221  Check: 4260 Weight: 1.00
+
+//
+
+           1                                               50
+1a7s       IVGGRKARPRQFPFLASIQNQGRHFaGGALIHARFVMTAASaFPGVSTVV
+2cgaB      ~~NGEEAVPGSWPWQVSLQDG.FHFcGGSLINENWVVTAAHcGTTSDVVV
+
+           51                                             100
+1a7s       LGAYDLRRRERQSRQTFSISSMSENGYDPQQNLNDLMLLQLDREANLTSS
+2cgaB      AGEFDQGEK....IQKLKIAKVFKNKYN..TINNDITLLKLSTAASFSQT
+
+           101                                            150
+1a7s       VTILPLPLQNATVEAGTRbQVAGWGSQRSGGRLSRFPRFVNVTVTPEDQc
+2cgaB      VSAVCLPS..DDFAAGTTcVTTGWGLTRYNANTPDRLQQASLPLLSNTNc
+
+           151                                            200
+1a7s       RPNNVcTGVLTRRGGIdNGDGGTPLVbEGLAHGVASFSLGPdGRGPDFFT
+2cgaB      KDAMIcAGAS.GVSSCm..DSGGPLVcAWTLVGIVSWGS.ScSTTPGVYA
+
+           201               221
+1a7s       RVALFRDWIDGVLNNPGPGPA
+2cgaB      RVTALVNWVQQTL~~~~~~~~
+

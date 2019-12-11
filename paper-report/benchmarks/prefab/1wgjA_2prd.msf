@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1wgjA_2prd.msf MSF:  282 Type: P 11/12/19 CompCheck: 3900 ..
+
+  Name: 1wgjA      Len: 282  Check:  838 Weight: 1.00
+  Name: 2prd       Len: 282  Check: 3062 Weight: 1.00
+
+//
+
+           1                                               50
+1wgjA      TYTTRQIGAKNTLEYKVYIEKDGKPVSAFHDIPLYADKENNIFNMVVEIP
+2prd       ~~~~~~~~~~~~~~~~~~~~~~~~~ANLKS.LPVGDKA..EVVHMVIEVP
+
+           51                                             100
+1wgjA      RWTNAKLEITKEETLNPIIQDTKKGKLRFVRNCFPHHGYIHNYGAFPQTW
+2prd       RGSGNKYEYDPDL..GAIKLD......RVLPGA...QFYPGDYGFIPSTL
+
+           101                                            150
+1wgjA      EDPNVSHPETKAVGDNDPIDVLEIGETIAYTGQVKQVKALGIMALLDEGE
+2prd       AE............DGDPLDGLVLSTYPLLPGVVVEVRVVGLLLMEDEKG
+
+           151                                            200
+1wgjA      TDWKVIAIDINDPLAPKLNDIEDVEKYFPGLLRATNEWFRIYKIPDGKPE
+2prd       GDAKVIGVVAEDQRLDHIQDIGDVP...EGVKQEIQHFFETYKALEAGKW
+
+           201                                            250
+1wgjA      NQFAFSGEAKNKKYALDIIKETHDSWKQLIAGKSSDSKGIDLTNVTLPDT
+2prd       VKVT...GWRDRKAALEEVRACIARYKG~~~~~~~~~~~~~~~~~~~~~~
+
+           251                          282
+1wgjA      PTYSKAASDAIPPASLKADAPIDKSIDKWFFI
+2prd       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ffkE_1e7kB.msf MSF:  118 Type: P 11/12/19 CompCheck: 6400 ..
+
+  Name: 1ffkE      Len: 118  Check: 4965 Weight: 1.00
+  Name: 1e7kB      Len: 118  Check: 1435 Weight: 1.00
+
+//
+
+           1                                               50
+1ffkE      VYVDFDVPADLEDDALEALEVARDTGAVKKGTNETTKSIERGSAELVFVA
+1e7kB      PKAYPLADAHLTKKLLDLVQQSCNYKQLRKGANEATKTLNRGISEFIVMA
+
+           51                                             100
+1ffkE      EDVQPEEIVMHIPELADEKGVPFIFVEQQDDLGHAAGLEVGSAAAAVTDA
+1e7kB      ADAEPLEIILHLPLLCEDKNVPYVFVRSKQALGRACGVSRPVIACSVTI.
+
+           101            118
+1ffkE      GAAATVLEEIADKVEELR
+1e7kB      SQLKQQIQSIQQSIERLL
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3erdA_1dkfA.msf MSF:  245 Type: P 11/12/19 CompCheck: 4364 ..
+
+  Name: 3erdA      Len: 245  Check: 4355 Weight: 1.00
+  Name: 1dkfA      Len: 245  Check:    9 Weight: 1.00
+
+//
+
+           1                                               50
+3erdA      SLALSLTADQMVSALLDAEPPILYSEYDPTRPFSEASMMGLLTNLADREL
+1dkfA      ~~~~~~SANEPVEKILEAAVEP..............DPVTNICQAADKQL
+
+           51                                             100
+3erdA      VHMINWAKRVPGFVDLTLHDQVHLLECAWLEILMIGLVWRSMEHPGKLLF
+1dkfA      FTLVEWAKRIPHFSELPLDDQVILLRAGWNELLIASASHRSIAVKDGILL
+
+           101                                            150
+3erdA      APNLLLDRNQGKCVEGMVEIFDMLLATSSRFRMMNLQGEEFVCLKSIILL
+1dkfA      ATGLHVHRNSAHSA.GVGAIFDRVLTLVSKMRDMQMDKTELGCLRAIVLF
+
+           151                                            200
+3erdA      NSGVYTFLSSTLKSLEEKDHIHRVLDKITDTLIHLMAKAGLTLQQQHQRL
+1dkfA      N..PDSKG.......SNPAEVEALREKVYASLEAYCKHK.YPEQP..GRF
+
+           201                                       245
+3erdA      AQLLLILSHIRHMSNKGMEHLYSMKCKNVVPLYDLLLEMLDAHRL
+1dkfA      AKLLLRLPALRSIGLKCLEHLFFFK.....IGDT...PIDTF~~~
+

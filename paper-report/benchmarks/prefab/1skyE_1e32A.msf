@@ -1,0 +1,69 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1skyE_1e32A.msf MSF:  748 Type: P 11/12/19 CompCheck: 8248 ..
+
+  Name: 1skyE      Len: 748  Check: 2252 Weight: 1.00
+  Name: 1e32A      Len: 748  Check: 5996 Weight: 1.00
+
+//
+
+           1                                               50
+1skyE      mtrgrviqvmgpvvdvkfenghlpaiynalkiqhkarnenevdidltlev
+1e32A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1skyE      alhlgddtvrtiamastdglirgmevidtgapisvpvgqvtlgrvfnvlg
+1e32A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1skyE      epidlegdipadarrdpihrpapkfe........................
+1e32A      ~~~~~~~~~~~~~~~~~~~~~~~~~~nrpnrlivdeainednsvvslsqp
+
+           151                                            200
+1skyE      ..................................................
+1e32A      kmdelqlfrgdtvllkgkkrreavcivlsddtcsdekirmnrvvrnnlrv
+
+           201                                            250
+1skyE      ..................................................
+1e32A      rlgdvisiqpcpdvkygkrihvlpiddtvegitgnlfevylkpyfleayr
+
+           251                                            300
+1skyE      ..................................................
+1e32A      pirkgdiflvrggmravefkvvetdpspycivapdtvihcegepikrede
+
+           301                                            350
+1skyE      .................................elat..eveiletgikv
+1e32A      eeslnevgyddvggcrkqlaqikemvelplrhpalfkaigvkp.......
+
+           351                                            400
+1skyE      vdllapyikg.GKIGLFGGAGVGKTVLIQELIHNIAqehgGISVFAGVGe
+1e32A      ..........pRGILLYGPPGTGKTLIARAVANETG....AFFFLINGP.
+
+           401                                            450
+1skyE      rtregndlyhemkdsgvisktamvfgqmnEPPGARMRVALTGLTMAEYFR
+1e32A      ........................eims.KLAGESESNLRKAFEEAEKNA
+
+           451                                            500
+1skyE      deqgqDGLLFIDNIFRFTQag....sevsallgrmpsaigyqptla....
+1e32A      .....PAIIFIDELDAIAP..krekthge.................verr
+
+           501                                            550
+1skyE      ..TEMGQLQERITSTakGSITSIQAI.yvpaddytdpAPATTFS..HLDA
+1e32A      ivSQLLTLMDGLKQR..AHVIVMAATnrpns......IDPALRRfgRFDR
+
+           551                                            600
+1skyE      TTNLERklaemgiypavdplvstsralapeivgeehyqvarkvqqtlery
+1e32A      EVDIGI..pdatg.....................................
+
+           601                                            650
+1skyE      kelqdiiailgmdelsdedklvvhrarri...qfflsqnfhvaeqftgqp
+1e32A      .............................rleilqi..............
+
+           651                                            700
+1skyE      gsyvpvketvr..gfkeilegkydhlpedrfrlvgrieev..........
+1e32A      ...........htknmk....laddvdleqva........nethghvgad
+
+           701                                          748
+1skyE      .......................................vekakamg~
+1e32A      laalcseaalqairkkmdlidledetidaevmnslavtmddfrwalsq
+

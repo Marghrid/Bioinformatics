@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1gky_1qhsA.msf MSF:  218 Type: P 11/12/19 CompCheck:  601 ..
+
+  Name: 1qhsA      Len: 218  Check: 4213 Weight: 1.00
+  Name: 1gky       Len: 218  Check: 6388 Weight: 1.00
+
+//
+
+           1                                               50
+1qhsA      tt.RMIILNGGSSAGKSGIVRCLQSVLPEPWLAFgvdslie.........
+1gky       ~~sRPIVISGPSGTGKSTLLKKLFAEYPDSFGFS...vssttrtpragev
+
+           51                                             100
+1qhsA      .....AMPLKmqsaeggiefdadggvsi...gpefr..aLEGa.......
+1gky       ngkdyNFVSV..................defksmi.knnEFI.ewaqfsg
+
+           101                                            150
+1qhsA      .....WAEGVVAMARAGARIIIDDVFlggaaaqerwrsfvgdldVLWVGV
+1gky       nyygsTVASVKQVSKSGKTCILDIDM....qgvksvkai.pelnARFLFI
+
+           151                                            200
+1qhsA      RC.DGAVAEGRETARGDR...VAGMAAKQAYVVhegv...EYDVEVDTth
+1gky       APpSVEDLKKRLEGRGTEteeSINKRLSAAQAElayaetgAHDKVIVN..
+
+           201            218
+1qhsA      KESIECAWAIAAHVVP~~
+1gky       DDLDKAYKELKDFIFAek
+

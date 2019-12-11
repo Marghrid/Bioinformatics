@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1enp_1eny.msf MSF:  297 Type: P 11/12/19 CompCheck:  450 ..
+
+  Name: 1enp       Len: 297  Check: 3408 Weight: 1.00
+  Name: 1eny       Len: 297  Check: 7042 Weight: 1.00
+
+//
+
+           1                                               50
+1enp       LPIDLRGKRAFIAGIADDNGYGWAVAKSLAAAGAEILVGTWVPALNIFET
+1eny       ~AGLLDGKRILVSGIITDSSIAFHIARVAQEQGAQLVLTGFD.RLRLIQR
+
+           51                                             100
+1enp       SLRRGKFDQSRVLPDGSLMEIKKVYPLDAVFDNPEDVPEDVKANKRYAGS
+1eny       ITD...............PAKAPLLELDVQNEE.................
+
+           101                                            150
+1enp       SNWTVQEAAECVRQDFGSIDILVHSLANGPEVSKPLLETSRKGYLAAISA
+1eny       ...HLASLAGRVTEAINKLDGVVHSIGFMPGMGIPFFDAPYADVSKGIHI
+
+           151                                            200
+1enp       SSYSFVSLLSHFLPIMNPGGASISLTYIASERIIPGYGGGMSSAKAALES
+1eny       SAYSYASMAKALLPIMNPGGSIVGMDFD.PSRAMPAYN.WMTVAKSALES
+
+           201                                            250
+1enp       DTRVLAFEAGRKQNIRVNTISAGPLGSRAAKAIGFIDTMIEYSYNNAPIQ
+1eny       VNRFVAREAG.KYGVRSNLVAAGPIR......GAQIQLLEEGWDQRAPIG
+
+           251                                         297
+1enp       KTLTADEVGNAAAFLVSPLASAITGATIYVDNGLNSMGVALDSPVFK
+1eny       WNMDATPVAKTVCALLSDWLPATTGDIIYADGGAHTQLL~~~~~~~~
+

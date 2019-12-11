@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1mpgA_2abk.msf MSF:  328 Type: P 11/12/19 CompCheck:   74 ..
+
+  Name: 2abk       Len: 328  Check: 9082 Weight: 1.00
+  Name: 1mpgA      Len: 328  Check:  992 Weight: 1.00
+
+//
+
+           1                                               50
+2abk       nka...............................................
+1mpgA      ~~~ytlnwqppydwswmlgflaaravssvetvadsyyarslavgeyrgvv
+
+           51                                             100
+2abk       ............................................krLEIL
+1mpgA      taipdiarhtlhinlsaglepvaaeclakmsrlfdlqcnpqivngaLGRL
+
+           101                                            150
+2abk       TRLRENNphpttelnf.SSPFELLIAVLLSAQATDVSVNKATAKLYPVA.
+1mpgA      GAARPGL.rlpg....cVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYg
+
+           151                                            200
+2abk       ............NTPAAMLELGVEGVKTYIktiglYNSKAENIIKTCRIL
+1mpgA      erlddfpeyicfPTPQRLAAADPQALKALGm....PLKRAEALIHLANAA
+
+           201                                            250
+2abk       Leqhngevpe.......DRAALEALPGVGRKTANVVLNTAFGW.ptiav.
+1mpgA      Legt..lpmtipgdveqAMKTLQTFPGIGRWTANYFALRGWQAkdvflpd
+
+           251                                            300
+2abk       DTHIFRVCNrtqfapGKNVEQVEEKLLkvvpaeFKVDCHHWLILHgrytc
+1mpgA      DYLIKQRFP......GMTPAQIRRYAE.rwkp.WRSYALLHIWYT..egw
+
+           301                      328
+2abk       iarkprcgsciiedlceykekvdi~~~~
+1mpgA      q.......................pdea
+

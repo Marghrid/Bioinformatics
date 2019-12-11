@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b5l_1rmi.msf MSF:  152 Type: P 11/12/19 CompCheck: 4044 ..
+
+  Name: 1b5l       Len: 152  Check: 9915 Weight: 1.00
+  Name: 1rmi       Len: 152  Check: 4129 Weight: 1.00
+
+//
+
+           1                                               50
+1b5l       aYLSRKLMLDARENLKLLDRMNRLSPHSCLQDRKDFGLPQEMVEGDQLQK
+1rmi       kQLQLQERTNIRKCQELLEQL..NGK....TYRADFKIPMEMTE..KMQK
+
+           51                                             100
+1b5l       DQAFPVLYEMLQQSFNLFYTEHSSAAWDTTLLEQLCTGLQQQLDHLDTaR
+1rmi       SYTAFAIQEMLQNVFLVFRNNFSSTG.NETIVVRLLDELHQQTVFLKTvL
+
+           101                                            150
+1b5l       GMDPIVTVKKYFQGIYDYLQEKGYSDCAWEIVRVEMMRALTVSTTLQKRL
+1rmi       EESSTLHLKSYYWRVQRYLKLMKYNSYAWMVVRAEIFRNFLIIRRLT.RN
+
+           151 152
+1b5l       TK
+1rmi       FQ
+

@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d2kA_1ctn.msf MSF:  575 Type: P 11/12/19 CompCheck: 6532 ..
+
+  Name: 1d2kA      Len: 575  Check: 1567 Weight: 1.00
+  Name: 1ctn       Len: 575  Check: 4965 Weight: 1.00
+
+//
+
+           1                                               50
+1d2kA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1ctn       aapgkptiawgntkfaivevdqaataynnlvkvknaadvsvswnlwngdt
+
+           51                                             100
+1d2kA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1ctn       gttakillngkeawsgpstgssgtanfkvnkggryqmqvalcnadgctas
+
+           101                                            150
+1d2kA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~gGFRSVVYFVNWAIYGRG
+1ctn       dateivvadtdgshlaplkeplleknkpykqnsGKVVGSYFVEWGVYGRN
+
+           151                                            200
+1d2kA      HNPQDLKADQFTHILYAFANIRP..........................S
+1ctn       FTVDKIPAQNLTHLLYGFIPICGgngindslkeiegsfqalqrscqgreD
+
+           201                                            250
+1d2kA      GEVYLSDTWADTDKHYPG.dKWDepgn.NVYGCIKQMYLLKKNNRNLKTL
+1ctn       FKISIHDPFAALQKAQKGvtAWD....dPYKGNFGQLMALKQAHPDLKIL
+
+           251                                            300
+1d2kA      LSIGGWTYSPNFKTpASTEEGRKKFADTSLKLMKDL.GFDGIDIDWEYPE
+1ctn       PSIGGWTLSDPFFF.MGDKVKRDRFVGSVKEFLQTWkFFDGVDIDWEFPG
+
+           301                                            350
+1d2kA      .........DEKQANDFVLLLKACREALDAYSAKHpnGKKFLLTIASPAG
+1ctn       gkganpnlgSPQDGETYVLLMKELRAMLDQLSTET..GRKYELTSAISAG
+
+           351                                            400
+1d2kA      PQNYNKLKLAEMDKYLDFWNLMAYDFSGSWD.KVSGHMSNVFPSttkpes
+1ctn       KDKIDKVAYNVAQNSMDHIFLMSYDFYGAFDlKNLGHQTALNAPawkp..
+
+           401                                            450
+1d2kA      .TPFSSDKAVKDYIKAGVPANKIVLGMPLYGRAFASTD......GIGTSF
+1ctn       dTAYTTVNGVNALLAQGVKPGKIVVGTAMYGRGWTGVNgyqnniPFTGTA
+
+           451                                            500
+1d2kA      NGVGGGSWENGVWDYKDM...pqqg.AQVTELEDIAASYSYDKNKRYLIS
+1ctn       TGPVKGTWENGIVDYRQIagqfmsgeWQYTYDATAEAPYVFKPSTGDLIT
+
+           501                                            550
+1d2kA      YDTVKIAGKKAEYITKNGMGGGMWWESSSDKTgneSLVGTVVNGLGGTgk
+1ctn       FDDARSVQAKGKYVLDKQLGGLFSWEIDADNG...DILNSMNASLGNSa.
+
+           551                   575
+1d2kA      leqrenelsypesvydnlkngmps~
+1ctn       ........................g
+

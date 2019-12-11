@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ddzA_1i6pA.msf MSF:  483 Type: P 11/12/19 CompCheck: 7097 ..
+
+  Name: 1ddzA      Len: 483  Check: 6819 Weight: 1.00
+  Name: 1i6pA      Len: 483  Check:  278 Weight: 1.00
+
+//
+
+           1                                               50
+1ddzA      vmsdlekkfieleaklvaqpagqamp.gksnIFANNEAWRQEMLKQDPEF
+1i6pA      ~~~~~~~~~~~~~~~~~~~~~~~~~~kdidtLISNNALWSKMLVEEDPGF
+
+           51                                             100
+1ddzA      FNRLANGQSPEYLWIGCADSRVPANQLLDLPAGEVFVHRNIANQCIHSDI
+1i6pA      FEKLAQAQKPRFLWIGCSDSRVPAERLTGLEPGELFVHRNVANLVIHTDL
+
+           101                                            150
+1ddzA      SFLSVLQYAVQYLKVKHILVCGHYGCGGAKAALGDSRLGLIDNWLRHIRD
+1i6pA      NCLSVVQYAVDVLEVEHIIICGHYGCGGVQAAVENPELGLINNWLLHIRD
+
+           151                                            200
+1ddzA      VRRMNAKYLDKCKDGdEELNRLIELNVLEQVHNVCATSIVQDAWDAGQEL
+1i6pA      IWFKHSSLLGEMPQE.RRLDTLCELNVMEQVYNLGHSTIMQSAWKRGQKV
+
+           201                                            250
+1ddzA      TVQGVVYGVGDGKLRDL.gVVVNSSddiskfyrtksdsgalkagnpnapl
+1i6pA      TIHGWAYGIHDGLLRDLdvTATNRE.........................
+
+           251                                            300
+1ddzA      vqvtkggesELDSTMEKLTAElvqqtpgklkeganrvfvnnenwrqkmlk
+1i6pA      .........TLEQRYRHGISN.lklk~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1ddzA      qdpqffsnlahtqtpeilwigcadsrvpanqiinlpagevfvhrnianqc
+1i6pA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                            400
+1ddzA      ihsdmsflsvlqyavqylkvkrvvvcghyacggcaaalgdsrlglidnwl
+1i6pA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           401                                            450
+1ddzA      rhirdvrrhnqaelsritdpkdslnrlieinvleqmhnvcatsivqdawd
+1i6pA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           451                           483
+1ddzA      agqelevqgvvygvgdgklrdmgvvakanddig
+1i6pA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

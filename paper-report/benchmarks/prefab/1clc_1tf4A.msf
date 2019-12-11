@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1clc_1tf4A.msf MSF:  541 Type: P 11/12/19 CompCheck: 6537 ..
+
+  Name: 1clc       Len: 541  Check: 4832 Weight: 1.00
+  Name: 1tf4A      Len: 541  Check: 1705 Weight: 1.00
+
+//
+
+           1                                               50
+1clc       IETKVSAAKITENYQFDSRIRLNSIGFIPNHSKKATIAANCSTFYVVKED
+1tf4A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1clc       GTIVYTGTATSMFDNDTKETVYIADFSSVNEEGTYYLAVPGVGKSVNFKI
+1tf4A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1clc       AMNVYEDAFKTAMLGMYLLRCGTSVSATYNGIHYSHGPCHTNDAYLDYIN
+1tf4A      EPAFYAEALQKSMFFYEAQRSGKLNRVS......WRGDSGLNDGADV...
+
+           151                                            200
+1clc       GQHTKKDSTKGWHDAGDYNKYVVNAGITVGSMFLAWEHFKDQLEPVALEI
+1tf4A      ....GLDLTGGWYDAGDHVKFGFPMAFTATMLAWGAIESPEGYIRSGQ..
+
+           201                                            250
+1clc       PEKNNSIPDFLDELKYEIDWILTMQYPDGSGRVAHKVSTRNFGGFIMPEN
+1tf4A      .......PYLKDNLRWVNDYFIKAHP..SPNVLYVQVGDDADHWWGPAEV
+
+           251                                            300
+1clc       EHDERFFVPWSSAATADFVAMTAMAARIFRPYDPQYAEKCINAAKVSYEF
+1tf4A      MPMERPSFKVGSDVAAETAAAMAASSIVFADDDPAYAATLVQHAKQLYTF
+
+           301                                            350
+1clc       LKNNPANVFaNQSGFSTGEYATVSDADDRLWAAAEMWETLGDEEYLRDFE
+1tf4A      ADTYRGVYDaVP.....AFYNSWGYQDELVWGAYWLYKATGDDSYLAKAE
+
+           351                                            400
+1clc       NRAAQFSKKIEADFDWDNVANLGMFTYLLSERPGKNPALVQSIKDSLLST
+1tf4A      YEYDFLSRSYRWTIAWDDKSYGTYVLLAKET........KQKYIDDANRW
+
+           401                                            450
+1clc       ADSIVRTSQNHGYGRTLGTTYYWGCNGTVVRQTMILQVANKISPNNDYVN
+1tf4A      LDYWTV...YSPGGMAV..LDTWGALRYAANTAFVALVYAKVIRKQRYHD
+
+           451                                            500
+1clc       AALDAISHVFGRNYYNRSYVTGLGINPPMNPHDRRSGADGIWEPWPGYLV
+1tf4A      FAVRQINYALGDNPRNSSYVVGFGNNPPRNPHHRTAHGSWNRHVLYGALV
+
+           501                                   541
+1clc       GGGWPGPKDWVDIQDSYQTNEIAINWNAALIYALAGFVNYN
+1tf4A      GGPGSPNDAYTDDRQDYVANEVATDYNAGFSSALAMLVEEY
+

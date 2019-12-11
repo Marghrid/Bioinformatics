@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1h97A_2hbg.msf MSF:  147 Type: P 11/12/19 CompCheck: 6964 ..
+
+  Name: 1h97A      Len: 147  Check:  977 Weight: 1.00
+  Name: 2hbg       Len: 147  Check: 5987 Weight: 1.00
+
+//
+
+           1                                               50
+1h97A      TLTKHEQDILLKELGPHVDTPAHIVETGLGAYHALFTAHPQYISHFSRLE
+2hbg       GLSAAQRQVIAATWKDIAGAD.NGAGVGKKCLIKFLSAHPQMAAVFGFS.
+
+           51                                             100
+1h97A      GHTIENVMQSEGIKHYARTLTEAIVHMLKEISNDAEVKKIAAQYGKDHTS
+2hbg       ......GASDPGVAALGAKVLAQIGVAVSHLGDEGKMVAQMKAVGVRHKG
+
+           101                                         147
+1h97A      RKVTKDEFMSGEPIFTKYFQNLVKDAEGKAAVEKFLKHVFPMMAAEI
+2hbg       YHIKAQYFEPLGASLLSAMEH.KMNAAAKDAWAAAYADISGALISGL
+

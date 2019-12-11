@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bjwA_1cl2A.msf MSF:  493 Type: P 11/12/19 CompCheck: 4163 ..
+
+  Name: 1bjwA      Len: 493  Check: 6371 Weight: 1.00
+  Name: 1cl2A      Len: 493  Check: 7792 Weight: 1.00
+
+//
+
+           1                                               50
+1bjwA      mrglsrrvqamkpsatvavnakalelrrqgvdlvaltagepdfdtpehvk
+1cl2A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1bjwA      ...................eaarralaqgktk..................
+1cl2A      kldtqlvnagrskkytlgavnsv.....iqrasslvfdsveakkhatrnr
+
+           101                                            150
+1bjwA      ......yappag....IPELREALAEKFrrenglsVTPeeTIVTVGGKQA
+1cl2A      angelfygrr..gtltHFSLQQAMCELE......gGAG..CVLFPCGAAA
+
+           151                                            200
+1bjwA      LFNLFQAILDPGDEVIVLSPYWVSYPEMV.rFAG...GVVVEVEtlpeeg
+1cl2A      VANSILAFIEQGDHVLMTNTAYEPSQDFCskILSklgVTTSWFD......
+
+           201                                            250
+1bjwA      fvPDPERVRRAITPRTKALVVNSPNNPTGAVYpkeVLEALARLAVE..hd
+1cl2A      .pLIGADIVKHLQPNTKIVFLESPGSITMEVH...DVPAIVAAVRSvvpd
+
+           251                                            300
+1bjwA      FYLVSDEIYEHllyeg..ehfspGRVAPehTLTVNGAAXA.famtgwrig
+1cl2A      AIIMIDNTWAA.....gvlfka.LDFGI..DVSIQAATKYlvghsdamig
+
+           301                                            350
+1bjwA      yacg...pkevi.kamasvssqsttSPDTIAQWATLEAltnqeasrafve
+1cl2A      tavcnarcweqlrenaylmgq....MVDADTAYITSRGlr.......tlg
+
+           351                                            400
+1bjwA      mareayrrrrdlllegltalg..lkavrps................GAFY
+1cl2A      vrlrqhhesslkvaewlaehpqvarvnhpalpgskghefwkrdftgSSGL
+
+           401                                            450
+1bjwA      VLMDTSPIapdevra...aerlleagva..............vvpg....
+1cl2A      FSFVLKKKln.....neelanyldnfs.lfsmayswggyeslilanqpeh
+
+           451                                     493
+1bjwA      .TDFAaf.........ghvrlsya.tseenlrkalerf.ARVL
+1cl2A      iAAIR..pqgeidfsgtlirlhigledvddliadldagfARIV
+

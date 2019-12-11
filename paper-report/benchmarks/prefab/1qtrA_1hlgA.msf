@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qtrA_1hlgA.msf MSF:  431 Type: P 11/12/19 CompCheck: 5726 ..
+
+  Name: 1qtrA      Len: 431  Check: 4147 Weight: 1.00
+  Name: 1hlgA      Len: 431  Check: 1579 Weight: 1.00
+
+//
+
+           1                                               50
+1qtrA      lrgly..............pplaayDSGWLDTGDGHRIYWELSGNp....
+1hlgA      ~~~~~spevtmnisqmitywgypn.EEYEVVTEDGYILEVNRIPY.gkkn
+
+           51                                             100
+1qtrA      ..NGKPAVFIHGGpgGGISp.........hhRQLFDPERYKVLLFDQRGC
+1hlgA      sgQRPVVFLQHGLl.ASAT.nwisnlpnnslAFILADAGYDVWLGNSRGN
+
+           101                                            150
+1qtrA      GRSRPh.........aSLDnnttwhlv.ADIERLREMAG....VEQWLVF
+1hlgA      TWARR.nlyyspdsveFWA.fsfdemakYDLPATIDFIVkktgQKQLHYV
+
+           151                                            200
+1qtrA      GGSWGSTLALAYAQTh...PERVSEMVLRGIFTLRKQRlh.wyyqdgasr
+1hlgA      GHSQGTTIGFIAFSTnpslAKRIKTFYALAPVATVKYT..kslink....
+
+           201                                            250
+1qtrA      ffpekwervlsilsdderk..dvia.AYRQRLTsadpqvqle....aakl
+1hlgA      ...................lrfvpqsLFKFIFG.........dkifyphn
+
+           251                                            300
+1qtrA      ws.....................vwege.tvtllp...sresasfgeddf
+1hlgA      ..ffdqflatevcsremlnllcsnalfiicgfdsknfntsrldvyls...
+
+           301                                            350
+1qtrA      alafar.....ienhyfthlgfle.....sddqll...............
+1hlgA      ......hnpagtsvqnmfhw....tqavksgkf..qaydwgspvqnrmhy
+
+           351                                            400
+1qtrA      .......rnvplirhIPAVIVHGRYDMACQVQNAWDLAKAWpea.ELHIV
+1hlgA      dqsqppyynvtamn.VPIAVWNGGKDLLADPQDVGLLLPKLpnliYHKEI
+
+           401                         431
+1qtrA      EGAGHS.ydep.GILHQLMIATDRFAGK~~~
+1hlgA      PFYNHLdfiwamDAPQEVYNDIVSMISEdkk
+

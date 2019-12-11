@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dvjA_2tpsA.msf MSF:  239 Type: P 11/12/19 CompCheck: 3459 ..
+
+  Name: 1dvjA      Len: 239  Check: 7326 Weight: 1.00
+  Name: 2tpsA      Len: 239  Check: 6133 Weight: 1.00
+
+//
+
+           1                                               50
+1dvjA      MDVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAE
+2tpsA      MKEL.SVYFIMGSN..ADPVTVVQKALKGATLYQFREK..ALTGIKFAEK
+
+           51                                             100
+1dvjA      FRKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRA
+2tpsA      AQAACRVPFIVND...........DVELALNLKADGIHIGQED...NAKE
+
+           101                                            150
+1dvjA      CLNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPS
+2tpsA      VRAAIG..DMILGVSAH.............TMSEVKQAEEDGADYVGLGP
+
+           151                                            200
+1dvjA      TRPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLA
+2tpsA      IGVSLIEAVRRQGIS.IPIVGIGGIT...NAAPVIQGADGVSMISAISQA
+
+           201                                 239
+1dvjA      DNPAAAAAGIIESIKDLLIPEDPAANKARKEAELAAATA
+2tpsA      EDPESAARKFREEIQTYKTG~~~~~~~~~~~~~~~~~~~
+

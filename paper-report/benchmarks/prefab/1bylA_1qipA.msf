@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bylA_1qipA.msf MSF:  188 Type: P 11/12/19 CompCheck: 2368 ..
+
+  Name: 1bylA      Len: 188  Check: 6849 Weight: 1.00
+  Name: 1qipA      Len: 188  Check: 5519 Weight: 1.00
+
+//
+
+           1                                               50
+1bylA      ~~~~~~~~~~~~~~~~~fmaklTSAVPVLTARDVAGAVEFWTDRLGFSRD
+1qipA      ggltdeaalsccsdadpstkdfLLQQTMLRVKDPKKSLDFYTRVLGMTLI
+
+           51                                             100
+1bylA      FVED......DFAGVVRDd....................VTLFISAVq..
+1qipA      QKCDfpimkfSLYFLAYE.dkndipkekdekiawalsrkATLELTHN.wg
+
+           101                                            150
+1bylA      ......DQVVPDN......TLAWVWVRGLDELYAEWSEVVstnfrdasgp
+1qipA      teddetQSYHNGNsdprgfGHIGIAVPDVYSACKRFEELG.........v
+
+           151                                188
+1bylA      AMt.EIGeqpw.gREFALRDPAGNCVHFVAe~~~~~~~
+1qipA      KFvkKPDdgk.mkGLAFIQDPDGYWIEILNpnkmatlm
+

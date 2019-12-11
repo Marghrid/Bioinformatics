@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ptf_2hid.msf MSF:  88 Type: P 11/12/19 CompCheck: 8702 ..
+
+  Name: 1ptf       Len: 88  Check: 5285 Weight: 1.00
+  Name: 2hid       Len: 88  Check: 3417 Weight: 1.00
+
+//
+
+           1                                               50
+1ptf       mEKKEFHIVAETGIHARPATLLVQTASKFNSDINLEYKGKSVNLKSIMGV
+2hid       ~AQKTFKVTADSGIHARPATVLVQTASKYDADVNLEYNGKTVNLKSIMGV
+
+           51                                  88
+1ptf       MSLGVGQGSDVTITVDGADEAEGMAAIVETLQKEGLA~
+2hid       VSLGIAKGAEITISASGADENDALNALEETMKSEGLGe
+

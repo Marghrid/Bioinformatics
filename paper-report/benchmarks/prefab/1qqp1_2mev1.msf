@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qqp1_2mev1.msf MSF:  281 Type: P 11/12/19 CompCheck: 4258 ..
+
+  Name: 1qqp1      Len: 281  Check: 5139 Weight: 1.00
+  Name: 2mev1      Len: 281  Check: 9119 Weight: 1.00
+
+//
+
+           1                                               50
+1qqp1      TTSAGESADPVTTTVEn.YGGETQIQRRQHTDVSFIMDRFVKVTPq....
+2mev1      GVENAEKGVTENTDATadFVAQPVYLPENQTKVAFFYDRSSPIGAfavks
+
+           51                                             100
+1qqp1      ...............NQINILDLM..........................
+2mev1      gslesgfapfsnkacPNSVILTPGpqfdpaydqlrpqrlteiwgngneet
+
+           101                                            150
+1qqp1      .........QVPshtlVGALlrASTYYFSDLEIAVKh.......EGDLTW
+2mev1      sevfplktkQDYs...FCLF.sPFVYYKCDLEVTLS.phtsgahGLLVRW
+
+           151                                            200
+1qqp1      VPNGAPEKAl..........dntt.NPTAYHK....APLTRLALPYTAPH
+2mev1      CPTGTPTKP.ttqvlhevsslsegrTPQVYSAgpgtSNQISFVVPYNSPL
+
+           201                                            250
+1qqp1      RVLAt.VYNGe.......cRTLPTSFNYGAIKATrv.......TELLYRM
+2mev1      SVLPavWYNGhkrfdntgdLGIAPNSDFGTLFFA..gtkpdikFTVYLRY
+
+           251                         281
+1qqp1      KRAETYCPRPL.LAIHPTEARHKQkivapvk
+2mev1      KNMRVFCPRPTvFFPWPTSGDKIDmt~~~~~
+

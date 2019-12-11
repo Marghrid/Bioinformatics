@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ctqA_1d4aA.msf MSF:  317 Type: P 11/12/19 CompCheck: 2040 ..
+
+  Name: 1ctqA      Len: 317  Check: 8522 Weight: 1.00
+  Name: 1d4aA      Len: 317  Check: 3518 Weight: 1.00
+
+//
+
+           1                                               50
+1ctqA      mteyklvvvgaggvgk......SALTIQLIqnhfvdeydptiedsy...r
+1d4aA      ~vgrralivlahs...ertsfnYAMKEAAA................aalk
+
+           51                                             100
+1ctqA      kqvvidgetclldildtag.QEEY..........................
+1d4aA      kkg........wevvesdlyAMNFnpiisrkditgklkdpanfqypaesv
+
+           101                                            150
+1ctqA      ...........samrdqymrtgeGFLCVFAINNTk.SFEDIHQYREQikr
+1d4aA      laykeghlspdivaeqkkleaadLVIFQFPLQWF.gVPAILKGWFER...
+
+           151                                            200
+1ctqA      vk.................dsddvpmvlvgnkCDLAArtv..........
+1d4aA      ..vfigefaytyaamydkgpfrskkavlsit.TGGSG...smyslqgihg
+
+           201                                            250
+1ctqA      .ESRQAQDLARSYg.......ipyietsa..........ktrq..gveda
+1d4aA      dMNVILWPIQSGIlhfcgfqvlepqlt..ysightpadariqilegwkkr
+
+           251                                            300
+1ctqA      fytlvreirqh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1d4aA      le...niwde.tplyfapsslfdlnfqagflmkkevqdeeknkkfglsvg
+
+           301           317
+1ctqA      ~~~~~~~~~~~~~~~~~
+1d4aA      hhlgksiptdnqikark
+

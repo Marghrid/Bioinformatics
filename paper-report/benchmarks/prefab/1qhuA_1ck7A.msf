@@ -1,0 +1,73 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qhuA_1ck7A.msf MSF:  799 Type: P 11/12/19 CompCheck: 8036 ..
+
+  Name: 1qhuA      Len: 799  Check: 4339 Weight: 1.00
+  Name: 1ck7A      Len: 799  Check: 3697 Weight: 1.00
+
+//
+
+           1                                               50
+1qhuA      ieqcs............................dgwsf.........dat
+1ck7A      ~~~~~pspiikfpgdvapktdkelavqylntfygcpk.escnlfvlkdtl
+
+           51                                             100
+1qhuA      tlddng........tmlffkdefvwkshrgireliserwknfigpvdaaf
+1ck7A      k.....kmqkffglpqtg................................
+
+           101                                            150
+1qhuA      rhghtsvylikgdkvwvytspkslqdefpgipfpldaavechrgecqdeg
+1ck7A      ..................................................
+
+           151                                            200
+1qhuA      ilffqgnrkwfwdlttgtkkerswpavgnctsalrwlg....ryycfqgn
+1ck7A      ......................................dldqntie....
+
+           201                                            250
+1qhuA      qflrfnpvsge..vppgypldvrdyflsc.....................
+1ck7A      ...........tmrkprcgnpdv......anynffprkpkwdknqityri
+
+           251                                            300
+1qhuA      ..................................................
+1ck7A      igytpdldpetvddafarafqvwsdvtplrfsrihdgeadiminfgrweh
+
+           301                                            350
+1qhuA      ..................................................
+1ck7A      gdgypfdgkdgllahafapgtgvggdshfdddelwtlgegqvvrvkygna
+
+           351                                            400
+1qhuA      ..................................................
+1ck7A      dgeyckfpflfngkeynsctdtgrsdgflwcsttynfekdgkygfcphea
+
+           401                                            450
+1qhuA      ..................................................
+1ck7A      lftmggnaegqpckfpfrfqgtsydscttegrtdgyrwcgttedydrdkk
+
+           451                                            500
+1qhuA      ..................................................
+1ck7A      ygfcpetamstvggnsegapcvfpftflgnkyesctsagrsdgkmwcatt
+
+           501                                            550
+1qhuA      ...............................pgrghrs............
+1ck7A      anydddrkwgfcpdqgyslflvaahafghamglehsqdpgalmapiytyt
+
+           551                                            600
+1qhuA      ........................hghestrcdpdLVLSAMVSDNhGATY
+1ck7A      knfrlsqddikgiqelygasplgpvtpe..ickqdIVFDGIAQIR.GEIF
+
+           601                                            650
+1qhuA      VFSGSHYWRLDTNrdgw.HSWPIAHQWPQGPSTVDAAFSW..EDKLYLIQ
+1ck7A      FFKDRFIWRTVTPrdkpmGPLLVATFWPELPEKIDAVYEApqEEKAVFFA
+
+           651                                            700
+1qhuA      DTKVYVFLTkggYTLVNGYPKRLEKelgsppvISLEAVDAAFVCPGSSRL
+1ck7A      GNEYWIYSA...STLERGYPKPLTS.lglp..PDVQRVDAAFNWSKNKKT
+
+           701                                            750
+1qhuA      HIMAGRRLWWLDLKSgaqatw..TElpw.....PHek.VDGALCMEKplg
+1ck7A      YIFAGDKFWRYNEVK.kkmd.pgFPkliadawnAIpdnLDAVVDLQG...
+
+           751                                           799
+1qhuA      pnscstsGPNLYLIHGPNLYCYRHvdklnaaknlPQPQRVSR.LLGCth
+1ck7A      .......GGHSYFFKGAYYLKLEN.qslks....VKFGSIKSdWLGC~~
+

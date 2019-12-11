@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2ercA_3mag.msf MSF:  385 Type: P 11/12/19 CompCheck: 8743 ..
+
+  Name: 3mag       Len: 385  Check: 3055 Weight: 1.00
+  Name: 2ercA      Len: 385  Check: 5688 Weight: 1.00
+
+//
+
+           1                                               50
+3mag       dvvsldkpfmyfeeidneldyepesanevakklpyq.....gqlklllge
+2ercA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~qnfitskhnidkim
+
+           51                                             100
+3mag       lfflsklqrhgi.LDGATVVYIGSAPGTHIRYLRDhfynlgvi.IKWMLI
+2ercA      tnir........lNEHDNIFEIGSGKGHFTLELVQr.......cNFVTAI
+
+           101                                            150
+3mag       DG...rhhd..PILNGLRDVTLVTRFVDEeylrSIKkqlhpskiilisdv
+2ercA      EIdhklcktteNKLVDHDNFQVLNKDILQ...fKFP...knqsykifgni
+
+           151                                            200
+3mag       rspstadlls..NYALQNVMISILNPVASSLKWR.cpfpdqw.....ikd
+2ercA      py........niSTDIIRKIVFDSIADEIYLIVEygfak...rllntkrs
+
+           201                                            250
+3mag       fyi......pHGNK.mlqp..fapsy..SAEMRLLSIYTGEnmrltrvtk
+2ercA      la.lflmaevDISIlsmvpreyfhpkpkVNSSLIRLNRKKS.........
+
+           251                                            300
+3mag       sdavnyekkmyylnkivrnkvvvnfdypnqeydyfhmyfmlrtvycnktf
+2ercA      ..................................................
+
+           301                                            350
+3mag       pttkakvlflqqsifrflnipx~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2ercA      ......................rishkdkqkynyfvmkwvnkeykkiftk
+
+           351                             385
+3mag       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2ercA      nqfnnslkhagiddlnnisfeqflslfnsyklfnk
+

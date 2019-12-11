@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ibjA_1cs1A.msf MSF:  404 Type: P 11/12/19 CompCheck: 2032 ..
+
+  Name: 1ibjA      Len: 404  Check: 4813 Weight: 1.00
+  Name: 1cs1A      Len: 404  Check: 7219 Weight: 1.00
+
+//
+
+           1                                               50
+1ibjA      ~SVSTLLVN.ldNkfdp.fd..AMSTPLYQTATFKQPSAIENg.PYDYTR
+1cs1A      rKQATIAVRsglN..d.deqygCVVPPIHLSSTYNFTGFNEP.rAHDYSR
+
+           51                                             100
+1ibjA      SGNPTRDALESLLAKLDKADRAFCFTSGMAALSAVTH.lIKNGEEIVAGD
+1cs1A      RGNPTRDVVQRALAELEGGAGAVLTNTGMSAIHLVTTvfLKPGDLLVAPH
+
+           101                                            150
+1ibjA      DVYGGSDRLLSQVVPRSGVVVKRVNTTKLDEVAAAIGPQTKLVWLESPTN
+1cs1A      DCYGGSYRLFDSLAKRGCYRVLFVDQGDEQALRAALAEKPKLVLVESPSN
+
+           151                                            200
+1ibjA      PRQQISDIRKISEMAHAqg..ALVLVDNSIMSPVLSRPLELGADIVMHSA
+1cs1A      PLLRVVDIAKICHLARE..vgAVSVVDNTFLSPALQNPLALGADLVLHSC
+
+           201                                            250
+1ibjA      TKFIAGHSDVMAGVLAVKG.ekLAKEVYFLQNSEGSGLAPFDCWLCLRGI
+1cs1A      TXYLNGHSDVVAGVVIAKDpd.VVTELAWWANNIGVTGGAFDSYLLLRGL
+
+           251                                            300
+1ibjA      KTMALRIEKQQENARKIAMYLSSHPRVKKVYYAGLPDHPGHHLHFSQAKG
+1cs1A      RTLVPRMELAQRNAQAIVKYLQTQPLVKKLYHPSLPENQGHEIAARQQKG
+
+           301                                            350
+1ibjA      AGSVFSFITGsva...LSKHLVETTKYFSIAVSFGSVKSLISMPCFmsha
+1cs1A      FGAMLSFELD..gdeqTLRRFLGGLSLFTLAESLGGVESLISHAAT....
+
+           351                                            400
+1ibjA      sipae..vrear.......glte.DLVRISAGIEDVDDLISDLDIAFKTF
+1cs1A      .....mthagm.apearaaagiseTLLRISTGIEDGEDLIADLENGFRAA
+
+           401
+1ibjA      Pl~~
+1cs1A      N.kg
+

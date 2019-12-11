@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1taxA_1xas.msf MSF:  311 Type: P 11/12/19 CompCheck: 5931 ..
+
+  Name: 1taxA      Len: 311  Check: 1883 Weight: 1.00
+  Name: 1xas       Len: 311  Check: 4048 Weight: 1.00
+
+//
+
+           1                                               50
+1taxA      asaqSVDQLIKargkvYFGVATDqnrlt.TGKNAAIIQANFGQVTPENSM
+1xas       ~~~~LGAAAAQ.sgr.YFGTAIA.sgrlsDSTYTSIAGREFNMVTAENEM
+
+           51                                             100
+1taxA      KWDATEPSQGNFNFAGADYLVNWAQQNGKLIRGHTLVWHSQLPSWVTSit
+1xas       KIDATEPQRGQFNFSSADRVYNWAVQNGKQVRGHTLAWHSQQPGWMQS.l
+
+           101                                            150
+1taxA      dknTLTNVMKNHITTLMTRYKGKIRAWDVVNEAFNQn.g.SLRSTVFLNv
+1xas       sgrPLRQAMIDHINGVMAHYKGKIVQWDVVNEAFADgssgARRDSNLQR.
+
+           151                                            200
+1taxA      IGEDYIPIAFQTARAADPNAKLYINDYNLDSAt.YPKTQAIVNRVKQWRA
+1xas       SGNDWIEVAFRTARAADPSAKLCYNDYNVENW.tWAKTQAMYNMVRDFKQ
+
+           201                                            250
+1taxA      AGVPIDGIGSQTHLSAgq....GAGVLNALPLLASAGTpEVAITELDVAG
+1xas       RGVPIDCVGFQSHFNS..gspyNSNFRTTLQNFAALGV.DVAITELDIQG
+
+           251                                            300
+1taxA      a.SPTDYVNVVNACLNVSSCVGITVWGVADPDSWRASTTPLLFDGNFNPK
+1xas       .aPASTYANVTNDCLAVSRCLGITVWGVRDSDSWRSEQTPLLFNNDGSKK
+
+           301     311
+1taxA      PAYNAIVQnlq
+1xas       AAYTAVLDa~~
+

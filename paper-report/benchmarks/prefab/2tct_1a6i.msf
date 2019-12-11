@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2tct_1a6i.msf MSF:  198 Type: P 11/12/19 CompCheck: 5003 ..
+
+  Name: 2tct       Len: 198  Check: 4800 Weight: 1.00
+  Name: 1a6i       Len: 198  Check:  203 Weight: 1.00
+
+//
+
+           1                                               50
+2tct       ARLNRESVIDAALELLNETGIDGLTTRKLAQKLGIEQPTLYWHVKNKRAL
+1a6i       SRLDKSKVINSALELLNEVGIEGLTTRKLAQKLGVEQPTLYWHVKNKRAL
+
+           51                                             100
+2tct       LDALAVEILARHHDYSLPAAGESWQSFLRNNAMSFRRALLRYRDGAKVHL
+1a6i       LDALAVEILARHHDYSLPAAGESWQSFLRNNAMSFRRALLRYRDGAKVHL
+
+           101                                            150
+2tct       GTRPDEKQYDTVETQLRFMTENGFSLRDGLYAISAVSHFTLGAVLEQQEH
+1a6i       GTRPDEKQYDTVETQLRFMTENGFSLRDGLYAISAVSHFTLGAVLEQQEH
+
+           151                                          198
+2tct       taalnLPPLLREALQIMDSDDGEQAFLHGLESLIRGFEVQLTALLQIV
+1a6i       .....LPPLLREALQIMDSDDGEQAFLHGLESLIRGFEVQLTALLQIV
+

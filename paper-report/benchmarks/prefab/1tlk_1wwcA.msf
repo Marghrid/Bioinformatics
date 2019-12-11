@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1tlk_1wwcA.msf MSF:  127 Type: P 11/12/19 CompCheck: 2950 ..
+
+  Name: 1wwcA      Len: 127  Check:  374 Weight: 1.00
+  Name: 1tlk       Len: 127  Check: 2576 Weight: 1.00
+
+//
+
+           1                                               50
+1wwcA      vyypprvvsleepelr.......................lEHCIEFVVRG
+1tlk       ~~~~~~~~~~~~~~~~aeekphvkpyftktildmdvvegsAARFDCKVEG
+
+           51                                             100
+1wwcA      NPPPTLHWLHNGQPLRESKIIHVEYYQegeiSEGCLLFNKPTHYNNGNYT
+1tlk       YPDPEVMWFKDDNPVKESRHFQIDYDEe...GNCSLTISEVCGDDDAKYT
+
+           101                     127
+1wwcA      LIAKNPLGTANQTINGHflkepfpvde
+1tlk       CKAVNSLGEATCTAELL.vetm~~~~~
+

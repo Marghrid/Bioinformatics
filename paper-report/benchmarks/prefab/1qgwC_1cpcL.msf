@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qgwC_1cpcL.msf MSF:  187 Type: P 11/12/19 CompCheck:  532 ..
+
+  Name: 1qgwC      Len: 187  Check: 9722 Weight: 1.00
+  Name: 1cpcL      Len: 187  Check:  810 Weight: 1.00
+
+//
+
+           1                                               50
+1qgwC      ~~~~dafsrvvaayvg..............gadlqalkkfisEGNKRLDS
+1cpcL      mldafakvv.......sqadargeylsgsqidalsalva...DGNKRMDV
+
+           51                                             100
+1qgwC      VNSIVSNASCIVSDAVSGMICENPSLISPSGXCYTNRRMAACLRDGEIIL
+1cpcL      VNRITGNSSTIVANAARSLFAEQPQLIAPGGNAYTSRRMAACLRDMEIIL
+
+           101                                            150
+1qgwC      RYVSYALLSGDASVLEDRCLNGLKETYSSLGVPANSNARAVSIMKACAVA
+1cpcL      RYVTYAIFAGDASVLDDRCLNGLKETYLALGTPGSSVAVGVQKMKDAALA
+
+           151                               187
+1qgwC      FVNNtasqkkLSTPQGDCSGLASEVGGYFDKVTAAIS
+1cpcL      IAGD.....tNGITRGDCASLMAEVASYFDKAAAAVA
+

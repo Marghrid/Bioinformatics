@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fltX_1qa9A.msf MSF:  111 Type: P 11/12/19 CompCheck: 4333 ..
+
+  Name: 1qa9A      Len: 111  Check: 6816 Weight: 1.00
+  Name: 1fltX      Len: 111  Check: 7517 Weight: 1.00
+
+//
+
+           1                                               50
+1qa9A      ~~~~~~~~tNALETWGALGQDINLDIps.FQMSddiDDIKWEKTSdkkki
+1fltX      rpfvemyseIPEIIHMTEGRELVIPC..rVTSPn..ITVTLKKFP.ldtl
+
+           51                                             100
+1qa9A      aqfrkeketfKEKDTYELLKNGALKIKHLKTDDQDIYKVSIYDtkgknvL
+1fltX      i.........PDGKRIIWDSRKGFIISNATYKEIGLLTCEATV.nghl.Y
+
+           101     111
+1qa9A      EKIFDLKIQEr
+1fltX      KTNYLTHRQT~
+

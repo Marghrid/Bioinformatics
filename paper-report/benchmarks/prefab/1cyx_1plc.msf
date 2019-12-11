@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cyx_1plc.msf MSF:  177 Type: P 11/12/19 CompCheck: 3289 ..
+
+  Name: 1cyx       Len: 177  Check: 9537 Weight: 1.00
+  Name: 1plc       Len: 177  Check: 3752 Weight: 1.00
+
+//
+
+           1                                               50
+1cyx       kpitievvsm....DWKWFfiypeqgiatvNEIAFPanTPVYFKVTSNSV
+1plc       ~~~~idvllgaddgSLAFVp..........SEFSISp.GEKIVFKNNAGF
+
+           51                                             100
+1cyx       MHSFFIPRl..........gsqi....YAMAGMQTRLHLIAnepgtYDGI
+1plc       PHNIVFDE.dsipsgvdaskismseedLLNAKGETFEVALS.nkgeYSFY
+
+           101                                            150
+1cyx       CAEIcgpg.HSGMKFKAIATpdraafdqwvakakqspntmsdmaafekla
+1plc       CSPH....qGAGMVGKVTVN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                     177
+1cyx       apseynqveyfsnvkpdlfadvinkfm
+1plc       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

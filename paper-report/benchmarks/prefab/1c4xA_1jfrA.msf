@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1c4xA_1jfrA.msf MSF:  281 Type: P 11/12/19 CompCheck: 4974 ..
+
+  Name: 1c4xA      Len: 281  Check: 9141 Weight: 1.00
+  Name: 1jfrA      Len: 281  Check: 5833 Weight: 1.00
+
+//
+
+           1                                               50
+1c4xA      TVEIIEKRFPSGTLASHALVAGDPQSPAVVLLHGAGPGAHAASNWRPIIP
+1jfrA      ATSQTSVVASG...FGGGTIYYP.TFGAVVISPGFT..AYQS.SIAWLGP
+
+           51                                             100
+1c4xA      DLAENFFVVAPDLIGFGQSEYPETYPGHIMSWVGMRVEQILGLMNHFGIE
+1jfrA      RLASGFVVFTIDTNTT...............QPDSRGRQLLSALDYLTAT
+
+           101                                            150
+1c4xA      KSHIVGNSMGGAVTLQLVVEAPERFDKVALMGSVGAPMNARPPELARLLA
+1jfrA      RLGVMGHSMGGGGSLEAAKSRTS.LKAAIPLTGWN...............
+
+           151                                            200
+1c4xA      FYADPRLTPYRELIHSFVYDPENFPGMEEIVKSRFEVANDPEVRRIQEVM
+1jfrA      ..................................................
+
+           201                                            250
+1c4xA      FESMKAGMESLVIPPATLGRLPHDVLVFHGRQDRIVPLDTSLYLTKHLKH
+1jfrA      ..........TDKT...WPELRTPTLVVGADGDTVAPVAHSKPFYESLPD
+
+           251                         281
+1c4xA      AELVVLDRCGHWAQLERWDAMGPMLMEHFRA
+1jfrA      KAYLELRGASHFTPNTSDTTIAKYSISWLKR
+

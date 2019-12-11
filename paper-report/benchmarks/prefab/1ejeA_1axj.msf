@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ejeA_1axj.msf MSF:  223 Type: P 11/12/19 CompCheck: 7175 ..
+
+  Name: 1ejeA      Len: 223  Check: 9781 Weight: 1.00
+  Name: 1axj       Len: 223  Check: 7394 Weight: 1.00
+
+//
+
+           1                                               50
+1ejeA      sqaahmmsmdfedfpvesahril..........tprptvmvttvdEegni
+1axj       ~~~~~~~~~~~~~~~~~~~~~~~mlpgtffevlknegvvaiatqgE.dgp
+
+           51                                             100
+1ejeA      naapfs..FTMPVSidPPVVAFASAPDHHTARNIESTHEFVINITp....
+1axj       hlvntwnsYLKVLD..GNRIVVPVGGMHKTEANVARDERVLMTLG.srkv
+
+           101                                            150
+1ejeA      ...adiiermwvtardipageneleaaglawtssrrvkpprivea.PGHL
+1axj       agrngpg......................................tGFLI
+
+           151                                            200
+1ejeA      ECELlrmfe..........VGDH.NLITGSVVSASVRsgavkeglldves
+1axj       RGSA.afrtdgpefeaiarFKWArAALVITVVSAEQT.............
+
+           201                 223
+1ejeA      vkpvlhvggnkfvvgdhvrhve~
+1axj       ......................l
+

@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1auz_1dciA.msf MSF:  295 Type: P 11/12/19 CompCheck: 8211 ..
+
+  Name: 1auz       Len: 295  Check: 9366 Weight: 1.00
+  Name: 1dciA      Len: 295  Check: 8845 Weight: 1.00
+
+//
+
+           1                                               50
+1auz       s..lgidmnv.KESVLCIRLTG.....ELDHHTAETLKQKVTQSLEKDDI
+1dciA      ~ayesiqvtsaQKHVLHVQLNRpekrnAMNRAFWRELVECFQKISKDSDC
+
+           51                                             100
+1auz       RHIVLNLEd....LSFMDssgl............................
+1dciA      RAVVVSGA.gkmfTSGID....lmdmasdilqppgddvariawylrdlis
+
+           101                                            150
+1auz       ...GVILGRYKQIkqigGEMVVCAISpavkrlfdmsgl.....FKII.rf
+1dciA      ryqKTFTVIEKCP....KPVIAAIHG..gcig......ggvdlISACdir
+
+           151                                            200
+1auz       eqse..............................................
+1dciA      yct.qdaffqvkevdvglaadvgtlqrlpkvignrslvneltftarkmma
+
+           201                                            250
+1auz       ..................qqalltl.gvas~~~~~~~~~~~~~~~~~~~~
+1dciA      dealdsglvsrvfpdkdvmlnaaf.alaadisskspvavqgskinliysr
+
+           251                                       295
+1auz       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1dciA      dhsvdesldymatwnmsmlqtqdiiksvqaamekkdsksitfskl
+

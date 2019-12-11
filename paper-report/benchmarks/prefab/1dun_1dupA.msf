@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dun_1dupA.msf MSF:  140 Type: P 11/12/19 CompCheck: 6379 ..
+
+  Name: 1dun       Len: 140  Check: 7176 Weight: 1.00
+  Name: 1dupA      Len: 140  Check: 9203 Weight: 1.00
+
+//
+
+           1                                               50
+1dun       ~~~mlayqgtq..........ikekrd.EDAGFDLCVPY..DIMIPVSDT
+1dupA      mmkkidvki..ldprvgkefplptyatsGSAGLDLRACLndAVELAPGDT
+
+           51                                             100
+1dun       KIIPTDVKIQV.PPNSFGWVTGKSSMAK.QGLLI..ngGIIDEGYTGEIQ
+1dupA      TLVPTGLAIHIaDPSLAAMMLPRSGLGHkHGIVLgnlvGLIDSDYQGQLM
+
+           101                                  140
+1dun       VICTNIGKSNIKLIEGQKFAQLIILQHHSnsrqpwdenki
+1dupA      ISVWNRGQDSFTIQPGERIAQMIFVPVVQ.aefnlvedf~
+

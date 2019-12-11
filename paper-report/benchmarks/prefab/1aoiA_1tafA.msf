@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aoiA_1tafA.msf MSF:  97 Type: P 11/12/19 CompCheck: 8749 ..
+
+  Name: 1tafA      Len: 97  Check: 1738 Weight: 1.00
+  Name: 1aoiA      Len: 97  Check: 7011 Weight: 1.00
+
+//
+
+           1                                               50
+1tafA      ~~~~~~~~~~~~~~~~~~~~~~~~~~PKDAQVIMSILKELNV.QEYEPRV
+1aoiA      hryrpgtvalreirryqkstellirkLPFQRLVREIAQDFKTdLRFQSSA
+
+           51                                           97
+1tafA      VNQLLEFTFRYVTSILDDAKVYANHARKKTIDLDDVRLATEVTL~~~
+1aoiA      VMALQEASEAYLVALFEDTNLCAIHAKRVTIMPKDIQLARRIRGera
+

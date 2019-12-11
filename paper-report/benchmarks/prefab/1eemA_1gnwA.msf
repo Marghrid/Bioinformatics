@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eemA_1gnwA.msf MSF:  237 Type: P 11/12/19 CompCheck: 5368 ..
+
+  Name: 1eemA      Len: 237  Check: 4731 Weight: 1.00
+  Name: 1gnwA      Len: 237  Check:  637 Weight: 1.00
+
+//
+
+           1                                               50
+1eemA      SARSLGKGSAPPGPVPEGSIRIYSMRFCPFAERTRLVLKAKGIRHEVINI
+1gnwA      ~~~~~~~~~~~~~~~~~~GIKVFGHPASIATRRVLIALHEKNLDFELVHV
+
+           51                                             100
+1eemA      NLKNKPEWFFKKNPFGLVPVLENSQGQLIYESAITCEYLDEAYPGKKLLP
+1gnwA      ELKDGKEPFLSRNPFGQVPAFEDG.DLKLFESRAITQYIAHRYQGTNLLQ
+
+           101                                            150
+1eemA      DDPYEKACQKMILELFSKVPSLVGSFIRSQNKEDYAGLKEEFRKEFTKLE
+1gnwA      KNISQYAIMAIGMQVEDQFDPVASKLAFETDEAVVAEEEAKLAKVLDVYE
+
+           151                                            200
+1eemA      EVLTNKKTTFFGGNSISMIDYLIWPWFERLEAMKLNECVDHTPKLKLWMA
+1gnwA      ARLK..EFKYLAGETFTLTDLHHIPAIQYLLGTPTKKLFTERPRVNEWVA
+
+           201                               237
+1eemA      AMKEDPTVSALLTSEKDWQGFLELYLQNSPEACDYGL
+1gnwA      EITKRPASEKVQ~~~~~~~~~~~~~~~~~~~~~~~~~
+

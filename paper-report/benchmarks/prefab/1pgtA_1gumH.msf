@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1pgtA_1gumH.msf MSF:  210 Type: P 11/12/19 CompCheck: 1750 ..
+
+  Name: 1pgtA      Len: 210  Check: 8098 Weight: 1.00
+  Name: 1gumH      Len: 210  Check: 3652 Weight: 1.00
+
+//
+
+           1                                               50
+1pgtA      MPPYTVVYFPVRGRCAALRMLLADQGQSWKEEVVTVETWQEGSLKASCLY
+1gumH      ~~RPKLHYPNGRGRMESVRWVLAAAGVEFDEEFLETKEQ..YKLQDGLLF
+
+           51                                             100
+1pgtA      GQLPKFQDGDLTLYQSNTILRHLGRTLGLYGKDQQEAALVDMVNDGVEDL
+1gumH      QQVPMVEIDGMKLVQTRSILHYIADKHNLFGKNLKERTLIDMYVEGTLDL
+
+           101                                            150
+1pgtA      RCKYVSLIYTNYEAGKDDYVKALPGQLKPFETLLSQNQGGKTFIVGDQIS
+1gumH      LELLIMHPFLK.PDDQQKEVVNMAQKARYFPVFEKILGHGQSFLVGNQLS
+
+           151                                            200
+1pgtA      FADYNLLDLLLIHEVLAPGCLDAFPLLSAYVGRLSARPKLKAFLASPEYV
+1gumH      LADVILLQTILALEEKIPNILSAFPFLQEYTVKLSNIPTIKRFLEPGSKK
+
+           201    210
+1pgtA      NLPINGNGKQ
+1gumH      .KPPPDEI~~
+

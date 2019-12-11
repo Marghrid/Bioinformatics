@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1stfI_1cewI.msf MSF:  125 Type: P 11/12/19 CompCheck: 4811 ..
+
+  Name: 1stfI      Len: 125  Check: 4277 Weight: 1.00
+  Name: 1cewI      Len: 125  Check:  534 Weight: 1.00
+
+//
+
+           1                                               50
+1stfI      mmsgapsaTQPA.taeTQHIADQVRSQLEEKYNk...KFPVFKAVSFKSQ
+1cewI      ~~~gapv.PVDEndegLQRALQFAMAEYNRASN.dkySSRVVRVISAKRQ
+
+           51                                             100
+1stfI      VVAGTNYFIKVHVG.......................DEDFVHLRVFQSL
+1cewI      LVSGIKYILQVEIGrttcpkssgdlqscefhdepemaKYTTCTFVVYSIP
+
+           101                   125
+1stfI      phENKPLTLSNYQTNkakhdeltyf
+1cewI      ..WLNQIKLLESKCQ~~~~~~~~~~
+

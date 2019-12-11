@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dceB_1ft1B.msf MSF:  432 Type: P 11/12/19 CompCheck: 2012 ..
+
+  Name: 1dceB      Len: 432  Check: 5529 Weight: 1.00
+  Name: 1ft1B      Len: 432  Check: 6483 Weight: 1.00
+
+//
+
+           1                                               50
+1dceB      q.........................qkdvti..ksdap...........
+1ft1B      ~plyslrpeharerlqddsvetvtsieqakveekiqev.fssykfnhlvp
+
+           51                                             100
+1dceB      .DTLLLEKHADYIASY.gskkddYEYCMSEYLRMSGVYWGLTVMDLMGQL
+1ft1B      rLVLQREKHFHYLKRGlrqlt..DAYECLDASRPWLCYWILHSLELLDEP
+
+           101                                            150
+1dceB      HRm..NKEEILVFIKSCQHECGGVSASIGHDPHLLYTLSAVQILTLYD..
+1ft1B      IP.qiVATDVCQFLELCQSPDGGFGGGPGQYPHLAPTYAAVNALCIIGte
+
+           151                                            200
+1dceB      .SIHVINVDKVVAYVQSLQKEDGSFAGDIWGEIDTRFSFCAVATLALLGK
+1ft1B      eAYNVINREKLLQYLYSLKQPDGSFLMHVGGEVDVRSAYCAASVASLTNI
+
+           201                                            250
+1dceB      LD.ainveKAIEFVLSCMNFDGGFGCRPGSESHAGQIYCCTGFLAITSQL
+1ft1B      ITpdlfe.GTAEWIARCQNWEGGIGGVPGMEAHGGYTFCGLAALVILKKE
+
+           251                                            300
+1dceB      HQVNSDLLGWWLCERQL.PSGGLNGRPEKLPDVCYSWWVLASLKIIGrl.
+1ft1B      RSLNLKSLLQWVTSRQMrFEGGFQGRCNKLVDGCYSFWQAGLLPLLH..r
+
+           301                                            350
+1dceB      ..............HWIDREKLRSFIL.acqdeeTGGFADRPGDMVDPFH
+1ft1B      alhaqgdpalsmshWMFHQQALQEYILmccqcp.AGGLLDKPGKSRDFYH
+
+           351                                            400
+1dceB      TLFGIAGLSLLGE................EQIKPVSPVFCMPEEVLQRVN
+1ft1B      TCYCLSGLSIAQHfgsgamlhdvvmgvpeNVLQPTHPVYNIGPDKVIQAT
+
+           401                          432
+1dceB      vqpelvs~~~~~~~~~~~~~~~~~~~~~~~~~
+1ft1B      .......thflqkpvpgfeecedavtsdpatd
+

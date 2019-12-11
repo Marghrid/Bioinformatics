@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1byuA_1ctqA.msf MSF:  202 Type: P 11/12/19 CompCheck: 6352 ..
+
+  Name: 1byuA      Len: 202  Check: 8606 Weight: 1.00
+  Name: 1ctqA      Len: 202  Check: 7746 Weight: 1.00
+
+//
+
+           1                                               50
+1byuA      EPQVQFKLVLVGDGGTGKTTFVKRHLTGEFEKKYVPTLGVEVHPLVFHTN
+1ctqA      ~~MTEYKLVVVGAGGVGKSALTILIQN...........IEDSYRKQVVID
+
+           51                                             100
+1byuA      RGPIKFNVWDTAGQEKFGGLRDGYYIQAQCAIIMFDVTSRVTYKNVPNWH
+1ctqA      GETCLLDILDTAG.QEEYSMRDQYMRTGEGFLCVFAINNTKSFEDIHQYR
+
+           101                                            150
+1byuA      RDLVRVCENIPIVLCGNKVDIKDRKVKAKSIVFHRKKNLQYYDISAKSNY
+1ctqA      EQIKRVKDDVPMVLVGNKCDLAARTVESRQQDLARSYGIPYIETSAKTRQ
+
+           151                                            200
+1byuA      NFEKPFLWLARKLIGDPNLEFVAMPALAPPEVVMDPALAAQYEHDLEVAQ
+1ctqA      GVEDAFYTLVREIRQ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201 202
+1byuA      TT
+1ctqA      ~~
+

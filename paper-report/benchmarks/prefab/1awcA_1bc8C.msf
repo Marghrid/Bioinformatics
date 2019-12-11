@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1awcA_1bc8C.msf MSF:  114 Type: P 11/12/19 CompCheck: 2255 ..
+
+  Name: 1awcA      Len: 114  Check: 1992 Weight: 1.00
+  Name: 1bc8C      Len: 114  Check:  263 Weight: 1.00
+
+//
+
+           1                                               50
+1awcA      ~~~~IQLWQFLLELLTDKDARDCISWVGDEGEFKLNQPELVAQKWGQRKN
+1bc8C      mdsaITLWQFLLQLLQKPQNKHMICWTSNDGQFKLLQAEEVARLWGIRKN
+
+           51                                             100
+1awcA      KPTMNYEKLSRALRYYYDGDMICKVQGKRFVYKFVCDLKtligysaaeln
+1bc8C      KPNMNYDKLSRALRYYYVKNIIKKVNGQKFVYKFVSYPE.ilnm~~~~~~
+
+           101        114
+1awcA      rlvieceqkklarm
+1bc8C      ~~~~~~~~~~~~~~
+

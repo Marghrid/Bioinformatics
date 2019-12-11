@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3pchM_3pchA.msf MSF:  263 Type: P 11/12/19 CompCheck: 1363 ..
+
+  Name: 3pchM      Len: 263  Check: 7463 Weight: 1.00
+  Name: 3pchA      Len: 263  Check: 3900 Weight: 1.00
+
+//
+
+           1                                               50
+3pchM      aqdnsrfvirdrnwhpkaltpdyktsiarspr.qalvsipqsisettGPN
+3pchA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~piellpetp....sqTAG
+
+           51                                             100
+3pchM      ..FSHLGFg...........aHDHDLLLnfg.LPIGERIIVAGRVVDQYG
+3pchA      pyVHIGLA.leaagnptrdqeIWNRLAK...pDAPGEHILLLGQVYDGNG
+
+           101                                            150
+3pchM      KPVPNTLVEMWQANAGGRYRHkndrylapld....PNFGGVGRCLTDS.D
+3pchA      HLVRDSFLEVWQADANGEYQDa.........ynleNAFNSFGRTATTFdA
+
+           151                                            200
+3pchM      GYYSFRTIKPGPYPWRNgpNDWRPAHIHFGISG.psiatKLITQLYFEGD
+3pchA      GEWTLHTVKPGVVNNAA..GVPMAPHINISLFArgini.HLHTRLYFDDE
+
+           201                                            250
+3pchM      .PLIPMCPIVKSIANPEAVQQLIAKLDmnnANPmdCLAYRFDIVLRGqrk
+3pchA      aQANAKCPVLNLIEQPQRRETLIAKRC..eVDG..KTAYRFDIRIQG...
+
+           251       263
+3pchM      thfe~~~~~~~~~
+3pchA      ....egetvffdf
+

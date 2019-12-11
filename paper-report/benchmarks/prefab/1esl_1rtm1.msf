@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1esl_1rtm1.msf MSF:  157 Type: P 11/12/19 CompCheck: 2292 ..
+
+  Name: 1esl       Len: 157  Check: 6311 Weight: 1.00
+  Name: 1rtm1      Len: 157  Check: 5981 Weight: 1.00
+
+//
+
+           1                                               50
+1esl       WSYNTSTEAMTYDEASAYaQQRYTHLVAIQNKEEIEYLNSILSYSPSYYW
+1rtm1      KFFVTNHERMPFSKVKALaSELRGTVAIPRNAEENKAIQ.EVAKT..SAF
+
+           51                                             100
+1esl       IGIRKVNNVWVWVGTQKPLTEEAKNWAPGEPNNRQKDEDbVEIYIKREKD
+1rtm1      LGITDTEGQFMYV.TGGRLT..YSNWKKDEPNDHGSGEDbVTIVD.....
+
+           101                                            150
+1esl       VGMWNDERbSKKKLALaYTAAcTNTSdSGHGEcVETINNYTdKeDPGFSG
+1rtm1      NGLWNDISbQASHTAVaEFPA~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151 157
+1esl       LKeEQIV
+1rtm1      ~~~~~~~
+

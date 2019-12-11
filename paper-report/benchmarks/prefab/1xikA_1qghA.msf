@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1xikA_1qghA.msf MSF:  347 Type: P 11/12/19 CompCheck:  486 ..
+
+  Name: 1xikA      Len: 347  Check: 9241 Weight: 1.00
+  Name: 1qghA      Len: 347  Check: 1245 Weight: 1.00
+
+//
+
+           1                                               50
+1xikA      ayttfsqtkndqlkepmffgqpvnvarydqqkydifekliekqlsffwrp
+1qghA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1xikA      eevdvsrdridyqalpehekhIFISNLKYQTLLDSIQGRSPNVALLPLI.
+1qghA      ~~~~~~~~~~~~~~~~~~~~vDTKEFLNHQVANLNVFTVKIHQIHWYMRg
+
+           101                                            150
+1xikA      .SIPELETWVETWAFSETIHSRSYTHIIRNIVndps.VVFDdivtneqi.
+1qghA      hNFFTLHEKMDDLYSEFGEQMDEVAERLLAIG....gSPFS.tlke...f
+
+           151                                            200
+1xikA      .qkraeg.ISSyydeliemtsywhllgegthtvngktvtvslrelkKKLY
+1qghA      lenas..vEEAp....ytkp..........................KTMD
+
+           201                                            250
+1xikA      LCLMSVNALEAiRFYVSFACSFAFAERELMEGNAKIIRLIARDEALHLTG
+1qghA      QLMEDLVGTLE.LLRDEYKQGIELTDKEGDDVTNDMLIAFKASIDKHIWM
+
+           251                                            300
+1xikA      TQHMLNllrsgaddpemaeiaeeckqecydlfvqaaqqekdwadylfrdg
+1qghA      FKAFLG............................................
+
+           301                                         347
+1xikA      smiglnkdilcqyveyitn.irmqavgldlpfqtrsnpipwintwlv
+1qghA      ...................kaple~~~~~~~~~~~~~~~~~~~~~~~
+

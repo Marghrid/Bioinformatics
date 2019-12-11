@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bu7A_1ea1A.msf MSF:  490 Type: P 11/12/19 CompCheck: 5422 ..
+
+  Name: 1bu7A      Len: 490  Check: 4582 Weight: 1.00
+  Name: 1ea1A      Len: 490  Check:  840 Weight: 1.00
+
+//
+
+           1                                               50
+1bu7A      ikempq.PKTFGELKNLPLLNTdkpvqalmkiadelGEIFKFEAPGRVTR
+1ea1A      avalprvSGGHDEHGHLEEFRT.dpiglmqrvrdecGDVGTFQLAGKQVV
+
+           51                                             100
+1bu7A      YLSSQRLIKEACDES..RFDKNLSqaLKFVRDFAGDGlftswth....ek
+1ea1A      LLSGSHANEFFFRAGddDLDQAKA..YPFMTPIFGEGv......vfdasp
+
+           101                                            150
+1bu7A      nw.kkahniLLPSFSQQAMKGYHAMMVDIAVQLVQKwerlnadEHIEVPE
+1ea1A      errkeml..HNAALRGEQMKGHAATIEDQVRRMIAD.wgea..GEIDLLD
+
+           151                                            200
+1bu7A      DMTRLTLDTIGLCGf..nyrfnsfyrdq..phPFITSMVRALDEAMnklq
+1ea1A      FFAELTIYTSSACLigkkfrd.......qldgRFAKLYHELERGTDplay
+
+           201                                            250
+1bu7A      ranpddpa...yden.kRQFQEDIKVMNDLVDKIIADRKAS.....geQS
+1ea1A      v.......dpylpiesfRRRDEARNGLVALVADIMNGRIANpptdksdRD
+
+           251                                            300
+1bu7A      ddLLTHmlngkdpetge.......plddENIRYQIITFLIAGHETTSGLL
+1ea1A      ..MLDVliav.......kaetgtprfsaDEITGMFISMMFAGHHTSSGTA
+
+           301                                            350
+1bu7A      SFALYFLVKNPHVLQKAAEEAARVLV.dpvpsYKQV.kqlkyVGMVLNEA
+1ea1A      SWTLIELMRHRDAYAAVIDELDELYGdgrsv.SFHAlrqipqLENVLKET
+
+           351                                            400
+1bu7A      LRLWPTAPAFSLYAKEDTVlggEYPLEKGDELMVLIPQLHRDKTiwgdDV
+1ea1A      LRLHPPLIILMRVAKGEFEvq.GHRIHEGDLVAASPAISNRIPEdfp.DP
+
+           401                                            450
+1bu7A      EEFRPERFE..npsai.PQHAFKPFGNGQRACIGQQFALHEATLVLGMML
+1ea1A      HDFVPARYEqprqedllNRWTWIPFGAGRHRCVGAAFAIMQIKAIFSVLL
+
+           451                                  490
+1bu7A      KHFDFEDHTNY.eldike..tLTLKPEGFVVKAKSKKipl
+1ea1A      REYEFEMAQPPesyrndhskmVVQLAQPACVRYRRRT~~~
+

@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1tyfA_1nzyA.msf MSF:  308 Type: P 11/12/19 CompCheck: 3603 ..
+
+  Name: 1tyfA      Len: 308  Check: 5716 Weight: 1.00
+  Name: 1nzyA      Len: 308  Check: 7887 Weight: 1.00
+
+//
+
+           1                                               50
+1tyfA      srgersfdiysrllke.............RVIFLT.....GQVEDHMANL
+1nzyA      ~~~~~~~~~~~~~~~~myeaighrvedgvAEITIKlprhrNALSVKAMQE
+
+           51                                             100
+1tyfA      IVAQMLFLEAENPEKDIYLYI....NSPGGv...................
+1nzyA      VTDALNRAEEDDSVGAVMITGaedaFCAGFylreipldkgvagvrdhfri
+
+           101                                            150
+1tyfA      .ITAGMSIYDTMQFIKPDVSTICMGQAASMGAFLLTAGAkgKRFCLPNSR
+1nzyA      aALWWHQMIHKIIRVKRPVLAAINGVAAGGGLGISLASD..MAICADSAK
+
+           151                                            200
+1tyfA      VMIHQPlggyqgqatdieihareilkvkgr...MNELMALhtgqslEQIE
+1nzyA      FVCAWHti................gign..dtaTSYSLAR.ivgm.RRAM
+
+           201                                            250
+1tyfA      RDTERDRFLSAPEAVEYGLVDSILTHrn~~~~~~~~~~~~~~~~~~~~~~
+1nzyA      ELMLTNRTLYPEEAKDWGLVSRVYPKd.efrevawkvarelaaapthlqv
+
+           251                                            300
+1tyfA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1nzyA      makerfhagwmqpveectefeiqnviasvthphfmpcltrfldghradrp
+
+           301  308
+1tyfA      ~~~~~~~~
+1nzyA      qvelpagv
+

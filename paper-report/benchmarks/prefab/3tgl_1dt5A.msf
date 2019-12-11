@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3tgl_1dt5A.msf MSF:  280 Type: P 11/12/19 CompCheck: 7358 ..
+
+  Name: 3tgl       Len: 280  Check: 1358 Weight: 1.00
+  Name: 1dt5A      Len: 280  Check: 6000 Weight: 1.00
+
+//
+
+           1                                               50
+3tgl       girAATSQEINELTYYTTLSANSYCRTVIPGA....TWDC.IHCDATE..
+1dt5A      ~~~EVSQDLFNQFNLFAQYSAAAYCGKNNDAPagtnITCTgNACPEVEka
+
+           51                                             100
+3tgl       DLKIIKTWS.TLIYDTNAMVARGDSEKTIYIVFRGSSSIRNWIADLTFVP
+1dt5A      DATFLYSFEdSGVGDVTGFLALDNTNKLIVLSFRGSRSIENWIGNLNFDL
+
+           101                                            150
+3tgl       VSYPP.VSGTKVHKGFLDSYGEVQNELVATVLDQFKQYPSYKVAVTGHSL
+1dt5A      KEINDiCSGCRGHDGFTSSWRSVADTLRQKVEDAVREHPDYRVVFTGHSL
+
+           151                                            200
+3tgl       GGATVLLCALDLYqrEEGLsssnLFLYTQGQPRVGDPAFANYVVSTG.IP
+1dt5A      GGALATVAGADLR..GNGY...dIDVFSYGAPRVGNRAFAEFLTVQTgGT
+
+           201                                            250
+3tgl       YRRTVNERDIVPHLPPAAFGFLHAGEEYWITD...nspe..TVQVCTSdL
+1dt5A      LYRITHTNDIVPRLPPREFGYSHSSPEYWIKSgtlvpvtrnDIVKIEG.I
+
+           251                        280
+3tgl       ETSDCSNsiVPFTSVLDHLSYFgINTGLCT
+1dt5A      DATGGNNq.PNIPDIPAHLWYF.GLIGTCL
+

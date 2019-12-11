@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a7w_1aoiA.msf MSF:  97 Type: P 11/12/19 CompCheck: 9088 ..
+
+  Name: 1aoiA      Len: 97  Check: 7011 Weight: 1.00
+  Name: 1a7w       Len: 97  Check: 2077 Weight: 1.00
+
+//
+
+           1                                               50
+1aoiA      hryrpgtvalreirryqksteLLIRKLPFQRLVREIAQdfktdLRFQSSA
+1a7w       ~~~~~~~~~~~~~~~~~~~~~MELPIAPIGRIIKDAGA.....ERVSDDA
+
+           51                                           97
+1aoiA      VMALQEASEAYLVALFEDTNLCAIHAKRVTIMPKDIQLARrirgera
+1a7w       RITLAKILEEMGRDIASEAIKLARHAGRKTIKAEDIELAV.rrfk~~
+

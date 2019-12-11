@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ah1_1vcaA.msf MSF:  232 Type: P 11/12/19 CompCheck:  826 ..
+
+  Name: 1vcaA      Len: 232  Check: 7338 Weight: 1.00
+  Name: 1ah1       Len: 232  Check: 3488 Weight: 1.00
+
+//
+
+           1                                               50
+1vcaA      ~KIETtpeSRYLAQIGDSVSLTCSTTGc....esPFFSWRTQ....IDSP
+1ah1       mHVAQp..AVVLASSRGIASFVCEYAS.pgkateVRVTVLRQadsqVTEV
+
+           51                                             100
+1vcaA      l.................NGKVTNEGTTSTLTMNPVSFGNEHSYLCTATC
+1ah1       .caatymmgneltflddsICTGTSSGNQVNLTIQGLRAMDTGLYICKVEL
+
+           101                                            150
+1vcaA      e....srklek.GIQVEIYSFPKDPeihlsgpleagkpitvkcsvadvyp
+1ah1       mypppyylgignGTQIYVIDPEPCP.........................
+
+           151                                            200
+1vcaA      fdr.leidllkgdhlmksqefledadrksletkslevtftpviedigkvl
+1ah1       ...dsdqe..........................................
+
+           201                          232
+1vcaA      vcraklhidemdsvptvrqavkelqvyisp~~
+1ah1       ..............................pk
+

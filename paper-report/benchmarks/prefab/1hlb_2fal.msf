@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hlb_2fal.msf MSF:  157 Type: P 11/12/19 CompCheck: 2439 ..
+
+  Name: 1hlb       Len: 157  Check: 3095 Weight: 1.00
+  Name: 2fal       Len: 157  Check: 9344 Weight: 1.00
+
+//
+
+           1                                               50
+1hlb       GGTLAIQAQGDLTLAQKKIVRKTWHQLMRNKTSFVTDVFIRIFAYDPSAQ
+2fal       ~~~~~~~~~~SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSA
+
+           51                                             100
+1hlb       NKFPQMAGMSASQLRSSRQMQAHAIRVSSIMSEYVEELDSDILPELLATL
+2fal       NFFADFKGKSVADIKASPKLRDVSSRIFTRLNEFVNNANAGKMSAMLSQF
+
+           101                                            150
+1hlb       ARTHDLNKVGADHYNLFAKVLMEALQAELGSDFNEKTRDAWAKAFSVVQA
+2fal       AKEHVGFGVGSAQFENVRSMFPGFVASVAA..PPAGADAAWTKLFGLIID
+
+           151 157
+1hlb       VLLVKHG
+2fal       AKAAG~~
+

@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fo5A_1hyuA.msf MSF:  530 Type: P 11/12/19 CompCheck: 4219 ..
+
+  Name: 1fo5A      Len: 530  Check: 9985 Weight: 1.00
+  Name: 1hyuA      Len: 530  Check: 4234 Weight: 1.00
+
+//
+
+           1                                               50
+1fo5A      m.................................................
+1hyuA      ~mldtnmktqlraylekltkpveliatlddsaksaeikellaeiaelsdk
+
+           51                                             100
+1fo5A      ..................................................
+1hyuA      vtfkedntlpvrkpsflitnpgsqqgprfagsplgheftslvlallwtgg
+
+           101                                            150
+1fo5A      .................sKVKIELFTSPMCPH.CPAAKRVVEEVANemPD
+1hyuA      hpskeaqslleqirdidgDFEFETYYSLSCHNcPDVVQALNLMAVL..NP
+
+           151                                            200
+1fo5A      AVEVEYINVMENPQKAm.EYGIMAVPTIVINGDV.efigaptk..EALVE
+1hyuA      RIKHTAIDGGTFQNEI.tERNVMGVPAVFVNGKEfgqgr....mtLTEIV
+
+           201                                            250
+1fo5A      AIKKRl~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1hyuA      AKVDT.gaekraaealnkrdaydvlivgsgpagaaaavysarkgirtglm
+
+           251                                            300
+1fo5A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1hyuA      gerfggqvldtvdienyisvpktegqklagalkahvsdydvdvidsqsas
+
+           301                                            350
+1fo5A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1hyuA      klvpaategglhqietasgavlkarsiiiatgakwrnmnvpgedqyrtkg
+
+           351                                            400
+1fo5A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1hyuA      vtycphcdgplfkgkrvavigggnsgveaaidlagivehvtllefapemk
+
+           401                                            450
+1fo5A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1hyuA      adqvlqdkvrslknvdiilnaqttevkgdgskvvgleyrdrvsgdihsva
+
+           451                                            500
+1fo5A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1hyuA      lagifvqigllpnthwlegalernrmgeiiidakcetsvkgvfaagdctt
+
+           501                        530
+1fo5A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1hyuA      vpykqiiiatgegakaslsafdylirtkia
+

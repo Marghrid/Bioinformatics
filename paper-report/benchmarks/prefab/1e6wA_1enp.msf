@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1e6wA_1enp.msf MSF:  251 Type: P 11/12/19 CompCheck: 7919 ..
+
+  Name: 1e6wA      Len: 251  Check:  364 Weight: 1.00
+  Name: 1enp       Len: 251  Check: 7555 Weight: 1.00
+
+//
+
+           1                                               50
+1e6wA      SVKGLVAVITGGASGLGLSTAKRLVGQGATAVLLDVPNSEGETEAKKLGG
+1enp       DLRGKRAFIAGIADGYGWAVAKSLAAAGAEILVGTWALNIFETSLR...E
+
+           51                                             100
+1e6wA      NCIFAPANVTSEKEVQAALTLAKEKFGRIDVAVNCAGIAVAIKTYHEKKN
+1enp       IKKVYPLDAVFDNTVQEAAECVRQDFGSIDILVHSLANGPSKPLLE....
+
+           101                                            150
+1e6wA      QVHTLEDFQRVINVNLIGTFNVIRLVAGVMGQNEPDQGGQRGVIINTASV
+1enp       ...SRKGYLAAISASSYSFVSLLSHFLPIM.NP.......GGASISLTYI
+
+           151                                            200
+1e6wA      AAFEGQVGQAAYSASKGGIVGMTLPIARDLAPIGIRVVTIAPGLFATPLL
+1enp       ASERII.YGGGMSSAKAALESDTRVLAFEAGR.NIRVNTISAGPLG....
+
+           201                                            250
+1e6wA      TKVRNFLASQVPFPSRLGDPAEYAHLVQMVIENPFLNGEVIRLDGAIRMQ
+1enp       .TMIEYSYNNAPI.QKTLTADEVGNAAAFLVSASAITGATIYVDNGLN~~
+
+           251 251
+1e6wA      P
+1enp       ~
+

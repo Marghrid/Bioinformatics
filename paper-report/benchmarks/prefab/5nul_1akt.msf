@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/5nul_1akt.msf MSF:  149 Type: P 11/12/19 CompCheck:  172 ..
+
+  Name: 5nul       Len: 149  Check:   91 Weight: 1.00
+  Name: 1akt       Len: 149  Check:   81 Weight: 1.00
+
+//
+
+           1                                               50
+5nul       ~~MKIVYWSGTGNTEKMAELIAKGIIESGKDVNTINVSDVNIdelln.ED
+1akt       pkALIVYGSTTGNTEYTAETIARELADAGYEVDSRDAASVEAgglfegFD
+
+           51                                             100
+5nul       ILILGCSAMTDe...VLEesEFEPFIEEIST.KISGKKVALFGSYGW...
+1akt       LVLLGCSTWND.dsiELQd.DFIPLFDSLEEtGAQGRKVACFGCGDSsye
+
+           101                                           149
+5nul       GDGKWMRDFEERMNGYGCVVVETPLIVQNEPDEAEQDCIEFGKKIANI~
+1akt       YFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGAi
+

@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bbzA_1ckaA.msf MSF:  59 Type: P 11/12/19 CompCheck: 5745 ..
+
+  Name: 1ckaA      Len: 59  Check: 7888 Weight: 1.00
+  Name: 1bbzA      Len: 59  Check: 7857 Weight: 1.00
+
+//
+
+           1                                               50
+1ckaA      EYVRALFDFNGNDEEDLPFKKGDILRIRDKP.eEQWWNAEDSEgKRGMIP
+1bbzA      NLFVALYDFVASGDNTLSITKGEKLRVLGYNhnGEWCEAQTKN.GQGWVP
+
+           51     59
+1ckaA      VPYVEK~~~
+1bbzA      SNYITPvns
+

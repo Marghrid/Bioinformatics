@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hlb_1dlyA.msf MSF:  169 Type: P 11/12/19 CompCheck: 5036 ..
+
+  Name: 1hlb       Len: 169  Check: 1800 Weight: 1.00
+  Name: 1dlyA      Len: 169  Check: 3236 Weight: 1.00
+
+//
+
+           1                                               50
+1hlb       ggtlaiqaqgdltlaqkKIVRKT.whqlmrnkt.SFVTDVFIRIFAydPS
+1dlyA      ~~~~~~~~~~~~~~~~~SLFAKLggreav....eAAVDKFYNKIVA.dPT
+
+           51                                             100
+1hlb       AQNKFPQMagmsasqlrssrQMQAHAIRVSSIMSEYVEeldsdilp....
+1dlyA      VSTYFSNT............DMKVQRSKQFAFLAYALG........gase
+
+           101                                            150
+1hlb       ...ellatlarthdlnkVGADHYNLFAKVLMEALQAELgsdFNEKTRDAW
+1dlyA      wkgkdmrtahkd.lvphLSDVHFQAVARHLSDTLTELG...VPPEDITDA
+
+           151             169
+1hlb       AKAFSVVQAV.llvkhg~~
+1dlyA      MAVVASTRTEvlnmp..qq
+

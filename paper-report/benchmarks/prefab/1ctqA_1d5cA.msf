@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ctqA_1d5cA.msf MSF:  166 Type: P 11/12/19 CompCheck: 3858 ..
+
+  Name: 1ctqA      Len: 166  Check: 8517 Weight: 1.00
+  Name: 1d5cA      Len: 166  Check: 5341 Weight: 1.00
+
+//
+
+           1                                               50
+1ctqA      MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGET
+1d5cA      ~~KYKLVFLGEQAVGKTSIITRFXYDTFDNYQSTIGIDFLSKTLYLDEGP
+
+           51                                             100
+1ctqA      CLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHQYREQI
+1d5cA      VRLQLWDTAGQERFRSLIPSYIRDSAAAIVVYDITNRQSFENTTKWIQDI
+
+           101                                            150
+1ctqA      KRVKDSDDVPMVLVGNKCDLAARTVESRQAQDLARSYGIPYIETSAKTRQ
+1d5cA      LNER.GKDVIIALVGNKTDLDLRKVTYEEGXQKAQEYNTXFHETSAKAGH
+
+           151          166
+1ctqA      GVEDAFYTLVREIRQH
+1d5cA      NIKVLFKKTASKL~~~
+

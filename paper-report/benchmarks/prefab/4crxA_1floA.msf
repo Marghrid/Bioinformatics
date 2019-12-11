@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/4crxA_1floA.msf MSF:  526 Type: P 11/12/19 CompCheck: 3382 ..
+
+  Name: 4crxA      Len: 526  Check: 2891 Weight: 1.00
+  Name: 1floA      Len: 526  Check:  491 Weight: 1.00
+
+//
+
+           1                                               50
+4crxA      sdevrknlm.........................................
+1floA      ~~~~~~~~~pqfdilcktppkvlvrqfverferpsgekialcaaeltylc
+
+           51                                             100
+4crxA      ..dmfrdrqafsehtwkmllsvcrswaawcklnn..rkwfpaepedvrdy
+1floA      wmithng.taikratfmsyntiisnsl..sfdi.vnkslq..........
+
+           101                                            150
+4crxA      llylqarglavktiqqhlgq.lnmlhrrsglprpsdsnavslvmrrirk.
+1floA      ....................fkykt...qkat.................i
+
+           151                                            200
+4crxA      ........................envdage..........rakqalaf.
+1floA      leaslkklipaweftiipyysditdivss..lqlqfeskgnshsk....k
+
+           201                                            250
+4crxA      ...........ertdfdqvrslmens...DRCQDIRNLAFLGIAYNTLLK
+1floA      mlkallsegesiweitekilnsfey.tsrFTKTKTLYQFLFLATFINCGR
+
+           251                                            300
+4crxA      IAEIARIRVKDISRTDg....GRMLIHIG.RTKTlvstAGVEKALSL...
+1floA      FSDIKNVDPKSFKLVQnkylgVIIQCLVTeTKTS....VSRHIYFFSarg
+
+           301                                            350
+4crxA      ..GVTKLVERWISVSGVaddp................NNYLFcrvrkngv
+1floA      riDPLVYLDEFLRNSEP....vlkrvnrtgnsssnkqEYQLL........
+
+           351                                            400
+4crxA      aapsatsqlstraLEGIFEATHRLIYgakddsg.....qrylaWSGHSAR
+1floA      ........kdnl.VRSYNKALKKNAP.......ysifaikng.PKSHIGR
+
+           401                                            450
+4crxA      VGAARDMARagvsipEIMQAGGWTNvnivmnyirnl..............
+1floA      HLMTSFLSMkglte.LTNVVGNWSD...........kttythqitaipdh
+
+           451                                            500
+4crxA      .........dsetgamvrlled~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1floA      yfalvsryyaydpis.......kemialkdetnpieewqhieqlkgsaeg
+
+           501                    526
+4crxA      ~~~~~~~~~~~~~~~~~~~~~~~~~~
+1floA      sirypawngiisqevldylssyinrr
+

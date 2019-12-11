@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ct9A_1gdoA.msf MSF:  497 Type: P 11/12/19 CompCheck: 6895 ..
+
+  Name: 1ct9A      Len: 497  Check: 9134 Weight: 1.00
+  Name: 1gdoA      Len: 497  Check: 7761 Weight: 1.00
+
+//
+
+           1                                               50
+1ct9A      ASIFGVFDIKTDAVELRKKALELSRLMRHRGPDWSGIYASDNAILAHERL
+1gdoA      CGIVGAI.AQRD...VAEILLEGLRRLEYRGYDSAGLAVVGGTGIAHTRW
+
+           51                                             100
+1ct9A      SIVDVNAGAQPLYNQQKTHVLAVNGEIYNHQALRAEYGDRYQFQTGSDCE
+1gdoA      ATHGEPVNAHPHVSE..HIVVVHNGIIENHEPLREELKRGYTFVSETDTE
+
+           101                                            150
+1ct9A      VILALYQEKGPEFLDDLQGMFAFALYDSEKDAYLIGRDHLGIIPLYMGYD
+1gdoA      VIAHLVNWEAVLRIPQLRGAYGTVIMDS.RHTLLAARS...GSPLVIGLG
+
+           151                                            200
+1ct9A      EHGQLYVASEMKALVPVCRTIKEFPAGSYLWSQDGEIRSYYHRDWFDYDA
+1gdoA      M.GENFIASDQLALL.VTRRFIFLEEGDIAEIT.VNIFDKTG~~~~~~~~
+
+           201                                            250
+1ct9A      VKDNVTDKNELRQALEDSVKSHLMSDVPYGVLLSGGLDSSIISAITKKYA
+1gdoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1ct9A      LHSFAVGLPGSPDLKAAQEVANHLGTVHHEIHFTVQEGLDAIRDVIYHIE
+1gdoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1ct9A      TYDVTTIRASTPMYLMSRKIKAMGIKMVLSGEGSDEVFGGYLYFHKAPNA
+1gdoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                            400
+1ct9A      KELHEETVRKLLALHMYDCARANKAMSAWGVEARVPFLDKKFLDVAMRIN
+1gdoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           401                                            450
+1ct9A      PQDKMCKMEKHILRECFEAYLPASVAWRQKEQFSDGVGYSWIDTLKEVAA
+1gdoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           451                                         497
+1ct9A      QQVSDQQLETARFRFPYNTPTSKEAYLYREIFEELFPLPSAAECVPG
+1gdoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

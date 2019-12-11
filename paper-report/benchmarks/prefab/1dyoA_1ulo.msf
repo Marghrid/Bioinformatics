@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dyoA_1ulo.msf MSF:  178 Type: P 11/12/19 CompCheck: 8198 ..
+
+  Name: 1ulo       Len: 178  Check:  283 Weight: 1.00
+  Name: 1dyoA      Len: 178  Check: 7915 Weight: 1.00
+
+//
+
+           1                                               50
+1ulo       spi.....GEGTFDDGPEGWVAygtdgPLDTST.......GALCVAVPag
+1dyoA      ~~~dagyyYHDTFEGSVGQWTArgpa.EVLLSGrtaykgsESLLVRNRta
+
+           51                                             100
+1ulo       saqygVGVVLNGV..AIEEGTTYTLRYTATAST...DVTVRALVGQNG..
+1dyoA      a...wNGAQRALNprTFVPGNTYCFSVVASFIEgasSTTFCXKLQYVDgs
+
+           101                                            150
+1ulo       apYGTVLDTSPAL.TSEPRQVTE.tftasatypatpaadd...PEGQIAF
+1dyoA      gtQRYDTIDXKTVgPNQWVHLYNpqyrip...........sdaTDXYVYV
+
+           151                      178
+1ulo       QLGGFsadaWTLCLDDVALDSEVel~~~
+1dyoA      ETADD...tINFYIDEAIGAVAG..tvi
+

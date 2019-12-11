@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b8aA_1aszA.msf MSF:  494 Type: P 11/12/19 CompCheck: 9680 ..
+
+  Name: 1b8aA      Len: 494  Check: 9978 Weight: 1.00
+  Name: 1aszA      Len: 494  Check: 9702 Weight: 1.00
+
+//
+
+           1                                               50
+1b8aA      myr.........................THYSSEITE.ELNGQkvkvagw
+1aszA      ~~~edtakdnygklpliqsrdsdrtgqkRVKFVDLDEaKDSDKevlfrar
+
+           51                                             100
+1b8aA      vwevkdlg.GIKFLWIRDRDGIVQITAPKK...kvdpeLFKLIPKLRSED
+1aszA      vhntrqqgaTLAFLTLRQQASLIQGLVKANkegtisknMVKWAGSLNLES
+
+           101                                            150
+1b8aA      VVAVEGVVNFTPKAK.....LGFEILPEKIVVLNRAETPLPLDPTG....
+1aszA      IVLVRGIVKKVDEPIksatvQNLEIHITKIYTISETPEALPILLEDasrs
+
+           151                                            200
+1b8aA      ........KVKAELDTRLNNRFMDLRRPEVMAIFKIRSSVFKAVRDFFHE
+1aszA      eaeaeaagLPVVNLDTRLDYRVIDLRTVTNQAIFRIQAGVCELFREYLAT
+
+           201                                            250
+1b8aA      NGFIEIHTPKIIA.tateggTELFPMKYFEEDAFLAESPQLYKEIMMASG
+1aszA      KKFTEVHTPKLLGapsegg.SSVFEVTYFKGKAYLAQSPQFNKQQLIVAD
+
+           251                                            300
+1b8aA      LDRVYEIAPIFRAEEHNTTRHLNEAWSIDSEMAFIEDEEEVMSFLERLVA
+1aszA      FERVYEIGPVFRAENSNTHRHMTEFTGLDMEMAFEEHYHEVLDTLSELFV
+
+           301                                            350
+1b8aA      HAINYVREHNAKELDILN....FELEEPK..LPFPRVSYDKALEILGDLG
+1aszA      FIFSELPKRFAHEIELVRkqypVEEFKLPkdGKMVRLTYKEGIEMLRAAG
+
+           351                                            400
+1b8aA      KEIPWGEDIDTEGERLLGKYMMENENAPLYFLYQYPSEAKPFYIMKYDNK
+1aszA      KEIGDFEDLSTENEKFLGKLVRDKYDTDFYILDKFPLEIRPFYTMPDPAN
+
+           401                                            450
+1b8aA      PEICRAFDLEYRGVEISSGGQREHRHDILVEQIKEKGLNPES..FEFYLK
+1aszA      PKYSNSYDFFMRGEEILSGAQRIHDHALLQERMKAHGLSPEDpgLKDYCD
+
+           451                                      494
+1b8aA      AFRYGMPPHGGFGLGAERLIKQMLDLPNIREVILFPRDRRRLTP
+1aszA      GFSYGCPPHAGGGIGLERVVMFYLDLKNIRRASLFPRDPKRLRP
+

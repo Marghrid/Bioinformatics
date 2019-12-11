@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1sur_2nsyA.msf MSF:  325 Type: P 11/12/19 CompCheck: 7537 ..
+
+  Name: 2nsyA      Len: 325  Check: 1897 Weight: 1.00
+  Name: 1sur       Len: 325  Check: 5640 Weight: 1.00
+
+//
+
+           1                                               50
+2nsyA      mqekimrelhvkpsidpkqeie............................
+1sur       ~~~~~~~~~~~~~~~~~~~~~~kldlnalnelpkvdrilalaetnaelek
+
+           51                                             100
+2nsyA      .DRVNFLKQYVKKTGAKGFVLGISggqdstlagrlaqlavesireeggda
+1sur       lDAEGRVAWALDNLPGEYVLSSSFgiq.aavslhlvnqirp.........
+
+           101                                            150
+2nsyA      qfiavrlphgtqq..deddaqlalkfikpdKSWKFDIk.stvsafsdqyq
+1sur       dipviltdtgylfpetyrfideltdklkl.NLKVYRA.tesaawqeary.
+
+           151                                            200
+2nsyA      qetgdQLTDf.....nkgnvkarTRMIAQYAIGGQEGL.lvlgtdhaaea
+1sur       .....GKLW.eqgvegiekyndiNKVEPMNRALKELNAqtwfaglrreq.
+
+           201                                            250
+2nsyA      vtgfftkygdgga.............DLLPLTGLtkrqgrtllkelgape
+1sur       sgsr.........anlpvlaiqrgvfKVLPIIDWdnrtiyqylqkhglk.
+
+           251                                            300
+2nsyA      rlylke....ptadlldekpqqsdetelgisydeiddylegkevsakvse
+1sur       .yhplwdegylsvgdth~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                   325
+2nsyA      alekrysmtehkrqvpasmfddwwk
+1sur       ~~~~~~~~~~~~~~~~~~~~~~~~~
+

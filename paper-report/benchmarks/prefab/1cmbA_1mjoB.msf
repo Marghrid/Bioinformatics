@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cmbA_1mjoB.msf MSF:  108 Type: P 11/12/19 CompCheck: 3400 ..
+
+  Name: 1cmbA      Len: 108  Check: 7465 Weight: 1.00
+  Name: 1mjoB      Len: 108  Check: 5935 Weight: 1.00
+
+//
+
+           1                                               50
+1cmbA      EWSGEYISPYAEhgkkse..QVKKITVSIPLKVLKILTDERTRRQVNNLR
+1mjoB      EWSGEYISPYAE..hgkkseQVKKITVSIPLKVLKILTDERTRRKVNNLR
+
+           51                                             100
+1cmbA      HATNSELLCEAFLHAFTGQPLPDDADLRkeRSDe..IPEAAKEIMREMGI
+1mjoB      HATNSELLCEAFLHAFTGQPLPDDADLR..KERsdeIPEAAKEIMREMGI
+
+           101  108
+1cmbA      NPETWEY~
+1mjoB      NPETWEYx
+

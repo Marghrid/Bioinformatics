@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hx1B_2a3dA.msf MSF:  115 Type: P 11/12/19 CompCheck: 7245 ..
+
+  Name: 1hx1B      Len: 115  Check: 2193 Weight: 1.00
+  Name: 2a3dA      Len: 115  Check: 5052 Weight: 1.00
+
+//
+
+           1                                               50
+1hx1B      gnspqeeveLKKLKHLEKSVEKiadqleelnkeltgiqqgflpkdlqaea
+2a3dA      ~~~~~~~~~MGSWAEFKQRLAA.iktrlqal...................
+
+           51                                             100
+1hx1B      lck..LDRRVKATIEQFMKILEEIDTLilpenfkd.sRLKRKGLVKKVQA
+2a3dA      ...ggSEAELAAFEKEIAAFESELQAYkg......kgNPEVEALRKEAAA
+
+           101         115
+1hx1B      FLAECDTVEQnicqe
+2a3dA      IRDELQAYRHn~~~~
+

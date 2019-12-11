@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1auoA_1jfrA.msf MSF:  218 Type: P 11/12/19 CompCheck:  287 ..
+
+  Name: 1auoA      Len: 218  Check: 2381 Weight: 1.00
+  Name: 1jfrA      Len: 218  Check: 7906 Weight: 1.00
+
+//
+
+           1                                               50
+1auoA      MTEPLILQPAKPADACVIWLHGLGADRYDFMPVAEALQESLLTTRFVLPQ
+1jfrA      ~GGGTIYYPTSGTFGAVVISPGFTAYQSSIAWLGPRLASQG..FVVFTID
+
+           51                                             100
+1auoA      APTRPVTINGGYEMPSWYDIKAMSPARSISLEELEVSAKMVTDLIEAQKR
+1jfrA      TNT...........TLDQ...............PDSRGRQLLSALDYLTQ
+
+           101                                            150
+1auoA      TGIDASRIFLAGFSQGGAVVFHTAFINWQGPLGGVIALSTYAPTFGDELE
+1jfrA      R.VDATRLGVMGHSMGGGGSLEAA.KSRT.SLKAAIPLTGWNTDKT....
+
+           151                                            200
+1auoA      LSASQQRIPALCLHGQYDDVVQNAMGRSAFEHLKSRGVTVTWQEYPMGHE
+1jfrA      ....ELRTPTLVVGADGDTVAPVAHSKPFYESL.PGSLDKAYLELRASHF
+
+           201            218
+1auoA      VLPQEIHDIGAWLAARLG
+1jfrA      TDTTIAKYSISWLKRFID
+

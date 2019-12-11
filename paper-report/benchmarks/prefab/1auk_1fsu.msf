@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1auk_1fsu.msf MSF:  481 Type: P 11/12/19 CompCheck: 3643 ..
+
+  Name: 1auk       Len: 481  Check: 4969 Weight: 1.00
+  Name: 1fsu       Len: 481  Check: 8674 Weight: 1.00
+
+//
+
+           1                                               50
+1auk       RPPNIVLIFADDLGYGDLGCYGHPSSTTPNLDQLAAGGLRFTDFYVPVSL
+1fsu       RPPHLVFLLADDLGWNDVGFHGS.RIRTPHLDALAAGGVLLDNYY.TQPL
+
+           51                                             100
+1auk       XTPSRAALLTGRLPVRMGMYPGVLVPsSRGgLPLEEVTVAEVLAARGYLT
+1fsu       .TPSRSQLLTGRYQIRTGLQHQIIWPaQPSbVPLDEKLLPQLLKEAGYTT
+
+           101                                            150
+1auk       GMAGKWHLGVGPEGAfLPPHQGFHRFLGIPYSHDQGPaQNLTbFPPATPb
+1fsu       HMVGKWHLGMYR.KEbLPTRRGFDTYFGYLLGSE................
+
+           151                                            200
+1auk       DGGadQGLvPIPLLANLSVEAQPPWLPGLEARYMAFAHDLMADAQRQDRP
+1fsu       ...rcTLRcALDFRDGEEVAT..YKNMYSTNIFTKRAIALITNHP.PEKP
+
+           201                                            250
+1auk       FFLYYASHHTHYPQFSGQSFAERSGRGPFGDSLMELDAAVGTLMTAIGDL
+1fsu       LFLYLALQSVHEPLQVPEEYLKPYDRHHYAGMVSLMDEAVGNVTAALKSS
+
+           251                                            300
+1auk       GLLEETLVIFTADNGPETMRMSRGGCSGLLRcGKGTTYEGGVREPALAFW
+1fsu       GLWNNTVFIFSTDNGGQTLA...GGNNWPLRgRKWSLWEGGVRGVGFVAS
+
+           301                                            350
+1auk       PGHIAPGVTHELASSLDLLPTLAALAGAPLPNVTLDGFDLSPLLLGTGKS
+1fsu       PLLKQKVKNRELIHISDWLPTLVKLARGHTNGKPLDGFDVWKTISEGSPS
+
+           351                                            400
+1auk       PRQSLFFYPSYPDEVRGVFAVRTGKYKAHFFTQGsAHSDTTADPAcHASS
+1fsu       PRIELLHN..IDPN.SVHAAIRHGNWKLLTGYPGd....VSEIPS.....
+
+           401                                            450
+1auk       SLTAHEPPLLYDLSKDPGENYNLLGATPEVLQALKQLQLLKAQLDAAVTF
+1fsu       .PTKT..LWLFDIDRDPEERHDLSRE...YPHIVTKLLSRLQFYHKHS.V
+
+           451                         481
+1auk       GPSQVARGEDPAlQIdeHPGfTPRPAfdHeP
+1fsu       PVY..FPAQDPRa...........PKatGv~
+

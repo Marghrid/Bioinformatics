@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bqg_1ec7B.msf MSF:  440 Type: P 11/12/19 CompCheck:  769 ..
+
+  Name: 1bqg       Len: 440  Check: 8960 Weight: 1.00
+  Name: 1ec7B      Len: 440  Check: 1809 Weight: 1.00
+
+//
+
+           1                                               50
+1bqg       ~GAPVITDLKVVPVAGHDSMLLNLSGAHGPLFTRNILILTDSSGHVGVGE
+1ec7B      fTTPVVTEMQVIPVAGHDSMLMNLSGAHAPFFTRNIVIIKDNSGHTGVGE
+
+           51                                             100
+1bqg       VPGGEGIRKTLEDARHLLINQSIGNYQSLLNKVRNAFAdl..........
+1ec7B      IPGGEKIRKTLEDAIPLVVGKTLGEYKNVLTLVRNTFAdrdgrglqtfdl
+
+           101                                            150
+1bqg       RIAVHAVTAVESALLDLLGQHLQVPVAALLGEGQQRDAVEMLGYLFYVGD
+1ec7B      RTTIHVVTGIEAAMLDLLGQHLGVNVASLLGDGQQRSEVEMLGYLFFVGN
+
+           151                                            200
+1bqg       RNKTDLGYRSEHEADNEWFRLRNKEALTPESVVALAEAAYDRYGFKDFKL
+1ec7B      RKATPLPYQSQPDDSCDWYRLRHEEAMTPDAVVRLAEAAYEKYGFNDFKL
+
+           201                                            250
+1bqg       KGGVLRGEDEIAAVTALSERFPDARITLDPNGAWSLKEAVALCRDQHHVL
+1ec7B      KGGVLAGEEEAESIVALAQRFPQARITLDPNGAWSLNEAIKIGKYLKGSL
+
+           251                                            300
+1bqg       AYAEDPCGAENGYSGREVMAEFRRSTGLRTATNMIATDWRQMGHAIQLQS
+1ec7B      AYAEDPCGAEQGFSGREVMAEFRRATGLPTATNMIATDWRQMGHTLSLQS
+
+           301                                            350
+1bqg       VDIPLADPHFWTMQGSVRVAQMCNEWGLTWGSHSNNHFDISLAMFTHVAA
+1ec7B      VDIPLADPHFWTMQGSVRVAQMCHEFGLTWGSHSNNHFDISLAMFTHVAA
+
+           351                                            400
+1bqg       AAPGNITAIDTHWIWQD.GQRLTKEPLQIKGGLVEVPKKPGLGVELDWDA
+1ec7B      AAPGKITAIDTHWIWQEgNQRLTKEPFEIKGGLVQVPEKPGLGVEIDMDQ
+
+           401                                  440
+1bqg       LMKAHEVYKSM~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1ec7B      VMKAHELYQKHglgarddamgmqylipgwtfdnkrpcmvr
+

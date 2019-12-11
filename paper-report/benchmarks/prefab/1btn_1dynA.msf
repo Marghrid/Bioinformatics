@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1btn_1dynA.msf MSF:  126 Type: P 11/12/19 CompCheck: 6123 ..
+
+  Name: 1dynA      Len: 126  Check: 4790 Weight: 1.00
+  Name: 1btn       Len: 126  Check: 1333 Weight: 1.00
+
+//
+
+           1                                               50
+1dynA      lviRKGWLTINNig........IMKGGSKEYWFVLTAENLSWYKDDEE..
+1btn       ~~~MEGFLNRKH..eweahnkkASSRSWHNVYCVINNQEMGFYKDAKSaa
+
+           51                                             100
+1dynA      .kekk...YMLSVDNLKLRDVEKGFMSsKHIFALFNteQRNVykdyrQLE
+1btn       sgipyhseVPVSLKEAICEVALDYKKK.KHVFKLRL..SDGN.....EYL
+
+           101                    126
+1dynA      LACETQEEVDSWKASFLRAgvyperv
+1btn       FQAKDDEEMNTWIQAISSA~~~~~~~
+

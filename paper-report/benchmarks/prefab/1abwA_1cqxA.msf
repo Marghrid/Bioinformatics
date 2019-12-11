@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1abwA_1cqxA.msf MSF:  531 Type: P 11/12/19 CompCheck: 2826 ..
+
+  Name: 1abwA      Len: 531  Check: 1233 Weight: 1.00
+  Name: 1cqxA      Len: 531  Check: 1593 Weight: 1.00
+
+//
+
+           1                                               50
+1abwA      MLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFdlsh
+1cqxA      MLTQKTKDIVKATAPVLAEHGYDIIKCFYQRMFEAHPELKNVFNMA....
+
+           51                                             100
+1abwA      gsaqvk.GHGKKVADALTNAVAHVD...dMPNALSALSDLHAhKLRVDPV
+1cqxA      hqeq..gQQQQALARAVYAYAENIEdpnsLMAVLKNIANKHA.SLGVKPE
+
+           101                                            150
+1abwA      NFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYRGv...
+1cqxA      QYPIVGEHLLAAIKEVLGNAATDDIISAWAQAYGNLADVLMGMESE.lye
+
+           151                                            200
+1abwA      lspadktnvkaawgkvgahageygaealermflsfpttktyfphfdlshg
+1cqxA      rsaeq.............................................
+
+           201                                            250
+1abwA      saqvkghgkkvadaltnavahvddmpnalsalsdlhahklrvdpvnfkll
+1cqxA      ..................................................
+
+           251                                            300
+1abwA      shcllvtlaahlp..............................aeftpav
+1cqxA      .............pggwkgwrtfvirekrpesdvitsfilepadggpvv.
+
+           301                                            350
+1abwA      hasldkfl..........................................
+1cqxA      ........nfepgqytsvaidvpalglqqirqyslsdmpngrtyrisvkr
+
+           351                                            400
+1abwA      .........asvstvltskyr~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cqxA      egggpqppgyvsnllhdh...vnvgdqvklaapygsfhidvdaktpivli
+
+           401                                            450
+1abwA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cqxA      sggvgltpmvsmlkvalqapprqvvfvhgarnsavhamrdrlreaaktye
+
+           451                                            500
+1abwA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cqxA      nldlfvfydqplpedvqgrdydypglvdvkqieksillpdadyyicgpip
+
+           501                         531
+1abwA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cqxA      fmrmqhdalknlgihearihyevfgpdlfae
+

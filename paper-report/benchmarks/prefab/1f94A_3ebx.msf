@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1f94A_3ebx.msf MSF:  65 Type: P 11/12/19 CompCheck: 1252 ..
+
+  Name: 3ebx       Len: 65  Check: 4242 Weight: 1.00
+  Name: 1f94A      Len: 65  Check: 7010 Weight: 1.00
+
+//
+
+           1                                               50
+3ebx       ICFNHqssqp.QTTKTCSPGESSCYHKQWSDfrGTIIERGCG..CPTVKP
+1f94A      ECYRC.gvsgcHLKITCSAEETFCYKWLNKI..SNERWLGCAktCTEIDT
+
+           51           65
+3ebx       .gIKLSCCESEVCNN
+1f94A      wnVYNKCCTTNLCNT
+

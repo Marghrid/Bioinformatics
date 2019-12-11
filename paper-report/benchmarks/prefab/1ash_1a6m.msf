@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ash_1a6m.msf MSF:  160 Type: P 11/12/19 CompCheck: 5019 ..
+
+  Name: 1ash       Len: 160  Check: 5327 Weight: 1.00
+  Name: 1a6m       Len: 160  Check: 9692 Weight: 1.00
+
+//
+
+           1                                               50
+1ash       ~~ANKTRELCMKSLEHAKvdtsn.EARQDGIDLYKHMFENYPPLRKYFKS
+1a6m       vlSEGEWQLVLHVWAKVE.....aDVAGHGQDILIRLFKSHPETLEKFDR
+
+           51                                             100
+1ash       REEY.TAEDVQNDPFFAKQGQKILLACHVLCATYDdretFNAYTRELLDR
+1a6m       FKHLkTEAEMKASEDLKKHGVTVLTALGAILKKKG...hHEAELKPLAQS
+
+           101                                            150
+1ash       HARdHVHMPPEVWTDFWKLFEEYLGKKTT..LDEPTKQAWHEIGREFAKE
+1a6m       HAT.KHKIPIKYLEFISEAIIHVLHSRHPgdFGADAQGAMNKALELFRKD
+
+           151    160
+1ash       INK~~~~~~~
+1a6m       IAAkykelgy
+

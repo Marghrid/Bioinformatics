@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qj2A_1ffvA.msf MSF:  159 Type: P 11/12/19 CompCheck:   45 ..
+
+  Name: 1qj2A      Len: 159  Check: 6890 Weight: 1.00
+  Name: 1ffvA      Len: 159  Check: 3155 Weight: 1.00
+
+//
+
+           1                                               50
+1qj2A      KAHIELTINGHPVEALVEPRTLLIHFIREQQNLTGAHIGCDTSHCGACTV
+1ffvA      KKIITVNVNGKAQEKAVEPRTLLIHFLREELNLTGAHIGCETSHCGACTV
+
+           51                                             100
+1qj2A      DLDGMSVKSCTMFAVQANGASITTIEGMAAPdGTLSALQEGFRMMHGLQC
+1ffvA      DIDGRSVKSCTHLAVQCDGSEVLTVEGLANK.GVLHAVQEGFYKEHGLQC
+
+           101                                            150
+1qj2A      GYCTPGMIMRSHRLLQENPSPTEAEIRFGIGGNLCRCTGYQNIVKAIQYA
+1ffvA      GFCTPGMLMRAYRFLQENPNPTEAEIRMGMTGNLCRCTGYQNIVKAVQYA
+
+           151   159
+1qj2A      AAKINGvpf
+1ffvA      ARKLQE~~~
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1avmA_3mdsA.msf MSF:  216 Type: P 11/12/19 CompCheck: 3194 ..
+
+  Name: 1avmA      Len: 216  Check: 6905 Weight: 1.00
+  Name: 3mdsA      Len: 216  Check: 6289 Weight: 1.00
+
+//
+
+           1                                               50
+1avmA      ~avYTLPELPYDYSALEPYISGEIMELHHDKHHKAYVDGANTALDKlaea
+3mdsA      pypFKLPDLGYPYEALEPHIDAKTMEIHHQKHHGAYVTNLNAALEKypyl
+
+           51                                             100
+1avmA      rdkadfg..............aINKLEKDLAFNLAGHVNHSVFWKNMAPk
+3mdsA      .......hgvevevllrhlaalPQDIQTAVRNNGGGHLNHSLFWRLLTP.
+
+           101                                            150
+1avmA      gSAPERPTDELGAAIDEFFGSFDNMKAQFTAAATGIQGSGWASLVWDplG
+3mdsA      .GGAKEPVGELKKAIDEQFGGFQALKEKLTQAAMGRFGSGWAWLVKDp.F
+
+           151                                            200
+1avmA      KRINTLQFYDHQNNLPAGSIPLLQLDMWEHAFYLQYKNVKGDYVKSWWNV
+3mdsA      GKLHVLSTPNQDNPVMEGFTPIVGIDVWEHAYYLKYQNRRADYLQAIWNV
+
+           201          216
+1avmA      VNWDDVALRFSEarva
+3mdsA      LNWDVAEEFFKKa~~~
+

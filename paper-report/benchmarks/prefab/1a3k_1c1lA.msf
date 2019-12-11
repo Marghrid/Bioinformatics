@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a3k_1c1lA.msf MSF:  137 Type: P 11/12/19 CompCheck: 3801 ..
+
+  Name: 1a3k       Len: 137  Check: 4073 Weight: 1.00
+  Name: 1c1lA      Len: 137  Check: 9728 Weight: 1.00
+
+//
+
+           1                                               50
+1a3k       LIVPYNLPLPGGVVPRMLITILGTVKPNANRIALDFQRGNDVAFHFNPRF
+1c1lA      ~~~~~~~~~NFDFTVGKFLTVGGFINNSPQRFSVNVGESNSLSLHLDHRF
+
+           51                                             100
+1a3k       NENNRRVIVCNTKLDNNWGREERQSVFPFESGKPFKIQVLVEPDHFKVAV
+1c1lA      NYGAQNTIVMNSTLKNGWETEQRSTNFTLSAGQYFEITLSYDINKFYIDI
+
+           101                               137
+1a3k       NDAHLLQYNHRVKKLNEISKLGISGDIDLTSASYTMI
+1c1lA      LDGPNLEFPNRYSKEF.LPFLSLAGDARLTLVKLE~~
+

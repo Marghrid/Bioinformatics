@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cewI_1eqkA.msf MSF:  124 Type: P 11/12/19 CompCheck: 9811 ..
+
+  Name: 1eqkA      Len: 124  Check: 7311 Weight: 1.00
+  Name: 1cewI      Len: 124  Check: 2500 Weight: 1.00
+
+//
+
+           1                                               50
+1eqkA      ssdggpvlggvepvgNENDLHLVDLARFAVTEHNKKANs...LLEFEKLV
+1cewI      ~~~~~~~~gapvpv.DENDEGLQRALQFAMAEYNRASN.dkySSRVVRVI
+
+           51                                             100
+1eqkA      SVKQQVVAGTLYYFTIEVKEG....................DAKKLYEAK
+1cewI      SAKRQLVSGIKYILQVEIGRTtcpkssgdlqscefhdepemAKYTTCTFV
+
+           101                  124
+1eqkA      VWEKPWMDFKELQEFKPVdasana
+1cewI      VYSIPWLNQIKLLESKCQ~~~~~~
+

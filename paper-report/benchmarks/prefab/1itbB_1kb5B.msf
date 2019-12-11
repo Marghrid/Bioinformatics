@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1itbB_1kb5B.msf MSF:  337 Type: P 11/12/19 CompCheck: 3686 ..
+
+  Name: 1kb5B      Len: 337  Check:  983 Weight: 1.00
+  Name: 1itbB      Len: 337  Check: 2703 Weight: 1.00
+
+//
+
+           1                                               50
+1kb5B      t.................................................
+1itbB      ~kereekiilvssaneidvrpcplnpnehkgtitwykddsktpvsteqas
+
+           51                                             100
+1kb5B      ..................................................
+1itbB      rihqhkeklwfvpakvedsghyycvvrnssyclrikisakfvenepnlcy
+
+           101                                            150
+1kb5B      ..................................................
+1itbB      naqaifkqklpvagdgglvcpymeffknennelpklqwykdckpllldni
+
+           151                                            200
+1kb5B      ..................................................
+1itbB      hfsgvkdrlivmnvaekhrgnytchasytylgkqypitrviefitleenk
+
+           201                                            250
+1kb5B      ....LLEQNp..RWRLVPRGQAVNLRCILKNSQYPWMSWYQQdlqkqLQW
+1itbB      ptrpVIVSP.anETMEVDLGSQIQLICNVTGQLSDIAYWKWN.....GSV
+
+           251                                            300
+1kb5B      Lftlrspgdk.evkslpgaDYLATRVTD..........TELRLQVANm.S
+1itbB      I.........deddp....VLGEDYYSVenpankrrstLITVLNISEieS
+
+           301                               337
+1kb5B      QGr..TLYCTCSAapdwgasaetlyfgSGTRLTVl~~
+1itbB      RFykhPFTCFAKNt.......hgida.AYIQLIYpvt
+

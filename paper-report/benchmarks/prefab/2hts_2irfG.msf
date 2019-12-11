@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2hts_2irfG.msf MSF:  120 Type: P 11/12/19 CompCheck: 5917 ..
+
+  Name: 2hts       Len: 120  Check: 1210 Weight: 1.00
+  Name: 2irfG      Len: 120  Check: 4707 Weight: 1.00
+
+//
+
+           1                                               50
+2hts       arpAFVNKLWSMVNDKSNeKFIHWST.sgESIVVPNRE.........rfv
+2irfG      ~rmRMRPWLEEQINSNTI.PGLKWLNkekKIFQIPWMHaarhgwdvekda
+
+           51                                             100
+2hts       qeVLPKYFKh...............SNFASFVRQLNMY.gwhkvqdvksg
+2irfG      p.LFRNWAI.htgkhqpgidkpdpkTWKANFRCAMNSLpdieevkd....
+
+           101              120
+2hts       s......ndSRWEFENErha
+2irfG      .rsikkgnnAFRVYRMLp~~
+

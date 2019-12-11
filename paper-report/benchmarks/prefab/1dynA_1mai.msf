@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dynA_1mai.msf MSF:  145 Type: P 11/12/19 CompCheck: 5398 ..
+
+  Name: 1mai       Len: 145  Check: 4405 Weight: 1.00
+  Name: 1dynA      Len: 145  Check:  993 Weight: 1.00
+
+//
+
+           1                                               50
+1mai       lqddpdlqal...LKGSQLLK.vkss..SWRRERFYKLQedCKTIWQESR
+1dynA      ~~~~~~~~~~ilvIRKGWLTInnigimkGGSKEYWFVLT..AENLSWYKD
+
+           51                                             100
+1mai       kvmrspes.......QLFSIEdiqEVRMGHrteglekf.ardiped.RCF
+1dynA      ........deekekkYMLSVDnl.KLRDVE........kgfmss..kHIF
+
+           101                                       145
+1mai       SIVFk.dqrn.....TLDLIAPSPADAQHWVQGLRKIIh~~~~~~
+1dynA      ALFNteqrnvykdyrQLELACETQEEVDSWKASFLRAG.vyperv
+

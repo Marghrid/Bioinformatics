@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1vid_2dpmA.msf MSF:  321 Type: P 11/12/19 CompCheck: 9114 ..
+
+  Name: 2dpmA      Len: 321  Check: 2062 Weight: 1.00
+  Name: 1vid       Len: 321  Check: 7052 Weight: 1.00
+
+//
+
+           1                                               50
+2dpmA      ~~~~~~~~~~~~~~~~~~~TLQPFTkw.........tggkrq.LLPVIRE
+1vid       keqrilryvqqnakpgdpqSVLEAI..dtyctqkewamnvgdaKGQIMDA
+
+           51                                             100
+2dpmA      LI.PKTYNRYFEPFVGGGALFFDLAP.....KDAVINDFNAELINCYQQI
+1vid       VIrEYSPSLVLELGAYCGYSAVRMARllqpgARLLTMEMNPDYAAITQQM
+
+           101                                            150
+2dpmA      kdnpqelieilkvhqeynskeyyldlrsadrderidmmsevqraarilym
+1vid       ..................................................
+
+           151                                            200
+2dpmA      lrvnfnglyrvnsknqfnvpygryknpkivdeelisa.isvyinn.NQLE
+1vid       .....................................lnfagl..qDKVT
+
+           201                                            250
+2dpmA      IKVGDFEKAIV......DVRTGDFVYFDPPYIplftsythegfsfaDQVR
+1vid       ILNGASQDLIPqlkkkyDVDTLDMVFLDHWKD..............RYLP
+
+           251                                            300
+2dpmA      LRDAFKr..LSDTGAYVMLSNSS...SALVEELYKd.....fnihyveg.
+1vid       DTLLLEkcgLLRKGTVLLADNVIvpgTPDFLAYVRgsssfecthyssy.l
+
+           301               321
+2dpmA      ...kiseiivtnyek~~~~~~
+1vid       eymkvvdglekai..yqgpsx
+

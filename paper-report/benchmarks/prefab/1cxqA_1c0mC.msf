@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cxqA_1c0mC.msf MSF:  227 Type: P 11/12/19 CompCheck: 6534 ..
+
+  Name: 1cxqA      Len: 227  Check:  618 Weight: 1.00
+  Name: 1c0mC      Len: 227  Check: 5916 Weight: 1.00
+
+//
+
+           1                                               50
+1cxqA      grgl......gplq.IWQTDFTLEPRMAPRSWLAVTVDTASSAIVVTQHG
+1c0mC      ~~~~gvnprglgplqIWQTDFTLEPRMAPRSWLAVTVDTASSAIVVTQHG
+
+           51                                             100
+1cxqA      RVTSVAAQHHWATAIAVLGRPKAIKTDNGSCFTSKSTREWLARWGIAHTT
+1c0mC      RVTSVAVQHHWATAIAVLGRPKAIKTDNGSCFTSKSTREWLARWGIAHTT
+
+           101                                            150
+1cxqA      Gip.....GQAMVERANRLLKDKIRVLAEGDGFMKRIPTSKQGELLAKAM
+1c0mC      Gi.pgnsqGQAMVERANRLLKDRIRVLAEGDGFMKRIPTSKQGELLAKAM
+
+           151                                            200
+1cxqA      YALNH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1c0mC      YALNHkergentktpiqkhwrptvltegppvkirietgewekgwnvlvwg
+
+           201                     227
+1cxqA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1c0mC      rgyaavknrdtdkviwvpsrkvkpdit
+

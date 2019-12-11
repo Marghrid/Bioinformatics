@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1opc_1qqiA.msf MSF:  116 Type: P 11/12/19 CompCheck: 8324 ..
+
+  Name: 1opc       Len: 116  Check: 8866 Weight: 1.00
+  Name: 1qqiA      Len: 116  Check: 9458 Weight: 1.00
+
+//
+
+           1                                               50
+1opc       ~~~~~VIAFGKFKLNLGTREMFREDEPMPLTSGEFAVLKALVSHPREPLS
+1qqiA      maveeVIEMQGLSLDPTSHRVMAGEEPLEMGPTEFKLLHFFMTHPERVYS
+
+           51                                             100
+1opc       RDKLMNLARGreysamer........SIDVQISRLRRMVEedpah...PR
+1qqiA      REQLLNHVWG........tnvyvedrTVDVHIRRLRKALEp....gghDR
+
+           101          116
+1opc       YIQTVWGLGYVFVPD~
+1qqiA      MVQTVRGTGYRFSTRf
+

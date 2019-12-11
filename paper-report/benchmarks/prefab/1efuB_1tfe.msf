@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1efuB_1tfe.msf MSF:  302 Type: P 11/12/19 CompCheck: 4909 ..
+
+  Name: 1efuB      Len: 302  Check: 3841 Weight: 1.00
+  Name: 1tfe       Len: 302  Check: 1068 Weight: 1.00
+
+//
+
+           1                                               50
+1efuB      aeitaslvkelrertgagmmdckkalteangdielaienmrksgaikaak
+1tfe       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1efuB      kagnvaadgviktkidgnygiilevncqtdfvakdagfqafadkvldaav
+1tfe       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1efuB      agkitdvevlkaqfeeervalvakigeninirrvaaleg...dVLGSYQH
+1tfe       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~aregIIGHYIH
+
+           151                                            200
+1efuB      G.ARIGVLVAAKGa..........DEELVKHIAMHVAASKPEFIKPEDVS
+1tfe       HnQRVGVLVELNC.etdfvarnelFQNLAKDLAMHIAMMNPRYVSAEEIP
+
+           201                                            250
+1efuB      AEVVEKEYQVQLDIAMQSGKPKEIAEKMVEGRMKKFTGEVSLTGQPFVME
+1tfe       AEELEKERQIYIQAALNEGKPQQIAEKIAEGRLKKYLEEVVLLEQPFVKD
+
+           251                                            300
+1efuB      PSKTVGQLLKEHN......AEVTGFIRFEVGEgiekvetdfaaevaamsk
+1tfe       DKVKVKELIQQAIakigenIVVRRFCRFELGA~~~~~~~~~~~~~~~~~~
+
+           301 302
+1efuB      qs
+1tfe       ~~
+

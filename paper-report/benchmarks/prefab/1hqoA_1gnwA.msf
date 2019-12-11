@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hqoA_1gnwA.msf MSF:  238 Type: P 11/12/19 CompCheck: 8742 ..
+
+  Name: 1hqoA      Len: 238  Check:  529 Weight: 1.00
+  Name: 1gnwA      Len: 238  Check: 8213 Weight: 1.00
+
+//
+
+           1                                               50
+1hqoA      fqeqpleGYTLFSHRSAPNGFKVAIVLSELGFHYNTIFLDFNLGEHRAPE
+1gnwA      ~~~~~~~GIKVFGHPASIATRRVLIALHEKNLDFELVHVELKDGEHKKEP
+
+           51                                             100
+1hqoA      FVSVNPNARVPALIDHgxdNLSIWESGAILLHLVNKYyketgnp..LLWs
+1gnwA      FLSRNPFGQVPAFEDG...DLKLFESRAITQYIAHRYenq....gtNLLq
+
+           101                                            150
+1hqoA      ...DDLADQSQINAWLFFQTSGHAPXIGQALHFryfh....sqkIASAVE
+1gnwA      tdsKNISQYAIMAIGMQVEDHQFDPVASKLAFEqifksiyglttDEAVVA
+
+           151                                            200
+1hqoA      RYTDEVRRVYGVVEXALAERrealvxfdypVWLVGDKLTIADLAFVPWNN
+1gnwA      EEEAKLAKVLDVYEARLKEF..........KYLAGETFTLTDLHHIPAIQ
+
+           201                                238
+1hqoA      VVDRIGI..nikieFPEVYKWTKHXXRRPAVIKAlrge
+1gnwA      YLLGTPTkklfte.RPRVNEWVAEITKRPASEKVq~~~
+

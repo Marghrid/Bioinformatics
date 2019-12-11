@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1vfyA_1hyiA.msf MSF:  71 Type: P 11/12/19 CompCheck: 7472 ..
+
+  Name: 1vfyA      Len: 71  Check: 4006 Weight: 1.00
+  Name: 1hyiA      Len: 71  Check: 3466 Weight: 1.00
+
+//
+
+           1                                               50
+1vfyA      ~dwid...SDACMICSKKFSLLNRKHHCRSCGGVFCQEHSSNSIPLPdlg
+1hyiA      rkwaedneVQNCMACGKGFSVTVRRHHCRQCGNIFCAECSAKNALTP..s
+
+           51                 71
+1vfyA      IYEPVRVCDSCFEDYEfivtd
+1hyiA      SKKPVRVCDACFNDLQg~~~~
+

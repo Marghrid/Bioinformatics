@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d5yA_1bl0A.msf MSF:  288 Type: P 11/12/19 CompCheck: 4729 ..
+
+  Name: 1d5yA      Len: 288  Check: 2675 Weight: 1.00
+  Name: 1bl0A      Len: 288  Check: 2054 Weight: 1.00
+
+//
+
+           1                                               50
+1d5yA      QAGIIRDLLIWLEGHLDQPLSLDNVAAKAGYSKWHLQRMFKDVTGHAIGA
+1bl0A      DAITIHSILDWIEDNLESPLSLEKVSERSGYSKWHLQRMFKKETGHSLGQ
+
+           51                                             100
+1d5yA      YIRARRLSKSAVALRLTARPILDIALQYRFDSQQTFTRAFKKQFAQTPAL
+1bl0A      YIRSRKMTEIAQKLKESNEPILYLAERYGFESQQTLTRTFKNYFDVPPHK
+
+           101                                            150
+1d5yA      YRRSPEWSAFGIRPPLrlgeftmpehkfvtledtpligvtqsyscsleqi
+1bl0A      YRMTNMQGESRFLHPL~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1d5yA      sdfrhemryqfwhdflgnaptippvlyglnetrpsqdkddeqevfyttal
+1bl0A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1d5yA      aqdqadgyvltghpvmlqggeyvmftyeglgtgvqefiltvygtcmpmln
+1bl0A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                288
+1d5yA      ltrrkgqdieryypaeddrpinlrcellipirrklaaa
+1bl0A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

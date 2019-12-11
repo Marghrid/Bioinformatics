@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ew4A_1dlxA.msf MSF:  121 Type: P 11/12/19 CompCheck: 7117 ..
+
+  Name: 1ew4A      Len: 121  Check: 2030 Weight: 1.00
+  Name: 1dlxA      Len: 121  Check: 5087 Weight: 1.00
+
+//
+
+           1                                               50
+1ew4A      mNDSEFHRLADQLWLTIEERLDDW.dgdsd...IDCEINGGVLTITFENG
+1dlxA      ~DETTYERLAEETLDSLAEFFEDLadkpytfedYDVSFGSGVLTVKLGGD
+
+           51                                             100
+1ew4A      s.KIIINRQEPLHQVWLATKQ.gGYHFDLKGDEWICDRSGETFWDLLEQA
+1dlxA      lgTYVINKQTPNKQIWLSSPSsgPKRYDWTGKNWVYSHDGVSLHELLAAE
+
+           101               121
+1ew4A      ATQQAGETVSFR~~~~~~~~~
+1dlxA      LTKALKTKLDLSslaysgkda
+

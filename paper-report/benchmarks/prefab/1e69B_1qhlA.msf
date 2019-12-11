@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1e69B_1qhlA.msf MSF:  346 Type: P 11/12/19 CompCheck: 6763 ..
+
+  Name: 1qhlA      Len: 346  Check: 7510 Weight: 1.00
+  Name: 1e69B      Len: 346  Check: 9253 Weight: 1.00
+
+//
+
+           1                                               50
+1qhlA      GKFRSLTLINWngff.artfdldel...VTTlsGGNGAGKSTTMAAFVTA
+1e69B      MRLKKLYLKGFksfgrpsligfs..drvTAIv.GPNGSGKSNIIDAIKWV
+
+           51                                             100
+1qhlA      LIpdltlllhgklk........AGVCYSMLDTINsRHQRVVVGVRLQQVa
+1e69B      FG.....ekfdmifagsenlppAGSAYVELVFEE.NGEEITVARELKRT.
+
+           101                                            150
+1qhlA      grdrkvdikpfaiqglpmsvqptqlvtetlnerqarvlplnelkdkleam
+1e69B      .....gentyyln.....................................
+
+           151                                            200
+1qhlA      egvqfkqfnsitdyhslmfdlgiiarrlrsasd..rskfyrliea.....
+1e69B      ....gspv.rlkdirdr......fagt......glgvdf..ysivgqgqi
+
+           201                                            250
+1qhlA      ..................................................
+1e69B      drivnayqrvnesfnrfisllffggegrleisirkpgrrdqklsllsgge
+
+           251                                            300
+1qhlA      ....................slyggis.......................
+1e69B      kalvglallfalmeikpspfyvlde..vdsplddynaerfkrllkenskh
+
+           301                                        346
+1qhlA      saitrslrdyllpe~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1e69B      tqfi..........vithnkivmeaadllhgvtmvngvsaivpvev
+

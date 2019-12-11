@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1g8oA_1qg8A.msf MSF:  362 Type: P 11/12/19 CompCheck: 3783 ..
+
+  Name: 1qg8A      Len: 362  Check: 9545 Weight: 1.00
+  Name: 1g8oA      Len: 362  Check: 4238 Weight: 1.00
+
+//
+
+           1                                               50
+1qg8A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PKVSV
+1g8oA      klklsdwfnpfkrpevvtmtkwkapvvwegtynravldnyyakqkITVGL
+
+           51                                             100
+1qg8A      IMTSYN..kSDYVAKSISSILSQTFS..DFELFIMDdnsneetlnvirpf
+1g8oA      TVFAVGryiEHYLEEFLTSANKHFMVghPVIFYIMV.ddvs...rmpl..
+
+           101                                            150
+1qg8A      lndn...RVRFYQSDIsgvke.RTEKTRYAALINQAIEMA......EGEY
+1g8oA      ielgplrSFKVFKIKP.....eKRWQDISMMRMKTIGEHIvahiqhEVDF
+
+           151                                            200
+1qg8A      ITYATDDNIYMPDRLLKMVreldthpek.AVIYSASktyhlndivketVR
+1g8oA      LFCMDVDQVFQDKFGVETL.........gESVAQLQ............AW
+
+           201                                            250
+1qg8A      PAaqvt.......................WNApcaIDHCSVMHRYSVLek
+1g8oA      WY....kadpndftyerrkesaayipfgeGDFy..YHAAIFGGTPTQV..
+
+           251                                            300
+1qg8A      vkekfg....SYWDesp...........AFYRIGDARFFWRVNhfypf.Y
+1g8oA      ......lnitQECF...kgilkdkkndiEAQWHDESHLNKYFL.lnkptK
+
+           301                                            350
+1qg8A      PLDEEL................DLNYItefvrnlppqrncrelreslkkl
+1g8oA      ILSPEYcwdyhiglpadiklvkMSWQT.......................
+
+           351      362
+1qg8A      gmg~~~~~~~~~
+1g8oA      ...keynvvrnn
+

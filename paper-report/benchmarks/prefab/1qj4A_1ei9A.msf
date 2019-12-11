@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qj4A_1ei9A.msf MSF:  347 Type: P 11/12/19 CompCheck: 8219 ..
+
+  Name: 1qj4A      Len: 347  Check: 5703 Weight: 1.00
+  Name: 1ei9A      Len: 347  Check: 2516 Weight: 1.00
+
+//
+
+           1                                               50
+1qj4A      ~~~AFAHFVLIHTICHGAW...IWHKLKPLLEALg..HKVTALDLAasg.
+1ei9A      dppAPLPLVIWHGMGDSCCnplSMGAIKKMVEKKipgIHVLSLEIG...k
+
+           51                                             100
+1qj4A      vdprqiee......IGSFDEYSEPLLTFLEALPp.GEKVILVGESCGGLN
+1ei9A      tlre....dvensfFLNVNSQVTTVCQILAKDPklQQGYNAMGFSQGGQF
+
+           101                                            150
+1qj4A      IAIAADKYCE.KIAAAVFHNSVLpdtehcpsyVVdklmEVFPDwkdtty.
+1ei9A      LRAVAQRCPSpPMVNLISVGGQH.........QGvf..GLPRCpg....e
+
+           151                                            200
+1qj4A      ................ftytkdgkEITGlklgftllrenlytlcgpeeye
+1ei9A      sshicdfirktlnagaynka....IQERl.....................
+
+           201                                            250
+1qj4A      lakmltrkgSLFQ..............NILAKRPFf........TKEGYG
+1ei9A      .........VQAEywhdpirediyrnhSIFLADIN.qergvnesYKKNLM
+
+           251                                            300
+1qj4A      SI.KKIYVWTDQDEIFLpefqlw.qienykp...................
+1ei9A      ALkKFVMVKFLNDTIVD..pvdsewfgf...yrsgqaketiplqestlyt
+
+           301                                         347
+1qj4A      ..............DKVYKVeggdhklqltKTKEIAEILQEVADtyn
+1ei9A      qdrlglkamdkagqLVFLAL.egdhlq..lSEEWFYAHIIPFLE~~~
+

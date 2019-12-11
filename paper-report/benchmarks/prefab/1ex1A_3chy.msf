@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ex1A_3chy.msf MSF:  636 Type: P 11/12/19 CompCheck:  225 ..
+
+  Name: 1ex1A      Len: 636  Check:  649 Weight: 1.00
+  Name: 3chy       Len: 636  Check: 9576 Weight: 1.00
+
+//
+
+           1                                               50
+1ex1A      dyvlykdatkpvedrvadllgrmtlaekigqmtqierlvatpdvlrdnfi
+3chy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1ex1A      gsllsgggsvprkgatakewqdmvdgfqkacmstrlgipmiygidavhgq
+3chy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1ex1A      nnvygatifphnvglgatrdpylvkrigeatalevratgiqyafapciav
+3chy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1ex1A      crdprwgrcyesysedrrivqsmtelipglqgdvpkdftsgmpfvagknk
+3chy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1ex1A      vaacakhfvgdggtvdginenntiinreglmnihmpayknamdkgvstvm
+3chy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1ex1A      isysswngvkmhanqdlvtgylkdtlkfkgfvisdwegidrittpagsdy
+3chy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1ex1A      sysvkasilagldmimvpnkyqqfisiltghvnggvipmsriddavtril
+3chy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                            400
+1ex1A      rvkftmglfenpyadpamaeqlgkqehrdlareaarkslvllkngktstd
+3chy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           401                                            450
+1ex1A      apllplPKKAPKILVAGShadnlgyqcggwtiewqgdtgrttvgt.....
+3chy       ~~~~~~ADKELKFLVVDD...........................fstmr
+
+           451                                            500
+1ex1A      .TILEAVKAAVdps.TVVVFAENpd..AEFVKSGGFSYAIVAVGehpyte
+3chy       rIVRNLLKELG...fNNVEEAEDgvdaLNKLQAGGYGFVISDWN......
+
+           501                                            550
+1ex1A      tkgdnlnltipe....pglstvqavcgg.........VRCATVLISgr.p
+3chy       ............mpnmdglellkt....iradgamsaLPVLMVTAE..ak
+
+           551                                            600
+1ex1A      vvv.QPLLA.asdalvaawlpgse.gqgvtdalfgdfgftgrlprtwfks
+3chy       keniIAAAQagasgyvvkp.....ftaatleekln...............
+
+           601                              636
+1ex1A      vdqlpmnvgdahydplfrlgyglttnat~~~~~~~~
+3chy       ............................kifeklgm
+

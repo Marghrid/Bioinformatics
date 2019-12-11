@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qs1A_1g24A.msf MSF:  418 Type: P 11/12/19 CompCheck: 7200 ..
+
+  Name: 1qs1A      Len: 418  Check: 7749 Weight: 1.00
+  Name: 1g24A      Len: 418  Check: 9451 Weight: 1.00
+
+//
+
+           1                                               50
+1qs1A      dkvedfkedkekakewgkekekewkltatekgkmnnfldnkndiktnyke
+1g24A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1qs1A      itfsmagsfedeikdlkeidkmfdktnlsnsiityknvepttigfnkslt
+1g24A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1qs1A      egntinsdamaqfkeqfldrdikfdsyldthltaqqvsskervilkvtvp
+1g24A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1qs1A      sgkgsttptkagvilnnseykmlidngymvhvdkvskvvkkgveclqieG
+1g24A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~A
+
+           201                                            250
+1qs1A      TLKKSLDFknDINAEAHSWGMKNYEEWakDLTDSQREALDGYArqDYKEI
+1g24A      YSNTYQEF..TNIDQAKAWGNAQYKKY..GLSKSEKEAIVSYTk.SASEI
+
+           251                                            300
+1qs1A      NNYLRNQ..ggsg.NEKLDAQIKNISDALGKKPIPENITVYRWCGMPEFG
+1g24A      NGKLRQNkgvingfPSNLIKQVELLDKSFNKMKTPENIMLFRGDDPAYLG
+
+           301                                            350
+1qs1A      y.QISDPL........PSLKDFEEQFLNTIKEDKGYMSTSLSSERLaaFG
+1g24A      teFQNTLLnsngtinkTAFEKAKAKFLNKDRLEYGYISTSLMNVSQ..FA
+
+           351                                            400
+1qs1A      SRKIILRLQVPKGSTGAYLSAIGGFASEKEILLDKDSKYHIDKVTEVIIk
+1g24A      GRPIITKFKVAKGSKAGYIDPISAFAGQLEMLLPRHSTYHIDDMRLSSD.
+
+           401            418
+1qs1A      gVKRYVVDATLLT~~~~~
+1g24A      .GKQIIITATMMGtainp
+

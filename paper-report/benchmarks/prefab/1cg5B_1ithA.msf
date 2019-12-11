@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cg5B_1ithA.msf MSF:  141 Type: P 11/12/19 CompCheck: 3638 ..
+
+  Name: 1cg5B      Len: 141  Check: 1208 Weight: 1.00
+  Name: 1ithA      Len: 141  Check: 2430 Weight: 1.00
+
+//
+
+           1                                               50
+1cg5B      VKLSEDQEHYIKGVWKDVDHKQITAKALERVFVVYPWTTRLFSKLQGLFS
+1ithA      ~GLTAAQIKAIQDHWFLNCLQAAADSIFFKYLTAYPGDLAFFHKFSVPLL
+
+           51                                             100
+1cg5B      ANDIGVQQHADKVQRALGEAIDDLKKVEINFQNLSGKHQEIGVDTQNFKL
+1ithA      RSNPAYKAQTLTVINYLDKVVDALGNAGALMKAKVPSHDAMGITPKHFGQ
+
+           101                                   141
+1cg5B      LGQTFMVELALHYKKTFRPKEHAAAYKFFRLVAEALSSNYH
+1ithA      LLKLVGGVFQEEFS..ADPTTVAAWGDAAGVLVAAMK~~~~
+

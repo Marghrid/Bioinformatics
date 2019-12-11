@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bp7A_1af5.msf MSF:  151 Type: P 11/12/19 CompCheck: 1104 ..
+
+  Name: 1bp7A      Len: 151  Check: 9308 Weight: 1.00
+  Name: 1af5       Len: 151  Check: 1796 Weight: 1.00
+
+//
+
+           1                                               50
+1bp7A      tkynkeFLLYLAGFVDGDGSIIAQIKPNqsykfKHQLSLTFQVTQKTQRR
+1af5       kynke.FLLYLAGFVDGDGSIIAQIKPNqsykfKHQLSLTFQVTQKTQRR
+
+           51                                             100
+1bp7A      WFLDKLVDEIGVGYVRDRGSVSDYILSEIKPLHNFLTQLQPFLKLKQKQA
+1af5       WFLGKLVDEIGVGYVRDRGSVSDYILSEIKPLHNFLTQLQPFLKLKQKQA
+
+           101                                            150
+1bp7A      NLVLKIIEQLPsakespdkfLEVCTWVDQIAalndsktrkttsetvravl
+1af5       NLVLKIIEQLP.........LEVCTWVDQIA..alnds~~~~~~~~~~~~
+
+           151 151
+1bp7A      d
+1af5       ~
+

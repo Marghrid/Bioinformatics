@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1db3A_1he2A.msf MSF:  335 Type: P 11/12/19 CompCheck: 9386 ..
+
+  Name: 1db3A      Len: 335  Check: 8232 Weight: 1.00
+  Name: 1he2A      Len: 335  Check: 1154 Weight: 1.00
+
+//
+
+           1                                               50
+1db3A      SKVALITGVTGQDGSYLAEFLLEKGYEVHGIKRPKFHLHYGDLSDTSNLT
+1he2A      ~KKIAIFGATGQTGLTTLAQAVQAGYEVTVLV.RPAHVVVGDVLQAADVD
+
+           51                                             100
+1db3A      RILREVQPDEVYNLGAMSHVAVSFESPEYTADVDAMGTLRLLEAIRFLGL
+1he2A      KTVA..GQDAVIVLLGTR..NDLS....PTTV.MSEGARNIVAAMKAHGV
+
+           101                                            150
+1db3A      EKKTRFYQASTSELYGLVQEIPQKETTPFYPRSPYAVAKLYAYWITVNYR
+1he2A      ...DKVVACTSAFLDPTK.............LQAVTDDHIRMHKVLRESG
+
+           151                                            200
+1db3A      ESYGMYACNGILFNHESPRRGETFVTRKITRAIANIAQGLESCLYLGNMD
+1he2A      ....LKYVAVMPPHIGDQ................................
+
+           201                                            250
+1db3A      SLRDWGHAKDYVKMQWMMLQQEQPEDFVIATGVQYSVRQFVEMAAAQLGI
+1he2A      ..SRVISKHDLGHFMLRCLTTDEGHSTYPSHQY~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1db3A      KLRFEGTGVEEKGIVVSVTGHDAPGVKPGDVIIAVDPRYFRPAEETLLGD
+1he2A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                             335
+1db3A      PTKAHEKLGWKPEITLREMVSEMVANDLEAAKKHS
+1he2A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

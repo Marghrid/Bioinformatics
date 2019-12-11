@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1e70M_1tr1B.msf MSF:  511 Type: P 11/12/19 CompCheck: 2804 ..
+
+  Name: 1e70M      Len: 511  Check: 5452 Weight: 1.00
+  Name: 1tr1B      Len: 511  Check: 7352 Weight: 1.00
+
+//
+
+           1                                               50
+1e70M      itcqenlpftcgntdalnsssFSSDFIFGVASSAYQIE.gtig..RGLNI
+1tr1B      ~~~~~~~~~~~~~~tifq...FPQDFMWGTATAAYQIEgayqedgRGLSI
+
+           51                                             100
+1e70M      WDGFTHRypNKSGpDHGNGDTTCDSFSYWQKDIDVLDELNATGYRFSIAW
+1tr1B      WDTFAHT.pGKVF.NGDNGNVACDSYHRYEEDIRLMKELGIRTYRFSVSW
+
+           101                                            150
+1e70M      SRIIPRGKrsRGVNEKGIDYYHGLISGLIKKGITPFVTLFHWDLPQTLQD
+1tr1B      PRIFPNGD..GEVNQKGLDYYHRVVDLLNDNGIEPFCTLYHWDLPQALQD
+
+           151                                            200
+1e70M      eYEGFLDPQIIDDFKDYADLCFEEFGDSVKYWLTINQLYSVPTRGYGSAL
+1tr1B      .AGGWGNRRTIQAFVQFAETMFREFHGKIQHWLTFNEPWCIAFLSNMLGV
+
+           201                                            250
+1e70M      DAPGRCsptvdpscyagnSSTEPYIVAHHQLLAHAKVVDLYRKNYthQGG
+1tr1B      HAPGLT............NLQTAIDVGHHLLVAHGLSVRRFRELG..TSG
+
+           251                                            300
+1e70M      KIGPTMITRWFLPYNdtDRHSIAATERMKEFFLGWFMGPLTNGTYPQIMI
+1tr1B      QIGIAPNVSWAVPYSt.SEEDKAACARTISLHSDWFLQPIYQGSYPQFLV
+
+           301                                            350
+1e70M      DTVG..ERLPSFSPEESNLVKGSYDFLGLNYYFTQYAQPSPNpvnstnht
+1tr1B      DWFAeqGATVPIQDGDMDIIGEPIDMIGINYYSMSVNRFNPEa.......
+
+           351                                            400
+1e70M      amMDAGAKLTYInasghyIGPLFEKdkadstdNIYYYPKGIYSVMDYFKn
+1tr1B      ..GFLQSEEINM......GLPVTDI.......GWPVESRGLYEVLHYLQ.
+
+           401                                            450
+1e70M      KYYNPLIYVTENGISTPgdenrn.qsMLDYTRIDYLCSHLCFLNKVIKEk
+1tr1B      KYGNIDIYITENGACIN..devvngkVQDDRRISYMQQHLVQVHRTIHD.
+
+           451                                            500
+1e70M      DVNVKGYLAWALGDNYEFNKGFTVRFGLSYIDWNNVtDRDLKKSGQWYQS
+1tr1B      GLHVKGYMAWSLLDNFEWAEGYNMRFGMIHVDFRTQ.VRTPKESYYWYRN
+
+           501     511
+1e70M      FISP~~~~~~~
+1tr1B      VVSNnwletrr
+

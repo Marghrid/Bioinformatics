@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1xvaA_2dpmA.msf MSF:  400 Type: P 11/12/19 CompCheck: 9458 ..
+
+  Name: 2dpmA      Len: 400  Check: 3724 Weight: 1.00
+  Name: 1xvaA      Len: 400  Check: 5734 Weight: 1.00
+
+//
+
+           1                                               50
+2dpmA      lqpftkwtg....................................gkRQ.
+1xvaA      ~~~~~~~~~dsvyrtrslgvaaegipdqyadgeaarvwqlyigdtrsRTa
+
+           51                                             100
+2dpmA      .LLPVIRELI.pKTYNRYFEPFVGGGALFFDLA..PKDAVINDFNAELIN
+1xvaA      eYKAWLLGLLrqHGCHRVLDVACGTGVDSIMLVeeGFSVTSVDASDKMLK
+
+           101                                            150
+2dpmA      CYQQIKDnpqelieilkvhqeynskeyyldlrsadrderidmmsevqraa
+1xvaA      YALKERWn..........................................
+
+           151                                            200
+2dpmA      rilymlrvnfnglyrvnsknqfnvpygryknpkivdeelisaisvyinnn
+1xvaA      ......................................rrke..pafd..
+
+           201                                            250
+2dpmA      QLEIKVGDFEkai...vdvrtg..DFVYFD..ppyiplftsythegFSFa
+1xvaA      KWVIEEANWLtl.dkdvpagd.gfDAVICLgnsfah..........LPDs
+
+           251                                            300
+2dpmA      .....DQVRLRDAFKRLSDTGAYVMLSNSS....................
+1xvaA      kgdqsEHRLALKNIASMVRPGGLLVIDHRNydyilstgcappgkniyyks
+
+           301                                            350
+2dpmA      ..................................................
+1xvaA      dltkdittsvltvnnkahmvtldytvqvpgagrdgapgfskfrlsyyphc
+
+           351                                            400
+2dpmA      SALVEELYKD.......FNIHYVe.........GKISEIIVTNYek~~~~
+1xvaA      LASFTELVQEafggrcqHSVLGD.fkpyrpgqaYVPCYFIHVLK..ktgx
+

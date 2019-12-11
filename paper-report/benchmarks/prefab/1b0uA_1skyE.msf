@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b0uA_1skyE.msf MSF:  591 Type: P 11/12/19 CompCheck: 1971 ..
+
+  Name: 1b0uA      Len: 591  Check: 1082 Weight: 1.00
+  Name: 1skyE      Len: 591  Check:  889 Weight: 1.00
+
+//
+
+           1                                               50
+1b0uA      nk................................................
+1skyE      ~~mtrgrviqvmgpvvdvkfenghlpaiynalkiqhkarnenevdidltl
+
+           51                                             100
+1b0uA      ..................................................
+1skyE      evalhlgddtvrtiamastdglirgmevidtgapisvpvgqvtlgrvfnv
+
+           101                                            150
+1b0uA      ....................................lhvidlhkrygghe
+1skyE      lgepidlegdipadarrdpihrpapkfeelateveiletgi.........
+
+           151                                            200
+1b0uA      vlkgvsl...qARAGDVISIIgssgsgkstflrcinflekpsegaiIVNG
+1skyE      ...kvvdllapYIKGGKIGLFggagvgktvliqelih.........NIAQ
+
+           201                                            250
+1b0uA      QNInlvrdkdgqlkvadknqlrllrt.RLTMVFQH...............
+1skyE      EHG.......................gISVFAGVGertregndlyhemkd
+
+           251                                            300
+1b0uA      ...........fnlwshmtvlenvmeapiqvlglskhdareralkylakv
+1skyE      sgvisktamvfgqmn...................................
+
+           301                                            350
+1b0uA      gideraqgkypvhLSGGQQQRvsiaralamep.........DVLLFDEPT
+1skyE      .............EPPGARMR.valtgltmaeyfrdeqgqdGLLFIDNIF
+
+           351                                            400
+1b0uA      S..aldp................elVGEVLRIMQQLAEE....GKTMVVV
+1skyE      RftqagsevsallgrmpsaigyqptLATEMGQLQERITStakgSITSIQA
+
+           401                                            450
+1b0uA      TH..........EMGFarHVSSHVIFLHQ........gkie..EEGDpeq
+1skyE      IYvpaddytdpaPATT.fSHLDATTNLERklaemgiypavdplVSTS...
+
+           451                                            500
+1b0uA      vfgnpqsprlqqflkgslkkle~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1skyE      ......................ralapeivgeehyqvarkvqqtleryke
+
+           501                                            550
+1b0uA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1skyE      lqdiiailgmdelsdedklvvhrarriqfflsqnfhvaeqftgqpgsyvp
+
+           551                                   591
+1b0uA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1skyE      vketvrgfkeilegkydhlpedrfrlvgrieevvekakamg
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1di0A_1rvv1.msf MSF:  148 Type: P 11/12/19 CompCheck: 9981 ..
+
+  Name: 1di0A      Len: 148  Check: 4088 Weight: 1.00
+  Name: 1rvv1      Len: 148  Check: 5893 Weight: 1.00
+
+//
+
+           1                                               50
+1di0A      TSFKIAFIQARWHADIVDEARKSFVAELAAKTGGSVEVEIFDVPGAYEIP
+1rvv1      TGLKIGIVVGRFNDFITSKLLSGAEDALLRH.GVDTDIDVAWVPGAFEIP
+
+           51                                             100
+1di0A      LHAKTLARTGRYAAIVGAAFVIDGGIYDHDFVATAVINGMMQVQLETEVP
+1rvv1      FAAKKMAETKKYDAIITLGTVIRGATTHYDYVCNEAAKGIAQAANTTGVP
+
+           101                                          148
+1di0A      VLSVVLTPHHFHESKEHHDFFHAHFKVKGVEAAHAALQIVSERSRIAA
+1rvv1      VIFGIVTTEN.......IEQAIERAGNKGVDCAVSAIEMANLNRSFE~
+

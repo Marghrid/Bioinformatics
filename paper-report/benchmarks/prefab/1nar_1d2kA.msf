@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1nar_1d2kA.msf MSF:  427 Type: P 11/12/19 CompCheck: 6882 ..
+
+  Name: 1nar       Len: 427  Check: 8493 Weight: 1.00
+  Name: 1d2kA      Len: 427  Check: 8389 Weight: 1.00
+
+//
+
+           1                                               50
+1nar       PKPIFREYIGVKPNS.tTLHDFPTeiintetlEFHYILGFAIESyyesgk
+1d2kA      GGFRSVVYFVNWAIYgrGHNPQDL.kadq...FTHILYAFANIRp.....
+
+           51                                             100
+1nar       gTGTFEESW..dvel................fgpEKVKNLKRRHPEVKVV
+1d2kA      .SGEVYLSDtwadtdkhypgdkwdepgnnvygciKQMYLLKKNNRNLKTL
+
+           101                                            150
+1nar       ISIGGRgvntp.FDP.aEENVWVSNAKESLKLIIQKYsddsgnlIDGIDI
+1d2kA      LSIGGW.tyspnFKTpaSTEEGRKKFADTSLKLMKDL......gFDGIDI
+
+           151                                            200
+1nar       HYEHIR...sdepfatlmgqlitelkkd..dd..lNINVVSIAPSEN..n
+1d2kA      DWEYPEdekqandfvlllkacrealdaysakhpngKKFLLTIASPAGpqn
+
+           201                                            250
+1nar       sshyqKLYNAKKDYINWVDYQFSNQQ.......kpvstddAFVE......
+1d2kA      ynk..LKLAEMDKYLDFWNLMAYDFSgswdkvsghms...NVFPsttkpe
+
+           251                                            300
+1nar       ....IFKSLEKDY.....hPHKVLPGFSTdpldtkh..............
+1d2kA      stpfSSDKAVKDYikagvpANKIVLGMPL...ygrafastdgigtsfngv
+
+           301                                            350
+1nar       .........................................nkitr.dif
+1d2kA      gggswengvwdykdmpqqgaqvtelediaasysydknkrylisydtvkia
+
+           351                                            400
+1nar       iggctrlvqtfsLPGVFFWNANDSvipkrdgdkpf...IVELTLQQLLAA
+1d2kA      gkkaeyitk.ngMGGGMWWESSSD.........ktgneSLVGTVVNGLGG
+
+           401                     427
+1nar       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1d2kA      tgkleqrenelsypesvydnlkngmps
+

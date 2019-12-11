@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ff9A_1gcuA.msf MSF:  619 Type: P 11/12/19 CompCheck: 3058 ..
+
+  Name: 1gcuA      Len: 619  Check: 9548 Weight: 1.00
+  Name: 1ff9A      Len: 619  Check: 3510 Weight: 1.00
+
+//
+
+           1                                               50
+1gcuA      daepkRKFGVVVVGVGRAGSVRLRDLKDprsaaflnliGFVSRRel..GS
+1ff9A      ~~~~~ATKSVLMLGSGFVTRPTLDVLTD....sgikv.TVACRTlesaKK
+
+           51                                             100
+1gcuA      LDe.....VRQISL....edalrs.QEIDVAYICSEssSHEDYIRQFLQA
+1ff9A      LSagvqhsTPISLDvnddaaldaevAKHDLVISLIP..FHATVIKSAIRQ
+
+           101                                            150
+1gcuA      GKHVLVEYPMTlsfAAAQELWELAAQKGRVLHEehvellmeefeflrrev
+1ff9A      KKHVVTTSYVS...PAMMELDQAAKDAGITVMN.................
+
+           151                                            200
+1gcuA      lgkellkgslrftaspleeerfgfpafsgisrltwlvslfgelslisatl
+1ff9A      ..................................................
+
+           201                                            250
+1gcuA      eerkedqymkmtvqletqnkgllswieekgpglkrnryvnfqftsgslee
+1ff9A      ..................................................
+
+           251                                            300
+1gcuA      vpsvgvnkniflk.....................................
+1ff9A      .............eigldpgidhlyaiktieevhaaggkiktflsycggl
+
+           301                                            350
+1gcuA      ..................................................
+1ff9A      papessdnplgykfswssrgvllalrnaasfykdgkvtnvagpelmatak
+
+           351                                            400
+1gcuA      ..................................................
+1ff9A      pyfiypgfafvaypnrdstpykeryqipeadnivrgtlryqgfpqfikvl
+
+           401                                            450
+1gcuA      ..................................................
+1ff9A      vdigflsdeeqpflkeaipwkeatqkivkassaseqdivstivsnatfes
+
+           451                                            500
+1gcuA      ..................................................
+1ff9A      teeqkrivaglkwlgifsdkkitprgnaldtlcatleekmqfeegerdlv
+
+           501                                            550
+1gcuA      ............................................dqdifv
+1ff9A      mlqhkfeienkdgsretrtsslceygapigsggysamaklvgvpcavavk
+
+           551                                            600
+1gcuA      qklldqvsaedlaaekkrimhclglasdiqklch~~~~~~~~~~~~~~~~
+1ff9A      fvldgti...........................sdrgvlapmnskindp
+
+           601             619
+1gcuA      ~~~~~~~~~~~~~~~~~~~
+1ff9A      lmkelkekygieckekvva
+

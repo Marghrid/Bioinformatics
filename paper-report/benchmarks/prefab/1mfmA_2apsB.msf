@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1mfmA_2apsB.msf MSF:  153 Type: P 11/12/19 CompCheck: 7709 ..
+
+  Name: 1mfmA      Len: 153  Check: 5109 Weight: 1.00
+  Name: 2apsB      Len: 153  Check: 2600 Weight: 1.00
+
+//
+
+           1                                               50
+1mfmA      ATKAVAVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEE
+2apsB      ~EKLVVQVQLD.N.VGTVEITESA..YGLVFTPHLHGLAQGLHGFHIHQN
+
+           51                                             100
+1mfmA      EDnTAGaTSAGPHFNPLSRKHGGPKDEERHVGDLGNVTADKDGVADVSIE
+2apsB      PSbEPAgLGAGGHWDPKETQHGYPWSN.AHLGDLPALFVEHDGSATNPVL
+
+           101                                            150
+1mfmA      DSVISLSGDHSIIGRTLVVHEKADDLGKGGNEQSTKTGNAGSRLAaGVIG
+2apsB      APRLKLD...EVKGHSLMIHEGGDNHSD..HPAP..LGGGGPRMAbGVIK
+
+           151 153
+1mfmA      IAQ
+2apsB      ~~~
+

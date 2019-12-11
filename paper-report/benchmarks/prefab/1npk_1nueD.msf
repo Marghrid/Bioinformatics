@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1npk_1nueD.msf MSF:  153 Type: P 11/12/19 CompCheck: 8947 ..
+
+  Name: 1npk       Len: 153  Check: 8810 Weight: 1.00
+  Name: 1nueD      Len: 153  Check:  137 Weight: 1.00
+
+//
+
+           1                                               50
+1npk       vn..KERTFLAVKPDGVARGLVGEIIARYEKKGFVLVGLKQLVPTKDLAE
+1nueD      ~~anLERTFIAIKPDGVQRGLVGEIIKRFEQKGFRLVAMKFLRASEEHLK
+
+           51                                             100
+1npk       SHYAEHKERPFFGGLVSFITSGPVVAMVFEGKGVVASARLMIGVTNPLAS
+1nueD      QHYIDLKDRPFFPGLVKYMNSGPVVAMVWEGLNVVKTGRVMLGETNPADS
+
+           101                                            150
+1npk       APGSIRGDFGVDVGRNIIHGSDSVESANREIALWFKPEELLtevk.pNPN
+1nueD      KPGTIRGDFCIQVGRNIIHGSDSVKSAEKEISLWFKPEELVdykscaHDW
+
+           151 153
+1npk       LYE
+1nueD      VYE
+

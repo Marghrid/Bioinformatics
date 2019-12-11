@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1am2_1at0.msf MSF:  181 Type: P 11/12/19 CompCheck: 5499 ..
+
+  Name: 1am2       Len: 181  Check:  641 Weight: 1.00
+  Name: 1at0       Len: 181  Check: 4858 Weight: 1.00
+
+//
+
+           1                                               50
+1am2       ASITGDALVALPEGESVRIADIVPGARPNSDNAIDLKVLDRHGNPVLADR
+1at0       ~CFTPESTALLESGVRKPLGELS..........IGDRVLSXQAVYSEVIL
+
+           51                                             100
+1am2       LFHSGEHPVYAVRTVEGLRVTGTANHPLLCLVDVAGVPTLLWKLIDEIKP
+1at0       FDRNLXQNFVQLHTDGGAVLTVTPAHLVSVWQPE..SQKLTFVFADRIEE
+
+           101                                            150
+1am2       GDYAVIQRSAFSTVGVPGLVRFLEAHHRDPDAKAIADELTDGRFYYAKVA
+1at0       KNQVLVRD................................TGELRPQRVV
+
+           151                         181
+1am2       SVTDAGVQPVYSLRVDTADHAFITNGFVSHN
+1at0       KVGSVRSKGVVAPLTRE..GTIVVNSVAASC
+

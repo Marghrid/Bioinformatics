@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d2sA_1sacA.msf MSF:  221 Type: P 11/12/19 CompCheck: 2673 ..
+
+  Name: 1d2sA      Len: 221  Check: 6643 Weight: 1.00
+  Name: 1sacA      Len: 221  Check: 6030 Weight: 1.00
+
+//
+
+           1                                               50
+1d2sA      ~~~~~PPAVHlsngpgqepiavmtfdltkitk..TSSSFEVRTWD.peGV
+1sacA      htdlsGKVFV.fpresvtdhvnlitplekpl.qnFTLCFRAYSDLsraYS
+
+           51                                             100
+1d2sA      IFYGDTNpkddw.FMLGLRDG.rpeiqlhnhwaQLTVGAGPrld...DGR
+1sacA      LFSYNTQ.grdneLLVYKERVgeyslyig....RHKVTSKV...iekFPA
+
+           101                                            150
+1d2sA      WHQVEVKME..GDSVLLEVDGEEVLRLRQVSG...HPIMRIALGGLL...
+1sacA      PVHICVSWEssSGIAEFWINGTPLVKKGLRQGyfvEAQPKIVLGQEQdsy
+
+           151                                            200
+1d2sA      .fPASnlrlpl.VPALDGCLRRDSWLD..................KQAEi
+1sacA      ggKFD......rSQSFVGEIGDLYMWDsvlppenilsayqgtplpANIL.
+
+           201               221
+1d2sA      .....SASAPTSLRSC~~~~~
+1sacA      dwqalNYEIRGYVIIKplvwv
+

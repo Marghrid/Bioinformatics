@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/4mbp_1ezpA.msf MSF:  386 Type: P 11/12/19 CompCheck:  110 ..
+
+  Name: 4mbp       Len: 386  Check:  416 Weight: 1.00
+  Name: 1ezpA      Len: 386  Check: 9694 Weight: 1.00
+
+//
+
+           1                                               50
+4mbp       ki..eegklviwingdkgyn.glaevgkkfekdtgikvtvehpdkleEKF
+1ezpA      ~~kteegklviwin.gdkgynglaevgkkfekdtgikvtvehpdkleEKF
+
+           51                                             100
+4mbp       PQVAATGDGPDIIFWAHDRF.ggyaqSGLLAEITPDkafqd.KLYPFTWD
+1ezpA      PQVAATGDGPDIIFWAHDRFggyaq.SGLLAEITPD.kafqdKLYPFTWD
+
+           101                                            150
+4mbp       AVRYNGKLIAYPIAVEALSLIYNKDLLPNp.PKTWEEIPALDKELKAkgk
+1ezpA      AVRYNGKLIAYPIAVEALSLIYNKDLLPN.pPKTWEEIPALDKELKAkgk
+
+           151                                            200
+4mbp       salmfnlqePYFTWPLIAADGGYAFKYENGKYDIKDVGVDNAGAKAGLTF
+1ezpA      salmfnlqePYFTWPLIAADGGYAFKYENGKYDIKDVGVDNAGAKAGLTF
+
+           201                                            250
+4mbp       LVDLIKNKhmn...adtdysiaEAAFNKGETAMTINGPWAwsnidt..SK
+1ezpA      LVDLIKNK...hmnadtdysiaEAAFNKGETAMTINGPWA..wsnidtSK
+
+           251                                            300
+4mbp       VNYGVTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDeg
+1ezpA      VNYGVTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDeg
+
+           301                                            350
+4mbp       leavn.kdkPLgAVALKSYEEELAKDPRIAATMENAQKGEIMPnipqmsa
+1ezpA      leavnkdkpLG.AVALKSYEEELAKDPRIAATMENAQKGEIMPnipqmsa
+
+           351                              386
+4mbp       fwyavrt.avinaas...grqtvdealkdaqtrit~
+1ezpA      f.wyavrtavin...aasgrqtvdealkdaqtritk
+

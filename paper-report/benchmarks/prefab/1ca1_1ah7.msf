@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ca1_1ah7.msf MSF:  396 Type: P 11/12/19 CompCheck: 1290 ..
+
+  Name: 1ca1       Len: 396  Check: 1814 Weight: 1.00
+  Name: 1ah7       Len: 396  Check: 9476 Weight: 1.00
+
+//
+
+           1                                               50
+1ca1       WDGKIDGT...GTHAMIVTQGVSILENDLSKnepes.VRKNLEILKENMH
+1ah7       WSAEDKHKegvNSHLWIVNRAIDIMSRNTTL.....vKQDRVAQLNEWRT
+
+           51                                             100
+1ca1       ELQLGSTYPDYDKN..AYDLYQDHFWDPDTDNNFSKdnswylaysipDTG
+1ah7       ELENGIYAADYENPyyDNSTFASHFYDPDNGKTYIP.........faKQA
+
+           101                                            150
+1ca1       ESQIRKFSALARYEWQRGNYKQATFYLGEAMHYFGDIDTPYHPANVTAVD
+1ah7       KETGAKYFKLAGESYKNKDMKQAFFYLGLSLHYLGDVNQPMHAANFTNLS
+
+           151                                            200
+1ca1       ..SAGHVKFETFAEERKEQYKINTVGcktned.FYADILknkdfnAWSKE
+1ah7       ypQGFHSKYENFVDTIKDNYKVTDGN......gYWNWKG......TNPEE
+
+           201                                            250
+1ca1       YARGFAKTGKSIYYshasmsh.................SWDDWDYAAKVT
+1ah7       WIHGAAVVAKQDYS.givndntkdwfvkaavsqeyadkWRAEVTPMTGKR
+
+           251                                            300
+1ca1       LANSQKGTAGYIYRFLHDVSEGndpsvgknvkelvayistsgekdagtdd
+1ah7       LMDAQRVTAGYIQLWFDTYGDR~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1ca1       ymyfgiktkdgktqewemdnpgndfmtgskdtytfklkdenlkiddiqnm
+1ah7       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                        396
+1ca1       wirkrkytafpdaykpenikviangkvvvdkdinewisgnstynik
+1ah7       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

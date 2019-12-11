@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fgxA_1g8oA.msf MSF:  397 Type: P 11/12/19 CompCheck: 8416 ..
+
+  Name: 1g8oA      Len: 397  Check: 8006 Weight: 1.00
+  Name: 1fgxA      Len: 397  Check:  410 Weight: 1.00
+
+//
+
+           1                                               50
+1g8oA      klklsdwfnpfkrpevvtmtkwkapvvwegtynr....avldnyya....
+1fgxA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ltacpeesp...llvg
+
+           51                                             100
+1g8oA      ................................kqki.TVGLTVFAVgryi
+1fgxA      pmliefnipvdlklieqqnpkvklggrytpmdcisphKVAIIIPFR.nrq
+
+           101                                            150
+1g8oA      ehYLEEFLTSANKHFM.vghpvifyimvddvsrmplielgplrsfkvfki
+1fgxA      e.HLKYWLYYLHPILQrqqldygiyvinq.....................
+
+           151                                            200
+1g8oA      kpekrwqdiSMMRMKTIGEHIVAHiqHEVDFLFCMDVDQVFQ.dkfgve.
+1fgxA      agesmf..nRAKLLNVGFKEALKD..YDYNCFVFSDVDLIPMndhnt..y
+
+           201                                            250
+1g8oA      TLGE.svaqlq.........awwykadpndftyerrkesaayipfgegdF
+1fgxA      RCFSqprhi..svamdkfgfslpy.........................V
+
+           251                                            300
+1g8oA      YYHAAIFGGTPTQVLNItqecfkgilkdkkndiea..QWHDESHLNKYFL
+1fgxA      QYFGGVSALSKQQFLSI.ngfpnny..........wgWGGEDDDIYNRLA
+
+           301                                            350
+1g8oA      ..lnkptkilsp.eycwdyhiglpadiklvkmSWQTkeynv......vrn
+1fgxA      frgmsv.srpnavigkc...............RMIR.....hsrdkknep
+
+           351                                         397
+1g8oA      n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1fgxA      npqrfdriahtketmlsdglnsltymvlevqryplytkitvdigtps
+

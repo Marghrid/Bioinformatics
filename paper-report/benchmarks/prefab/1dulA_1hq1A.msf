@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dulA_1hq1A.msf MSF:  76 Type: P 11/12/19 CompCheck:  537 ..
+
+  Name: 1dulA      Len: 76  Check:  898 Weight: 1.00
+  Name: 1hq1A      Len: 76  Check: 9639 Weight: 1.00
+
+//
+
+           1                                               50
+1dulA      ~FDLNDFLEQ.....KVLVRXEAIINSXTXKERAKPEIIKGSRKRRIAAG
+1hq1A      gFDLNDFLEQlrqddKVLVRMEAIINSMTMKERAKPEIIKGSRKRRIAAG
+
+           51                      76
+1dulA      SGXQVQDVNRLLKQFDDXQRXXKKX~
+1hq1A      SGMQVQDVNRLLKQFDDMQRMMKKMk
+

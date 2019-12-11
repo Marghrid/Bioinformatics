@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bd3A_1dkuA.msf MSF:  393 Type: P 11/12/19 CompCheck: 9326 ..
+
+  Name: 1dkuA      Len: 393  Check: 9834 Weight: 1.00
+  Name: 1bd3A      Len: 393  Check: 9492 Weight: 1.00
+
+//
+
+           1                                               50
+1dkuA      lkifslnsnpelakeiadivgvqlgkcsvtrfsdgevqinieesirgcdc
+1bd3A      ~~~~~~qeesilq.....................................
+
+           51                                             100
+1dkuA      yiiqstsdpvnehimellimvdalkrasaktinivipyygyarqdrkars
+1bd3A      ..................................................
+
+           101                                            150
+1dkuA      repitaklfanlletagatrvialdlhapqiqgffdipidhl........
+1bd3A      ..........................................diitrfpn
+
+           151                                            200
+1dkuA      ................................mgvpilgeyfegknl...
+1bd3A      vvlmkqtaqlrammtiirdketpkeefvfyadrlirllieealnelpfqk
+
+           201                                            250
+1dkuA      .................EDIVIVSPDHGGVTRARKLADRLK.APIAIIDK
+1bd3A      kevttpldvsyhgvsfySKICGVSIVRAGESMESGLRAVCRgVRIGKILI
+
+           251                                            300
+1dkuA      R..........mNIVGN..IEGKTAILIDDIIDTAGTITLAANALVENGA
+1bd3A      QrdettaepkliYEKLPadIRERWVMLLDPMCATAGSVCKAIEVLLRLGV
+
+           301                                            350
+1dkuA      K..evyaccthpvlsgpAVERINNSTi..kelvvtnsiklkierfkqlsv
+1bd3A      Keeriifvnilaapq..GIERVFKEY.pkvrmvtaavdic..........
+
+           351                                     393
+1dkuA      gpllaeaiirvheqqsvsylf~~~~~~~~~~~~~~~~~~~~~~
+1bd3A      .....................lnsryyivpgigdfgdryfgtm
+

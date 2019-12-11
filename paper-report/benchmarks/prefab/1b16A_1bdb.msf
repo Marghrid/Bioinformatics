@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b16A_1bdb.msf MSF:  254 Type: P 11/12/19 CompCheck: 9289 ..
+
+  Name: 1b16A      Len: 254  Check: 8331 Weight: 1.00
+  Name: 1bdb       Len: 254  Check:  958 Weight: 1.00
+
+//
+
+           1                                               50
+1b16A      MDLTNKNVIFVAALGGIGLDTSRELVKRNLKNFVILDRVENPTALAELKA
+1bdb       ~KLKGEAVLITGGASGLGRALVDRFVAEGA.KVAVLDKSAEAELETDHG.
+
+           51                                             100
+1b16A      INPKVNITFHTYDVTVPVAESKKLLKKIFDQLKTVDILINGAGILDDHQI
+1bdb       ....DNVLGIVGDVRS.LEDQKQAASRCVARFGKIDTLIPNAGIWDYAAF
+
+           101                                            150
+1b16A      ERTIAINFTGLVNTTTAILDFWDKRKGGPGGIIANICSVTGFNAIHQVPV
+1bdb       DEVFHINVKGYIHAVKACLPALV....ASRGNVIFTISNAGFYPN..GPL
+
+           151                                            200
+1b16A      YSASKAAVVSFTNSLAKLAPITGVTAYSINPGITRTPLVHTFNSWLDVEP
+1bdb       YTAAKHAIVGLVRELAFELAP.YVRVNGVGSGGINSDL............
+
+           201                                            250
+1b16A      RVAELLLSHPTQTSEQCGQNFVKAIEANKNGAIWKLDLGTLEAIEWTKHW
+1bdb       ....PLADMRMPEVEEYTGAYVFFATR.ATGALLNYDG~~~~~~~~~~~~
+
+           251
+1b16A      DSHI
+1bdb       ~~~~
+

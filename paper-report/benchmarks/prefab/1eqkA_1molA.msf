@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eqkA_1molA.msf MSF:  112 Type: P 11/12/19 CompCheck: 8045 ..
+
+  Name: 1molA      Len: 112  Check: 3927 Weight: 1.00
+  Name: 1eqkA      Len: 112  Check: 4118 Weight: 1.00
+
+//
+
+           1                                               50
+1molA      ~~~~~~~~gEWEIIDIG..pfTQNLGKFAVDEENKIGQyGRLTFNKVIRp
+1eqkA      ssdggpvlgGVEPVGNEndlhLVDLARFAVTEHNKKAN.SLLEFEKLVS.
+
+           51                                             100
+1molA      CMKKTIyenereikGYEYQLYVYAS....DKLFRADISEDYKTRGRKLLR
+1eqkA      VKQQVV.......aGTLYYFTIEVKegdaKKLYEAKVWEKPWMDFKELQE
+
+           101      112
+1molA      FNGpvppp~~~~
+1eqkA      FKPvda..sana
+

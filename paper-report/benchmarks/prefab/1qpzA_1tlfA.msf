@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qpzA_1tlfA.msf MSF:  339 Type: P 11/12/19 CompCheck: 3718 ..
+
+  Name: 1qpzA      Len: 339  Check:  254 Weight: 1.00
+  Name: 1tlfA      Len: 339  Check: 3464 Weight: 1.00
+
+//
+
+           1                                               50
+1qpzA      ATIKDVAKRANVSTTTVSHVINKTRFVAEETRNAVWAAIKELHYSPSAVA
+1tlfA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1qpzA      RSLKVNHTKSIGLLATSSEAAYFAEIIEAVEKNCFQKGYTLILGNAWNNL
+1tlfA      ~~~~~~~SLLIGVATSSLALHAPSQIVAAIKSRADQLGASVVVSMVERSV
+
+           101                                            150
+1qpzA      EKQRAYLSMMAQKRVDGLLVMCSEYPEPLLAMLEEYRHIPMVVMDWGEAK
+1tlfA      EACKAAVHNLLAQRVSGLIINYPLDDQDAIAVEAACTNVPALFLDVSDQT
+
+           151                                            200
+1qpzA      ADFTDAVIDNAFEGGYMAGRYLIERGHREIGVIPGPLERNTGAGRLAGFM
+1tlfA      P..INSIIFSHEDGTRLGVEHLVALGHQQIALLAGPLSSVSARLRLAGWH
+
+           201                                            250
+1qpzA      KAMEEAMIKVPESWIVQGDFEPESGYRAMQQILSQPHRPTAVFCGGDIMA
+1tlfA      KYLTRNQIQPI..AEREGDWSAMSGFQQTMQMLNEGIVPTAMLVANDQMA
+
+           251                                            300
+1qpzA      MGALCAADEMGLRVPQDVSLIGYDNVRNARYFTPALTTIHQPKDSLGETA
+1tlfA      LGAMRAITESGLRVGADISVVGYDDTEDSSCYIPPLTTIKQDFRLLGQTS
+
+           301                                 339
+1qpzA      FNMLLDRIVNKREEPQSIEVHPRLIERRSVADGPFRDYR
+1tlfA      VDRLLQLSQ.GQAVKGNQLLPVSLVKRKTTLAPN~~~~~
+

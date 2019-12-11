@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bg2_1f9tA.msf MSF:  345 Type: P 11/12/19 CompCheck:  729 ..
+
+  Name: 1bg2       Len: 345  Check: 2000 Weight: 1.00
+  Name: 1f9tA      Len: 345  Check: 8729 Weight: 1.00
+
+//
+
+           1                                               50
+1bg2       dlaecNIKVMCRFRPLNE.sevnrgdkYIAKFQGE......DTVVIA...
+1f9tA      ~~~~gNIRVYCRIRPALKnlens..dtSLINVNEFddnsgvQSMEVTkiq
+
+           51                                             100
+1bg2       ....SKPYAFDRVFQSSTSQEQVYNDcAKKIVKDVLEGYNGTIFAYGQTS
+1f9tA      ntaqVHEFKFDKIFDQQDTNVDVFKE.VGQLVQSSLDGYNVCIFAYGQTG
+
+           101                                            150
+1bg2       SGKTHTMEGKLhdpegMGIIPRIVQDIFNYIYSMD.eNLEFHIKVSYFEI
+1f9tA      SGKTFTMLNPG.....DGIIPSTISHIFNWINKLKtkGWDYKVNCEFIEI
+
+           151                                            200
+1bg2       YLDKIRDLldvsktnLSVHEDKN.RVPYVKGCTERFVCSPDEVMDTIDEG
+1f9tA      YNENIVDLl.....kHEIRHDQEtKTTTITNVTSCKLESEEMVEIILKKA
+
+           201                                            250
+1bg2       KSNRhva...vtnMNEHSSRSHSIFLINVKQENTqTEQKLSGKLYLVDLA
+1f9tA      NKLR...stastaSNEHSSRSHSIFIIHLSGSNA.TGAHSYGTLNLVDLA
+
+           251                                            300
+1bg2       GSEKvsktgaegavldea..knin.KSLSALGNVISALAEgstYVPYRDS
+1f9tA      GSER..............retqninKSLSCLGDVIHALGQ...HIPFRNS
+
+           301                                       345
+1bg2       KMTRILQDSLGGNCRTTIVICCSPSSYNESETKSTLLFGQRAkti
+1f9tA      KLTYLLQYSLTGDSKTLMFVNISPSSSHINETLNSLRFASKV~~~
+

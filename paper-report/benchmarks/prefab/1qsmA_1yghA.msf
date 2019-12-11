@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qsmA_1yghA.msf MSF:  184 Type: P 11/12/19 CompCheck: 7162 ..
+
+  Name: 1yghA      Len: 184  Check: 6152 Weight: 1.00
+  Name: 1qsmA      Len: 184  Check: 1010 Weight: 1.00
+
+//
+
+           1                                               50
+1yghA      KIEFRVVnndnt.kenmmvltglknifqkqlpkmpkeyIARLVYDR....
+1qsmA      NITVRFV.....tendkegwqrlwksyqdfyevsfpddLDDFNFGRfldp
+
+           51                                             100
+1yghA      ..SHLSMAVIRK.PLTVVGGITYRPFdk....rEFAEIVFCAISSTEQVR
+1qsmA      niKMWAAVAVESsSEKIIGMINFFNHmttwdfkDKIYINDLYVDENSRVK
+
+           101                                            150
+1yghA      GYGAHLMNHLKDYVRNtsnikyfltya...dnyAIGYFKKQGFTKEITld
+1qsmA      GAGGKLIQFVYDEADK.lgtpsvywctdesnhrAQLLYVKVGYKAPKIly
+
+           151                            184
+1yghA      ksiwmgyikdyeggtlmqcsmlpriryld~~~~~
+1qsmA      .............................krkgy
+

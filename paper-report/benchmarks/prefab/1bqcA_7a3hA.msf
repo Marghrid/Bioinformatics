@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bqcA_7a3hA.msf MSF:  302 Type: P 11/12/19 CompCheck: 4095 ..
+
+  Name: 1bqcA      Len: 302  Check: 3430 Weight: 1.00
+  Name: 7a3hA      Len: 302  Check:  665 Weight: 1.00
+
+//
+
+           1                                               50
+1bqcA      ATGLHVKNGRLYEANGQEFIIRGVSHPHNWYPQHTQAFADIKSHGANTVR
+7a3hA      ~~QLSISNGELVNERGEQVQLKGMSSHLQWYGQFVESMKWLRDWGINVFR
+
+           51                                             100
+1bqcA      VVLSNGVRWSKNGPSDVANVISLaKQNRLIaMLEVHDTTGYGEQSGASTL
+7a3hA      AAMYTYIDDPSVK.EKVKEAVEAaIDLDIYvIIDWH.ILSDN.....IYK
+
+           101                                            150
+1bqcA      DQAVDYWIELKSVLQGEEDYVLINIGNEPYGNDSATVAAWATDTSAAIQR
+7a3hA      EEAKDFFDEMSELYGDY.PNVIYEIANEPN..GSDVTNQIKPYAEEVIPI
+
+           151                                            200
+1bqcA      LRAAGFEHTLVVDAPNWGQDWTNTMRNNADQVYASDPTGNTVFSIHMYGV
+7a3hA      IR.NNDPNIIIVGTGTWSQD....VHHAADN.QLAD..PNVMYAFHFYA.
+
+           201                                            250
+1bqcA      YSQASTITSYLEHFVNAGLPLIIGEFGHDHSDGNPDEDTIMAEAERLKLG
+7a3hA      .THGQNLRDQVDYALDQGAAIFVSEWGT..SAAT.EAQVWIDFMDERNLS
+
+           251                                            300
+1bqcA      YIGWSWSGNGGGVEYLDMVYNFDGDNLSPWGERIFYGPNGIASTAKEAVI
+7a3hA      WANWSLTHKD...ESSAALMNPTGGELSPSGTFVRE...KIRES~~~~~~
+
+           301 302
+1bqcA      FG
+7a3hA      ~~
+

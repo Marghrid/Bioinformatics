@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1tul_1dun.msf MSF:  136 Type: P 11/12/19 CompCheck: 8540 ..
+
+  Name: 1tul       Len: 136  Check: 9635 Weight: 1.00
+  Name: 1dun       Len: 136  Check: 8905 Weight: 1.00
+
+//
+
+           1                                               50
+1tul       gtpdiiv.......NAQINSEDENVLDFIIEDEYYLKkrgVGAHIIKVAS
+1dun       ~~~~~~~mlayqgtQIKEKRDEDAGFDLCVPYDIMIPv..SDTKIIPTDV
+
+           51                                             100
+1tul       Spqlrllykn...AYSTVSCG.....nygv.LCNLvq..NGEYDLNAIMF
+1dun       K.....iqvppnsFGWVTGKSsmakqgllinGGII..deGYTGEIQVICT
+
+           101                              136
+1tul       NCA..EIKLNKGQMLFQTKIWR~~~~~~~~~~~~~~
+1dun       NIGksNIKLIEGQKFAQLIILQhhsnsrqpwdenki
+

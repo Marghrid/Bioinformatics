@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cjxA_1qipA.msf MSF:  468 Type: P 11/12/19 CompCheck: 9852 ..
+
+  Name: 1cjxA      Len: 468  Check: 8152 Weight: 1.00
+  Name: 1qipA      Len: 468  Check: 1700 Weight: 1.00
+
+//
+
+           1                                               50
+1cjxA      enpmglmgfefiefasptpgtlepifeimgftkvathrsknvhlyrqgei
+1qipA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1cjxA      nlilnnepnsiasyfaaehgpsvcgmafrvkdsqkaynralelgaqpihi
+1qipA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1cjxA      dtgpmelnlpaikgiggaplylidrfgegssiydidfvylegvernpvga
+1qipA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1cjxA      glkvidhlt............................HNVYrgrMVYWAN
+1qipA      ~~~~~~~~~ggltdeaalsccsdadpstkdfllqqtmLRVK..dPKKSLD
+
+           201                                            250
+1cjxA      FYEKLFNFREARYFDIKGeyTGLTSKAMSAPD.................G
+1qipA      FYTRVLGMTLIQKCDFPI..MKFSLYFLAYEDkndipkekdekiawalsR
+
+           251                                            300
+1cjxA      MIRIPLNEESSkgagqieefl...mqfngegiqhvafltddlvktwdalk
+1qipA      KATLELTHNWG..........teddetqsy....................
+
+           301                                            350
+1cjxA      kigmrfmtappdtyyemlegrlpdhgepvdqlqargilldgssvegdkrl
+1qipA      ..................................................
+
+           351                                            400
+1cjxA      llqifsetlmgpvffefiqrkgddgfgegnfkalfesierdqvrrgvla~
+1qipA      .................................................h
+
+           401                                            450
+1cjxA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1qipA      ngnsdprgfghigiavpdvysackrfeelgvkfvkkpddgkmkglafiqd
+
+           451            468
+1cjxA      ~~~~~~~~~~~~~~~~~~
+1qipA      pdgywieilnpnkmatlm
+

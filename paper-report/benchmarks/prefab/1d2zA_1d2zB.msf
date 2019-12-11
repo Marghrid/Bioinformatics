@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d2zA_1d2zB.msf MSF:  151 Type: P 11/12/19 CompCheck: 6273 ..
+
+  Name: 1d2zB      Len: 151  Check: 5813 Weight: 1.00
+  Name: 1d2zA      Len: 151  Check:  460 Weight: 1.00
+
+//
+
+           1                                               50
+1d2zB      ssky.sRNTELRRVEDNDIYRLAKILDENSCWRKLMSIIpkgmdvqacsg
+1d2zA      ~~~~ldNTMAIRLLPLPVRAQLCAHLDALDVWQQLATAV...........
+
+           51                                             100
+1d2zB      agclnfpaeikkgfKYTAQDVFQIDEAANRLppdQSKSQMMIDEWKTSGk
+1d2zA      ..............KLYPDQVEQISSQKQRG...RSASNEFLNIWGGQY.
+
+           101                                            150
+1d2zB      lneRPTVGVLLQLLVQAELFSAADFVAldflnestparpvdgpgalisle
+1d2zA      ...NHTVQTLFALFKKLKLHNAMRLIK.dyvsedlhky............
+
+           151 151
+1d2zB      ~
+1d2zA      i
+

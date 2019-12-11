@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1c9kB_1esc.msf MSF:  352 Type: P 11/12/19 CompCheck: 3441 ..
+
+  Name: 1c9kB      Len: 352  Check: 5785 Weight: 1.00
+  Name: 1esc       Len: 352  Check: 7656 Weight: 1.00
+
+//
+
+           1                                               50
+1c9kB      milvtggarsgksrhaealigda.pqvlyiatsq...ILDde........
+1esc       ~~~~~~~~~~~~~~~~~~~~~~~dpvptvffgdsytaNFGiapvtnqdse
+
+           51                                             100
+1c9kB      .....maari..qhhkdgr....pahwr.taecw......RHLD......
+1esc       rgwcfqakenypavatrsladkgitldvqadvs.cggaliHHFWekqelp
+
+           101                                            150
+1c9kB      .......tlitadl..apdDAILLECittMVTNLLFALG...........
+1esc       fgagelppqqd...alkqdTQLTVGS...LGGNTLGFNRilkqcsdelrk
+
+           151                                            200
+1c9kB      .....GENdpeqw....................DYAAMERAIDDEIQILI
+1esc       psllpGDPv....dgdepaakcgeffgtgdgkqWLDDQFERVGAELEELL
+
+           201                                            250
+1c9kB      AACQRc.PAKVVLVTNEVGmgivp........................EN
+1esc       DRIGYfaPDAKRVLVGYPRlvpe.dttkcltaapgqtqlpfadipqdaLP
+
+           251                                            300
+1c9kB      RLARHFRDIAGRVNQRLAAAAdevwlvvsgigvkik~~~~~~~~~~~~~~
+1esc       VLDQIQKRLNDAMKKAAADGG...............adfvdlyagtgant
+
+           301                                            350
+1c9kB      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1esc       acdgadrgigglledsqlellgtkipwyahpndkgrdiqakqvadkieei
+
+           351 352
+1c9kB      ~~
+1esc       ln
+

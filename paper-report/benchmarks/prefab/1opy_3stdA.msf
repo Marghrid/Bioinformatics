@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1opy_3stdA.msf MSF:  170 Type: P 11/12/19 CompCheck: 9343 ..
+
+  Name: 3stdA      Len: 170  Check: 6962 Weight: 1.00
+  Name: 1opy       Len: 170  Check: 2381 Weight: 1.00
+
+//
+
+           1                                               50
+3stdA      eitfs...DYLGLMTCVYEWADSYDSKDWDRLRKVIAPTLRIDYrs.fld
+1opy       ~~~~~nlpTAQEVQGLMARYIELVDVGDIEAIVQMYADDATVED..pfgq
+
+           51                                             100
+3stdA      klweaMPAEEFVGMVSSkqvlgdptlrtqhfi.GGTRWE.kvsedeVIGY
+1opy       ppi..HGREQIAAFYRQ..gl.....kvracltGPVRAShn.....GCGA
+
+           101                                            150
+3stdA      HQLRVPHQRykdttmkevTMKGHAHSANLHWYKKIdgvWKFAGLKPDIr.
+1opy       MPFRVEMVW........nGQPCALDVIDVMRFDEH...GRIQTMQAYW.s
+
+           151              170
+3stdA      ..wgefdfdrifedgretfg
+1opy       evnlsv~~~~~~~~~~~~~~
+

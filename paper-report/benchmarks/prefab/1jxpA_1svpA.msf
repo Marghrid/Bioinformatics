@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1jxpA_1svpA.msf MSF:  206 Type: P 11/12/19 CompCheck: 4772 ..
+
+  Name: 1jxpA      Len: 206  Check: 2007 Weight: 1.00
+  Name: 1svpA      Len: 206  Check: 2765 Weight: 1.00
+
+//
+
+           1                                               50
+1jxpA      itaysqqtrgllgciitsltgrdknqv.....EGEVQVVSTA..tQSFLA
+1svpA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~alkleADRLFDVKNEdgdVIGHA
+
+           51                                             100
+1jxpA      TCVNGVCWTVYHGAgskt...lAGPkg..PITQmyTNVDQDLVGWQAPPG
+1svpA      LAMEGKVMKPLHVK....gtidHPV..lsKLKF.tKSSAYDMEFAQLPVN
+
+           101                                            150
+1jxpA      A..RSLTPCTCGS.sDLYLVtrhadvIPVRRRGDsRGSLlsPRPVsYLKG
+1svpA      MrsEAFTYTSEHPegFYNWH.....hGAVQYSGG.RFTI..PRGV.GGRG
+
+           151                                            200
+1jxpA      SSGGPLLCPSGHAVGIFRAAVCTRgVAKAVDFVPVEsm..ettm~~~~~~
+1svpA      DAGRPIMDNSGRVVAIVLGGADEG.TRTALSVVTWN..skgktikttpeg
+
+           201
+1jxpA      ~~~~~~
+1svpA      teewsa
+

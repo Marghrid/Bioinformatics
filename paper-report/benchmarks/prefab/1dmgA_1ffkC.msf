@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dmgA_1ffkC.msf MSF:  172 Type: P 11/12/19 CompCheck: 6153 ..
+
+  Name: 1dmgA      Len: 172  Check: 2340 Weight: 1.00
+  Name: 1ffkC      Len: 172  Check: 3813 Weight: 1.00
+
+//
+
+           1                                               50
+1dmgA      AQVDLLNVKGEKVGTLEISDFVFNIDPNYDVMWRYVDMQLSDWSKKLNKK
+1ffkC      MEATIYDLDGNTDGEVDLPD.VFETPVRSDLIGKAVRAAQA.....LNDK
+
+           51                                             100
+1dmgA      MKKLALRSALSVKYRENKLLVLDDLKLERPKTKSLKEILQNLQLSDKKTL
+1ffkC      ERQLAVRSALAATADAEVPVVVSDFEDL.VKTQEVVSLLEALDVHADSIL
+
+           101                                            150
+1dmgA      IVLPWKEEGYMNVKLSGRNLPDVKVIIADNPNNSKNGEKAVRIDGLNVFD
+1ffkC      FVTSDE.......STAARNLAGADVATA...............SEVNTED
+
+           151                172
+1dmgA      MLKYDYLVLTRDMVSKIEEVLG
+1ffkC      LAP.RLTVFTESAL.AEVAER~
+

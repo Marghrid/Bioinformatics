@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aqb_1avgI.msf MSF:  216 Type: P 11/12/19 CompCheck: 4960 ..
+
+  Name: 1aqb       Len: 216  Check: 5432 Weight: 1.00
+  Name: 1avgI      Len: 216  Check: 9528 Weight: 1.00
+
+//
+
+           1                                               50
+1aqb       er.dcrv.SSFRVKENFDKARF.sgtwyamakkdpeglflqdnivaefsv
+1avgI      ~~aegddcSIEKAMGDFKPEEFfngtwylah...................
+
+           51                                             100
+1aqb       de................nghmsatakgrvrllnnwd.............
+1avgI      ..gpgvtspavcqkfttsgskg...............ftqiveigynkfe
+
+           101                                            150
+1aqb       vcadmvgtftd.TEDPaKFKMKYWGvasfLQKGNDDHWIIDTDYDTYAVQ
+1avgI      snvkfqcnqvdnKNGE.QYSFKCKSsd..NTEFEADFTFISVSYDNFALV
+
+           151                                            200
+1aqb       YSCRlqnldgtc......aDSYSFVFARDPHgfspevqkivrqrqeelcl
+1avgI      CRSI........tftsqpkEDRYLVFERTKS...................
+
+           201          216
+1aqb       arqyri.ithn.GYCD
+1avgI      ......dtdpdaKEIC
+

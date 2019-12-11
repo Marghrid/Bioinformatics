@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3seb_1enfA.msf MSF:  261 Type: P 11/12/19 CompCheck: 3135 ..
+
+  Name: 3seb       Len: 261  Check: 4895 Weight: 1.00
+  Name: 1enfA      Len: 261  Check: 8240 Weight: 1.00
+
+//
+
+           1                                               50
+3seb       esqpdpkpdelhksskft....gl..me.nmkvlydd..NHVSAINVKSI
+1enfA      ~~~~~~~~~~~~~~~~~~dlhdkseltdlalanaygqynHPFIKENIKSD
+
+           51                                             100
+3seb       DQfl.YFDLIYSI.kdtklgnyDNVRVEFKNk.DLADKYKd.KYVDVFGA
+1enfA      EI.sgEKDLIFRNqgdsg....NDLRVKFAT.aDLAQKFK.nKNVDIYGA
+
+           101                                            150
+3seb       NYYYQCyfskktndinshqtd.....KRKTCMYGGVTEHng.NQLDKYRS
+1enfA      SFYYKC...............ekiseNISECLYGGTTLN..sEKLAQERV
+
+           151                                            200
+3seb       ITVRVFEDGKNLLSFDVQTNKKKVTAQELDYLTRHYLVKNKKLYEfNNSP
+1enfA      IGANVWVDGIQKETELIRTNKKNVTLQELDIKIRKILSDKYKIYY.KDSE
+
+           201                                            250
+3seb       YETGYIKFIEn.ENSFWYDMMPApgdk..FDQSKYLMMYNDNKMVDSKDV
+1enfA      ISKGLIEFDMktPRDYSFDIYDL....kgENDYEIDKIYEDNKTLKSDDI
+
+           251     261
+3seb       .KIEVYLTTkk
+1enfA      sHIDVNLYT~~
+

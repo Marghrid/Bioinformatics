@@ -1,0 +1,65 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2mbr_1qltA.msf MSF:  680 Type: P 11/12/19 CompCheck: 8601 ..
+
+  Name: 2mbr       Len: 680  Check: 2631 Weight: 1.00
+  Name: 1qltA      Len: 680  Check: 5970 Weight: 1.00
+
+//
+
+           1                                               50
+2mbr       h.............................................slkp
+1qltA      ~frpltlppklslsdfnefiqdiirivgsenvevisvdgsymkpththdp
+
+           51                                             100
+2mbr       wntfgid....HNAQHIVCAEDEQQLLNAWQYATAEGQPVLILGEGSNvl
+1qltA      ...hhvmdqdyFLASAIVAPRNVADVQSIVGLANKFSFPLWPISIGRNs.
+
+           101                                            150
+2mbr       fle........DYRGTVIINR..IKGI.eihdepdAWYLHVGAGENWHRL
+1qltA      ...gyggaaprVSGSVVLDMGknMNRVlevnve..GAYCVVEPGVTYHDL
+
+           151                                            200
+2mbr       VKYTLQEG....mpgleNLALIPGCVGSSPIQNIGAYG..VELQRVCAYV
+1qltA      HNYLEANNlrdklwld.VPDLGGGSVLGNAVERGVGYTpyGDHWMMHSGM
+
+           201                                            250
+2mbr       DSVELAtgkqvrlta...................................
+1qltA      EVVLAN.gellrtg.mgalpdpkrpetmglkpedqpwskiahlfpygfgp
+
+           251                                            300
+2mbr       kecrfgyrdsifkheyQDRFAIVAVGLRLPkewqpvltygdltrldpttv
+1qltA      yidg.....lfsq...SNMGIVTKIGIWLMp...................
+
+           301                                            350
+2mbr       tpqqvfnavchmrttklpdpk.............................
+1qltA      .....................npggyqsylitlpkdgdlkqavdiirplr
+
+           351                                            400
+2mbr       ..................................................
+1qltA      lgmalqnvptirhilldaavlgdkrsyssrteplsdeeldkiakqlnlgr
+
+           401                                            450
+2mbr       ..................................................
+1qltA      wnfygalygpepirrvlwetikdafsaipgvkfyfpedtpensvlrvrdk
+
+           451                                            500
+2mbr       ..................vngnags.ffknpvvsaetakallsqfptapn
+1qltA      tmqgiptydelkwidwlpngaa...lffsp....................
+
+           501                                            550
+2mbr       ypqadgsvklaagwlidqcqlkgmqiggaavhrqqa..............
+1qltA      ....................................iakvsgedammqya
+
+           551                                            600
+2mbr       ...........................lvlinedna...ksedvvqlahh
+1qltA      vtkkrcqeagldfigtftvgmremhhivcivfnkk.dliqkrkvqwlmrt
+
+           601                                            650
+2mbr       vrqkvgekfnvwlepevrfigasge..vsavetis~~~~~~~~~~~~~~~
+1qltA      liddcaa..ngwgeyrthl......afmdqime..tynwnnssflrfnev
+
+           651                        680
+2mbr       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1qltA      lknavdpngiiapgksgvwpsqyshvtwkl
+

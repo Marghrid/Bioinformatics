@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1f2nA_2tbvA.msf MSF:  189 Type: P 11/12/19 CompCheck: 8234 ..
+
+  Name: 1f2nA      Len: 189  Check: 1150 Weight: 1.00
+  Name: 2tbvA      Len: 189  Check: 7084 Weight: 1.00
+
+//
+
+           1                                               50
+1f2nA      LSSNTWPLHSVEFLADFKRSSTSADATTYDCVPFNLPRVWSLARCYSMWK
+2tbvA      ~~~GVTVTSHREYLTQVNNSS.GFVVN.LQLNPSNFSWLPALASNFDQYS
+
+           51                                             100
+1f2nA      PTRWDVVYLPEVSATVAGSIEMCFLYDYADTIPRYTGKMSRTAGFVTSSV
+2tbvA      FNSVVLDYVPLCGTTEVGRVALYFDKDSQDPEPADRVELANFGVLKETAP
+
+           101                                            150
+1f2nA      WYGAEGCHLLSGGSARNAVVASMDCSRVGWKRVTSSIPSSVDPNVVNTIL
+2tbvA      WAE...............AMLRIPTD.KVKRYCNDSATV.....DQKLID
+
+           151                                 189
+1f2nA      PARLAVRSSIKPTVSDTPGKLYVIASMVLRDPVDPTLNT
+2tbvA      LGQLGIATYGGA.GADAVGELFLARSVTLYFPQPTNT~~
+

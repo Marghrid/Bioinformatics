@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ha1_1f9fA.msf MSF:  176 Type: P 11/12/19 CompCheck: 4962 ..
+
+  Name: 1ha1       Len: 176  Check: 1073 Weight: 1.00
+  Name: 1f9fA      Len: 176  Check: 3889 Weight: 1.00
+
+//
+
+           1                                               50
+1ha1       epeqlrKLFIGglSFETt.DESLRSHfe...QWGTltdcv.VMRdpntkr
+1f9fA      hmtp..IIHLKg.DRNS.lKCLRYRL..rkhSDHY.rdissTWHw.....
+
+           51                                             100
+1ha1       s..RGFGFVTYATVEEVDAAMNARPHKvdgRVVEPKRAVsreahltvkki
+1f9fA      .ekTGILTVTYHSETQRTKFLNTVAIP...DSVQILVGYm..........
+
+           101                                            150
+1ha1       fvggikedteehhlrdyfeqygkievieimtdrgsgkkrgfafvtfddhd
+1f9fA      ..................................................
+
+           151                    176
+1ha1       svdkiviqkyhtvnghncevrkal~~
+1f9fA      ........................tm
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2ccyA_256bA.msf MSF:  133 Type: P 11/12/19 CompCheck: 6398 ..
+
+  Name: 2ccyA      Len: 133  Check: 1768 Weight: 1.00
+  Name: 256bA      Len: 133  Check: 4630 Weight: 1.00
+
+//
+
+           1                                               50
+2ccyA      qskpedllkLRQGLMQTLKSQWVPIAgfaagkadlpaDAAQRAENMAMVA
+256bA      ~~~~~~~~aDLEDNMETLNDNLKVIEka.....dnaaQVKDALTKMRAAA
+
+           51                                             100
+2ccyA      KLAPIGWakgtealpng.etkpea....fGSKSAEFLEGWKALATESTKL
+256bA      LDAQKAT..........ppkle..dkspdSPEMKDFRHGFDILVGQIDDA
+
+           101                           133
+2ccyA      AAAAKa.GPDALKAQAAATGKVCKACHEEFKqd
+256bA      LKLANegKVKEAQAAAEQLKTTRNAYHQKYR~~
+

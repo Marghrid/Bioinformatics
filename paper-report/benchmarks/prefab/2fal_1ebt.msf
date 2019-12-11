@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2fal_1ebt.msf MSF:  146 Type: P 11/12/19 CompCheck: 7150 ..
+
+  Name: 2fal       Len: 146  Check: 3431 Weight: 1.00
+  Name: 1ebt       Len: 146  Check: 3719 Weight: 1.00
+
+//
+
+           1                                               50
+2fal       SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKS
+1ebt       ~LSAAQKDNVTSSWAKASAAWGTAGPEFFMALFDAHDDVFAKFGLFSGAA
+
+           51                                             100
+2fal       VADIKASPKLRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGV
+1ebt       KGTVKNTPEMAAQAQSFKGLVSNWVDNLDNAGALEGQCKTFAANHKARGI
+
+           101                                        146
+2fal       GSAQFENVRSMFPGFVASVAAPPAGADAAWTKLFGLIIDALKAAGA
+1ebt       SAGQLEAAFKVLSGFMK.SYGG...DEGAWTAVAGALMGEIEPNM~
+

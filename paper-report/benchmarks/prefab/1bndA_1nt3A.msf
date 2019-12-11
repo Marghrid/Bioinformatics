@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bndA_1nt3A.msf MSF:  114 Type: P 11/12/19 CompCheck: 9366 ..
+
+  Name: 1bndA      Len: 114  Check: 5849 Weight: 1.00
+  Name: 1nt3A      Len: 114  Check: 3517 Weight: 1.00
+
+//
+
+           1                                               50
+1bndA      gq...LSVCDSISEWVTaaDKKTAVDMSGGTVTVLEKVPVSKGQLKQYFY
+1nt3A      ~~rgeYSVCDSESLWVT..DKSSAIDIRGHQVTVLGEIKTGNSPVKQYFY
+
+           51                                             100
+1bndA      ETKCNPmgytke..GCRGIDKRHWNSQCRTTQSYVRALTMDSKKRIGWRF
+1nt3A      ETRCKE..arpvknGCRGIDDKHWNSQCKTSQTYVRALTSENNKLVGWRW
+
+           101        114
+1bndA      IRIDTSCVCTLTIK
+1nt3A      IRIDTSCVCALSRK
+

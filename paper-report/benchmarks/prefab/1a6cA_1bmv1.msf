@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a6cA_1bmv1.msf MSF:  538 Type: P 11/12/19 CompCheck: 1655 ..
+
+  Name: 1bmv1      Len: 538  Check: 4606 Weight: 1.00
+  Name: 1a6cA      Len: 538  Check: 7049 Weight: 1.00
+
+//
+
+           1                                               50
+1bmv1      is................................................
+1a6cA      ~~vtvvpdptccgtlsfkvpkdakkgkhlgtfdirqaimdygglhsqewc
+
+           51                                             100
+1bmv1      ..................................................
+1a6cA      akgivnptftvrmhaprnafaglsiactfddykridlpalgnecppsemf
+
+           101                                            150
+1bmv1      ..................................................
+1a6cA      elptkvfmlkdadvhewqfnygeltghglcnwanvatqptlyffvastnq
+
+           151                                            200
+1bmv1      ..................................................
+1a6cA      vtmaadwqcivtmhvdmgpvidrfelnptmtwpiqlgdtfaidryyeake
+
+           201                                            250
+1bmv1      ..................................................
+1a6cA      ikldgstsmlsisynfggpvkhskkhaisysravmsrnlgwsgtisgsvk
+
+           251                                            300
+1bmv1      ..................................................
+1a6cA      svsslfctasfvifpweceapptlrqvlwgphqimhgdgqfeiaiktrlh
+
+           301                                            350
+1bmv1      ..................................................
+1a6cA      saatteegfgrlgilplsgpiapdahvgsyefivhintwrpdsqvhppmf
+
+           351                                            400
+1bmv1      qQTVWNQMATVRTPlnfd.SSKQSFCQFSVDl..lggGISVDktgdWITL
+1a6cA      sSSELYNWFTLTNLk...pDANTGVVNFDIP.gyihdFASKD....ATVT
+
+           401                                            450
+1bmv1      VQNSPISNLLRVAAWKKGCLMVKVVMSGNaaVKRSDWASLVQVFLTNsns
+1a6cA      LASNPLSWLVAATGWHYGEVDLCISWSRS..KQAQAQEGSVSITTNYr.d
+
+           451                                            500
+1bmv1      tehfdaCRWTKSEphSWELIFPIEVCGpnngfemwssewaNQTSWHLSFL
+1a6cA      wgayw.QGQARIY..DLRRTEAEIPIF...lgsyagat.pSGALGKQNYV
+
+           501                                538
+1bmv1      V.DNPk.QSTT.FDVLLGISqNFEIAGNTLMPAfsvpq
+1a6cA      RiSIVnaKDIVaLRVCLRPK.SIKFWGRSATLF~~~~~
+

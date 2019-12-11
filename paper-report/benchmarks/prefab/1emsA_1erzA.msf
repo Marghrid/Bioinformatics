@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1emsA_1erzA.msf MSF:  443 Type: P 11/12/19 CompCheck: 2354 ..
+
+  Name: 1emsA      Len: 443  Check: 2042 Weight: 1.00
+  Name: 1erzA      Len: 443  Check:  312 Weight: 1.00
+
+//
+
+           1                                               50
+1emsA      matGRHFIAVCQMTSD...NDLEKNFQAAKNMIERAGEKKCEMVFLPECF
+1erzA      ~~tRQMILAVGQQGPIaraETREQVVVRLLDMLTKAASRGANFIVFPELA
+
+           51                                             100
+1emsA      DFIGl..........nkneqidlAMATDCEYMEKYRELARKHNIWLSLgG
+1erzA      LTTF.fprwhftdeaeldsfy..ETEMPGPVVRPLFEKAAELGIGFNL.G
+
+           101                                            150
+1emsA      LHHKDPsda...aHPWNTHLIIDSDGVTRAEYNKLHLFDL.eipgkv..r
+1erzA      YAELVVe..ggvkRRFNTSILVDKSGKIVGKYRKIHLPGHkeyeayrpfq
+
+           151                                            200
+1emsA      LMESEFSKAGTEMIPPVDTPIGRLGLSICYDVRFPELSLWNRKRGAQLLS
+1erzA      HLEKRYFEPGDLGFPVYDVDAAKMGMFICNDRRWPEAWRVMGLRGAEIIC
+
+           201                                            250
+1emsA      FPSAFTLN.........tGLAHWETLLRARAIENQCYVVAAAQTGAHNpk
+1erzA      GGYNTPTHnppvpqhdhlTSFHHLLSMQAGSYQNGAWSAAAGKVGMEE.n
+
+           251                                            300
+1emsA      RQSYGHSMVVDPWGAVVAQCSE.RVDMCFAEIDLSYVDTLREMQPVFs.H
+1erzA      CMLLGHSCIVAPTGEIVALTTTlEDEVITAAVDLDRCRELREHIFNFkqH
+
+           301                                            350
+1emsA      RRSDLYT.lhinekssetgglkfarfnipadhifystphsfvfvnlkpvt
+1erzA      RQPQHYGliael~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                            400
+1emsA      dghvlvspkrvvprltdltdaetadlfivakkvqamlekhhnvtstticv
+1erzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           401                                     443
+1emsA      qdgkdagqtvphvhihilprragdfprsneqmaeeavvyrnlm
+1erzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

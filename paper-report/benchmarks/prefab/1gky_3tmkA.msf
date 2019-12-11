@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1gky_3tmkA.msf MSF:  261 Type: P 11/12/19 CompCheck: 9469 ..
+
+  Name: 3tmkA      Len: 261  Check: 5041 Weight: 1.00
+  Name: 1gky       Len: 261  Check: 4428 Weight: 1.00
+
+//
+
+           1                                               50
+3tmkA      mgrGKLILIEGLDRTGKTTQCNILYKKLQPNCKLLkfp............
+1gky       ~~~SRPIVISGPSGTGKSTLLKKLFAEYPDSFGFS...vssttrtprage
+
+           51                                             100
+3tmkA      .....erSTRigglineyltddsfqls................dqaihll
+1gky       vngkdynFVSv................defksmiknnefiewaqfsg.ny
+
+           101                                            150
+3tmkA      fsanrwe.IVDKIKKDLLEGKNIVMDRyvysgvaysaakgtngmdldwcl
+1gky       yg.....sTVASVKQVSKSGKTCILDI..dmqg.................
+
+           151                                            200
+3tmkA      qp.....dvglLKPdltlflstqdv..dnnaeksg...fgderye..tvk
+1gky       ..vksvkaipeLNA.rflfiappsvedlkkr....legrgtet..eesin
+
+           201                                            250
+3tmkA      FQEKVKQTFMKLLDKEIrkgdeSITIVDVtnKGIQEVEALIWQIVEPVLs
+1gky       KRLSAAQAELAYAETGA.....HDKVIVN..DDLDKAYKELKDFIFAEK~
+
+           251     261
+3tmkA      thidhdkfsff
+1gky       ~~~~~~~~~~~
+

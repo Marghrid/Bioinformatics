@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3ullA_1kawB.msf MSF:  110 Type: P 11/12/19 CompCheck: 6705 ..
+
+  Name: 3ullA      Len: 110  Check: 4012 Weight: 1.00
+  Name: 1kawB      Len: 110  Check: 2693 Weight: 1.00
+
+//
+
+           1                                               50
+3ullA      leRSLNRVHLLGRVGQDPVLRQvegknPVTIFSLATNEMwrsdvsQKTTW
+1kawB      ~~RGVNKVILVGNLGQDPEVRY....mAVANITLATSES......EQTEW
+
+           51                                             100
+3ullA      HRISVFRpGLRDVAYQYVKKGSRIYLEGKIDYGEYMDk.NNVRRQATTII
+1kawB      HRVVLFG.KLAEVASEYLRKGSQVYIEGQLRTRKWTDqsGQDRYTTEVVV
+
+           101    110
+3ullA      ...ADNIIFl
+1kawB      nvgGTMQML~
+

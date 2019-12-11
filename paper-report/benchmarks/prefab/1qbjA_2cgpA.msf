@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qbjA_2cgpA.msf MSF:  206 Type: P 11/12/19 CompCheck: 4044 ..
+
+  Name: 2cgpA      Len: 206  Check: 1126 Weight: 1.00
+  Name: 1qbjA      Len: 206  Check: 2918 Weight: 1.00
+
+//
+
+           1                                               50
+2cgpA      ptlewflshchihkypskstlihqgekaetlyyivkgsvavlikdeegke
+1qbjA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+2cgpA      milsylnqgdfigelglfeegqersawvraktacevaeisykkfrqliqv
+1qbjA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+2cgpA      npdilmrlsaqmarrlqvtsekvgnlafl....DVTGRIAQTLLNLAkqp
+1qbjA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~siyqDQEQRILKFLEELG...
+
+           151                                            200
+2cgpA      damthpdgMQIKITRQEIGQIVGCSRETVGRILKMLEDQNLISAH...GK
+1qbjA      ........EGKATTAHDLSGKLGTPKKEINRVLYSLAKKGKLQKEagtPP
+
+           201
+2cgpA      TIVVYg
+1qbjA      LWKIA~
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hssA_1bea.msf MSF:  131 Type: P 11/12/19 CompCheck: 6249 ..
+
+  Name: 1hssA      Len: 131  Check: 7360 Weight: 1.00
+  Name: 1bea       Len: 131  Check: 8889 Weight: 1.00
+
+//
+
+           1                                               50
+1hssA      mCYPGQAFQVPALPACRPLLRLQCNGSQv...PEAVLRDCCQQLAHISEW
+1bea       sCVPGWAIPHNPLPSCRWYVTSRTCGIGprlpWPELKRRCCRELADIPAY
+
+           51                                             100
+1hssA      CRCGALYSMLDSmykehg..............afpr.CRREVVKLTAASI
+1bea       CRCTALSILMDG......aippgpdaqlegrledlpgCPREVQRGFAATL
+
+           101                         131
+1hssA      TA..VCRLPIVvdasgdGAYVCKDVAaypda
+1bea       VTeaECNLATIs.....GVAECPWILg~~~~
+

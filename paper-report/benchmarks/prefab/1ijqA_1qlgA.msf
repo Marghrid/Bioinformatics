@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ijqA_1qlgA.msf MSF:  308 Type: P 11/12/19 CompCheck: 4100 ..
+
+  Name: 1ijqA      Len: 308  Check: 7083 Weight: 1.00
+  Name: 1qlgA      Len: 308  Check: 7017 Weight: 1.00
+
+//
+
+           1                                               50
+1ijqA      IAYLFFTNRHEVRKMTLDRSEYTSLIPNLRNVVALDTEVASNRIYWSDLS
+1qlgA      NSKLITTNKSGLAVYSLEGKMLHS.YHTG.KLNNVDIRYDFDIAAASNRS
+
+           51                                             100
+1ijqA      QRMICSTQLYDTVISRDIQAPDGLAVDWIHSNIYWTDSVLGTVSVADTKG
+1qlgA      KNTIEIYAQSITPIASAIDEVYGFSLYHSKYYAMVTGKE.GEFEQYELSG
+
+           101                                            150
+1ijqA      VKRKTLFRENGSKPRAIVVDPVHGFMYWTDWGTPAKIKKGGLNGVDIYSL
+1qlgA      KKVRA.FKMN.SQTEGMAADDEYGSLYIAEED..EAIWKFSAGGSNGTVI
+
+           151                                            200
+1ijqA      VTENIQWPNGITLDLLSGRLYWVDSKLHSISSIDVNGGNRKTILEDEKRL
+1qlgA      DRRHLTDIEGLTIYYAKGYLLASSQGNSSYAIYERQNKYVAD.FQITDGT
+
+           201                                            250
+1ijqA      AHPFSLAVFEDKVFWTDIINEAIFSANRLTGSDVNLLAENLLSPEDMVLF
+1qlgA      SDTDGIDVLGGLFVAQNGENQNFKMVPWERI...................
+
+           251                                            300
+1ijqA      HNLTQPRGVNWaERTTLSNGGbQYLaLPAPQINPHSPKFTbAcPDGMLLA
+1qlgA      ..DPRKMTD~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301  308
+1ijqA      RDMRScLT
+1qlgA      ~~~~~~~~
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3chbD_1prtF.msf MSF:  117 Type: P 11/12/19 CompCheck: 1251 ..
+
+  Name: 3chbD      Len: 117  Check: 9123 Weight: 1.00
+  Name: 1prtF      Len: 117  Check: 2128 Weight: 1.00
+
+//
+
+           1                                               50
+3chbD      tpqnitdlcaeyhNTQIHTLNDKIFSYTESLAGKREMAIITFK....NGA
+1prtF      ~~~~~~~~~~~~~LPTHLYKNFTVQELALKLKGKNQEFCLTAFmsgrSLV
+
+           51                                             100
+3chbD      TFQVEVPGsqhidsqkKAIERMKDTLRIAYLTEAKVekLCVWNNk....T
+1prtF      RACLSDAG...hehd.TWFDTMLGFAISAYALKSRI.aLTVEDS.pypgT
+
+           101           117
+3chbD      PRAIAAISMAN~~~~~~
+1prtF      PGDLLELQICPlngyce
+

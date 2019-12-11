@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bpv_2fnbA.msf MSF:  110 Type: P 11/12/19 CompCheck: 4333 ..
+
+  Name: 2fnbA      Len: 110  Check: 2236 Weight: 1.00
+  Name: 1bpv       Len: 110  Check: 2097 Weight: 1.00
+
+//
+
+           1                                               50
+2fnbA      rgs.eVPQLTDLSFVDITDSSIGLRWTPLNs...STIIGYRITVVAAGEg
+1bpv       ~~~spIDPPGKPVPLNITRHTVTLKWAKPEytggFKITSYIVEKRDLPN.
+
+           51                                             100
+2fnbA      ipife...dfvdssVGYYTVTGLEPGIDYDISVITLIng.gesa.PTTL.
+1bpv       grwlkanfsnil..ENEFTVSGLTEDAAYEFRVIAKNaagaisppSEPSd
+
+           101    110
+2fnbA      tqqt~~~~~~
+1bpv       aitcrddvea
+

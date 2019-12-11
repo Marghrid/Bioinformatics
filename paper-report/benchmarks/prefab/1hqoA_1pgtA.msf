@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hqoA_1pgtA.msf MSF:  227 Type: P 11/12/19 CompCheck: 4348 ..
+
+  Name: 1hqoA      Len: 227  Check: 2274 Weight: 1.00
+  Name: 1pgtA      Len: 227  Check: 2074 Weight: 1.00
+
+//
+
+           1                                               50
+1hqoA      FQEQPLEGYTLFSHRSAPNGFKVAIVLSELGFHYNTIFLDFNLGEHRAPE
+1pgtA      ~~~~~MPPYTVVYFPVRGRCAALRMLLADQGQSWKEEVVTV..ETWQGSL
+
+           51                                             100
+1hqoA      FVSVNPNARVPALIDHGXDNLSIWESGAILLHLVNKYYKETGNPLLWSDD
+1pgtA      KAS.CLYGQLPKFQDG...DLTLYQSNTILRHLGRTL.......GLYGKD
+
+           101                                            150
+1hqoA      LADQSQINAWLFFQTSGHAPXIGQALHFRYFHSQKIASAVERYTDEVRRV
+1pgtA      QQEAALVDMVNDGVE.DLRCKYVSLITNYE.......AGKDDYVKALPGQ
+
+           151                                            200
+1hqoA      YGVVEXALAERREALVXFDYPVWLVGDKLTIADLAFVPWNNVVDRIGINI
+1pgtA      LKPFETLLSQNQG.......KTFIVGDQISFADYNLLDLLLIHEVLAGCL
+
+           201                     227
+1hqoA      KIEFPEVYKWTKHXXRRPAVIKALRGE
+1pgtA      D.AFPLLSAYVGRLSARPKLKAFLASP
+

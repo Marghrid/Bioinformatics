@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2gmfA_1f6fA.msf MSF:  203 Type: P 11/12/19 CompCheck: 9051 ..
+
+  Name: 2gmfA      Len: 203  Check: 6988 Weight: 1.00
+  Name: 1f6fA      Len: 203  Check: 2063 Weight: 1.00
+
+//
+
+           1                                               50
+2gmfA      ~~~~~~~~~~~~~rspspSTQP.WEHVNAIQEARRLLNLS..RDtaaemn
+1f6fA      aqhppycrnqpgkcqip.LQSLfDRATTVANYNSKLAGEMvnRFdeq...
+
+           51                                             100
+2gmfA      etve.....visemfdlqeptc..................LQTRLELYKQ
+1f6fA      ....yvinchtssitt......pnskaeaintedkilfklVISLLHSWDE
+
+           101                                            150
+2gmfA      GL...........rgslt.KLKGPLTMMASHYKQHCP......ptpetsC
+1f6fA      PLhhavtelanpalltkaqEIKEKAKVLVDGVEVIQKrihpgeknep..Y
+
+           151                                            200
+2gmfA      ATQIi...............tfesfkenlkdfllvi...PFDcwep~~~~
+1f6fA      PVWS.eqssltsqdenvrrvafyrlfhclhrdsskiytyLRIl...kcrl
+
+           201 203
+2gmfA      ~~~
+1f6fA      tsc
+

@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d3bA_1i8fA.msf MSF:  72 Type: P 11/12/19 CompCheck: 9020 ..
+
+  Name: 1d3bA      Len: 72  Check: 5849 Weight: 1.00
+  Name: 1i8fA      Len: 72  Check: 3171 Weight: 1.00
+
+//
+
+           1                                               50
+1d3bA      GVPIKVLHEAEGHIVTCETNTGEVYRGKLIEAEDNMNCQMSNITVTYrDG
+1i8fA      ATLGATLQDSIGKQVLVKLRDSHEIRGILRSFDQHVNLLLEDAEEII.DG
+
+           51                  72
+1d3bA      RVAQLEQVYIRGCKIRFLILPd
+1i8fA      NVYKRGTMVVRGENVLFISPVp
+

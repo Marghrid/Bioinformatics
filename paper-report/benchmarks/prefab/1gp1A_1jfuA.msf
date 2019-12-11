@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1gp1A_1jfuA.msf MSF:  220 Type: P 11/12/19 CompCheck:    8 ..
+
+  Name: 1jfuA      Len: 220  Check: 8702 Weight: 1.00
+  Name: 1gp1A      Len: 220  Check: 1306 Weight: 1.00
+
+//
+
+           1                                               50
+1jfuA      gdpacraavataqkiaplahgevaaltmasaplklpDLAFEDa.DGKPKK
+1gp1A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~rtvyAFSARPlaGGEPFN
+
+           51                                             100
+1jfuA      LSDFRGKTLLVNLWATWCVPCRKEMPALDELQGKLSGPNFEVVAINI...
+1gp1A      LSSLRGKVLLIENVASLXGTTVRDYTQMNDLQRRLGPRGLVVLGFPCnqf
+
+           101                                            150
+1jfuA      ...dTRDPEKPKTFLKE.....ANLTRLGyfndqkakvf....qdlkaig
+1gp1A      ghqeNAKNEEILNCLKYvrpggGFEPNFMlfek..cevngekahplfafl
+
+           151                                            200
+1jfuA      r.............................ALGMPTSVLVDPQGCEIATI
+1gp1A      revlptpsddatalmtdpkfitwspvcrndVSWNFEKFLVGPDGVPVRRY
+
+           201              220
+1jfuA      AGPAEWAsedALKLIRAATG
+1gp1A      SRRFLTId..IEPDIETLLS
+

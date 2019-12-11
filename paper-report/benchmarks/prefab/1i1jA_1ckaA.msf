@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1i1jA_1ckaA.msf MSF:  106 Type: P 11/12/19 CompCheck: 9639 ..
+
+  Name: 1i1jA      Len: 106  Check:  881 Weight: 1.00
+  Name: 1ckaA      Len: 106  Check: 8758 Weight: 1.00
+
+//
+
+           1                                               50
+1i1jA      gpmpkladrklcadqecshpiSMAVALQDYMAPDCRFLTIHRGQVVYVFS
+1ckaA      ~~~~~~~~~~~~~~~~~~~~aEYVRALFDFNGNDEEDLPFKKGDILRIRD
+
+           51                                             100
+1i1jA      KLkgrgRLFWGGSVQgdyygdlAARLGYFPSSIVREdqtlkpgkvdvktd
+1ckaA      KP...eEQWWNAEDS.......EGKRGMIPVPYVEK~~~~~~~~~~~~~~
+
+           101
+1i1jA      kwdfyc
+1ckaA      ~~~~~~
+

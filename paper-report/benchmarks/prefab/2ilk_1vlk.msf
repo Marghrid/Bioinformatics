@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2ilk_1vlk.msf MSF:  155 Type: P 11/12/19 CompCheck: 7822 ..
+
+  Name: 2ilk       Len: 155  Check: 4797 Weight: 1.00
+  Name: 1vlk       Len: 155  Check: 3025 Weight: 1.00
+
+//
+
+           1                                               50
+2ilk       tqsenscthfpgnLPNMLRDLRDAFSRVKTFFQMKDQLDNLLLKESLLED
+1vlk       ~~~~~~~~~~cdnFPQMLRDLRDAFSRVKTFFQTKDEVDNLLLKESLLED
+
+           51                                             100
+2ilk       FKGYLGCQALSEMIQFYLEEVMPQAENQDPDIKAHVNSLGENLKTLRLRL
+1vlk       FKGYLGCQALSEMIQFYLEEVMPQAENQDPEAKDHVNSLGENLKTLRLRL
+
+           101                                            150
+2ilk       RRCHRFLPCENKSKAVEQVKNAFNKLQEKGIYKAMSEFDIFINYIEAYMT
+1vlk       RRCHRFLPCENKSKAVEQIKNAFNKLQEKGIYKAMSEFDIFINYIEAYMT
+
+           151
+2ilk       MKirn
+1vlk       IK~~~
+

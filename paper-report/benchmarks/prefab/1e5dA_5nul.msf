@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1e5dA_5nul.msf MSF:  401 Type: P 11/12/19 CompCheck: 7758 ..
+
+  Name: 1e5dA      Len: 401  Check: 6717 Weight: 1.00
+  Name: 5nul       Len: 401  Check: 1041 Weight: 1.00
+
+//
+
+           1                                               50
+1e5dA      QATKIIDGFHLVGAIDWNSRDFHGYTLSPMGTTYNAYLVEDEKTTLFDTV
+5nul       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1e5dA      KAEYKGELLCGIASVIDPKKIDYLVIQHLELDHAGALPALIEACQPEKIF
+5nul       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1e5dA      TSSLGQKAMESHFHYKDWPVQVVKHGETLSLGKRTVTFYETRMLHWPDSM
+5nul       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1e5dA      VSWFADEKVLISNDIFGQNIAASERFSDQIPVHTLERAMREYYANIVNPY
+5nul       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1e5dA      APQTLKAIETLVGAGVAPEFICPDHGVIFRGADQCTFAVQKYVEYAEQKP
+5nul       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1e5dA      TNKVVIFYDSMWHSTEKMARVLAESFRDEGCTVKLMWCKACHHSQIMSEI
+5nul       ~~~MKIVYWSGTGNTEKMAELIAKGIIESGKDVNTINVSDV....NIDEL
+
+           301                                            350
+1e5dA      SDAGAVIVGSPTHNNGILPYVAGTLQYIKGLRPQNKIGGAFGSFGWSGES
+5nul       LNEDILILGCSAMTEVLEEEFEPFIEEIST.KISGKKVALFGSYGWGGKW
+
+           351                                            400
+1e5dA      TKVLAEWLTGMGFDMPATPVKVKNVPTHADYEQLKTMAQTIARALKAKLA
+5nul       MRDFEERMNGYGCVVVETPLIVQNEPDE.AEQDCIEFGKKIANI~~~~~~
+
+           401 401
+1e5dA      A
+5nul       ~
+

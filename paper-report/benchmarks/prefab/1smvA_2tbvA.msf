@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1smvA_2tbvA.msf MSF:  196 Type: P 11/12/19 CompCheck: 5397 ..
+
+  Name: 1smvA      Len: 196  Check: 2812 Weight: 1.00
+  Name: 2tbvA      Len: 196  Check: 2585 Weight: 1.00
+
+//
+
+           1                                               50
+1smvA      GAITVLHCELTAEIGVTDSIVVSSELVMPYTVGTWLRGVADNWSKYSWLS
+2tbvA      GVTVTSHREYLTQVNNSSGFVVNSLQLNPSNLFSWLPALASNFDQYSFNS
+
+           51                                             100
+1smvA      VRYTYIPSCPSSTAGSIHMGFQYDMADTVPVSVNKLSNLRGYVSGQVWSG
+2tbvA      VVLDYVPLCGTTEVGRVALYFDKDSQDPEPADRVELANFGVLKETAPWAE
+
+           101                                            150
+1smvA      SAGLaFINNSRaSDTSTAISTTLDVSELGKKWYPYKTSADYATAVGVDVN
+2tbvA      ..................AMLRIPTD...KVKRYCND.SATV........
+
+           151                                        196
+1smvA      IATDLVPARLVIALLDGSSSTAVAAGRIYDTYTIQMIEPTASALNL
+2tbvA      DQKLIDLGQLGIATYGGAG..ADAVGELFLARSVTLYFPQPTNT~~
+

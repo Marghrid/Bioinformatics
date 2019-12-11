@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cpq_256bA.msf MSF:  133 Type: P 11/12/19 CompCheck: 1851 ..
+
+  Name: 256bA      Len: 133  Check: 3937 Weight: 1.00
+  Name: 1cpq       Len: 133  Check: 7914 Weight: 1.00
+
+//
+
+           1                                               50
+256bA      ~~~~~~~DLEDNMETLNDNLKVIEKA...dnaaqvkdaltkmraaaldaq
+1cpq       dtkevleAREAYFKSLGGSMKAMTGVakafdaeaakveaaklekilat.d
+
+           51                                             100
+256bA      katppkledkspd...............spEMKDFRHGFDILVGQIDDAL
+1cpq       vaplf.pagt...sstdlpgqteakaaiwaNMDDFGAKGKAMHEAGGAVI
+
+           101                           133
+256bA      KLANEGKVKEAQAAAEQLKTTRNAYHQKYR~~~
+1cpq       AAANAGDGAAFGAALQKLGGTCKACHDDYReed
+

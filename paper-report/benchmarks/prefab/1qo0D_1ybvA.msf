@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qo0D_1ybvA.msf MSF:  337 Type: P 11/12/19 CompCheck: 1715 ..
+
+  Name: 1qo0D      Len: 337  Check: 1289 Weight: 1.00
+  Name: 1ybvA      Len: 337  Check:  426 Weight: 1.00
+
+//
+
+           1                                               50
+1qo0D      ~~~~~~sansllgSLRELQVLVLNPPGEVSDALVLQLIRIGCSVRQCWP.
+1ybvA      daipgplgpqsa.SLEGKVALVTGAGRGIGREMAMELGRRGCKVIVNYAn
+
+           51                                             100
+1qo0D      ...............................ppeaFD......vPVDVVF
+1ybvA      stesaeevvaaikkngsdaacvkanvgvvedivrmFEeavkifgKLDIVC
+
+           101                                            150
+1qo0D      TSi......................fqnrhhdeiaallaag.tpRTTLVA
+1ybvA      SN.sgvvsfghvkdvtpeefdrvftintrgqffvareaykhleiGGRLIL
+
+           151                                            200
+1qo0D      LVEYES...............pavlsqiiele........chgvitqpl.
+1ybvA      MGSITGqakavpkhavysgskgaietfarcmaidmadkkitvnvvapg.g
+
+           201                                            250
+1qo0D      .........................................dahrvlpvl
+1ybvA      iktdmyhavcreyipngenlsneevdeyaavqwsplrrvglpidiarvvc
+
+           251                                            300
+1qo0D      vsar..riseemaklkqkteqlqdriagqarinqakvllmqrhgwderea
+1ybvA      fla.sndggw........................................
+
+           301                               337
+1qo0D      hqhlsreamkrrepilkiaqell~~~~~~~~~~~~~~
+1ybvA      .......................vtgkvigidggacm
+

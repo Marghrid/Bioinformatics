@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b8gA_1bw0A.msf MSF:  457 Type: P 11/12/19 CompCheck: 7603 ..
+
+  Name: 1b8gA      Len: 457  Check: 3237 Weight: 1.00
+  Name: 1bw0A      Len: 457  Check: 4366 Weight: 1.00
+
+//
+
+           1                                               50
+1b8gA      ~~~MLSRNAT......ssyflgwqeyeknpyhevhn...TNGIIQMGLAE
+1bw0A      wdvSMSNHAGlvfnpirtvsd.nakp..........spsPKPIIKLSVGD
+
+           51                                             100
+1b8gA      N...qLCFdlleswlaknpeaaafkkngesifaeLALFQDYHGLPAFKKA
+1bw0A      PtldkNLL.tsaaqi...kklkeai....dsqe.CNGYFPTVGSPEAREA
+
+           101                                            150
+1b8gA      MVDFMAEIRgnk....vTFDPNHLVLTAGATSANETFIFCLADPGEAVLI
+1bw0A      VATWWRNSFvhkeelksTIVKDNVVLCSGGSHGILMAITAICDAGDYALV
+
+           151                                            200
+1b8gA      PTPYYPGFDRdlkwrTGVEIVPIHCTSSNGFQITETALEEAYQeaekrnL
+1bw0A      PQPGFPHYET.vckaYGIGMHFYNCRPENDWEADLDEIRRLKD......D
+
+           201                                            250
+1b8gA      RVKGVLVTNPSNPLGTTMTRNELYLLLSFVEDKGIHLISDEIYSGTAFS.
+1bw0A      KTKLLIVTNPSNPCGSNFSRKHVEDIVRLAEELRLPLFSDEIYAGMVFKg
+
+           251                                            300
+1b8gA      ...SPSFISVMEVLkdrncdenseVWQRVHVVYSLSKDLGLPGFRVGAIY
+1bw0A      kdpNATFTSVADFE..........TTVPRVILGGTAXNLVVPGWRLGWLL
+
+           301                                            350
+1b8gA      SN.....DDMVVAAATKMSS.fgLVSSQTQHLLSAMLSDkkLTKNYIAEN
+1bw0A      YVdphgnGPSFLEGLKRVGMlvcGPCTVVQAALGEALLN..TPQEHLDQI
+
+           351                                            400
+1b8gA      HKRLKQRQKKLVSGLQKSG.ISCLNGNAGLFCWVDMRH.llrsntf.eAE
+1bw0A      VAKIEESAMYLYNHIGECIgLAPTMPRGAMYLMSRIDLekyrd...ikTD
+
+           401                                            450
+1b8gA      MELWKKIVYEVHLNISPGSSCHCtePGWFRVCFAnLPERTLDLAMQRLKA
+1bw0A      VEFFEKLLEEENVQVLPGTIFHA..PGFTRLTTT.RPVEVYREAVERIKA
+
+           451 457
+1b8gA      FVG~~~~
+1bw0A      FCQrhaa
+

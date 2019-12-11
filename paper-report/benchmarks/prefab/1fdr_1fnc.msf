@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fdr_1fnc.msf MSF:  244 Type: P 11/12/19 CompCheck: 8837 ..
+
+  Name: 1fdr       Len: 244  Check:   85 Weight: 1.00
+  Name: 1fnc       Len: 244  Check: 8752 Weight: 1.00
+
+//
+
+           1                                               50
+1fdr       ADWVTGKVTKVQNWTDALFSLTVHAPVLPFTAGQFTKLGLEIRVQRAYSY
+1fnc       KTPYVGRCLLNTKITGETWHMVFSHEEIPYREGQSVGVIPDGHKLRLYSI
+
+           51                                             100
+1fdr       VNSPDNPDLEFYLVTVPDGKLSPRLAALKPGDEVQVVSEAAGFFVLDEVP
+1fnc       ASSALGKSVSLCVKRLIKGVCSNFLCDLKPGAEVKLT.GPVGEMLM..PK
+
+           101                                            150
+1fdr       HCETLWMLATGTAIGPYLSILRLGKDLDRFKNLVLVHAARYAADLSYLPL
+1fnc       DPATIIMLGTGTGIAPFRSFLWKMYKFN..GLAWLFLGVPTSSSLLYKEE
+
+           151                                            200
+1fdr       MQELEKRYEGKLRIQTVVSRETAAGSLTGRIPALIESGELESTIGLPMNK
+1fnc       FEKMKEKAPDNFRLDFAVSREQ.....KMYIQTRMA..QYAV....EMLK
+
+           201                                      244
+1fdr       ETSHVMLCGNPQMVRDTQQLLKETRQMTKHLRRRPGHMTAEHYW
+1fnc       KNTYVYMCGLKGMEKGIDDIMVSLA...LKKA...EQWNVEVY~
+

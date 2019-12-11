@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aba_3grx.msf MSF:  98 Type: P 11/12/19 CompCheck: 3962 ..
+
+  Name: 1aba       Len: 98  Check: 4381 Weight: 1.00
+  Name: 3grx       Len: 98  Check: 9581 Weight: 1.00
+
+//
+
+           1                                               50
+1aba       ~MFKVYGYdsnihkCGPCDNAKRLLTVKKQPFEFINIMPekgvfDDEKIA
+3grx       aNVEIYTKet....CPYSHRAKALLSSKGVSFQELPIDG.....NAAKRE
+
+           51                                            98
+1aba       ELLTKLGrdtqig.LTMPQVFApDGSHIGGFDQLREYFK~~~~~~~~~
+3grx       EMIKRSG......rTTVPQIFI.DAQHIGGYDDLYALDArggldpllk
+

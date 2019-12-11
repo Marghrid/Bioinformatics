@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2admA_3mag.msf MSF:  521 Type: P 11/12/19 CompCheck: 7803 ..
+
+  Name: 3mag       Len: 521  Check: 3361 Weight: 1.00
+  Name: 2admA      Len: 521  Check: 4442 Weight: 1.00
+
+//
+
+           1                                               50
+3mag       dvvsldkpfmyfeeidneldyepesanevakklpy.qGQLKLLLGELFFL
+2admA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~veTPPEVVDFMVSLA
+
+           51                                             100
+3mag       sklqrhg.ILDGATVVYIGSAPGTHIRYLRDHFYnlgvIIKWMLIDG..r
+2admA      .......eAPRGGRVLEPACAHGPFLRAFREAHG...tGYRFVGVEIdpk
+
+           101                                            150
+3mag       HHDpiLNGLrdVTLVTRFVDEeylrsikkqlhpsKIILISDVRSPs....
+2admA      ALD..LPPW..AEGILADFLL.wepgea......FDLILGNPPYGivgvf
+
+           151                                            200
+3mag       ................tadllsnyalqnvmisilnp..VASSLKWRCPfp
+2admA      kavkdlykkafstwkgkynl..ygaflekav.rllkpgGVLVFVVPAT..
+
+           201                                            250
+3mag       dq..wikdf....yiph....gnkmlqp..FApsy.SAEMRLLSIYtgen
+2admA      ..wlvledfallreflaregktsvyyl.geVFpqkkVSAVVIRFQKs..g
+
+           251                                            300
+3mag       mrltrvtksdavnyekkmyylnkivrnkvvvnfdypnqey......dyfh
+2admA      kgl.....................................slwdtqeses
+
+           301                                            350
+3mag       myfmlrtvycnktfpttkakvlflqqsifrflnipx~~~~~~~~~~~~~~
+2admA      gftp................................ilwaeyphwegeii
+
+           351                                            400
+3mag       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2admA      rfeteetrkleisgmplgdlfhirfaarspefkkhpavrkepgpglvpvl
+
+           401                                            450
+3mag       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2admA      tgrnlkpgwvdyeknhsglwmpkerakelrdfyatphlvvahtkgtrvva
+
+           451                                            500
+3mag       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2admA      awderaypwreefhllpkegvrldpstlvqwlnseamqkhvrtlyrdfvp
+
+           501               521
+3mag       ~~~~~~~~~~~~~~~~~~~~~
+2admA      hltlrmlerlpvrreygfhtx
+

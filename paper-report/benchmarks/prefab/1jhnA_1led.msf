@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1jhnA_1led.msf MSF:  449 Type: P 11/12/19 CompCheck:  698 ..
+
+  Name: 1led       Len: 449  Check: 7901 Weight: 1.00
+  Name: 1jhnA      Len: 449  Check: 2797 Weight: 1.00
+
+//
+
+           1                                               50
+1led       n.......tvnftypDFWSYSLKngteitflg.....datrip.......
+1jhnA      ~kapvpsgevyfad.SFDRGTLS...gwils.kakdgkwevdemketklp
+
+           51                                             100
+1led       ..GALQLTKtdangnpvrssagqasyse..pvflwdstgkAASFYTSFTF
+1jhnA      gdKGLVLMS........rakhhaisaklnkpflfd.....TKPLIVQYEV
+
+           101                                            150
+1led       LLKNygap..TADGLAFFLAPVDs.......SVKDyggflglfrhetaad
+1jhnA      NFQN....giECGGAYVKLLSKT.pelnldqFHDK...............
+
+           151                                            200
+1led       psk.NQVVAVEFDTWInkdwndpPYPHIGIDVNsiv............SV
+1jhnA      ...tPYTIMFGPDKCG.......EDYKLHFIFR...hknpktgvyeekHA
+
+           201                                            250
+1led       ATT..rwendDAYGSSIATAHITYDArSKILTVLLSyehgr.dyilshvv
+1jhnA      KRPdadlkt.YFTDKKTHLYTLILNP.DNSFEILVD.....qsivnsgn.
+
+           251                                            300
+1led       ..................................................
+1jhnA      pvnpsreiedpedqkpedwderpkipdpdavkpddwnedapakipdeeat
+
+           301                                            350
+1led       ..................................................
+1jhnA      kpdgwlddepeyvpdpdaekpedwdedmdgeweapqianpkcesapgcgv
+
+           351                                            400
+1led       ............................................DLAKvl
+1jhnA      wqrpmidnpnykgkwkppmidnpnyqgiwkprkipnpdffedlePFKM..
+
+           401                                           449
+1led       pQKVR.igfsagvgyDEVTYILSWHFFSTldgtnk~~~~~~~~~~~~~~
+1jhnA      .TPFSaiglelwsm.TSDIFFDNFIVCGD......rrvvddwandgwgl
+

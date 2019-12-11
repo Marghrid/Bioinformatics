@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2prgA_3erdA.msf MSF:  271 Type: P 11/12/19 CompCheck: 8644 ..
+
+  Name: 2prgA      Len: 271  Check: 2899 Weight: 1.00
+  Name: 3erdA      Len: 271  Check: 5745 Weight: 1.00
+
+//
+
+           1                                               50
+2prgA      ESADLRALAKHLYDSYIKSFPLTKAKARAILTGKTTDKSPFVIYDMNSLM
+3erdA      ~~~~~DQMVSALLDAE..PPIL............................
+
+           51                                             100
+2prgA      MGEDKIKFKHITPLQEQSKEVAIRIFQGCQFRSVEAVQEITEYAKSIPGF
+3erdA      .DPTR..............FSEASMMGLLTNLADRELVHMINWAKRVPGF
+
+           101                                            150
+2prgA      VNLDLNDQVTLLKYGVHEIIYTMLASLMNKDGVLISEGQGFMTREFLKSL
+3erdA      VDLTLHDQVHLLECAWLEILMIGLVWRSHPGKLLF.APNLLLD.RNQGKC
+
+           151                                            200
+2prgA      RKPFGDFMEPKFEFAVKFNALELDDSDLAIFIAVIILSGDRPGLLNVKPI
+3erdA      .EGMVEIFDMLLATSSRFRMMNLQGEEFVCLKSIILLN.SGTF.EEKDHI
+
+           201                                            250
+2prgA      EDIQDNLLQALELQLKLNHPESSQLFAKLLQKMTDLRQIVTEHVQLLQVI
+3erdA      HRVLDKITDTLIHLMAKAGLTQHQRLAQLLLILSHIRHMSNKGMEHLYSM
+
+           251               271
+2prgA      KKTETDMSLHPLLQEIYKDLY
+3erdA      KCKN...PLYDLLLEMLD.AH
+

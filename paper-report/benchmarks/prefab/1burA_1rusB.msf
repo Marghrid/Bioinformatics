@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1burA_1rusB.msf MSF:  498 Type: P 11/12/19 CompCheck: 4036 ..
+
+  Name: 1burA      Len: 498  Check: 1460 Weight: 1.00
+  Name: 1rusB      Len: 498  Check: 2576 Weight: 1.00
+
+//
+
+           1                                               50
+1burA      efkagvkdYKLTYYTPEYET.....LDTDILAAFRVSPQPGVPPEEAGAA
+1rusB      ~~~~~~~~QSSRYVNLALKEedliaGGEHVLCAYIMKPKAGYGYVATAAH
+
+           51                                             100
+1burA      VAAESSTGTwttvwtdgltnldRYKGRCYHIEPVageenQYICYVAYPLD
+1rusB      FAAESSTGT.............GVDALVYEVDEA.....RELTKIAYPVA
+
+           101                                            150
+1burA      LFEE......GSVTNMFTSIVGNVFGFKALRALRLEDLRIPVAYVKTFQG
+1rusB      LFDRnitdgkAMIASFLTLTMGNNQGMGDVEYAKMHDFYVPEAYRALFDG
+
+           151                                            200
+1burA      PPHGIQVERDKLNKY...GRPLLGCTIKPKLGLSAKNYGRAVYECLRGgL
+1rusB      PSVNISALWKVLGRPevdGGLVVGTIIKPKLGLRPKPFAEACHAFWLG.G
+
+           201                                            250
+1burA      DFTXDDENVNSQPFMRWRDRFLFCAEALYKAQAETGEIKGHYLNATAGTC
+1rusB      DFIKNDEPQGNQPFAPLRDTIALVADAMRRAQDETGEAKLFSANITADDP
+
+           251                                            300
+1burA      EDMMKRAVFARELG.....VPIVMHDYLTGGFTANTTLSHYCRdnGLLLH
+1rusB      FEIIARGEYVLETFgenasHVALLVDGYVAGAAAITTARRRFP..DNFLH
+
+           301                                            350
+1burA      IHRAMHAVIDr.QKNHGMHFRVLAKALRLSGGDHIHSGTVvgklegerDI
+1rusB      YHRAGHGAVTspQSKRGYTAFVHCKMARLQGASGIHTGTM........SS
+
+           351                                            400
+1burA      TLGFVDLLRDDYTEkdrsrgIYFTQSWVSTPGVLPVASGGIHVWHMPALT
+1rusB      DRAIAYMLTQDEAQg.....PFYRQSWGGMKACTPIISGGMNALRMPGFF
+
+           401                                            450
+1burA      EIF.GDDSVLQFGGGTLGHPWGNAPGAVANRVALEACVQArnegrdlare
+1rusB      ENLgNANVILTAGGGAFGHIDGPVAGARSLRQAWQAWRDG..........
+
+           451                                          498
+1burA      gntIIREATKWSPELAAACEVWKEIkfefpamdtv~~~~~~~~~~~~~
+1rusB      ..vPVLDYAREHKELARAFESFPGDa.........dqiypgwrkalgv
+

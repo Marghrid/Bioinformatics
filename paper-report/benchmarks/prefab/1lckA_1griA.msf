@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1lckA_1griA.msf MSF:  281 Type: P 11/12/19 CompCheck: 7340 ..
+
+  Name: 1lckA      Len: 281  Check: 7827 Weight: 1.00
+  Name: 1griA      Len: 281  Check: 9513 Weight: 1.00
+
+//
+
+           1                                               50
+1lckA      dnlvialhsyepshdgdlgfekgeqlrileqsgewwkaqslttgqegfip
+1griA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1lckA      fnfvakansl........................................
+1griA      ~~~~~~~~~~meaiakydfkataddelsfkrgdilkvqnwykaelngkdg
+
+           101                                            150
+1lckA      .........epEPWFFKNLSRKDAERQLLApg.NTHGSFLIRESESTAGS
+1griA      fipknyiemkpHPWFFGKIPRAKAEEMLSK..qRHDGAFLIRESESAPGD
+
+           151                                            200
+1lckA      FSLSVRDFdqnqgEVVKHYKIRNLDNGGFYISprITFPGLHELVRHYTNA
+1griA      FSLSVKFG.....NDVQHFKVLRDGAGKYFLWv.VKFNSLNELVDYHRST
+
+           201                                            250
+1lckA      SDGl...ctrlsrPCQT~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1griA      SVS.rnqqiflr.DIEQvpqqptyvqalfdfdpqedgelgfrrgdfihvm
+
+           251                         281
+1lckA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1griA      dnsdpnwwkgachgqtgmfprnyvtpvnrnv
+

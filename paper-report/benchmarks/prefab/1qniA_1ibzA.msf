@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qniA_1ibzA.msf MSF:  595 Type: P 11/12/19 CompCheck: 3267 ..
+
+  Name: 1qniA      Len: 595  Check: 2122 Weight: 1.00
+  Name: 1ibzA      Len: 595  Check: 1145 Weight: 1.00
+
+//
+
+           1                                               50
+1qniA      ahvapgeldeyygfwsgghqgevrvlgvpsmrelmripvfnvdsatgwgi
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1qniA      tneskeilggdqqylngdchhphismtdgrydgkylfindkantrvarir
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1qniA      ldimktdkithipnvqaihglrlqkvpktnyvfcnaefvipqpndgtdfs
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1qniA      ldnsytmftaidaetmdvawqvivdgnldntdadytgkyatstcynsera
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1qniA      vdlagtmrndrdwvvvfnveriaaavkagnfktigdskvpvvdgrgesef
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1qniA      tryipvpknphglntspdgkyfiangklsptvsviaidklddlfedkiel
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1qniA      rdtivaepelglgplhttfdgrgnayttlfidsqvckwniadaikhyngd
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                            400
+1qniA      rvnyirqkldvqyqpghnhasltesrdadgkwlvvlskfskdrflpvgpl
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           401                                            450
+1qniA      hpendqlidisgeemklvhdgptyaephdcilvrrdqiktkkiyerndpy
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           451                                            500
+1qniA      fascraqaekdgvtlesdnkvirdgnkVRVYMTSVA..............
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~HNFNVVINAydttipelnvegvt
+
+           501                                            550
+1qniA      ........PQYGMTDFKVKEGDEVTVYITNLDMvedVTHGFCMVNHGVSM
+1ibzA      vknirafnVLNEPETLVVKKGDAVKVVVENKSP...ISEGFSIDAFGVQE
+
+           551                                       595
+1qniA      EISPQQTASVTFTAGKPGVYWYYCNWFchalhme.MVGRMLVEaa
+1ibzA      VIKAGETKTISFTADKAGAFTIWCQLH...pknihLPGTLNVVe~
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eteA_1hmcB.msf MSF:  153 Type: P 11/12/19 CompCheck: 9743 ..
+
+  Name: 1hmcB      Len: 153  Check: 2513 Weight: 1.00
+  Name: 1eteA      Len: 153  Check: 7230 Weight: 1.00
+
+//
+
+           1                                               50
+1hmcB      ~~~~SEYcshMIGSGHLQSLQRLIDSQMetsc.QITFEFVDqEQLKDPVC
+1eteA      qdcsFQHs..PISSDFAVKIRELSDYLL....qDYPVTVAS.NLQDDELC
+
+           51                                             100
+1hmcB      YLKKAFLLVQDIMEDTMr.FRDNtpNAIAIVQLQELSLRLKScftkdyee
+1eteA      GGLWRLVLAQRWMERLKtvAGSK..MQGLLERVNTEIHFVTK.cafqpp.
+
+           101                                            150
+1hmcB      hdk...acvrtfyeTPLQLLEKVKNVFNETKNLLdkdwnIFSKNCNn.sf
+1eteA      ...psclrfvqt..NISRLLQETSEQLVALKPWItrq..NFSRCLE.lqc
+
+           151 153
+1hmcB      aec
+1eteA      qp~
+

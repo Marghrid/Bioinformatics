@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qupA_1yaiA.msf MSF:  263 Type: P 11/12/19 CompCheck: 2395 ..
+
+  Name: 1yaiA      Len: 263  Check: 8302 Weight: 1.00
+  Name: 1qupA      Len: 263  Check: 4093 Weight: 1.00
+
+//
+
+           1                                               50
+1yaiA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1qupA      tndtyeatyaipxhcencvndikaclknvpginslnfdieqqixsvessv
+
+           51                                             100
+1yaiA      ~~~~~~~~~~~~~~~~~~~~~~~~~qDLTVKMTDLQT........GKPVG
+1qupA      apstiintlrncgkdaiirgagkpnsSAVAILETFQKytidqkkdTAVRG
+
+           101                                            150
+1yaiA      TIELSQNK.YGVVFTPELADL.TPGMHGFHIHQNGSC..assekdgkvvl
+1qupA      LARIVQVGeNKTLFDITVNGVpEAGNYHASIHEKGDVskg..........
+
+           151                                            200
+1yaiA      GGAAGGHYdpehtnkhgfpwtddnhkGDLP.alfvsan.......GLATN
+1qupA      VESTGKVW..................HKFDepiecfnesdlgknlYSGKT
+
+           201                                            250
+1yaiA      PVLAprLTLKELKGHAIMIHAGgdnhsdmpkalggg...........gar
+1qupA      FLSAp.LPTWQLIGRSFVISKS..............lnhpenepssvkdy
+
+           251       263
+1yaiA      vacgviq~~~~~~
+1qupA      sflgviarsagvw
+

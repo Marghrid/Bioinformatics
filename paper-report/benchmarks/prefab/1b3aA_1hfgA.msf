@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b3aA_1hfgA.msf MSF:  73 Type: P 11/12/19 CompCheck: 8011 ..
+
+  Name: 1b3aA      Len: 73  Check:  382 Weight: 1.00
+  Name: 1hfgA      Len: 73  Check: 7629 Weight: 1.00
+
+//
+
+           1                                               50
+1b3aA      ~pyssdtt.PCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVTRKNRQV
+1hfgA      lgaswhrpdKCCLGYQKRPLPQVLLSSWYPTSQLCSKPGVIFLTKRGRQV
+
+           51                   73
+1b3aA      CANPEKKWVREYINSLEms~~~~
+1hfgA      CADKSKDWVKKLMQQLP..vtar
+

@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1amp_1cg2A.msf MSF:  291 Type: P 11/12/19 CompCheck: 8305 ..
+
+  Name: 1amp       Len: 291  Check: 3730 Weight: 1.00
+  Name: 1cg2A      Len: 291  Check: 4575 Weight: 1.00
+
+//
+
+           1                                               50
+1amp       MPPITQQATVTAWLPQVDASQITGTISSLESFTNRFYTTTSGAQASDWIA
+1cg2A      ~~~~~~~~~DNVLFQAAEQPAVIKTLEKLVNI.ETGTGDEGIAAAGNFLE
+
+           51                                             100
+1amp       SEWQALSASLPNASVKQVSHSGYNQKSVVMTITGSEAPDEWIVIGGHLDS
+1cg2A      AELKNLG.....FTVTRSKSGLVVGDNIVGKIKGRGG..KNLLLMSHMDT
+
+           101                                            150
+1amp       TIGSHTNEQSVAPGADDDASGIAAVTEVIRVLSENNFQPKRSIAFMAYAA
+1cg2A      VY....LKGIL.PGIADDKGGNAVILHTLKLLKEYGVRDYGTITVLFNTD
+
+           151                                            200
+1amp       EEVGLRGSQDLANQYKSEGKNVVSALQLDMTNYKGSAQDVVFITDYTDSN
+1cg2A      EEKGSFGSRDLIQEEA...KLADYVLSFEPT.SAGD...EKLSLGT.GKK
+
+           201                                            250
+1amp       FTQYLTQLMDEYLPSLTYGFDTaGYAaSDHASWHNAGYPAAMPFESKFND
+1cg2A      LVDKAVAYY.KEAG.GTLGVERtGG.gTDAAYAALSGKPVIESL......
+
+           251                                   291
+1amp       YNPRIHTTQDTLANSDPTGSHAKKFTQLGLAYAIEMGSATG
+1cg2A      .GFGYHDKAE...YVDI..SAIPRRLYMAARLIMDLGAG~~
+

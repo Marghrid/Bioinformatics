@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1lt3A_1xtcA.msf MSF:  233 Type: P 11/12/19 CompCheck: 4040 ..
+
+  Name: 1lt3A      Len: 233  Check: 3404 Weight: 1.00
+  Name: 1xtcA      Len: 233  Check:  636 Weight: 1.00
+
+//
+
+           1                                               50
+1lt3A      ~~~RLYRADSRPPDEIKRSGGLMPRGHNEYFDRGTQMNICLYDHARGTQT
+1xtcA      nddKLYRADSRPPDEIKQSGGLMPRGQSEYFDRGTQMNINLYDHARGTQT
+
+           51                                             100
+1lt3A      GFVRYDDGYVSTSLSLRSAHLAGQSILSGYSTYYIYVIATAPNMFNVNDV
+1xtcA      GFVRHDDGYVSTSISLRSAHLVGQTILSGHSTYYLYVLATAPNMFNVNDV
+
+           101                                            150
+1lt3A      LGVYSPHPYEQEVSALGGIPYSQIYGWYRVNFGVIDERLHRNREYRDRYY
+1xtcA      LGAYSPHPDEQEVSALGGIPYSQIYGWYRVHFGVLDEQLHRNRGYRDRYY
+
+           151                                            200
+1lt3A      RNLNIAPAEDGYRLACFPPDHQAWREEPWIHHAPQGCGgdtcneetqnls
+1xtcA      SNLDIAPAADGYGLAGFPPEHRAWREEPWIHHAPPGCG............
+
+           201                           233
+1lt3A      tiylreyqskvkrqifsdyqsevdiynri~~~~
+1xtcA      .............................napr
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hnoA_1nzyA.msf MSF:  248 Type: P 11/12/19 CompCheck: 7085 ..
+
+  Name: 1hnoA      Len: 248  Check: 5408 Weight: 1.00
+  Name: 1nzyA      Len: 248  Check: 1677 Weight: 1.00
+
+//
+
+           1                                               50
+1hnoA      NEKISYRIEGPFFIIHLINPDNLNALEGEDYIYLGELLELADRNRDVYFT
+1nzyA      YEAIGHRVEDGVAEITIKLPRHRNALSVKAMQEVTDALNRAEEDDSVGAV
+
+           51                                             100
+1hnoA      IIQSSGRFFSSGADFKETSKWVSNFVARNVYVTDAFIKHSKVLICCLNGP
+1nzyA      MITGAEDAFCAGFYLRVAGVDHFRIALWWHQMIHKIIRVKRPVLAAINGV
+
+           101                                            150
+1hnoA      AIGLSAALVALCDIVYSINDKVYLLYPFANLGLITEGGTTVSLPLKFGTN
+1nzyA      AAGGGLGISLASDMAICA.DSAKFVCAWHTIGIGNDTATSYSLARIV.MR
+
+           151                                            200
+1hnoA      TTYECLMFNKPFKYDIMCENGFISKNFNMPSSNAEAFNAKVLEELREKVK
+1nzyA      RAMELMLTNRTLYPEEAKDWGLVSRVYPK.....DEFREVAWKVARELAA
+
+           201                                          248
+1hnoA      GLYLPSCLGMKKLLKSNHIDAFNKANSVEVNESLKYWVDGEPLKRFRQ
+1nzyA      .APTHLQVMAKERFHAGWMQ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

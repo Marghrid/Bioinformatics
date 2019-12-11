@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a62_1mjc.msf MSF:  133 Type: P 11/12/19 CompCheck: 5452 ..
+
+  Name: 1a62       Len: 133  Check: 6133 Weight: 1.00
+  Name: 1mjc       Len: 133  Check: 9319 Weight: 1.00
+
+//
+
+           1                                               50
+1a62       xnltelkntpvselitlgenxglenlarxrkqdiifailkqhaksgedIF
+1mjc       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sGK
+
+           51                                             100
+1a62       GDGVL.eilq.DGFGFLRSADSsylagp.DDIYVSPSQir.....rFNLR
+1mjc       MTGIVkwfnadKGFGFITPDDG......sKDVFVHFSA..iqndgyKSLD
+
+           101                           133
+1a62       TGDTISGKIRPPkegERYFALLKVNEVnfdkpe
+1mjc       EGQKVSFTIESG...AKGPAAGNVTSL~~~~~~
+

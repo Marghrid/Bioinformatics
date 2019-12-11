@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fj7A_1cvjB.msf MSF:  180 Type: P 11/12/19 CompCheck: 4696 ..
+
+  Name: 1fj7A      Len: 180  Check: 2997 Weight: 1.00
+  Name: 1cvjB      Len: 180  Check: 1699 Weight: 1.00
+
+//
+
+           1                                               50
+1fj7A      gshmledpvegsesttpFNLFIGNLNpnksvaelKVAISELFAkNDLAVV
+1cvjB      ~~~~~~~~~~~~~~~~~ASLYVGDLH..pdvt..EAMLYEKFS.PAGPIL
+
+           51                                             100
+1fj7A      DVRTGT......NRKFGYVDFESAEDLEKAL.ELTGLKVFGNEIKLE.kp
+1cvjB      SIRVCRdmitrrSLGYAYVNFQQPADAERALdTMNFDVIKGKPVRIMwsq
+
+           101                                            150
+1fj7A      kgrdgtrgc~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cvjB      rd.......pslrksgvgnifiknldksidnkalydtfsafgnilsckvv
+
+           151                        180
+1fj7A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cvjB      cskgygfvhfetqeaaeraiekmnvgrfks
+

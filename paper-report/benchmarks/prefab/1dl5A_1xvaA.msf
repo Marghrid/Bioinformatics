@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dl5A_1xvaA.msf MSF:  476 Type: P 11/12/19 CompCheck: 4638 ..
+
+  Name: 1xvaA      Len: 476  Check: 4078 Weight: 1.00
+  Name: 1dl5A      Len: 476  Check:  560 Weight: 1.00
+
+//
+
+           1                                               50
+1xvaA      dsvyrtrslgvaaegipdqyadgeaarvwql...................
+1dl5A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~reklfwilkkygvsdhiak
+
+           51                                             100
+1xvaA      ..........................yigd.....tRSRTAEYKAWLLGL
+1dl5A      afleipreefltksyplsyvyedivlvsyddgeeysTSSQPSLMALFMEW
+
+           101                                            150
+1xvaA      LRqhgc....HRVLDVACGTGVDSIMLVEEG...fSVTSVDASDKMLKYA
+1dl5A      VG....ldkgMRVLEIGGGTGYNAAVMSRVVgekgLVVSVEYSRKICEIA
+
+           151                                            200
+1xvaA      LKERWNRRkepaFDKWVIEEANWLTLdkdvpagd.GFDAVICLGNSFAhl
+1dl5A      KRNVERLG....IENVIFVCGDGYYG...vpef.sPYDVIFVTVGVDE..
+
+           201                                            250
+1xvaA      pdskgdqsehrla.LKNIASMVRPGGLLVIDHRNYDYIlstgcappgkni
+1dl5A      .............vPETWFTQLKEGGRVIVPINLKLSR............
+
+           251                                            300
+1xvaA      yyksdltkdittsvltvnnkahmvtldytvqvpgagrdgapgfskfrlsy
+1dl5A      ..................................................
+
+           301                                            350
+1xvaA      yphclasftelvqeafggrcqhsvlgdfkpyrpgqayvpcyfihvlkktg
+1dl5A      .......................................rqpaflfkkkd
+
+           351                                            400
+1xvaA      x~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1dl5A      .pylvgnykletrfitaggnlgnllernrkllrefpfnreillvrshifv
+
+           401                                            450
+1xvaA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1dl5A      elvdlltrrlteidgtfyyagpngvveflddrmriygdapeienlltqwe
+
+           451                    476
+1xvaA      ~~~~~~~~~~~~~~~~~~~~~~~~~~
+1dl5A      scgyrsfeylmlhvgynafshiscsi
+

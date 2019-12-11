@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fmtA_2gar.msf MSF:  308 Type: P 11/12/19 CompCheck: 2205 ..
+
+  Name: 1fmtA      Len: 308  Check: 9727 Weight: 1.00
+  Name: 2gar       Len: 308  Check: 2478 Weight: 1.00
+
+//
+
+           1                                               50
+1fmtA      SESLRIIFAGTPDFAARHLDALLSSGHNVVGVFTQPDRPLMPSPVKVLAE
+2gar       ~~~MNIVVLISGN..GSNLQAIIDACGTVRAVFSNKA....DAFGLERAR
+
+           51                                             100
+1fmtA      EKGLPVFQPVSLRPQENQQLVAELQADVMVVVAYGLILPKAVLEMPRLGC
+2gar       QAGIATHTLIA.YDRALIHEIDMYAPDVVVLAGFMRILSPAFVSHYAGRL
+
+           101                                            150
+1fmtA      INVHGSLLPRWRGAAPIQRSLWAGDAETGVTIMQMDVGLDTGDMLYKLSC
+2gar       LNIHPS.....................HGTSVHFVTDELDGGPVILQAKV
+
+           151                                            200
+1fmtA      PITAEDTSGTLYDKLAELGPQGLITTLKQLADGTAKPEVQDETLVTYAEK
+2gar       PVFAGDSEDDITARVQTQEHAIYPLVISWFADGRLK.LPPQ~~~~~~~~~
+
+           201                                            250
+1fmtA      LSKEEARIDWSLSAAQLERCIRAFNPWPMSWLEIEGQPVKVWKASVIDTA
+2gar       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1fmtA      TNAAPGTILEANKQGIQVATGDGILNLLSLQPAGKKAMSAQDLLNSRREW
+2gar       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301  308
+1fmtA      FVPGNRLV
+2gar       ~~~~~~~~
+

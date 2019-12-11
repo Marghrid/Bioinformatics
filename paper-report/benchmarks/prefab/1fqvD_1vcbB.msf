@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fqvD_1vcbB.msf MSF:  143 Type: P 11/12/19 CompCheck: 9679 ..
+
+  Name: 1fqvD      Len: 143  Check: 2396 Weight: 1.00
+  Name: 1vcbB      Len: 143  Check: 7283 Weight: 1.00
+
+//
+
+           1                                               50
+1fqvD      PSIKLQSSDGEIFEVDVEIAKQSVTIKTMLEDlgmDPVPLPNVNAAILKK
+1vcbB      MYVKLISSDGHEFIVKREHALTSGTIKAMLSGp..NEVNFREIPSHVLSK
+
+           51                                             100
+1fqvD      VIQWCTHHKddi......pvWDqeFLKVdqgTLFELILAANYLDIkglld
+1vcbB      VCMYFTYKVry.tnssteipEF..PIAP..eIALELLMAANFLDC~~~~~
+
+           101                                     143
+1fqvD      vtcktvanmikgktpeeirktfnikndfteeeeaqvrkenqwc
+1vcbB      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

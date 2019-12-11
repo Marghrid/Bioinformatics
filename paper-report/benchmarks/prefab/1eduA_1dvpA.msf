@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eduA_1dvpA.msf MSF:  237 Type: P 11/12/19 CompCheck: 1153 ..
+
+  Name: 1eduA      Len: 237  Check: 9915 Weight: 1.00
+  Name: 1dvpA      Len: 237  Check: 1238 Weight: 1.00
+
+//
+
+           1                                               50
+1eduA      nivhnYSEAEIKVREATSNDPWGPSSSLXSEIADLTYNVVAF.SEIXSXI
+1dvpA      ~~~mfRSSFCKNLENATSHLRLEPDWPSILLICDEINQKDVTpKNAFAAI
+
+           51                                             100
+1eduA      WKRLNDHgkNWRHVYKAXTLXEYLIKTGSERVSQQCKE..NXYAVQ.tlk
+1dvpA      KKKMNSP..NPHSSCYSLLVLESIVKNCGAPVHEEVFTkeNCEMFSsfle
+
+           101                                            150
+1eduA      dfqyvdrdgkdqGVNVREKAKQLVALLRDEdrl.................
+1dvpA      stp.........HENVRQKMLELVQTWAYAfr.ssdkyqaikdtmtilka
+
+           151                                            200
+1eduA      .........reerahalktkek............................
+1dvpA      kghtfpelremft..adta...pnwadgrvchrcrveftftnrkhhcrnc
+
+           201                               237
+1eduA      .................laqtata~~~~~~~~~~~~~
+1dvpA      gqvfcgqctakqcplpkygiekevrvcdgcfaalqrg
+

@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qqp3_1pov1.msf MSF:  292 Type: P 11/12/19 CompCheck: 5604 ..
+
+  Name: 1qqp3      Len: 292  Check: 6205 Weight: 1.00
+  Name: 1pov1      Len: 292  Check: 9399 Weight: 1.00
+
+//
+
+           1                                               50
+1qqp3      gifpvacsdgygglvttdpktadpvygkvfnpprnqlpgrFTNLLDVAEa
+1pov1      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~qhrsrsESSIESFFA.
+
+           51                                             100
+1qqp3      CPTFLrfeggvpYVTTKT.......DSDRvLAQFDmslaakhmsnt.FLA
+1pov1      RGACV......tIMTVDNpasttnkDKLF.AVWKI......tykdtvQLR
+
+           101                                            150
+1qqp3      GLAQYYTQYSGTINLHFMFTGPt.........DAKARYMVAYAppgmEPP
+1pov1      RKLEFFTYSRFDMELTFVVTAN.ftetnnghaLNQVYQIMYVP...pGAP
+
+           151                                            200
+1qqp3      KT......peaaahciHAEWDTGLNSKFTFSIPYLSAADYTYTASdva..
+1pov1      VPekwddytwqtssn.PSIFYTYGTAPARISVPYVGISNAYSHFYdgfsk
+
+           201                                            250
+1qqp3      .................ETTNvQGWVCLFQITHGka.....DGDALVVLA
+1pov1      vplkdqsaalgdslygaASLN.DFGILAVRVVND..hnptkVTSKIRVYL
+
+           251                                    292
+1qqp3      SAGkDFELRLPVDArae~~~~~~~~~~~~~~~~~~~~~~~~~
+1pov1      KPK.HIRVWCPRPPravayygpgvdykdgtltplstkdltty
+

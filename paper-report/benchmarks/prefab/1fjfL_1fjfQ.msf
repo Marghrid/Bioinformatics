@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fjfL_1fjfQ.msf MSF:  164 Type: P 11/12/19 CompCheck: 1636 ..
+
+  Name: 1fjfL      Len: 164  Check: 9299 Weight: 1.00
+  Name: 1fjfQ      Len: 164  Check: 2337 Weight: 1.00
+
+//
+
+           1                                               50
+1fjfL      ptinqlvrkgrekvrkkskvpalkgaPFRRGVCTVVRTvtpkkpnsalRK
+1fjfQ      ~~~~~~~~~~~~~~~~~~~~~~~~pkKVLTGVVVSDKM..........QK
+
+           51                                             100
+1fjfL      VAKVRLTS.............GYEVTAYIPgegHNLQEHSVVLIRGGRVk
+1fjfQ      TVTVLVERqfphplygkvikrSKKYLAHDPe..EKYKLGDVVEIIESRP.
+
+           101                                            150
+1fjfL      d.LPGVRYHIVRgvydaagvkdrkksrskygtkkpkea~~~~~~~~~~~~
+1fjfQ      .iSKRKRFRVLR.lves.....................grmdlvekylir
+
+           151        164
+1fjfL      ~~~~~~~~~~~~~~
+1fjfQ      rqnyqslskrggka
+

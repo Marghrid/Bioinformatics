@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b3aA_1tvxA.msf MSF:  70 Type: P 11/12/19 CompCheck: 2556 ..
+
+  Name: 1tvxA      Len: 70  Check:   93 Weight: 1.00
+  Name: 1b3aA      Len: 70  Check: 2463 Weight: 1.00
+
+//
+
+           1                                               50
+1tvxA      ~~~~lrcLCIKTTs..GIHPKNIQSLEVIGKGthCNQVEVIATLKDGRKI
+1b3aA      yssdttpCCFAYI.arPLPRAHIKEYFYTSGK..CSNPAVVFVTRKNRQV
+
+           51                70
+1tvxA      CLDPDAPRIKKIVQKKLAGd
+1b3aA      CANPEKKWVREYINSLEMS~
+

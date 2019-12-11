@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cto_1bpv.msf MSF:  128 Type: P 11/12/19 CompCheck: 2001 ..
+
+  Name: 1cto       Len: 128  Check: 6335 Weight: 1.00
+  Name: 1bpv       Len: 128  Check: 5666 Weight: 1.00
+
+//
+
+           1                                               50
+1cto       gsslep......PMLQALDigpdvvshqp...GCLWLSWKPWKPs.eyme
+1bpv       ~~~~~~spidppGKPVPLN..........itrHTVTLKWAKPEY.tggfk
+
+           51                                             100
+1cto       qe.CELRYQPQLkGANWTL..vfHLPSSKdqFELCGLHqa..PVYTLQMR
+1bpv       itsYIVEKRDLP.NGRWLKanfsNILENE..FTVSGLT..edAAYEFRVI
+
+           101                      128
+1cto       CIRSSLPgfWSPWSPGLQLRPTMK~~~~
+1bpv       AKNAAGA..ISPPSEPSDAITCRDdvea
+

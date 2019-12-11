@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bbhA_2ccyA.msf MSF:  131 Type: P 11/12/19 CompCheck: 2916 ..
+
+  Name: 1bbhA      Len: 131  Check: 4210 Weight: 1.00
+  Name: 2ccyA      Len: 131  Check: 8706 Weight: 1.00
+
+//
+
+           1                                               50
+1bbhA      AGLSPEEQIETRQAGYEFMGWNMGKIKANLEGEYNAAQVEAAANVIAAIA
+2ccyA      ~QSKPEDLLKLRQGLMQTLKSQWVPIAGFAGKADLPADAAQRAENMAMVA
+
+           51                                             100
+1bbhA      NSGMGALYGPGTDKNVGDVKTRVKPEFFQNMEDVGKIAREFVGAANTLAE
+2ccyA      K.LAPIGWAKGTEALP...NGETKPEAFGKSAEFLEGWKALATESTKLAA
+
+           101                         131
+1bbhA      VAATGEAEAVKTAFGDVGAACKSCHEKYRAK
+2ccyA      AAKA.GPDALKAQAAATGKVCKACHEEFKQD
+

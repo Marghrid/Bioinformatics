@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aohA_1g1kB.msf MSF:  143 Type: P 11/12/19 CompCheck: 7806 ..
+
+  Name: 1aohA      Len: 143  Check: 3718 Weight: 1.00
+  Name: 1g1kB      Len: 143  Check: 4088 Weight: 1.00
+
+//
+
+           1                                               50
+1aohA      AVRIKVDTVNAKPGDTVRIPVRFSGIPSKGIANCDFVYSYDPNVLEIIEI
+1g1kB      SLKVTVGTANGKPGDTVTVPVTFADVAKKNVGTCNFYLGYDASLLEVVSV
+
+           51                                             100
+1aohA      EPGELIVDPNPTKSFDTAVYPDRKMIVFLFAEDSGTGAYAITEDGVFATI
+1g1kB      DAGPIVKN..AAVNFSSSASN..GTISFLFLD..TITDELITADGVFANI
+
+           101                                     143
+1aohA      VAKVKSGAPNGLSVIKFVEVGGFANNDLVEQKTQFFDGGVNVG
+1g1kB      KFKLKSVTAKTTTPVTFKDGGAFGDGTMSKISVTKTNGSVTID
+

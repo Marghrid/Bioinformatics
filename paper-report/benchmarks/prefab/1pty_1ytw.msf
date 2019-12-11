@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1pty_1ytw.msf MSF:  338 Type: P 11/12/19 CompCheck: 4943 ..
+
+  Name: 1pty       Len: 338  Check: 4202 Weight: 1.00
+  Name: 1ytw       Len: 338  Check:  741 Weight: 1.00
+
+//
+
+           1                                               50
+1pty       eme.KEFEQIdksgSWAAIYQDIRHE..asdf.....pcrvaKLPKnknR
+1ytw       ~~~vSPYGPE....ARAELSSRLTTLrntlapatndprylq.ACGG.ekL
+
+           51                                             100
+1pty       NRYRDVSPFDHSRIKlhqednDYINASLIKMeeAQRSYILTQGPLPNTCG
+1ytw       NRFRDIQCRRQTAVR......ADLNANYIQV..GNTRTIACQYPLQSQLE
+
+           101                                            150
+1pty       HFWEMVWEQKSRGVVMLNRVME..KGSLKCAQYWPQkeekEMIFEdtNLK
+1ytw       SHFRMLAENRTPVLAVLASSSEiaNQRFGMPDYFRQ....SGTYG..SIT
+
+           151                                            200
+1pty       LTLISEDIKS.....yytvrqlelenlTTQETREILHFHYTTWPDFGVPe
+1ytw       VESKMTQQVGlgdgimadmytltire.AGQKTISVPVVHVGNWPDQTAV.
+
+           201                                            250
+1pty       SPASFLNFLFKVRESgslspe...............HGPVVVHSSAGIGR
+1ytw       SSEVTKALASLVDQT.aetkrnmyeskgssavaddsKLRPVIHCRAGVGR
+
+           251                                            300
+1pty       SGTFCLADTCLLlmdkrkdpsSVDIKKVLLEMRKFRM.GLIQTADQLRFS
+1ytw       TAQLIGAMCMNDsrns.....QLSVEDMVSQMRVQRNgIMVQKDEQLDVL
+
+           301                                338
+1pty       YLAVIEGakfimgdssvqdqwkelshedlxx~~~~~~~
+1ytw       IKLAEGQg.......................grpllns
+

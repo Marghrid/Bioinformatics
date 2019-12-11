@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ibzA_1rcy.msf MSF:  171 Type: P 11/12/19 CompCheck: 1279 ..
+
+  Name: 1rcy       Len: 171  Check:  996 Weight: 1.00
+  Name: 1ibzA      Len: 171  Check:  283 Weight: 1.00
+
+//
+
+           1                                               50
+1rcy       twkeatlpqvkamlekddgkvsgdtvtysgktVHVVAAAVLpgf......
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~HNFNVVINAyd.ttipel
+
+           51                                             100
+1rcy       ............pFPSFEVhdkknPTLEIPAGATVDVTFINTNKgFGHSF
+1ibzA      nvegvtvknirafNVLNEP.....ETLVVKKGDAVKVVVENKSP.ISEGF
+
+           101                                            150
+1rcy       DITKkgppyavmpvidpi.vagtgFSPVpkdgkFGYTDFTWHP.tAGTYY
+1ibzA      SIDA..............fgvqe.VIKA.....GETKTISFTAdkAGAFT
+
+           151               171
+1rcy       YVCQIPGhAATGMFGKIVVK~
+1ibzA      IWCQLHP.KNIHLPGTLNVVe
+

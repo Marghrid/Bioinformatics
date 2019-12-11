@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fmk_1hcl.msf MSF:  438 Type: P 11/12/19 CompCheck: 1602 ..
+
+  Name: 1fmk       Len: 438  Check: 9223 Weight: 1.00
+  Name: 1hcl       Len: 438  Check: 2379 Weight: 1.00
+
+//
+
+           1                                               50
+1fmk       MVTTFVALYDYESRTETDLSFKKGERLQIVNNTEGDWWLAHSLSTGQTGY
+1hcl       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1fmk       IPSNYVAPSDSIQAEEWYFGKITRRESERLLLNAENPRGTFLVRESETTK
+1hcl       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1fmk       GAYCLSVSDFDNAKGLNVKHYKIRKLDSGGFYITSRTQFNSLQQLVAYYS
+1hcl       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1fmk       KHADGLCHRLTTVCPTSKPQTQGLAKDAWEIPRESLRLEVKLGQGCFGEV
+1hcl       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~MENFQKVEKIGEGTYGVV
+
+           201                                            250
+1fmk       WMGTWNGTTRVAIKTLKPGTMSPEAFLQEAQVMKKLRHEKLVQLYAVVSE
+1hcl       YKARNKLGEVVALKKIRTE..VPSTAIREISLLKELNHPNIVKLLDVIHT
+
+           251                                            300
+1fmk       EPIYIVTEYMSKGSLLDFLKGETGKYLRLPQLVDMAAQIASGMAYVERMN
+1hcl       NKLYLVFEFLH.QDLKKFMDA.SALTIPLPLIKSYLFQLLQGLAFCHSHR
+
+           301                                            350
+1fmk       YVHRDLRAANILVGENLVCKVADFGLARFPIKWTAPEAALYGRFTIKSDV
+1hcl       VLHRDLKPQNLLINTEGAIKLADFGLARVTLWYRAPEILLCKYYSTAVDI
+
+           351                                            400
+1fmk       WSFGILLTELTTKGRVPYPGMVNREVLDQVERGYRMPCPPECPESLHDLM
+1hcl       WSLGCIFAEMVTR.RALFP.DSEIDQLFRIFRTL..KVVPPLDEDGRSLL
+
+           401                                438
+1fmk       CQCWRKEPEERPTFEYLQAFLEDYFTSTEPQXQPGENL
+1hcl       SQMLHYDPNKRISAKAALAHFFQDV~~~~~~~~~~~~~
+

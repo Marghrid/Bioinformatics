@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bs0A_1b8gA.msf MSF:  492 Type: P 11/12/19 CompCheck: 1983 ..
+
+  Name: 1bs0A      Len: 492  Check: 1165 Weight: 1.00
+  Name: 1b8gA      Len: 492  Check:  818 Weight: 1.00
+
+//
+
+           1                                               50
+1bs0A      swqekinaaldarraadalrr...........rypvaqgagrwlvadd..
+1b8gA      ~~~~ml...............srnatssyflgwq.e............ye
+
+           51                                             100
+1bs0A      .........r.qyLNFSSNDYl..gl.shhPQII...rawqqga....eq
+1b8gA      knpyhevhntngiIQMGLAEN.qlcfdl.lESWLaknpeaaafkkngesi
+
+           101                                            150
+1bs0A      F..gigsggsghvsgysvv..hqaleeelaewl........gysr..ALL
+1b8gA      Faelal.fqdy........hglpafkkamvdfmaeirgnkvtfdpnhLVL
+
+           151                                            200
+1bs0A      FISGFAANQAVIAAMMAKEDRIAADRLSHASLLE.aasLSPSQLRRFAH.
+1b8gA      TAGATSANETFIFCLADPGEAVLIPTPYYPGFDRdlkwRTGVEIVPIHCt
+
+           201                                            250
+1bs0A      ......NDVTHLARLLaspc......PGQQMVVTEGVFSMDGDSA...PL
+1b8gA      ssngfqITETALEEAY...qeaekrnLRVKGVLVTNPSNPLGTTMtrnEL
+
+           251                                            300
+1bs0A      AEIQQVTQQHNGWLMVDDAhgtgvigeqgrgsc....WLQKVK.......
+1b8gA      YLLLSFVEDKGIHLISDEI.ysgta........fsspSFISVMevlkdrn
+
+           301                                            350
+1bs0A      .........PELLVVTFGKGFGV...sGAAVLCS.stvadyllqfaRHLI
+1b8gA      cdensevwqRVHVVYSLSKDLGLpgfrVGAIYSNddmvvaaat...KMSS
+
+           351                                            400
+1bs0A      ystsmppaqaqalraslav..Ir.SDEGDARREKLAALITRFRAGVQDLP
+1b8gA      .fglvssqtqhllsamlsdkkL.tKNYIAENHKRLKQRQKKLVSGLQKSG
+
+           401                                            450
+1bs0A      FTLADSCS.AIQPLIVGdn.......sralqlaeklrq.qgcwvtairpp
+1b8gA      ISCLNGNAgLFCWVDMRh.llrsntfeaemelwkkivyevhlnispgs..
+
+           451                                    492
+1bs0A      tvpag......tarl.rltlta.AHEmqdidrllevlhgng~
+1b8gA      .....schctepgwfrvcfa..nLPErtldlamqrlkafv.g
+

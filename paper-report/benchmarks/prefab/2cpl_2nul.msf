@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2cpl_2nul.msf MSF:  164 Type: P 11/12/19 CompCheck: 2514 ..
+
+  Name: 2cpl       Len: 164  Check: 2494 Weight: 1.00
+  Name: 2nul       Len: 164  Check:   20 Weight: 1.00
+
+//
+
+           1                                               50
+2cpl       VNPTVFFDIAVDGEPLGRVSFELFADKVPKTAENFRALSTGEKGFGYKGS
+2nul       ~~~MVTFHTN.....HGDIVIKTFDDKAPETVKNFLDYCRE...GFYNNT
+
+           51                                             100
+2cpl       CFHRIIPGFMCQGGDFTRHNGTGGKSIYGEKFEDENFILKHTGPGILSMA
+2nul       IFHRVINGFMIQGGGF...MKQKAT...KEPIKNEANGLKN.TRGTLAMA
+
+           101                                            150
+2cpl       NAGPNTNGSQFFICTAKTEWLDGKHVVFGKVKEGMNIVEAMERFGSRNGK
+2nul       RTAPHSATAQFFINVVDNDFLNFGYCVFAEVVDGMDVVDKIKGVAT.QDV
+
+           151        164
+2cpl       TSKKITIADCGQLE
+2nul       PKEDVIIESVTVS~
+

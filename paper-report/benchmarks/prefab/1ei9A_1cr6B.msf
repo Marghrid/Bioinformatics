@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ei9A_1cr6B.msf MSF:  632 Type: P 11/12/19 CompCheck: 1804 ..
+
+  Name: 1ei9A      Len: 632  Check: 4080 Weight: 1.00
+  Name: 1cr6B      Len: 632  Check: 7724 Weight: 1.00
+
+//
+
+           1                                               50
+1ei9A      dppa..............................................
+1cr6B      ~~~~rvaafdldgvlalpsiagafrrseealalprdfllgayqtefpegp
+
+           51                                             100
+1ei9A      ..................................................
+1cr6B      teqlmkgkitfsqwvplmdesyrksskacganlpenfsisqifsqamaar
+
+           101                                            150
+1ei9A      ..................................................
+1cr6B      sinrpmlqaaialkkkgfttcivtnnwlddgdkrdslaqmmcelsqhfdf
+
+           151                                            200
+1ei9A      ..................................................
+1cr6B      liescqvgmikpepqiynflldtlkakpnevvflddfgsnlkpardmgmv
+
+           201                                            250
+1ei9A      ..................................................
+1cr6B      tilvhntasalrelekvtgtqfpeaplpvpcnpndvshgyvtvkpgirlh
+
+           251                                            300
+1ei9A      ......PLPLVIWHGMGDSCcnplSMGAIKKMVEKKIpgIHVLSLE.igk
+1cr6B      fvemgsGPALCLCHGFPESWf...SWRYQIPALAQAG..FRVLAIDmkgy
+
+           301                                            350
+1ei9A      tlredvensf......fLNVNSQVTTVCQILAKDPklqqGYNAMGFSQGG
+1cr6B      gdss......sppeieeYAMELLCKEMVTFLDKLG..ipQAVFIGHDWAG
+
+           351                                            400
+1ei9A      QFLRAVAQRCPSppMVNLISVGGQHQgv..............fglp....
+1cr6B      VMVWNMALFYPE.rVRAVASLNTPFM..ppdpdvspmkvirsipvfnyql
+
+           401                                            450
+1ei9A      ..................................rcpgesshicdfirkt
+1cr6B      yfqepgvaeaeleknmsrtfksffrasdetgfiavhkateiggi......
+
+           451                                            500
+1ei9A      lnagaynkaiqer...................................lv
+1cr6B      .............lvntpedpnlskitteeeiefyiqqfkktgfrgplnw
+
+           501                                            550
+1ei9A      qaeywhdpirediyrnhSIFLADInqergVNESykknlmalkKFVMVKFL
+1cr6B      yrnt.............ERNWKWSck...GLGR....kilv.PALMVTAE
+
+           551                                            600
+1ei9A      NDTivdpvdsewfgfyrsgqaketiplqestlytqdrlg.lkamdkagQL
+1cr6B      KDIvl..rpemskn.........................mekwip...FL
+
+           601                          632
+1ei9A      VFLALE.gdhl...qlseeWFYAHIIPFLE~~
+1cr6B      KRGHIEdcghwtqiekpt.EVNQILIKWLQte
+

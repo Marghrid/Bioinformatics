@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fggA_1ga8A.msf MSF:  344 Type: P 11/12/19 CompCheck: 1826 ..
+
+  Name: 1ga8A      Len: 344  Check: 3189 Weight: 1.00
+  Name: 1fggA      Len: 344  Check: 8637 Weight: 1.00
+
+//
+
+           1                                               50
+1ga8A      ~XDIVFAADDN..yaaylcvaaksveaahpdTEIRFHVLDAGi..SEANR
+1fggA      tIYVVTPTYARlvqkaelvrlsqtlslv...PRLHWLLVEDA.egPTPLV
+
+           51                                             100
+1ga8A      AAVAANLRgggg.NIRFIDVNPEdfagfplnirhisittya.RLKLGEYI
+1fggA      SGLLAASG....lLFTHLVVLTP.....wvhp.....rgveqRNKALDWL
+
+           101                                            150
+1ga8A      Adc.................DKVLYLDIDVLVRDS.ltplwdtdlgdnwL
+1fggA      Rg.rggavggekdppppgtqGVVYFADDDNTYSRElfeemrwtrg....V
+
+           151                                            200
+1ga8A      GASId.....................lfverqegykqkigxadgEYYFNA
+1fggA      SVWP.vglvgglrfegpqvqdgrvvgfhta....wepsr.....PFPVDM
+
+           201                                            250
+1ga8A      GVLLINLKKWRR.hdifkx.SSEWveqykdvXQYQDQDILNGL.fkgg.V
+1fggA      AGFAVALPLLLDkpnaq..fDSTA.......PRGHLESSLLSHlvdpkdL
+
+           251                                            300
+1ga8A      CYANsrfnfxptnyafxasrhtdplyrdrtntvxpvavshycgpakpwhr
+1fggA      EPRA.......................anctr...vlvwht....rtekp
+
+           301                                      344
+1ga8A      dctawgaerftelagslttvp................eewrgkl
+1fggA      k....................mkqeeqlqrqgrgsdpaiev~~~
+

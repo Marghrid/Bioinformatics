@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dk4A_1inp.msf MSF:  431 Type: P 11/12/19 CompCheck:  823 ..
+
+  Name: 1dk4A      Len: 431  Check: 4059 Weight: 1.00
+  Name: 1inp       Len: 431  Check: 6764 Weight: 1.00
+
+//
+
+           1                                               50
+1dk4A      m..kwdeigkniakeiekeilpyfg....rkdksyv.vgtspsgde....
+1inp       ~msdilqellrvsekaaniaracrqqetlf..qllieekk......egek
+
+           51                                             100
+1dk4A      ........teifdkisedialkylksln..v..NIVSEElgvidns....
+1inp       nkkfavdfktladvlvqevikenmenkfpglgkKIFGEE.s.....nelt
+
+           101                                            150
+1dk4A      ..................................................
+1inp       ndlgekiimrlgpteeetvallskvlngnklasealakvvhqdvffsdpa
+
+           151                                            200
+1dk4A      ..........SEWTVVIDPIDGSFNFING..............ipffafc
+1inp       ldsveinipqDILGIWVDPIDSTYQYIKGsaditpnqgifpsglqcvtvl
+
+           201                                            250
+1dk4A      fgvfkn..nEPYYGLTYEFLT..........ksfyeayk..gkgaylngr
+1inp       igvydiqtgVPLMGVINQPFVsqdlhtrrwkgqcywglsylgtnih..sl
+
+           251                                            300
+1dk4A      kikvk.....................DFNPNNIVISYyp.skkidleklr
+1inp       lp...pvstrsnseaqsqgtqnpsseGSCRFSVVISTseketik.g..al
+
+           301                                            350
+1dk4A      n..kVKRVRIFGAFGLEMCYVAKGTLDAVFDVrp..KVRAVDIASSYIIC
+1inp       shvcGERIFRAAGAGYKSLCVILGLADIYIFS..edTTFKWDSCAAHAIL
+
+           351                                            400
+1dk4A      KEAGALITDENGD...........ELKF...............dlnatdR
+1inp       RAMGGGMVDLKEClernpdtgldlPQLVyhvgnegaagvdqwan.....K
+
+           401                         431
+1dk4A      LNIIVANSKEMLDIILDLl~~~~~~~~~~~~
+1inp       GGLIAYRSEKQLETFLSR.llqhlapvatht
+

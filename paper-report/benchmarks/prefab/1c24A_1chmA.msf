@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1c24A_1chmA.msf MSF:  262 Type: P 11/12/19 CompCheck: 1254 ..
+
+  Name: 1c24A      Len: 262  Check: 6460 Weight: 1.00
+  Name: 1chmA      Len: 262  Check: 4794 Weight: 1.00
+
+//
+
+           1                                               50
+1c24A      AISIKTPEDIEKMRVAGRLAAEVLEMIEPYVKPGVSTGELDRICNDYIVN
+1chmA      ~~~~~~~EEHVMIRHGARIADIGGAAVVEALGDQVPEYEVALHATQAMV.
+
+           51                                             100
+1c24A      EQHAVSACLGYHGYPKSVCISINEVVCHGIPDDAKLLKDGDIVNIDVTVI
+1chmA      RALMDT..........WTWFQSGIDGAHNPV.TTRKVNKGDILSLNCFPM
+
+           101                                            150
+1c24A      KDGFHGDTSKMFIVGKPTIMGERLCRITQESLYLALRMVKPGINLREIGA
+1chmA      IAGYYTALERTLF.DHC...HLRLWQVNVEVHEAGLKLIKPGARCSDIAR
+
+           151                                            200
+1c24A      AIQKFVEAEGFSVVREYCGHGIGQGFHEEPQVLHYDSRETNVVLKPGMTF
+1chmA      ELNEIFLKHDVYRTF.GYGHSFGTSGREALELR....E.IDTVLEPGMVV
+
+           201                                            250
+1c24A      TIEPMVNAGKKEIRTMKDGWTVKTKDRSLSAQYEHTIVVTDNGCEILTLR
+1chmA      SMEPMIMLP..............EGLPAGGYREHDILIVNENGAENITK~
+
+           251      262
+1c24A      KDDTIPAIISHD
+1chmA      ~~~~~~~~~~~~
+

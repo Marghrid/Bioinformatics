@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cf7A_1cf7B.msf MSF:  89 Type: P 11/12/19 CompCheck: 6159 ..
+
+  Name: 1cf7A      Len: 89  Check: 3381 Weight: 1.00
+  Name: 1cf7B      Len: 89  Check: 2778 Weight: 1.00
+
+//
+
+           1                                               50
+1cf7A      srhEKSLGLLTTKFVSLLQEAkdGVLDLKLAADTLAv.............
+1cf7B      ~~~GKGLRHFSMKVCEKVQRK..GTTSYNEVADELV.seftnsnnhlaad
+
+           51                                   89
+1cf7A      ......RQKRRIYDITNVLEGIGLIEKKSKnSIQWK~~~
+1cf7B      saydqkNIRRRVYDALNVLMAMNIISKEKK.EIKWIglp
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bpv_1bquA.msf MSF:  214 Type: P 11/12/19 CompCheck:  627 ..
+
+  Name: 1bquA      Len: 214  Check: 6684 Weight: 1.00
+  Name: 1bpv       Len: 214  Check: 3943 Weight: 1.00
+
+//
+
+           1                                               50
+1bquA      lppekpknlscivnegkkmrcewdggrethletnftlksewathkfadck
+1bpv       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1bquA      akrdtptsctvdystvyfvnievwveaenalgkvtsdhinfdpvykvkp.
+1bpv       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~s
+
+           101                                            150
+1bquA      ..NPPHNLSVINs.LSSILKLTWTNPSIKsviil.KYNIQYRTKDASTWS
+1bpv       piDPPGKPVPLN.iTRHTVTLKWAKPEYTggfkitSYIVEKRDLPNGRWL
+
+           151                                            200
+1bquA      QIPPEDTastRSSFTVQDLKPFTEYVFRIRCMKedgKGYWSDWSEEAS.g
+1bpv       KANFSNIl..ENEFTVSGLTEDAAYEFRVIAKN..aAGAISPPSEPSDai
+
+           201        214
+1bquA      ity.edrpskepsf
+1bpv       tcrddvea~~~~~~
+

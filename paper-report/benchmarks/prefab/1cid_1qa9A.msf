@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cid_1qa9A.msf MSF:  183 Type: P 11/12/19 CompCheck: 5440 ..
+
+  Name: 1qa9A      Len: 183  Check: 2269 Weight: 1.00
+  Name: 1cid       Len: 183  Check: 3171 Weight: 1.00
+
+//
+
+           1                                               50
+1qa9A      naLETWGALGQDINLDIpsFQMSDDIDDIKWEKT....SDKKKIAQFRKE
+1cid       tsITAYKSEGESAEFSFp.LNLGEESLQGELRWKaekaPSSQSWITFSLK
+
+           51                                             100
+1qa9A      ke......TFKEKd..TYELLk..NGALKIKHLKTDDQDIYKVSIYDTkg
+1cid       ..nqkvsvQKSTS.npKFQLSetlPLTLQIPQVSLQFAGSGNLTLTLD.r
+
+           101                                            150
+1qa9A      knvlEKIFDLKIQEr~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cid       gil.YQEVNLVVMKvtqpdsntltcevmgptspkmrlilkqenqearvsr
+
+           151                           183
+1qa9A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cid       qekviqvqapeagvwqcllsegeevkmdskiqv
+

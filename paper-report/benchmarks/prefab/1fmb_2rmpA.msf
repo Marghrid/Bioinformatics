@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fmb_2rmpA.msf MSF:  366 Type: P 11/12/19 CompCheck: 3328 ..
+
+  Name: 1fmb       Len: 366  Check: 7989 Weight: 1.00
+  Name: 2rmpA      Len: 366  Check: 5339 Weight: 1.00
+
+//
+
+           1                                               50
+1fmb       vtynle..............KRPTTIVLIN..DTPLNVLLDTGADTSVLT
+2rmpA      ~~~~~~dgsvdtpgyydfdlEEYAIPVSIGtpGQDFLLLFDTGSSDTWVP
+
+           51                                             100
+1fmb       TA............HYNRLKY..RGRKYQGTGIGGVGGNVETFSTPVTIK
+2rmpA      HKgctksegcvgsrFFDPSASstFKATNYNLNITYGTGGANGLYFEDSIA
+
+           101                                            150
+1fmb       KKGRHIK.TRMLVADIp................VTILGR...........
+2rmpA      IGDITVTkQILAYVDN.vrgptaeqspnadiflDGLFGAaypdntameae
+
+           151                                            200
+1fmb       ......DILQDLga.........klvl~~~~~~~~~~~~~~~~~~~~~~~
+2rmpA      ygstynTVHVNLy.kqglissplfsvymntnsgtgevvfggvnntllggd
+
+           201                                            250
+1fmb       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2rmpA      iaytdvmsryggyyfwdapvtgitvdgsaavrfsrpqaftidtgtnffim
+
+           251                                            300
+1fmb       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2rmpA      pssaaskivkaalpdatetqqgwvvpcasyqnskstisivmqksgsssdt
+
+           301                                            350
+1fmb       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2rmpA      ieisvpvskmllpvdqsnetcmfiilpdggnqyivgnlflrffvnvydfg
+
+           351          366
+1fmb       ~~~~~~~~~~~~~~~~
+2rmpA      nnrigfaplasayene
+

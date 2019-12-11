@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d2zB_1fadA.msf MSF:  160 Type: P 11/12/19 CompCheck: 5458 ..
+
+  Name: 1d2zB      Len: 160  Check: 2077 Weight: 1.00
+  Name: 1fadA      Len: 160  Check: 3381 Weight: 1.00
+
+//
+
+           1                                               50
+1d2zB      sskysrntel.....RRVEDNDIYRLAKILDenSCWRKLMSIIpkgmdvq
+1fadA      ~~~~~~~~~~aappgEAYLQVAFDIVCDNVG..RDWKRLAREL.......
+
+           51                                             100
+1d2zB      acsgagclnfpaeikkgfkytaq..dvfqideaanrlppdqs..KSQMMI
+1fadA      .......................kvseakmdgieeky.prslseRVRESL
+
+           101                                            150
+1d2zB      DEWKTSgkln..erPTVGVLLQLLVQAELFSAADFVALdflnestparpv
+1fadA      KVWKNA....ekknASVAGLVKALRTCRLNLVADLVEE.aqes~~~~~~~
+
+           151    160
+1d2zB      dgpgalisle
+1fadA      ~~~~~~~~~~
+

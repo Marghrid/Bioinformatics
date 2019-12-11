@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1auoA_1fj2B.msf MSF:  232 Type: P 11/12/19 CompCheck: 5549 ..
+
+  Name: 1auoA      Len: 232  Check: 8734 Weight: 1.00
+  Name: 1fj2B      Len: 232  Check: 6815 Weight: 1.00
+
+//
+
+           1                                               50
+1auoA      ~~~~~~~MTEPLILQPAKPADACVIWLHGLGADRYDFMPVAEALQesLLT
+1fj2B      mdpefmsTPLPAIVPAARKATAAVIFLHGLGDTGHGWAEAFAGIR..SSH
+
+           51                                             100
+1auoA      TRFVLPQAPTRPVTINGGYEMPSWYDIKAMSPARSISLEELEVSAKMVTD
+1fj2B      IKYICPHAPVRPVTLNMNVAMPSWFDIIGLSPDSQEDESGIKQAAENIKA
+
+           101                                            150
+1auoA      LIEAQKRTGIDASRIFLAGFSQGGAVVFHTAFInWQGPLGGVIALSTYAP
+1fj2B      LIDQEVKNGIPSNRIILGGFSQGGALSLYTALT.TQQKLAGVTALSCWLP
+
+           151                                            200
+1auoA      TF..gdelELSASQQRIPALCLHGQYDDVVQNAMGRSAFEHLKSRGV..T
+1fj2B      LRasfpqgPIGGANRDISILQCHGDCDPLVPLMFGSLTVEKLKTLVNpaN
+
+           201                          232
+1auoA      VTWQEYP.MGHEVLPQEIHDIGAWLAARLG~~
+1fj2B      VTFKTYEgMMHSSCQQEMMDVKQFIDKLLPpi
+

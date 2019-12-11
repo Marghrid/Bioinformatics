@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ash_2fal.msf MSF:  147 Type: P 11/12/19 CompCheck: 6083 ..
+
+  Name: 1ash       Len: 147  Check: 4132 Weight: 1.00
+  Name: 2fal       Len: 147  Check: 1951 Weight: 1.00
+
+//
+
+           1                                               50
+1ash       ANKTRELCMKSLEHAKVDTSNEARQDGIDLYKHMFENYPPLRKYFKSREE
+2fal       SAAEADLAGKSWAPVFA....NKNANGLDFLVALFEKFPDSANFFADFKG
+
+           51                                             100
+1ash       YTAEDVQNDPFFAKQGQKILLACHVLCATYDDRETFNAYTRELLDRHARD
+2fal       KSVADIKASPKLRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHV..
+
+           101                                         147
+1ash       HVHMPPEVWTDFWKLFEEYLGKKTTLDEPTKQAWHEIGREFAKEINK
+2fal       GFGVGSAQFENVRSMFPGFVASVAAPPAGADAAWTKLFGLIIDALKA
+

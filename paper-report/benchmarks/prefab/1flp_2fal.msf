@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1flp_2fal.msf MSF:  142 Type: P 11/12/19 CompCheck: 7227 ..
+
+  Name: 1flp       Len: 142  Check: 3805 Weight: 1.00
+  Name: 2fal       Len: 142  Check: 3422 Weight: 1.00
+
+//
+
+           1                                               50
+1flp       SLEAAQKSNVTSSWAKASAAWGTAGPEFFMALFDAHDDVFAKFSGLFSGA
+2fal       ~LSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFF.ADFKGK
+
+           51                                             100
+1flp       AKGTVKNTPEMAAQAQSFKGLVSNWVDNLDNAGALEGQCKTFAANHKARG
+2fal       SVADIKASPKLRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFG
+
+           101                                    142
+1flp       ISAGQLEAAFKVLSGFMKSYGGDEGAWTAVAGALMGEIEPDM
+2fal       VGSAQFENVRSMFPGFVAVAAPADAAWTKLFGLIIDALKAAG
+

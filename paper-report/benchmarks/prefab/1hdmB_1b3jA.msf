@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hdmB_1b3jA.msf MSF:  359 Type: P 11/12/19 CompCheck: 8058 ..
+
+  Name: 1hdmB      Len: 359  Check: 9263 Weight: 1.00
+  Name: 1b3jA      Len: 359  Check: 8795 Weight: 1.00
+
+//
+
+           1                                               50
+1hdmB      fvahvestcllddagtpkdftycisfnkdlltcwdpeenkmapcnslanv
+1b3jA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1hdmB      lsqhlnqkdtlmqrlnglqncathtqpfwgsltn................
+1b3jA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ephslrynltvlswdg
+
+           101                                            150
+1hdmB      ..................................................
+1b3jA      svqsgfltevhldgqpflrcdrqkcrakpqgqwaedvlgnktwdretrdl
+
+           151                                            200
+1hdmB      ..................................................
+1b3jA      tgngkdlrmtlahikdqkeglhslqeirvceihednstrssqhfyydgel
+
+           201                                            250
+1hdmB      ..................................................
+1b3jA      flsqnletkewtmpqssraqtlamnvrnflkedamadclqelrrylksgv
+
+           251                                            300
+1hdmB      ...rTRPPSVQVAKTTPfnt.REPVMLACYVWGFYPAEVTITWRKNGKLV
+1b3jA      vlrrTVPPMVNVTRSEA...sEGNITVTCRASGFYPWNITLSWRQDGVSL
+
+           301                                            350
+1hdmB      MHSsah....ktaqpngdWTYQTLSHLALTPSyg..DTYTCVVEHIgape
+1b3jA      SHD...tqqwgdvlpdgnGTYQTWVATRICQG..eeQRFTCYMEHS..gn
+
+           351   359
+1hdmB      pilrdwtpg
+1b3jA      hsthpvps~
+

@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1lxa_2xat.msf MSF:  390 Type: P 11/12/19 CompCheck: 5375 ..
+
+  Name: 1lxa       Len: 390  Check: 7155 Weight: 1.00
+  Name: 2xat       Len: 390  Check: 8220 Weight: 1.00
+
+//
+
+           1                                               50
+1lxa       midksafvhptaiveegasiganahigpfcivgphveigegtvlkshv..
+2xat       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ny
+
+           51                                             100
+1lxa       ............vvng.HTKIGRDneiyqfa........SIGEVnqdlky
+2xat       fespfrgkllseqvsnpNIRVGRYsyysg..yyhghsfdDCARY......
+
+           101                                            150
+1lxa       agep........TRVEIGDRNRIRESVTIHRGTv................
+2xat       ....lmpdrddvDKLVIGSFCSIGSGAAFIMAG.nqghraewastfpfhf
+
+           151                                            200
+1lxa       ..............QGGGLTKVGSDNLLMINAHIAHDCTVGNRCILANNA
+2xat       mheepafagavngyQPAGDTLIGHEVWIGTEAMFMPGVRVGHGAIIGSRA
+
+           201                                            250
+1lxa       TLaghvsvddfaiiggmtavhqfciigahvmvggcsgvaqdvppyviaqg
+2xat       LV................................................
+
+           251                                            300
+1lxa       nhatpfgvnieglkrrgfsreaitairnaykliyrsgktldevkpeiael
+2xat       ..................................................
+
+           301                                            350
+1lxa       aetypevkaftdffarstrglir~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2xat       .......................tgdvepyaivggnpartirkrfsdgdi
+
+           351                                  390
+1lxa       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2xat       qnllemawwdwpladieaampllctgdipalyqhwkqrqa
+

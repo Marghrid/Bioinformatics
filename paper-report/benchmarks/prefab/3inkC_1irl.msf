@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3inkC_1irl.msf MSF:  138 Type: P 11/12/19 CompCheck: 1652 ..
+
+  Name: 3inkC      Len: 138  Check:  566 Weight: 1.00
+  Name: 1irl       Len: 138  Check: 1086 Weight: 1.00
+
+//
+
+           1                                               50
+3inkC      ~~~~~~stkktQLQLEHLLLDLQMILNGI.nnyknPKLTRMLTFKFYMPK
+1irl       aptssstkkt.QLQLEHLLLDLQMILNGInnykn.PKLTRMLTAKFYMPK
+
+           51                                             100
+3inkC      KATELKHLQCLEEELKPLEEVLNLAQSKNFhlRPRDliSNINVIVLELK.
+1irl       KATELKHLQCLEEELKPLEEVLNLAQSKNF..HLRPr.DLISNINVIVLe
+
+           101                                138
+3inkC      .........CEYADETATIVEFLNRWITFAQSIIStlT
+1irl       lkgsettfmCEYADETATIVEFLNRWITFCQSIIStlT
+

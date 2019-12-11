@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1lfdA_2rgf.msf MSF:  104 Type: P 11/12/19 CompCheck: 6517 ..
+
+  Name: 1lfdA      Len: 104  Check: 9814 Weight: 1.00
+  Name: 2rgf       Len: 104  Check: 6703 Weight: 1.00
+
+//
+
+           1                                               50
+1lfdA      ~~~~~~~~~gDCCIIRVSLDvdngn....MYKSILVTSQDKAPTVIRKAM
+2rgf       alplynqqvgDCCIIRVSLDv....dngnMYKSILVTSQDKAPAVIRKAM
+
+           51                                             100
+1lfdA      DKHNLDEDEPEDYELLQIISed..HKLKIPEN.anvfyamnsaANYDFIL
+2rgf       DKHNLEEEEPEDYELLQILS..ddRKLKIPENanvfyamnst.ANYDFVL
+
+           101
+1lfdA      KKR~
+2rgf       KKRt
+

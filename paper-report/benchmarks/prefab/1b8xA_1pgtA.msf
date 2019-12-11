@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b8xA_1pgtA.msf MSF:  260 Type: P 11/12/19 CompCheck: 2733 ..
+
+  Name: 1b8xA      Len: 260  Check: 3110 Weight: 1.00
+  Name: 1pgtA      Len: 260  Check: 9623 Weight: 1.00
+
+//
+
+           1                                               50
+1b8xA      SPILGYWKIKGLVQPTRLLLEYLEEKYEEHLYERDEGDKWRNKKFELGLE
+1pgtA      PYTVVYFPVRGRCAALRMLLADQGQSWKEEVVTVETWQE.GSLKAS..CL
+
+           51                                             100
+1b8xA      FPNLPYYIDGDVKLTQSMAIIRYIADKHNMLGGCPKERAEISMLEGAVLD
+1pgtA      YGQLPKFQDGDLTLYQSNTILRHLGRTLGLYGKDQQEAALVDMVNDGVED
+
+           101                                            150
+1b8xA      IRYGVSRIAYSKDFETLKVDFLSKLPEMLKMFEDRLCHKTYLNGDHVTHP
+1pgtA      LRCKYVSLIYT.NYEAGKDDYVKALPGQLKPFETLLSQNTFIVGDQISFA
+
+           151                                            200
+1b8xA      DFMLYDALDVVLYMDPMCLDAFPKLVCFKKRIEAIPQIDKYLKSSKYIAW
+1pgtA      DYNLLDLLLIHEVLAPGCLDAFPLLSAYVGRLSARPKLKAFLASPEYVNL
+
+           201                                            250
+1b8xA      PLQGWQATFGGGDHPPKSDLVPRGSRRASVGSRMHYPGAFTYSPTPVTSG
+1pgtA      PING.NGKQ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251    260
+1b8xA      IGIGMSAMGS
+1pgtA      ~~~~~~~~~~
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a44_1qouB.msf MSF:  185 Type: P 11/12/19 CompCheck:   95 ..
+
+  Name: 1a44       Len: 185  Check:  825 Weight: 1.00
+  Name: 1qouB      Len: 185  Check: 9270 Weight: 1.00
+
+//
+
+           1                                               50
+1a44       PVDLSKWSGPLSLQEVDERPQHPLQVKYGGAEVDELGKVLTPTQVKNRPT
+1qouB      ~~~~DPLVI.GRVIDVVDHSTVKMSVIYNIKHV.YNGHELFPSAVTSTP.
+
+           51                                             100
+1a44       SITWDGLDPGKLYTLVLTDPDAPSRKDPKYREWHHFLVVNMKGNNISSGT
+1qouB      RVEVHGGDMRSFFTLIMTDPDVPGPSDPYLREHLHWIVTDIPGTDSSFGK
+
+           101                                            150
+1a44       VLSDYVGSGPPKGTGLHRYVWLVYEQEGPLKCDEPILSNRSGDhRGKFKV
+1qouB      EVVSYEMPRPN..IGIHRFVFLLFKQKKR..............aRDGFNT
+
+           151                             185
+1a44       ASFRKKYELGAPVAGTCYQAEWDDYVPKLYEQLSG
+1qouB      RKFTQENELGLPVAAVFFNCQRE~~~~~~~~~~~~
+

@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1esc_1eny.msf MSF:  404 Type: P 11/12/19 CompCheck: 3503 ..
+
+  Name: 1esc       Len: 404  Check: 3035 Weight: 1.00
+  Name: 1eny       Len: 404  Check:  468 Weight: 1.00
+
+//
+
+           1                                               50
+1esc       ~~~~DPVPTVFFgdsytanfgiapvtnqdsergwcfqakenypavatrsl
+1eny       agllDGKRILVS....giit..................dssiafhiarva
+
+           51                                             100
+1esc       adkgitldvqADVScgg....................alihhfwekqelp
+1eny       qe..qgaql.VLTGfd.rlrliqritdrlpakaplleldvq..neeh...
+
+           101                                            150
+1esc       fgagel.ppqQDALK......qdtqltvgslggntlgfnri..lkqcsde
+1eny       ......laslAGRVTeaigagnkldgvvhsigf....mpqtgmginp...
+
+           151                                            200
+1esc       lrkpsllpgdpvdgdepaakcgeffgtgdgkqwlddqferv.GAELEELL
+1eny       .....................ffda.....pyadvskgihisAYSYASMA
+
+           201                                            250
+1esc       DRIGyfapd..akrvlvgyprlvpedttkcltaapgqtqlpfadipqdal
+1eny       KALL.pimnpggsivgmdfd..............................
+
+           251                                            300
+1esc       ....PVLDQIQKRLNDAMKKAAADGG.........adfvdlyagtganta
+1eny       psraMPAYNWMTVAKSALESVNRFVAreagkygvrsnlvaa.........
+
+           301                                            350
+1esc       cdgadrg.......igglledsqlellgtkipwyahp.............
+1eny       .......gpirtlamsaiv..................ggalgeeagaqiq
+
+           351                                            400
+1esc       ...............ndKGrdiqakqvadkie.EILN~~~~~~~~~~~~~
+1eny       lleegwdqrapigwnmkDA.tpvaktvcallsdWLPAttgdiiyadggah
+
+           401
+1esc       ~~~~
+1eny       tqll
+

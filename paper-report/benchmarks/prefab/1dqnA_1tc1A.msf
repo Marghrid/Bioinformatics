@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dqnA_1tc1A.msf MSF:  230 Type: P 11/12/19 CompCheck: 8880 ..
+
+  Name: 1dqnA      Len: 230  Check: 1483 Weight: 1.00
+  Name: 1tc1A      Len: 230  Check: 7397 Weight: 1.00
+
+//
+
+           1                                               50
+1dqnA      MICSVTGKPVKDVLSTFFKDRNDVLESEVKKFHLLATFEECKALAADTAR
+1tc1A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~EFAEKILFTEEEIRTRIKEVAK
+
+           51                                             100
+1dqnA      RMNEYYKDVAEPVTLVALLTGAYLYASLLTVHLTFPYTLHFVKVSSYKGT
+1tc1A      RIADDYKGKGLPLVLISVLKGSFMFTADLCRALNVPVRMEFICVSSY...
+
+           101                                            150
+1dqnA      RQESVVFDEEDLKQLKEKREVVLIDEYVDSGHTIFSIQEQIKHAKICSCF
+1tc1A      ....VRML..TRHSI.EGHHVLIVEDIVDTALTLNYLYHMYFSLKTVVLL
+
+           151                                            200
+1dqnA      VKDVDAIKKHSALADTKMFYGYTPMPKGSWLIGFGLDDNGLRRGWAHLFD
+1tc1A      DKR.VPFS.........DYVVA.NIPN.AFVIGYGLDYDDTYRELRDIVV
+
+           201                        230
+1dqnA      INLSESEVTEFRRRLTEHIKGLNINGVNRY
+1tc1A      LRP~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

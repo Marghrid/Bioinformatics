@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cczA_1qfoA.msf MSF:  197 Type: P 11/12/19 CompCheck: 9002 ..
+
+  Name: 1qfoA      Len: 197  Check: 2905 Weight: 1.00
+  Name: 1cczA      Len: 197  Check: 6097 Weight: 1.00
+
+//
+
+           1                                               50
+1qfoA      wgvsspknvqglsgscllipcifsypadvpvg..ITAIWYYDysgkRQVV
+1cczA      ~~~~fsqqiygvvygnvtfhvpsnv.......plKEVLWKKQ....KDKV
+
+           51                                             100
+1qfoA      IHSGdpk...lVDKRFRGRAELmgnmdhkVCNLLLKDLKPEDSGTYNFRF
+1cczA      AELEn..sefrAFSSFKNRVYLdtv....SGSLTIYNLTSSDEDEYEMES
+
+           101                                            150
+1qfoA      EissnRWLDvk.gttvtvtt~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cczA      Pn...ITDT..mkfflyvlemvskpmiywecsnatltcevlegtdvelkl
+
+           151                                         197
+1qfoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cczA      yqgkehlrslrqktmsyqwtnlrapfkckavnrvsqesemevvncpe
+

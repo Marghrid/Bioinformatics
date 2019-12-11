@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1rcb_3inkC.msf MSF:  145 Type: P 11/12/19 CompCheck: 5379 ..
+
+  Name: 3inkC      Len: 145  Check: 8287 Weight: 1.00
+  Name: 1rcb       Len: 145  Check: 7092 Weight: 1.00
+
+//
+
+           1                                               50
+3inkC      tkktql.qlehllldlqmilnginnyknpklt.rmlTFKFY.mpkka...
+1rcb       ~~hkcditlqeiiktlnslteqk.........tlctELTVTdifaa.skn
+
+           51                                             100
+3inkC      telk.HLQCLEEELKPLEEVLNla..........qsknfhl..RPRDLIS
+1rcb       ttekeTFCRAATVLRQFYSHHEk.dtrclgataqqfhr...hkQLIRFLK
+
+           101                                       145
+3inkC      NINVIVLELK.....CEYADETATIVEFLNRWITFAQSIISTLt~
+1rcb       RLDRNLWGLAglnscPVKEANQSTLENFLERLKTIMREKYSKCss
+

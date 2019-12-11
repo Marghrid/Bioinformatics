@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cvsC_1qfoA.msf MSF:  234 Type: P 11/12/19 CompCheck: 1976 ..
+
+  Name: 1qfoA      Len: 234  Check: 9547 Weight: 1.00
+  Name: 1cvsC      Len: 234  Check: 2429 Weight: 1.00
+
+//
+
+           1                                               50
+1qfoA      ~~~~wgvss.....PKNVQGLSgscllipcifsypadvp.VgITAIWYYD
+1cvsC      pvapywts.pekmeKKLHAVPAaktvkfkcpssg.....tPqPTLRWLKN
+
+           51                                             100
+1qfoA      ysgkrqvvihsgdpklVDKRFRGRAELMGNmdhkVCNLLLKDLKPEDSGT
+1cvsC      ....gkef........KPDHRIGGYKVRYA....TWSIIMDSVVPSDKGN
+
+           101                                            150
+1qfoA      YNFRFEISsNRWLDvkGTTVTVTT~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cvsC      YTCIVENEyGSINH..TYQLDVVErsphrpilqaglpanktvalgsnvef
+
+           151                                            200
+1qfoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cvsC      mckvysdpqphiqwlkhievngskigpdnlpyvqilktagvnttdkemev
+
+           201                            234
+1qfoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cvsC      lhlrnvsfedageytclagnsiglshhsawltvl
+

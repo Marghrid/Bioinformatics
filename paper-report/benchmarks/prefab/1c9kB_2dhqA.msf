@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1c9kB_2dhqA.msf MSF:  218 Type: P 11/12/19 CompCheck: 3043 ..
+
+  Name: 1c9kB      Len: 218  Check: 7790 Weight: 1.00
+  Name: 2dhqA      Len: 218  Check: 5253 Weight: 1.00
+
+//
+
+           1                                               50
+1c9kB      milvtggarsgksrhaealigdaPQVLYIAT..SQILD..demaarIQHH
+2dhqA      ~~~~~~~~~~~~~~~~~~~~~~~LIVNVINGpnLGRLGrrggtt..HDEL
+
+           51                                             100
+1c9kB      KDGRP.......aHWRTAECWRH..LDTLIT..adlapdDAILLECITtm
+2dhqA      VALIEreaaelglKAVVRQSDSEaqLLDWIHqaadaa..EPVILNAGG..
+
+           101                                            150
+1c9kB      vtnllfalggendpeqwdyaameraidd...EIQILIAACQRCPAKVVLV
+2dhqA      ............................lthTSVALRDACAELSAPLIEV
+
+           151                                            200
+1c9kB      T..nevgmgivpenrlarhfRDIAGRVnqRLAAAADEVWlvvsgigvkik
+2dhqA      Hisnvha............rEEFRRHS..YLSPIATGVI...........
+
+           201            218
+1c9kB      ~~~~~~~~~~~~~~~~~~
+2dhqA      vglgiqgyllalrylaeh
+

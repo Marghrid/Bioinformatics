@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1sluA_1fi8E.msf MSF:  135 Type: P 11/12/19 CompCheck: 9746 ..
+
+  Name: 1sluA      Len: 135  Check: 2055 Weight: 1.00
+  Name: 1fi8E      Len: 135  Check: 7691 Weight: 1.00
+
+//
+
+           1                                               50
+1sluA      ~~~~iaPYPQAEKGMKRQVIQLTPQEDESTLKVELLIGQTLEVDCnLHRL
+1fi8E      plekiaPYPQAEKGMKRQVIQLTPQEDESTLKVELLIGQTLEVDC.LHRL
+
+           51                                             100
+1sluA      GGKLENKTLEGWGYDYYVFDkvSSPVSTMmhcpdkekkfvtaylgdagml
+1fi8E      GGKLENKTLEGWGYDYYVFD..SSPIEPD~~~~~~~~~~~~~~~~~~~~~
+
+           101                             135
+1sluA      rynsklpivvytpdnvdvkyrvwkaeekidnavvr
+1fi8E      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

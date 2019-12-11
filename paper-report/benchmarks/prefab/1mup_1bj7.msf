@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1mup_1bj7.msf MSF:  161 Type: P 11/12/19 CompCheck: 4979 ..
+
+  Name: 1mup       Len: 161  Check: 4279 Weight: 1.00
+  Name: 1bj7       Len: 161  Check:  700 Weight: 1.00
+
+//
+
+           1                                               50
+1mup       eeasstgrnFNVEKINGEWHTIILASDKREKIEDNGNFRLFLEQIHVLE.
+1bj7       ~~~~~~~~~IDPSKIPGEWRIIYAAADNKDKIVEGGPLRNYYRRIECINd
+
+           51                                             100
+1mup       .NSLVLKFHTVRDEECSELSMVADKTeKAGEYSVTYDGFNTFTIPKTDyD
+1bj7       cESLSITFYLKDQGTCLLLTEVAKRQ.EGYVYVLEFYGTNTLEVIHVS.E
+
+           101                                            150
+1mup       NFLMAHLINEKDGETFQLMGLYGREPDLSSDIKERFAQLCEEHGILRENI
+1bj7       NMLVTYVENYDGERITKMTEGLAKGTSFTPEELEKYQQLNSERGVPNENI
+
+           151     161
+1mup       IDLSNANRC~~
+1bj7       ENLIKTDNCpp
+

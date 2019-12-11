@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ig0A_1ig3A.msf MSF:  317 Type: P 11/12/19 CompCheck: 6245 ..
+
+  Name: 1ig0A      Len: 317  Check: 8429 Weight: 1.00
+  Name: 1ig3A      Len: 317  Check: 7816 Weight: 1.00
+
+//
+
+           1                                               50
+1ig0A      EECIENPERIKIGTDLINIRNKMNLKELIHPNEDENSTLLILNQKIDIPR
+1ig3A      ~~~~~~~~~~~~~~~~~HMEHAFTPLEPLL.GNLK.YCLVVLNQPLDA..
+
+           51                                             100
+1ig0A      PLFYKIWKLHDLKVCADGAANRLYDYLDDDETLRIKYLPNYIIGDLDSLS
+1ig3A      .RFRHLWKKALLRACADGGANHLYDLTE...GERESFLPEFVSGDFDSIR
+
+           101                                            150
+1ig0A      EKVYKYYRKNKVTIIKQTTQYSTDFTKCVNLISLHFNSPEFRSLISNKDN
+1ig3A      PEVKEYYTKKGCDLISTPDQDHTDFTKCLQVLQRKIEEK...........
+
+           151                                            200
+1ig0A      LQSNHGIELEKGIHTLYNTMTESLVFSKVTPISLLALGGIGGRFDQTVHS
+1ig3A      ............................LQVDVIVTLGGLGGRFDQIMAS
+
+           201                                            250
+1ig0A      ITQLYTLSENASYFKLCYMTPTDLIFLIKKNGTLIEYDPQFRNTCIGNCG
+1ig3A      VNTLFQAT.HITPVPIIIIQKDSLIYLLQPGKHRLHVDTGM...EGSWCG
+
+           251                                            300
+1ig0A      LLPIGEATLVKETRGLKWDVKNWPTSVVTGRVSSSNRFVGDNCCFIDTKD
+1ig3A      LIPVGQPCNQVTTTGLKWNLTNDVLGF.GTLVSTSNTYDGSGLVTVETDH
+
+           301           317
+1ig0A      DIILNVEIFVDKLIDFL
+1ig3A      PLLWTMAIKS~~~~~~~
+

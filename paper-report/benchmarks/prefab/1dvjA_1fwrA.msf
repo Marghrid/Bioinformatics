@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dvjA_1fwrA.msf MSF:  239 Type: P 11/12/19 CompCheck: 2336 ..
+
+  Name: 1dvjA      Len: 239  Check: 7326 Weight: 1.00
+  Name: 1fwrA      Len: 239  Check: 5010 Weight: 1.00
+
+//
+
+           1                                               50
+1dvjA      MDVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAE
+1fwrA      LTTG.PVVPVIVVKKLEHAVPMAKALVAGVRVLEVTL..RTEC.VDAIRA
+
+           51                                             100
+1dvjA      FRKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRA
+1fwrA      IAKEVEAIVGAGTVL......NPQQLAEVTEAGAQFAISGLTE..PLLKA
+
+           101                                            150
+1dvjA      CLNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPS
+1fwrA      ATEG....TIPLIPGIS.............TVSELMLGMDYGLKEFQFPA
+
+           151                                            200
+1dvjA      TRPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLA
+1fwrA      EGVKALQAIAGP.FSQVRFCPKGISPA..NYRDYLALVLCIGGS.WLVP.
+
+           201                                 239
+1dvjA      DNPAAAAAGIIESIKDLLIPEDPAANKARKEAELAAATA
+1fwrA      DRITKLAREAVEGAKL~~~~~~~~~~~~~~~~~~~~~~~
+

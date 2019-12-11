@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1esl_1qo3C.msf MSF:  179 Type: P 11/12/19 CompCheck: 4345 ..
+
+  Name: 1esl       Len: 179  Check: 5307 Weight: 1.00
+  Name: 1qo3C      Len: 179  Check: 9038 Weight: 1.00
+
+//
+
+           1                                               50
+1esl       ~~~~~~~~~~~~~~~~~~WSYNTSTEAMTYDEASAYCQQRYTHLVAIQNK
+1qo3C      stvldslqhkvywfcygmKCYYFVMDRKTWSGCKQTCQSSSLSLLKIDDE
+
+           51                                             100
+1esl       EEIEYLNSILSYSpsYYWIGIRKV..NNVWVWVgTQKPLteEAKNwap.g
+1qo3C      DELKFLQLVVPSD..SCWVGLSYDnkKKDWAWI.DNRPS..KLALn..tr
+
+           101                                            150
+1esl       ePNNRqkd.EDCVEIYIkrekdvgMWNDERCSKKKLALCYTAACtntscs
+1qo3C      kYNIR...dGGCMLLSKt......RLDNGNCDQVFICICGKRLD~~~~~~
+
+           151                       179
+1esl       ghgecvetinnytckcdpgfsglkceqiv
+1qo3C      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

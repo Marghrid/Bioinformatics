@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hxmD_1tvdA.msf MSF:  230 Type: P 11/12/19 CompCheck: 9682 ..
+
+  Name: 1hxmD      Len: 230  Check: 6360 Weight: 1.00
+  Name: 1tvdA      Len: 230  Check: 3322 Weight: 1.00
+
+//
+
+           1                                               50
+1hxmD      AGHLEQPQISSTKTLSKTARLEgVVSGITISATSVYWYRERPGEVIQFLV
+1tvdA      ~DKVTQSSPDQTVASGSEVVLLaTYD.TVYSNPDLFWYRIRPDYSFQFVF
+
+           51                                             100
+1hxmD      SISYDGTVRKESGIPSGKFEVDRIPETSTSTLTIHNVEKQDIATYYgALW
+1tvdA      YGDDS.RSEGADFTQ.GRFSVKHILTQKAFHLVISPVRTEDSATYYaAFT
+
+           101                                            150
+1hxmD      EAQQELGKKIKVFGPGTKLIITDKQLDADVSPKPTIFLPSIAETKLQKAG
+1tvdA      LPP...PTDKLIFGKGTRVTVEP~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1hxmD      TYLhLLEKFFPDVIKIHWEEKKSNTILGSQEGNTMKTNDTYMKFSWLTVP
+1tvdA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                        230
+1hxmD      EKSLDKEHRhIVRHENNKNGVDQEIIFPPI
+1tvdA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

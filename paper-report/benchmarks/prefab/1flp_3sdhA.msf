@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1flp_3sdhA.msf MSF:  142 Type: P 11/12/19 CompCheck: 8601 ..
+
+  Name: 1flp       Len: 142  Check: 3805 Weight: 1.00
+  Name: 3sdhA      Len: 142  Check: 4796 Weight: 1.00
+
+//
+
+           1                                               50
+1flp       SLEAAQKSNVTSSWAKASAAWGTAGPEFFMALFDAHDDVFAKFSGLFSGA
+3sdhA      QLTADVKKDLRDSWKVIGSDKKGNGVALMTTLFADNQETIGYFKRLG...
+
+           51                                             100
+1flp       AKGTVKNTPEMAAQAQSFKGLVSNWVDNLDNAGALEGQCKTFAANHKARG
+3sdhA      NVSQGMANDKLRGHSITLMYALQNFIDQLDNPDDLVCVVEKFAVNHITRK
+
+           101                                    142
+1flp       ISAGQLEAAFKVLSGFMKSYGGDEGAWTAVAGALMGEIEPDM
+3sdhA      ISAAEFGKINGPIKKVLASKNFGDKYANAWAKLVA.VVQAAL
+

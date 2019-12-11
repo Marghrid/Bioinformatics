@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dbtA_1dvjA.msf MSF:  237 Type: P 11/12/19 CompCheck: 7755 ..
+
+  Name: 1dbtA      Len: 237  Check: 2882 Weight: 1.00
+  Name: 1dvjA      Len: 237  Check: 4873 Weight: 1.00
+
+//
+
+           1                                               50
+1dbtA      MKNNLPIIALDFASAEETLAFLAPFQQEPLFVKVGMELFYQEGPSIVKQL
+1dvjA      MDVMNLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAEF
+
+           51                                             100
+1dbtA      KERNCELFLDLKLHDIPTTVNKAMKRLASLGVDLVNVHAAGGKKMMQAAL
+1dvjA      RKFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRACL
+
+           101                                            150
+1dbtA      EGLEEGTPAGKKRPSLIAVTQLTSTSEQIMKDELLIEKSLIDTVVHYSKQ
+1dvjA      NVAEEM......GREVFLLTEMSHPGAEMF.........IQGAADEIARM
+
+           151                                            200
+1dbtA      AEESGLDGVVCSVHEAKAIYQAVSPSFLTVTPGIRMSEDAANDQVRVATP
+1dvjA      GVDLGVKNYVGPSERLSRLREIIGQDSFLISPGVGA..........GGDP
+
+           201                               237
+1dbtA      AIAREKGSSAIVVGRSITKAEDPVKAYKAVRLEWEGI
+1dvjA      GETL.RFADAIIVGRSIYLADNPAAAAAGIIESIKDL
+

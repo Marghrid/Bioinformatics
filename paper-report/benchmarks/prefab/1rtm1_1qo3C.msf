@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1rtm1_1qo3C.msf MSF:  165 Type: P 11/12/19 CompCheck: 8798 ..
+
+  Name: 1rtm1      Len: 165  Check: 6820 Weight: 1.00
+  Name: 1qo3C      Len: 165  Check: 1978 Weight: 1.00
+
+//
+
+           1                                               50
+1rtm1      aievklanmeaeintlkskleltnklhafs.............mgkksgK
+1qo3C      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~stvldslqhkvywfcyg..M
+
+           51                                             100
+1rtm1      KFFVTNHERMPFSKVKALCSELRGTVAIPRNAEENKAIQEVAK.TSAFLG
+1qo3C      KCYYFVMDRKTWSGCKQTCQSSSLSLLKIDDEDELKFLQLVVPsDSCWVG
+
+           101                                            150
+1rtm1      ITDEVTEGQFMYVTGGRLTYSNWkk.DEPNDHgsgEDCVTIVDNgLWNDI
+1qo3C      LSYDNKKKDWAWIDNRPSKLALN..tRKYNIR..dGGCMLLSKT.RLDNG
+
+           151         165
+1rtm1      SCQASHTAVCEFPA~
+1qo3C      NCDQVFICICGKRLd
+

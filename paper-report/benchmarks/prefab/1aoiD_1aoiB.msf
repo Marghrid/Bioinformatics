@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aoiD_1aoiB.msf MSF:  105 Type: P 11/12/19 CompCheck: 4976 ..
+
+  Name: 1aoiD      Len: 105  Check: 6794 Weight: 1.00
+  Name: 1aoiB      Len: 105  Check: 8182 Weight: 1.00
+
+//
+
+           1                                               50
+1aoiD      kkrr.ktrk...ESYAIYVYKVLKQVHpdTGISSKAMSIMNSFVNDVFER
+1aoiB      ~~~~kvlrdniqGITKPAIRRLARRGGv.KRISGLIYEETRGVLKVFLEN
+
+           51                                             100
+1aoiD      IAGEASRLAHYNKRSTITSREIQTAVRLLLpgelakh.avsegtkavtky
+1aoiB      VIRDAVTYTEHAKRKTVTAMDVVYALKRQG.......rtlygfg......
+
+           101
+1aoiD      tsak~
+1aoiB      ....g
+

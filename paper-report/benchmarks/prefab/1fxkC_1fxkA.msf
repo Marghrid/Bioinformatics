@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fxkC_1fxkA.msf MSF:  134 Type: P 11/12/19 CompCheck: 4174 ..
+
+  Name: 1fxkC      Len: 134  Check: 5560 Weight: 1.00
+  Name: 1fxkA      Len: 134  Check: 8614 Weight: 1.00
+
+//
+
+           1                                               50
+1fxkC      aALAEIVAQLNIYQSQVELIQQQMEAVRATISELEILEKTLSDIQgkdgs
+1fxkA      qNVQHQLAQFQQLQQQAQAISVQKQTVEXQINETQKALEELSRAA.....
+
+           51                                             100
+1fxkC      etlvpvgagsfikaelkd.TSEVIMSVGaGVAIKKNFEDAMESIKSQKNE
+1fxkA      ..................dDAEVYKSSG.NILIRVAKDELTEELQEKLET
+
+           101                            134
+1fxkC      LESTLQKMGENLRAITDIMMKLSPQAEELLaava
+1fxkA      LQLREKTIERQEERVXKKLQEXQVNIQEAXk~~~
+

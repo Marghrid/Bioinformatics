@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1avpA_1euvA.msf MSF:  284 Type: P 11/12/19 CompCheck: 3901 ..
+
+  Name: 1euvA      Len: 284  Check: 8479 Weight: 1.00
+  Name: 1avpA      Len: 284  Check: 5422 Weight: 1.00
+
+//
+
+           1                                               50
+1euvA      slvpelnekdddqvqkalasrentqlmnrdnieitvrdfktlapr.RWLN
+1avpA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mGSSE
+
+           51                                             100
+1euvA      Dtiieffmk..yiekstpntVAFNSFfy.tnlsergyqgvrrwmkrkktq
+1avpA      Q.elkaivkdlgcgp.....YFLGTY..dkrfp.................
+
+           101                                            150
+1euvA      ...idkldKIFTPINLN.....QSHWALGIIDLKKKTIGYVDSLSNGPNa
+1avpA      gfvsphk.LACAIVNTAgretgGVHWMAFAWNPRSKTCYLFEPFGFSDQ.
+
+           151                                            200
+1euvA      ......msfailtdlqkyvmeesk.htigedFDLIHLDCPQQP.NGYDCG
+1avpA      rlkqvyqfey..esllrrsaias.spdrc..ITLEKSTQSVQGpNSAACG
+
+           201                                            250
+1euvA      IYVCMNTLYGSAD........aplDFD....................YKD
+1avpA      LFCCMFLHAFANWpqtpmdhnptmNLItgvpnsmlnspqvqptlrrnQEQ
+
+           251                            284
+1euvA      AIRMRRFIAHLIltdalk~~~~~~~~~~~~~~~~
+1avpA      LYSFLERHSPYFrsh...saqirsatsfchlknm
+

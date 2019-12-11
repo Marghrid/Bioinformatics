@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3nul_1fil.msf MSF:  130 Type: P 11/12/19 CompCheck: 6826 ..
+
+  Name: 3nul       Len: 130  Check: 8688 Weight: 1.00
+  Name: 1fil       Len: 130  Check: 8138 Weight: 1.00
+
+//
+
+           1                                               50
+3nul       SWQSYVDDHLXCDVEGNHLTAAAILGQDGSVWAQSAKFPQLKPQEIDGIK
+1fil       GWNAYID.NLMADG...TCQDAAIVGYKPSVWAAVPGVN.ITPAEVGVLV
+
+           51                                             100
+3nul       KDFEEPGFLAPTGLFLGGEKYXVIQGEQGAVIRGKKGPGGVTIKKTNQAL
+1fil       G..KDRSSFYVNGLTLGGQKCSVIRD.SLFSMDLRTPTFNVTVTKTDKTL
+
+           101                        130
+3nul       VFGFYDEPXTGGQCNLVVERLGDYLIESEL
+1fil       VLLMGKEGVHGGLINKKCYEMASHLRRSQY
+

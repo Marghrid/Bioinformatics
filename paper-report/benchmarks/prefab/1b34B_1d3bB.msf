@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b34B_1d3bB.msf MSF:  90 Type: P 11/12/19 CompCheck: 3453 ..
+
+  Name: 1d3bB      Len: 90  Check: 2463 Weight: 1.00
+  Name: 1b34B      Len: 90  Check:  990 Weight: 1.00
+
+//
+
+           1                                               50
+1d3bB      ~~~skMLQHI..DYRMRCILQDGRIFIGTFKAFDKHMNLILCDCDEFrki
+1b34B      gplsvLTQSVknNTQVLINCRNNKKLLGRVKAFDRHCNMVLENVKEM...
+
+           51                                    90
+1d3bB      kpknskqaereeKRVLGLVLLRGENLVSMTVEGppp~~~~
+1b34B      ............DRYISKMFLRGDSVIVVLRNPl..iagk
+

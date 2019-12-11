@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1f3yA_1g0sA.msf MSF:  239 Type: P 11/12/19 CompCheck: 6049 ..
+
+  Name: 1g0sA      Len: 239  Check: 5967 Weight: 1.00
+  Name: 1f3yA      Len: 239  Check:   82 Weight: 1.00
+
+//
+
+           1                                               50
+1g0sA      lkpdnlpvtfgkndveiiaretlyrgffsldlyrfrhrlfngqmshevrr
+1f3yA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1g0sA      ei..........ferGHAAVLLPFDpVRDEVVLIEQIRiaaydtseTPWL
+1f3yA      ~~gplgsmdsppegyRRNVGICLMN.NDKKIFAASRLD........IPDA
+
+           101                                            150
+1g0sA      LEMVAGMIEEGESVEDVARREAIEEAGL.iVKR.tkpvLSFLASPGg...
+1f3yA      WQMPQGGIDEGEDPRNAAIRELREETGVtsAEViaevpYWLTYDFP.pkv
+
+           151                                            200
+1g0sA      ............TSERSSIMVGEVDa...ttasn......edir..vhvv
+1f3yA      reklniqwgsdwKGQAQKWFLFKFT.gqdqeinllgdgsekpefgewswv
+
+           201                                 239
+1g0sA      sreqayqwveegk.idnaasvialqwlqlhhqalknewa
+1f3yA      tpeqlidl.....tvefk.kpvykevl.svfaphl~~~~
+

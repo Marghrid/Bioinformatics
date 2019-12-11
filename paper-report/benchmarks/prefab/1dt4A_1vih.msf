@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dt4A_1vih.msf MSF:  75 Type: P 11/12/19 CompCheck: 3778 ..
+
+  Name: 1vih       Len: 75  Check: 2334 Weight: 1.00
+  Name: 1dt4A      Len: 75  Check: 1444 Weight: 1.00
+
+//
+
+           1                                               50
+1vih       nrMDYVEINIDHKFHRHLIGKSGANINRIKDQYKVSVRIPPDS.....eK
+1dt4A      ~mKDVVEIAVPENLVGAILGKGGKTLVEYQELTGCRIQISKKGeflpgtR
+
+           51                     75
+1vih       SNLIRIEGDPQGVQQAKRELLELAs
+1dt4A      NRKVTITGTPAATQAAQYLITQRI~
+

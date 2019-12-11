@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1e6bA_1aw9.msf MSF:  243 Type: P 11/12/19 CompCheck: 6495 ..
+
+  Name: 1e6bA      Len: 243  Check: 2762 Weight: 1.00
+  Name: 1aw9       Len: 243  Check: 3733 Weight: 1.00
+
+//
+
+           1                                               50
+1e6bA      k..LKLYSYWRSs.CAHRVRIALALKGLDYEYIPVnllkgdqf..D....
+1aw9       ~apLKLYGMPLS.pNVVRVATVLNEKGLDFEIVPV......d.ltTgahk
+
+           51                                             100
+1e6bA      .SDFKKINPMGTVPALVDGDVVINDSFAIIMYLDEKYPE..PPLLPrdlh
+1aw9       qPDFLALNPFGQIPALVDGDEVLFESRAINRYIASKYASegTDLLP....
+
+           101                                            150
+1e6bA      ...KRAVNYQAMSIVLSGIQP.....................tawv..NN
+1aw9       ataSAAKLEVWLEVESHHFYPnasplvfqllvrpllggapdaavvdkhAE
+
+           151                                            200
+1e6bA      AITKGFTALEKLLVNCagkHATGDEIYLADLFLAPQIHGAINrf.QINm.
+1aw9       QLAKVLDVYEAHLARN..kYLAGDEFTLADANHASYLLYLSK.tpKAGlv
+
+           201                                     243
+1e6bA      EPYPTLAKCYESYNELPAFQNALpekqpdapsst~~~~~~~~~
+1aw9       AARPHVKAWWEAIVARPAFQKTV...........aaiplpppp
+

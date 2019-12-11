@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hyhA_1ldnF.msf MSF:  327 Type: P 11/12/19 CompCheck: 3745 ..
+
+  Name: 1hyhA      Len: 327  Check: 2740 Weight: 1.00
+  Name: 1ldnF      Len: 327  Check: 1005 Weight: 1.00
+
+//
+
+           1                                               50
+1hyhA      ~~~~~ARKIGIIGLGNVGAAVAHGLIAQGVAd.DYVFIDANEAKVKADQI
+1ldnF      mknngGARVVVIGAGFVGASYVFALMNQGIA.dEIVLIDANESKAIGDAM
+
+           51                                             100
+1hyhA      DFQDAMANLe.AHGNIVINDWAALADADVVISTLGNIklqq.......FA
+1ldnF      DFNHGKVFA.pKPVDIWHGDYDDCRDADLVVICAGAN....qkpgetrLD
+
+           101                                            150
+1hyhA      ELKFTSSMVQSVGTNLKESGFHGVLVVISNPVDVITALFQHVTGFPAHKV
+1ldnF      LVDKNIAIFRSIVESVMASGFQGLFLVATNPVDILTYATWKFSGLPHERV
+
+           151                                            200
+1hyhA      IGTGTLLDTARMQRAVGEAFDLDPRSVSGYNLGEHGNSQFVAWSTVRVMG
+1ldnF      IGSGTILDTARFRFLLGEYFSVAPQNVHAYIIGEHGDTELPVWSQAYIGV
+
+           201                                            250
+1hyhA      QPIVTL.........IDLAAIEEEARKGGFTVLNGKGYTSYGVATSAIRI
+1ldnF      MPIRKLveskgeeaqKDLERIFVNVRDAAYQIIEKKGATYYGIAMGLARV
+
+           251                                            300
+1hyhA      AKAVMADAHAELVVSNRRDD....MGMYLSYPAIIGRDGVLAETTLDLTT
+1ldnF      TRAILHNENAILTVSAYLDGlygeRDVYIGVPAVINRNGIREVIEIELND
+
+           301                     327
+1hyhA      DEQEKLLQSRDYIQQRFDEivdtl~~~
+1ldnF      DEKNRFHHSAATLKSVLAR.....aft
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1yghA_1qsrA.msf MSF:  169 Type: P 11/12/19 CompCheck: 8582 ..
+
+  Name: 1yghA      Len: 169  Check: 4287 Weight: 1.00
+  Name: 1qsrA      Len: 169  Check: 4295 Weight: 1.00
+
+//
+
+           1                                               50
+1yghA      kIEFRVVNNDNTKENMMVLTGLKNIFQKQLPKMPKEYIARLVYDRSHLSM
+1qsrA      ~LDFDILTNDGTHRNMKLLIDLKNIFSRQLPKMPKEYIVKLVFDRHHESM
+
+           51                                             100
+1yghA      AVIRKPLTVVGGITYRPFDKREFAEIVFCAISSTEQVRGYGAHLMNHLKD
+1qsrA      VILKNKQKVIGGICFRQYKPQRFAEVAFLAVTANEQVRGYGTRLMNKFKD
+
+           101                                            150
+1yghA      YVRNtSNIKYFLTYADNYAIGYFKKQGFTKEITLDKSIWMGYIKDYe.GG
+1qsrA      HMQK.QNIEYLLTYADNFAIGYFKKQGFTKEHRMPQEKWKGYIKDY.dGG
+
+           151             169
+1yghA      TLMQCSMLPRiryld~~~~
+1qsrA      TLMECYIHPYv....dygr
+

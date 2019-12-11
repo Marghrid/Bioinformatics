@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b0nA_1r69.msf MSF:  103 Type: P 11/12/19 CompCheck: 9976 ..
+
+  Name: 1b0nA      Len: 103  Check: 1798 Weight: 1.00
+  Name: 1r69       Len: 103  Check: 8178 Weight: 1.00
+
+//
+
+           1                                               50
+1b0nA      mIGQRIKQYRKEKGYSLSELAEKAGVAKSYLSSIERNLQTNPSiqFLEKV
+1r69       sISSRVKSKRIQLGLNQAELAQKVGTTQQSIEQLENGKTKRPR..FLPEL
+
+           51                                             100
+1b0nA      SAVLDVSVHTLLDEkhetldseweklvrdamtsgvskkqfrefldyqkwr
+1r69       ASALGVSVDWLLNGt~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101 103
+1b0nA      ksq
+1r69       ~~~
+

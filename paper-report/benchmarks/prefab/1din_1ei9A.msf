@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1din_1ei9A.msf MSF:  339 Type: P 11/12/19 CompCheck: 2240 ..
+
+  Name: 1ei9A      Len: 339  Check: 1258 Weight: 1.00
+  Name: 1din       Len: 339  Check:  982 Weight: 1.00
+
+//
+
+           1                                               50
+1ei9A      ~~~~~~~~~~~~~~~~~~~~~~~ppaPLPLVIWHGMgDSCCnplSMGAIK
+1din       ltegisiqsydghtfgalvgspakapAPVIVIAQEI.FGVNa..FMRETV
+
+           51                                             100
+1ei9A      KMVEKKIpgIHVLSLEIG...ktlre............dvENSFFLNVNS
+1din       SWLVDQG..YAAVCPDLYarqapgt.aldpqderqreqayKLWQAFDMEA
+
+           101                                            150
+1ei9A      QVTTVCQILAkdpklq.....QGYNAMGFSQGGQFLRAVAQRCpsppMVN
+1din       GVGDLEAAIR..yarhqpysnGKVGLVGYXLGGALAFLVAAKG...yVDR
+
+           151                                            200
+1ei9A      LISVGGQHQGvfglprcpgesshicdfirktlnagaynkaiqerlvqaey
+1din       AVGYYGVGLE........................................
+
+           201                                            250
+1ei9A      whdpirediyrnhsifladinqergvnesykkNLMalkkFVMVKFLNDTI
+1din       ..................kqln.......kvpEVK..hpALFHMGGQDHF
+
+           251                                            300
+1ei9A      VDPvdsew.fgfyrsgqaketiplqestlytqdrl...glkamdkagqlv
+1din       VPA.....psrql......................itegfganp...llq
+
+           301                                 339
+1ei9A      flal.EGDHLQL..........seewfyahiipfle~~~
+1din       vhwyeEAGHSFArtsssgyvasaaalanertldflaplq
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1rcy_2cuaA.msf MSF:  166 Type: P 11/12/19 CompCheck: 8207 ..
+
+  Name: 2cuaA      Len: 166  Check: 5426 Weight: 1.00
+  Name: 1rcy       Len: 166  Check: 2781 Weight: 1.00
+
+//
+
+           1                                               50
+2cuaA      gkl...ERVDpttvrqEGPWadpaqavvqtg..........PNQYTVYVL
+1rcy       ~~~ttwKEAT.lpqv.KAMLe...kddg...kvsgdtvtysGKTVHVVAA
+
+           51                                             100
+2cuaA      AF.....AFGYQP.....NPIEVPQGAEIVFKITSPD..VIHGFHVEG..
+1rcy       AVlpgfpFPSFEVhdkknPTLEIPAGATVDVTFINTNkgFGHSFDITKkg
+
+           101                                            150
+2cuaA      ...........tninvevlp......GEVSTVRYTFkrpgeYRIICNQYc
+1rcy       ppyavmpvidpivagtgfspvpkdgkFGYTDFTWHP.tagtYYYVCQIP.
+
+           151          166
+2cuaA      gLGHQ.nmfgtivvke
+1rcy       .GHAAtgmfgkivvk~
+

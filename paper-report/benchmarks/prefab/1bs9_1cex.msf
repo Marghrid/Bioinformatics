@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bs9_1cex.msf MSF:  207 Type: P 11/12/19 CompCheck: 9771 ..
+
+  Name: 1bs9       Len: 207  Check: 6072 Weight: 1.00
+  Name: 1cex       Len: 207  Check: 3699 Weight: 1.00
+
+//
+
+           1                                               50
+1bs9       SaPAIHVFGARETTASPGYGSSSTVVNGVLSAYPGSTAEAINYPAbGGQS
+1cex       SaADVIFIYARGSTETGNLGLGPSIASNLESAFGGVWIQGVGYRAtLG..
+
+           51                                             100
+1bs9       SbGGASYSSSVAQGIAAVASAVNSFNSQaPSTKIVLVGYSQGGEIMDVAL
+1cex       .....DNALTSSAAIREMLGLFQQANTKaPDATLIAGGYSQGAALAAASI
+
+           101                                            150
+1bs9       cGGGDPNQGYTNTAVQLSSSAVNMVKAAIFMGDPMFRAGLSYEVGTdAAG
+1cex       e..............DLDSAIRDKIAGTVLFGYTKN..............
+
+           151                                            200
+1bs9       GFDQRPAGFScPSAAKIKSYeDASDPYedNGSNAATHQGYGSEYGSQALA
+1cex       ..LQNR....pNYPDRTKVFbNTGDLVbtG.IVAAPHLAY.GPDAGPAPE
+
+           201 207
+1bs9       FVKSKLG
+1cex       FLIEKVR
+

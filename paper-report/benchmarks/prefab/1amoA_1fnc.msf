@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1amoA_1fnc.msf MSF:  601 Type: P 11/12/19 CompCheck: 7561 ..
+
+  Name: 1amoA      Len: 601  Check: 5869 Weight: 1.00
+  Name: 1fnc       Len: 601  Check: 1692 Weight: 1.00
+
+//
+
+           1                                               50
+1amoA      VKESSFVEKMKKTGRNIIVFYGSQTGTAEEFANRLSKDAHRYGMRGMSAD
+1fnc       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1amoA      PEEYDLADLSSLPEIDKSLVVFCMATYGEGDPTDNAQDFYDWLQETDVDL
+1fnc       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1amoA      TGVKFAVFGLGNKTYEHFNAMGKYVDQRLEQLGAQRIFELGLGDDDGNLE
+1fnc       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1amoA      EDFITWREQFWPAVCEFFGVEARQYELVVHEDMDVAKVYTGEMGRLKSYE
+1fnc       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1amoA      NQKPPFDAKNPFLAAVTANRKLNQGTERHLMHLELDISDSKIRYESGDHV
+1fnc       ~~~~KFKPKTPYVGRCLLNTKITGDDPGETWHMVFSHEGE.IPYREGQSV
+
+           251                                            300
+1amoA      AVYPANDSALVNQIGEILGADLDVIMSLNNLDEESNKKHPFPCPTTYRTA
+1fnc       GVIPD.............................................
+
+           301                                            350
+1amoA      LTYYLDITNPPRTNVLYELAQYASEPSEQEHLHKMASSSGEGKELYLSWV
+1fnc       ..GEDK............................................
+
+           351                                            400
+1amoA      VEARRHILAILQDYPSLRPPIDHLCELLPRLQARYYSIASSSKVHPNSVH
+1fnc       ...........................NGKPKLRLYSIASSALGDAKSVS
+
+           401                                            450
+1amoA      ICAVAVEYEAKSGRVNKGVATSWLRAKEPALVPMFVRKSQFRLPFKSTTP
+1fnc       LCVKRLIYTNDAGETIKGVCSNFLCDLKPAEVKLTGVGKEMLMPKDPNAT
+
+           451                                            500
+1amoA      VIMVGPGTGIAPFMGFIQERAWLREQGKEVGETLLYYGCRRSDEDYLYRE
+1fnc       IIMLGTGTGIAPFRSFLWKMFFEKHDDYKFGLAWLFLGVPTS.SSLLYKE
+
+           501                                            550
+1amoA      ELARFHKDGALTQLNVAFSREQAHKVYVQHLLKRDREHLWKLIHEGGAHI
+1fnc       EFEKMKEKAP.FRLDFAVSREQGEKMYIQTRMAQYAVELWEMLKKDNTYV
+
+           551                                            600
+1amoA      YVCGDARNMAKDVQNTFYDIVAEFGPMEHTQAVDYVKKLMTKGRYSLDVW
+1fnc       YMCGLK.GMEKGIDDIMVSLAA.AEGI...DWIEYKRQLKKAEQWNVEVY
+
+           601 601
+1amoA      S
+1fnc       ~
+

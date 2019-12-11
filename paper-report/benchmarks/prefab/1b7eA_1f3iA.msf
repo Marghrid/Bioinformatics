@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b7eA_1f3iA.msf MSF:  483 Type: P 11/12/19 CompCheck: 3660 ..
+
+  Name: 1b7eA      Len: 483  Check: 6776 Weight: 1.00
+  Name: 1f3iA      Len: 483  Check: 6884 Weight: 1.00
+
+//
+
+           1                                               50
+1b7eA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1f3iA      alhraadwaksvfssaalgdprrtarlvnvaaqlakysgksitissegsk
+
+           51                                             100
+1b7eA      ~~~~~~~~~~~~~~~saeairkagamqtvklaqefpellaiedttslsyr
+1f3iA      aaqegayrfirnpnvsaeairkagamqtvklaqefpellaiedttslsyr
+
+           101                                            150
+1b7eA      ...................wwvhsvllleattfrtvgllhqewwmrpddp
+1f3iA      hqvaeelgklgsiqdksrgwwvhsvllleattfrtvgllhqewwmrpddp
+
+           151                                            200
+1b7eA      .adadekesgkwlaaaatsrlrmgSMMSNVIAVCDREAdihaylqdklah
+1f3iA      adade.kesgkwlaaaatsrlrmgSMMSNVIAVCDREAdihaylqdklah
+
+           201                                            250
+1b7eA      neRFVVRSKHPRKDVESGLYLYDHLKNQpelggyqisiPQKGVrp.....
+1f3iA      neRFVVRSKHPRKDVESGLYLYDHLKNQpelggyqis.IPQKG..vvdkr
+
+           251                                            300
+1b7eA      .......aRKASLSLRSGRITLKQGNITLNAVLAEEINPPKGETPLKWLL
+1f3iA      gkrknrpaRKASLSLRSGRITLKQGNITLNAVLAEEINPPKGETPLKWLL
+
+           301                                            350
+1b7eA      LTSEPVESLAQALRVIDIYTHRWRIEEFHKAWKTGAGae..rqrmpd..n
+1f3iA      LTSEPVESLAQALRVIDIYTHRWRIEEFHKAWKTGAG..aerqrmeepdn
+
+           351                                            400
+1b7eA      lermvsilsfvavrllqlresftlpqalraqgllkeaehvesqsaetvl.
+1f3iA      lermvsilsfvavrllqlresft..................pqsa....e
+
+           401                                            450
+1b7eA      ...tpdecqllgyldkgkrk.RKEKGSLQWAYMAIARLGGFMDSKRTGIA
+1f3iA      tvltpdecqllgyldkgkrkrKEKAGSLQWAYMAIARLGGFMDSKRTGIA
+
+           451                           483
+1b7eA      SWGALWEGWEALQSKldgflaakdlmaq~~~~~
+1f3iA      SWGALWEGWEALQSKldgflaakdlmaqgikig
+

@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qu5A_1ygs.msf MSF:  262 Type: P 11/12/19 CompCheck: 3137 ..
+
+  Name: 1qu5A      Len: 262  Check: 6725 Weight: 1.00
+  Name: 1ygs       Len: 262  Check: 6412 Weight: 1.00
+
+//
+
+           1                                               50
+1qu5A      eaetreqkllhsnntenvksskkkgnGRFLTLKPLPDsi...iqESLEIQ
+1ygs       ~~~~~~~~~~~~~~~~~~~~~~~~apEYWCSIAYFEM..dvqvgETFKVP
+
+           51                                             100
+1qu5A      QGVNPFFIGRSEDc.....NCKIE..............DNRLSrVHCFIF
+1ygs       SSCPIVTVDGYVD.psggdRFCLGqlsnvhrteaieraRLHIG.KGVQLE
+
+           101                                            150
+1qu5A      KKRhavgksmyespaqgLDDIWYCHTGTNVSYLN...............N
+1ygs       CKG..............EGDVWVRCLSDHAVFVQsyyldreagrapgdaV
+
+           151                                            200
+1qu5A      NRMIQGTKFLLQ.........................dgdeikiiwd...
+1ygs       HKIYPSAYIKVFdlrqchrqmqqqaataqavddlrrlcilrmsfvk.gwg
+
+           201                                            250
+1qu5A      ..knnk....fvigfkveindttglfneglgmlqeqrvvlkqtaeekdlv
+1ygs       pdyprqsiketpcwieihlhralq..........................
+
+           251      262
+1qu5A      kkl~~~~~~~~~
+1ygs       ...lldevlhtm
+

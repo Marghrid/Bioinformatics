@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a6m_1h97A.msf MSF:  151 Type: P 11/12/19 CompCheck: 6193 ..
+
+  Name: 1a6m       Len: 151  Check: 7337 Weight: 1.00
+  Name: 1h97A      Len: 151  Check: 8856 Weight: 1.00
+
+//
+
+           1                                               50
+1a6m       VLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRFKHLK
+1h97A      TLTKHEQDILLKELGPHVDHIVETGLGAYHALFTAHPQYISHFSRLEGHT
+
+           51                                             100
+1a6m       TEAEMKASEDLKKHGVTVLTALGAILKKKGHHEAELKPLAQSHATKHKIP
+1h97A      IE.NVMQSEGIKHYARTLTEAIVHMLKEISEVKKIAAQYGKDHT.SRKVT
+
+           101                                            150
+1a6m       IKYLEFISEAIIHVLHSRHPGDFGADAQGAMNKALELFRKDIAAKYKELG
+1h97A      KDEFMSGEPIFTKYFQNLV...KDAEGKAAVEKFLKHVFPMMAAEI~~~~
+
+           151 151
+1a6m       Y
+1h97A      ~
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1u9aA_1c4zD.msf MSF:  159 Type: P 11/12/19 CompCheck: 9326 ..
+
+  Name: 1u9aA      Len: 159  Check: 9914 Weight: 1.00
+  Name: 1c4zD      Len: 159  Check: 9412 Weight: 1.00
+
+//
+
+           1                                               50
+1u9aA      lnmsgiaLSRLAQERKAWRKDHPFGFVAVPTKnpdgtMNLMNWECAIPGK
+1c4zD      ~~~~~~~SRRLMKELEEIRKCGMKNFRNIQVDe....ANLLTWQGLIVPD
+
+           51                                             100
+1u9aA      kgTPWEGGLFKLRMLFKDDYPSSPPKCKFEPPLFHPNVYPSGTVCLSILE
+1c4zD      n.PPYDKGAFRIEINFPAEYPFKPPKITFKTKIYHPNIDEKGQVCLPVIS
+
+           101                                            150
+1u9aA      EDkdWRPAITIKQILLGIQELLNEPNIQDPAQAEAYTIYCQNRVEYEKRV
+1c4zD      AE.nWKPATKTDQVIQSLIALVNDPQPEHPLRADLAEEYSKDRKKFCKNA
+
+           151   159
+1u9aA      RAQAKKFap
+1c4zD      EEFTKKY~~
+

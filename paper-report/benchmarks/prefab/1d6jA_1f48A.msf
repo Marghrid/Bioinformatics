@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d6jA_1f48A.msf MSF:  599 Type: P 11/12/19 CompCheck: 2659 ..
+
+  Name: 1f48A      Len: 599  Check:  279 Weight: 1.00
+  Name: 1d6jA      Len: 599  Check: 2380 Weight: 1.00
+
+//
+
+           1                                               50
+1f48A      qflqnippylfftgkggvgktsiscatairlaeqgkrvllvstdpasnvg
+1d6jA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1f48A      qvfsqtigntiqaiasvpglsaleidpqaaaqqyrarivdpikgvlpddv
+1d6jA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1f48A      vssineqlsgactteiaafdeftglltdaslltrfdhiifdtaptghtir
+1d6jA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1f48A      llqlpgawssfidsnpegasclgpmaglekqreqyayavealsdpkrtrl
+1d6jA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1f48A      vlvarlqkstlqevarthlelaaiglknqylvingvlpkteaandtlaaa
+1d6jA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1f48A      iwereqealanlpadlaglptdtlflqpvnmvgvsalsrllstqprpdip
+1d6jA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1f48A      slsalvddia..............rNEHGLIMLMGKGGVGKTTMAAAIAV
+1d6jA      ~~~~~~~~~~hasaltrsertelrnQRGLTIWLTGLSASGKSTLAVELEH
+
+           351                                            400
+1f48A      RLAD.MGFDVHLTTSDpaahlnnlqvsRIDPHEETERYrqhvletkgkel
+1d6jA      QLVRdRRVHAYRLDGD...........NIRFGLNKDLG............
+
+           401                                            450
+1f48A      deagkrlleedlrspcteeIAVFQAFSRVI.REAG.krFVVMDTAP.tgh
+1d6jA      ............fseadr.NENIRRIAEVAkLFADsnsIAITSFISpyrk
+
+           451                                            500
+1f48A      tlllldatt....pmmllqdp.........ertkvllvtlpettpvleaa
+1d6jA      d........rdtarqlhe...vatpgeetglpfvevyvdvpve.......
+
+           501                                            550
+1f48A      ...nlqadleragihpwgwiinnslsiadtrspllrmraqqelpqiesvk
+1d6jA      apyeapa.......npevhvknye..........................
+
+           551                                           599
+1f48A      rqhasrvalvpvlaseptgidk..lkqlaghhh~~~~~~~~~~~~~~~~
+1d6jA      ......................lpvqdavk...qiidyldtkgylpakk
+

@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b7gO_1gcuA.msf MSF:  455 Type: P 11/12/19 CompCheck: 7518 ..
+
+  Name: 1gcuA      Len: 455  Check: 7400 Weight: 1.00
+  Name: 1b7gO      Len: 455  Check:  118 Weight: 1.00
+
+//
+
+           1                                               50
+1gcuA      daepkrKFGVVVVGVGRAGSVRLRDLKDprsAAFLNLIGFVSRRE...LG
+1b7gO      ~~~~~~MVNVAVNGYGTIGKRVADAIIK...QPDMKLVGVAKTSPnyeAF
+
+           51                                             100
+1gcuA      SL...devrQISL..................edalrs.QEIDVAYICSES
+1b7gO      IAhrrgir.IYVPqqsikkfeesgipvagtvedl...iKTSDIVVDTTPN
+
+           101                                            150
+1gcuA      SSHEDYIRQFLQAGKHVLVEYPMTlsfaaAQELWelaaqkg.........
+1b7gO      GVGAQYKPIYLQLQRNAIFQGGEK.....AEVAD.......isfsalcny
+
+           151                                            200
+1gcuA      .....rVLHEEHvellmee.......feflrrevlgk.ellKGSLRFTAS
+1b7gO      nealgkKYIRVV.......scnttallrtictvnkv.skveKVRATIVRR
+
+           201                                            250
+1gcuA      Pleeerfgfpafsg.......................isrltwlvslf..
+1b7gO      A.............adqkevkkgpinslvpdpatvpshhakdv.....ns
+
+           251                                            300
+1gcuA      ..gelslisatleerkedqymkmtvqletqnkgllswieekgpglk....
+1b7gO      virnl............................diatmavia..p.ttlm
+
+           301                                            350
+1gcuA      rnryvnfqfts.......................................
+1b7gO      hmhfinitlkdkvekkdilsvlentprivlisskydaeataelvevardl
+
+           351                                            400
+1gcuA      .....................gsleevps...vgvnkn...iflkdqdif
+1b7gO      krdrndipevmifsdsiyvkddevmlm..yavhq....esivvpeni.da
+
+           401                                            450
+1gcuA      vqk.lldqvsaedlaaekkrimhclglasdiqklch~~~~~~~~~~~~~~
+1b7gO      irasmklmsa..........................edsmritneslgil
+
+           451
+1gcuA      ~~~~~
+1b7gO      kgyli
+

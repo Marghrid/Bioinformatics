@@ -1,0 +1,93 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qhaA_1g99A.msf MSF:  1047 Type: P 11/12/19 CompCheck: 7414 ..
+
+  Name: 1qhaA      Len: 1047  Check: 2465 Weight: 1.00
+  Name: 1g99A      Len: 1047  Check: 4949 Weight: 1.00
+
+//
+
+           1                                               50
+1qhaA      telkddqvkkidkylyamrlsdetlidimtrfrkemknglsrdfnptatv
+1g99A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1qhaA      kmlptfvrsipdgsekgdfialdlggssfrilrvqvnheknqnvhmesev
+1g99A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1qhaA      ydtpenivhgsgsqlfdhvaeclgdfmekrkikdkklpvgftfsfpcqqs
+1g99A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1qhaA      kideailitwtkrfkasgvegadvvkllnkaikkrgdydanivavvndtv
+1g99A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1qhaA      gtmmtcgyddqhcevgliigtgtnacymeelrhidlvegdegrmcintew
+1g99A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1qhaA      gafgddgsledirtefdreidrgslnpgkqlfekmvsgmylgelvrlilv
+1g99A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1qhaA      kmakegllfegritpelltrgkfntsdvsaieknkeglhnakeiltrlgv
+1g99A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                            400
+1qhaA      epsdddcvsvqhvctivsfrsanlvaatlgailnrlrdnkgtprlrttvg
+1g99A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           401                                            450
+1qhaA      vdgslykthpqysrrfhktlrrlvpdsdvrfllsesgsgkgaamvtavay
+1g99A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           451                                            500
+1qhaA      rlaeqhrqieetlahfhltkdmllevkkrmraemelglrkqthnnavvkm
+1g99A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           501                                            550
+1qhaA      lpsfvrrtpdgtenGDFLALDLGGTNFRVLLVKIRsgkkrtvem.hnkiy
+1g99A      ~~~~~~~~~~~~~~MKVLVINAGSSSLKYQLIDMT.....nesalavglc
+
+           551                                            600
+1qhaA      a.IPIeimqgtge....................elfdhivscisdfldy.
+1g99A      erIGId.......nsiitqkkfdgkklekltdlpthkdaleevvkalt.d
+
+           601                                            650
+1qhaA      .....mgIKGPRMPLGFTFsFPCQ..QTSLDa.........gili..TWT
+1g99A      defgvikDMGEINAVGHRV.VHGGekFTTSA.lydegvekaikdcfeLAP
+
+           651                                            700
+1qhaA      Kgfkatdcvghdvv.....TLLRDAIKRRee.FDLDVVAVVNd.......
+1g99A      L.............hnppnMMGISACAEI..mPGTPMVIVFD.tafhqtm
+
+           701                                            750
+1qhaA      ........................TVGTMMTCAYEEPtc...........
+1g99A      ppyaymyalpydlyekhgvrkygfHGTSHKYVAERAA..lmlgkpaeetk
+
+           751                                            800
+1qhaA      EVGLIVGTGSNACYMEEmknvemvegdqgqmc....inme...wGAF...
+1g99A      IITCHLGNGSSITAVEG...............gksvetsmgftpLEGlam
+
+           801                                            850
+1qhaA      .....gdngclddirthydrlvn.............eyslnagkqryekm
+1g99A      gtrcgsidpa.............ivpflmekeglttreidtlmn......
+
+           851                                            900
+1qhaA      isgm...YLGEIVRnilidftkkgflfrgqisetlktrgifet.KFLSQI
+1g99A      ....kksGVLGVSG.........................lsndfRDLDEA
+
+           901                                            950
+1qhaA      ESdrlallqvrailqqlglnstcddsil.VKTVCGVVSRRAAQLCGAGMA
+1g99A      AS..........................kGNRKAELALEIFAYKVKKFIG
+
+           951                                           1000
+1qhaA      AVVDKIRenrgldrlnvtvgvdgtlYKLHPHFSRIMHQTvkelspk....
+1g99A      EYSAVLN.......gadavvftagiGENSASIRKRILTG.ldgig.ikid
+
+           1001                                       1047
+1qhaA      ..................cNVSFLLSEdgsgkgaalitavgvrlrte
+1g99A      deknkirgqeidistpdakVRVFVIPT.neelaiaretkeivet~~~
+

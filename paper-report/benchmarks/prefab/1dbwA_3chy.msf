@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dbwA_3chy.msf MSF:  123 Type: P 11/12/19 CompCheck: 1608 ..
+
+  Name: 1dbwA      Len: 123  Check:  661 Weight: 1.00
+  Name: 3chy       Len: 123  Check:  947 Weight: 1.00
+
+//
+
+           1                                               50
+1dbwA      MQDYTVHIVDDEEPVRKSLAFMLTMNGFAVKMHQSAEAFLAFAPDVRNGV
+3chy       DKELKFLVVDDFSTMRRIVRNLLKELGFNVEEAEDGVDALNKLQAGGYGF
+
+           51                                             100
+1dbwA      LVTDLRMPDMSGVELLRNLGDLKINIPSIVITGHGDVPMAVEAMKAGAVD
+3chy       VISDWNMPNMDGLELLKTIRADGSALPVLMVTAEAKKENIIAAAQAGASG
+
+           101                 123
+1dbwA      FIEKPFEDTVIIEAIERASEHLV
+3chy       YVVKPFTAATLEEKLNKIFKLGM
+

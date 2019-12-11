@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1xwl_2kfzA.msf MSF:  614 Type: P 11/12/19 CompCheck: 4288 ..
+
+  Name: 1xwl       Len: 614  Check: 5114 Weight: 1.00
+  Name: 2kfzA      Len: 614  Check: 9174 Weight: 1.00
+
+//
+
+           1                                               50
+1xwl       kma..FTLADR...vtee..mlad..KAALVVEVVEENYHDAPIVGIAVV
+2kfzA      isydnYVTILDeetlkawiaklekapVFAFDTETDSLDNISANLVGLSFA
+
+           51                                             100
+1xwl       NEh..GRFFLRPE.............taladpqFVAWLGDETKKKSMFDS
+2kfzA      IE.pgVAAYIPVAhdyldapdqisreralel..LKPLLEDEKALKVGQNL
+
+           101                                            150
+1xwl       KRAAVALKWKGIELCGVSFDLLLAAYLLDPAQGVDDVAAAAKMKQYEAVR
+2kfzA      KYDRGILANYGIELRGIAFDTMLESYILNSVAGRHDMDSLAERWLKHKTI
+
+           151                                            200
+1xwl       pdeavygkgakrav...pDEPVLAEHLVRKAAAIWELERPFLDELRRNE.
+2kfzA      tfeeiagkgknqltfnqiALEEAGRYAAEDADVTLQLHLKMWPDLQKHKg
+
+           201                                            250
+1xwl       QDRLLVELEQPLSSILAEMEFAGVKVDTKRLEQMGKELAEQLGTVEQRIY
+2kfzA      PLNVFENIEMPLVPVLSRIERNGVKIDPKVLHNHSEELTLRLAELEKKAH
+
+           251                                            300
+1xwl       ELAGQEFNINspkqlgvilfeklqlpvlkktktgysTSA.....dvlekl
+2kfzA      EIAGEEFNLSstkqlqtilfe.kqgikp.......lKKTpstseevleel
+
+           301                                            350
+1xwl       apyHEIVENILHYRQLGKLQSTYIEGLLKVVRPDTKKVHTIFNQALTQTG
+2kfzA      aldYPLPKVILEYRGLAKLKSTYTDKLPLMINPKTGRVHTSYHQAVTATG
+
+           351                                            400
+1xwl       RLSSTEPNLQNIPIRLEEGRKIRQAFVPseSDWLIFAADYSQIELRVLAH
+2kfzA      RLSSTDPNLQNIPVRNEEGRRIRQAFIA.pEDYVIVSADYSQIELRIMAH
+
+           401                                            450
+1xwl       IAEDDNLMEAFRRDLDIHTKTAMDIFQVSEDEVTPNMRRQAKAVNFGIVY
+2kfzA      LSRDKGLLTAFAEGKDIHRATAAEVFGLPLETVTSEQRRSAKAINFGLIY
+
+           451                                            500
+1xwl       GISDYGLAQNLNISRKEAAEFIERYFESFPGVKRYMENIVQEAKQKGYVT
+2kfzA      GMSAFGLARQLNIPRKEAQKYMDLYFERYPGVLEYMERTRAQAKEQGYVE
+
+           501                                            550
+1xwl       TLLHRRRYLPDITSRNFNVRSFAERMAMNTPIQGSAADIIKKAMIDLNAR
+2kfzA      TLDGRRLYLPDIKSSNGARRAAAERAAINAPMQGTAADIIKRAMIAVDAW
+
+           551                                            600
+1xwl       LKEERLQAHLLLQVHDELILEAPKEEMERLCRLVPEVMEQ.avtlrVPLK
+2kfzA      LQAEQPRVRMIMQVHDELVFEVHKDDVDAVAKQIHQLMENctrld.VPLL
+
+           601        614
+1xwl       VDYHYGSTWYDAk~
+2kfzA      VEVGSGENWDQA.h
+

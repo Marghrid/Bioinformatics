@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qfoA_2ncm.msf MSF:  120 Type: P 11/12/19 CompCheck: 6547 ..
+
+  Name: 2ncm       Len: 120  Check: 4925 Weight: 1.00
+  Name: 1qfoA      Len: 120  Check: 1622 Weight: 1.00
+
+//
+
+           1                                               50
+2ncm       vlqvdivPSQGEISVGESKFFLCQVAGDa....kdkdISWFSP...NGEK
+1qfoA      twgvss.PKNVQGLSGSCLLIPCIFSYP.advpvgitAIWYYDysgKRQV
+
+           51                                             100
+2ncm       LSpn............QQRISVVWNd.DDSSTLTIYNANIDDAGIYKCVV
+1qfoA      VI..hsgdpklvdkrfRGRAELMGNmdHKVCNLLLKDLKPEDSGTYNFRF
+
+           101              120
+2ncm       TAEdGTQSEA..TVNVKIFQ
+1qfoA      EIS.SNRWLDvkGTTVTVTT
+

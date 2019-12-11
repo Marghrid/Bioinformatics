@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cnv_1llo.msf MSF:  286 Type: P 11/12/19 CompCheck: 4775 ..
+
+  Name: 1cnv       Len: 286  Check: 9585 Weight: 1.00
+  Name: 1llo       Len: 286  Check: 5190 Weight: 1.00
+
+//
+
+           1                                               50
+1cnv       dissTEIAVYWG.QREDGLLRDTCKTNNYKIVFISFLDKFGCEIrKPELE
+1llo       ~~~~GGIAIYWGqNGNEGTLTQTCSTRKYSYVNIAFLNKFGNGQ.TPQIN
+
+           51                                             100
+1cnv       LEGVCgpsvgnPCSFLESQIKECQRMGVKVFLALGGPKGTYSACSADYAK
+1llo       LAGHCnpa.agGCTIVSNGIRSCQIQGIKVMLSLGGGIGSYTLASQADAK
+
+           101                                            150
+1cnv       DLAEYLHTYFLSERR.eGPLGKVALDGIHFDIQKpVDELNWDNLLEELYQ
+1llo       NVADYLWNNFLGGKSssRPLGDAVLDGIDFDIEH.GSTLYWDDLARYLSA
+
+           151                                            200
+1cnv       IKDvYQSTFLLSAAPGCLSPDEYLDNAIQTRHFDYIFVRFYNDRSCQYST
+1llo       YSK.QGKKVYLTAAPQCPFPDRYLGTALNTGLFDYVWVQFYNNPPCQYSS
+
+           201                                            250
+1cnv       GNIQRIRNAWLSWTKSVYprd.KNLFLELPASQATAPgGGYIPPSALIGQ
+1llo       GNINNIINSWNRWTTSIN...aGKIFLGLPAAPEAAG.SGYVPPDVLISR
+
+           251                              286
+1cnv       VLPYLpdlqTRYAGIALWNRQADKETGYSTNIIRyl
+1llo       ILPEIkks.PKYGGVMLWSKFYDDKNGYSSSILDsv
+

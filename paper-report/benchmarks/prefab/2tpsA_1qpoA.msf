@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2tpsA_1qpoA.msf MSF:  382 Type: P 11/12/19 CompCheck: 7146 ..
+
+  Name: 2tpsA      Len: 382  Check: 4327 Weight: 1.00
+  Name: 1qpoA      Len: 382  Check: 2819 Weight: 1.00
+
+//
+
+           1                                               50
+2tpsA      hgirmtrisremmkell.................................
+1qpoA      ~~~~~~~~~~~~~~~~~glsdwelaaaraaiargldedlrygpdvttlat
+
+           51                                             100
+2tpsA      ..................................................
+1qpoA      vpasatttaslvtreagvvagldvalltlnevlgtngyrvldrvedgarv
+
+           101                                            150
+2tpsA      .................................................S
+1qpoA      ppgealmtleaqtrglltaertmlnlvghlsgiatataawvdavrgtkaK
+
+           151                                            200
+2tpsA      VYFIMGsnntkadpvtvvqkalkggATLYQfrekggdaltgearikfaek
+1qpoA      IRDTRK..tlpglralqkyavrtggGVNHRlg..................
+
+           201                                            250
+2tpsA      aqaacreagvpfivnddvelalnlk.ADGIHIGQEDA........NAKEV
+1qpoA      .........................lGDAALIKDNHVaaagsvvdALRAV
+
+           251                                            300
+2tpsA      RAAIGDMILGVSAHTMSEVKQAEEDGADYVGLGPiyptetkkdtravqGV
+1qpoA      RNAAPDLPCEVEVDSLEQLDAVLPEKPELILLDNf.............AV
+
+           301                                            350
+2tpsA      SLIEAVRrqgis.....IPIVGIGGITIDNAAPVIQAGADGVSMIsaisq
+1qpoA      WQTQTAV.qrrdsraptVMLESSGGLSLQTAATYAETGVDYLAVG.alth
+
+           351                          382
+2tpsA      aedpesaarkfreeiqtyktgr~~~~~~~~~~
+1qpoA      s.....................vrvldigldm
+

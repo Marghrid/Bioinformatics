@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2pgd_1pgjA.msf MSF:  486 Type: P 11/12/19 CompCheck: 4943 ..
+
+  Name: 2pgd       Len: 486  Check: 4286 Weight: 1.00
+  Name: 1pgjA      Len: 486  Check:  657 Weight: 1.00
+
+//
+
+           1                                               50
+2pgd       aQADIALIGLAVMGQNLILNMNDHGFVVCAFNRTVSKVDDFLANeakgt.
+1pgjA      ~SMDVGVVGLGVMGANLALNIAEKGFKVAVFNRTYSKSEEFMKA.nasap
+
+           51                                             100
+2pgd       ...KVLGAHSLEEMVSKLKKPRRIILLVKAGQAVDNFIEKLVPLLDIGDI
+1pgjA      fagNLKAFETMEAFAASLKKPRKALILVQAGAATDSTIEQLKKVFEKGDI
+
+           101                                            150
+2pgd       IIDGGNSEYRDTMRRCRDLKDKGILFVGSGVSGGEDGARYGPSLMPGGNK
+1pgjA      LVDTGNAHFKDQGRRAQQLEAAGLRFLGMGISGGEEGARKGPAFFPGGTL
+
+           151                                            200
+2pgd       EAWPHIKAIFQGIAAKVGTGEPCCDWVGDDGAGHFVKMVHNGIEYGDMQL
+1pgjA      SVWEEIRPIVEAAAAKADDGRPCVTMNGSGGAGSCVKMYHNSGEYAILQI
+
+           201                                            250
+2pgd       ICEAYHLMKDvlGLGHKEMAKAFEEWNK.tELDSFLIEITASILKFQDAD
+1pgjA      WGEVFDILRA.mGLNNDEVAAVLEDWKSknFLKSYMLDISIAAARAKDKD
+
+           251                                            300
+2pgd       GKHLLPKIRDSAGQKGTGKWTAISALEYGVPVTLIGEAVFARCLSSLKDE
+1pgjA      GSYLTEHVMDRIGSKGTGLWSAQEALEIGVPAPSLNMAVVSRQFTMYKTE
+
+           301                                            350
+2pgd       RIQASKk..LKGPqnipfegdk....KSFLEDIRKALYASKIISYAQGFM
+1pgjA      RQANASnapGITQ.spgytlknkspsGPEIKQLYDSVCIAIISCYAQMFQ
+
+           351                                            400
+2pgd       LLRQAATEFGWTLNYGGIALMWRGGCIIRSVFLGKIKDAFDRNPGLQNLL
+1pgjA      CLREMDKVHNFGLNLPATIATFRAGCILQGYLLKPMTEAFEKNPNISNLM
+
+           401                                            450
+2pgd       LDdfFKSAVENCQDSWRRAISTGVQ.agIPMPCFTTALSFYDGYRHAML.
+1pgjA      CA..FQTEIRAGLQNYRDMVALITSkleVSIPVLSASLNYVTAMFTPTLk
+
+           451                              486
+2pgd       PANLIQAQRDYFGAHTYELLAKpgQFIHTNWTghgg
+1pgjA      YGQLVSLQRDVFGRHGYERVDK.dGRESFQWPelq~
+

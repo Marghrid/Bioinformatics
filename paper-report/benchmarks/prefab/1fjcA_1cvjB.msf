@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fjcA_1cvjB.msf MSF:  169 Type: P 11/12/19 CompCheck: 4369 ..
+
+  Name: 1fjcA      Len: 169  Check:  244 Weight: 1.00
+  Name: 1cvjB      Len: 169  Check: 4125 Weight: 1.00
+
+//
+
+           1                                               50
+1fjcA      shmledpctskkvraaRTLLAKNLSFNITEDELKEVFE...DALEIRLVS
+1cvjB      ~~~~~~~~~~~~~~~~ASLYVGDLHPDVTEAMLYEKFSpagPILSIRVCR
+
+           51                                             100
+1fjcA      QD..gKSKGIAYIEFKSEADAEKNLEEKQGAEIDGRSVSLYYTgekggtr
+1cvjB      DMitrRSLGYAYVNFQQPADAERALDTMNFDVIKGKPVRIMWS..qrdps
+
+           101                                            150
+1fjcA      g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cvjB      lrksgvgnifiknldksidnkalydtfsafgnilsckvvcskgygfvhfe
+
+           151             169
+1fjcA      ~~~~~~~~~~~~~~~~~~~
+1cvjB      tqeaaeraiekmnvgrfks
+

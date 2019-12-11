@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d6jA_1nksA.msf MSF:  236 Type: P 11/12/19 CompCheck: 8066 ..
+
+  Name: 1nksA      Len: 236  Check: 2416 Weight: 1.00
+  Name: 1d6jA      Len: 236  Check: 5650 Weight: 1.00
+
+//
+
+           1                                               50
+1nksA      ~~~~~~~~~~~~~~~~MKIGIVTGIPGVGKSTVLAKVKEILDN.QGINNK
+1d6jA      asaltrsertelrnqrGLTIWLTGLSASGKSTLAVELEHQLVRdRRVHAY
+
+           51                                             100
+1nksA      IINYGDFM.latalklgyakdrdemrKLSVEKQKKLQIDAAKGIAEEARa
+1d6jA      RLDGDNIRfglnkd...........lGFSEADRNENIRRIAEVAKLFADs
+
+           101                                            150
+1nksA      ggeGYLFIDTHavirtpsgyl.pglpsyvitein..........PSVIFL
+1d6jA      n..SIAITSFIspy.......rkdrdt.arqlhevatpgeetglPFVEVY
+
+           151                                            200
+1nksA      LEADPKiilsrqkrdttrnrndysdesviletin...faryaatasavla
+1d6jA      VDVPVE............................apyeapa.........
+
+           201                              236
+1nksA      gs.TVKVIVNVEGDPSIAANEIIRSMK~~~~~~~~~
+1d6jA      ..nPEVHVKNYELPVQDAVKQIIDYLDtkgylpakk
+

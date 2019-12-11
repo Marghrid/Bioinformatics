@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1mpgA_1mun.msf MSF:  346 Type: P 11/12/19 CompCheck: 7525 ..
+
+  Name: 1mpgA      Len: 346  Check:  712 Weight: 1.00
+  Name: 1mun       Len: 346  Check: 6813 Weight: 1.00
+
+//
+
+           1                                               50
+1mpgA      mytlnwqppydwswmlgflaaravssvetvadsyyarslavgeyrgvvta
+1mun       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1mpgA      ipdiarhtlhinlsaglepvaaeclakmsrlfdlqcnpqivn....galg
+1mun       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mqasqfsa
+
+           101                                            150
+1mpgA      rlgaarpglrl......PGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQ
+1mun       qvldwydkyg.rktlpwQIDKTPYKVWLSEVMLQQTQVATVIPYFERFMA
+
+           151                                            200
+1mpgA      LYgerlddfpeyicfPTPQRLAAADPQALKALgm...PLKRAEALIHLAN
+1mun       RF.............PTVTDLANAPLDEVLHLwtglgYYARARNLHKAAQ
+
+           201                                            250
+1mpgA      AAL...EGTLPMtipgdveqAMKTLQTFPGIGRWTANYFALRGWQAkdvf
+1mun       QVAtlhGGKFPE........TFEEVAALPGVGRSTAGAILSLSLGK.hfp
+
+           251                                            300
+1mpgA      lpdDYLIKQRFPGm............TPAQIRRYA.erwkpwrs.YALLH
+1mun       il.NGNVKRVLAR.cyavsgwpgkkeVENKLWSLSeqvtpavgveRFNQA
+
+           301                                        346
+1mpgA      IWYTegwq....................pdea~~~~~~~~~~~~~~
+1mun       MMDL....gamictrskpkcslcplqngciaaannswalypgkkpk
+

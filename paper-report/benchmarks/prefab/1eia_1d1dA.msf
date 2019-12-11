@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eia_1d1dA.msf MSF:  311 Type: P 11/12/19 CompCheck: 8627 ..
+
+  Name: 1eia       Len: 311  Check:  410 Weight: 1.00
+  Name: 1d1dA      Len: 311  Check: 8217 Weight: 1.00
+
+//
+
+           1                                               50
+1eia       ~~TPRg..YTTWVNTIQTNGLLNEASQNLFGILS.vdctseemnafldvv
+1d1dA      wtPLEpklITRLADTVRTKGLRSPITMAEVEALMsspllphdvtnlmrvi
+
+           51                                             100
+1eia       pg.QAGQKQILLDAIDKIADDWDNRHP..........lpnaplvappqgp
+1d1dA      ..lGPAPYALWMDAWGVQLQTVIAAATrdprhpangqgrge.........
+
+           101                                            150
+1eia       iPMTARFIRGLGv.....prerqmepafdqFRQTYRQWIIEAMSEGIKVM
+1d1dA      .RTNLDRLKGLA.dgmvgnpqgqaallrpgELVAITASALQAFREVARLA
+
+           151                                            200
+1eia       igkpkaqnirqgakepypefvdrllsqikseghpqeiskfltdtltiqna
+1d1dA      ..................................................
+
+           201                                            250
+1eia       neecrnamrhlrpedtleekmyacrdig~~~~~~~~~~~~~~~~~~~~~~
+1d1dA      ............................epagpwaditqgpsesfvdfan
+
+           251                                            300
+1eia       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1d1dA      rlikavegsdlppsarapviidcfrqksqpdiqqliraapstlttpgeii
+
+           301     311
+1eia       ~~~~~~~~~~~
+1d1dA      kyvldrqkiap
+

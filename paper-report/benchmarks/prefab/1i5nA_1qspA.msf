@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1i5nA_1qspA.msf MSF:  199 Type: P 11/12/19 CompCheck: 8950 ..
+
+  Name: 1qspA      Len: 199  Check: 9918 Weight: 1.00
+  Name: 1i5nA      Len: 199  Check: 9032 Weight: 1.00
+
+//
+
+           1                                               50
+1qspA      ipseiinwtilneiismddddsdFSKGLIIQFIDQAQTTFAQMQRQLDGE
+1i5nA      ~~~~~~~~~~~~~~~~~~~~~~~DISDFYQTFFDEADELLADXEQHLLDL
+
+           51                                             100
+1qspA      k........NLTELDNLGHFLKGSSAALGLQRIAWVCERIQNLGRKMehf
+1i5nA      .vpespdaeQLNAIFRAAHSIKGGAGTFGFTILQETTHLXENLLDEA...
+
+           101                                            150
+1qspA      fpnktelvntlsdksiinginideddeeikiqvddk....dENS.iYLIL
+1i5nA      ....................................rrgexQLNtdIINL
+
+           151                                           199
+1qspA      IAKALNQSRLEFKLARIELskyyntnl~~~~~~~~~~~~~~~~~~~~~~
+1i5nA      FLETKDIXQEQLDAYKNSE........epdaasfeyicnalrqlaleak
+

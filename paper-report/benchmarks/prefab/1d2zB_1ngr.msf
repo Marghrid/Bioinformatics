@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d2zB_1ngr.msf MSF:  149 Type: P 11/12/19 CompCheck: 3198 ..
+
+  Name: 1ngr       Len: 149  Check: 4624 Weight: 1.00
+  Name: 1d2zB      Len: 149  Check: 8574 Weight: 1.00
+
+//
+
+           1                                               50
+1ngr       ~~~~~~GNLYSSLPLTKREEVEKLLNG.DTWRHLAGEL............
+1d2zB      sskysrNTELRRVEDNDIYRLAKILDEnSCWRKLMSIIpkgmdvqacsga
+
+           51                                             100
+1ngr       .............GYQPEHIDSFTHEA.......CPVRALLASWGAQ...
+1d2zB      gclnfpaeikkgfKYTAQDVFQIDEAAnrlppdqSKSQMMIDEWKTSgkl
+
+           101                                           149
+1ngr       .DSATLDALLAALRRIQRADIVESLCSe~~~~~~~~~~~~~~~~~~~~~
+1d2zB      nERPTVGVLLQLLVQAELFSAADFVALdflnestparpvdgpgalisle
+

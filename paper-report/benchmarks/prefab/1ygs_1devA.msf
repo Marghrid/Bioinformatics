@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ygs_1devA.msf MSF:  199 Type: P 11/12/19 CompCheck: 5627 ..
+
+  Name: 1ygs       Len: 199  Check: 8409 Weight: 1.00
+  Name: 1devA      Len: 199  Check: 7218 Weight: 1.00
+
+//
+
+           1                                               50
+1ygs       ~~~~~~~aPEYWCSIAYFEMDVQVGETFKVPssCPIVTVDGYVDPSGGDR
+1devA      lqpvtysePAFWCSIAYYELNQRVGETFHAS..QPSLTVDGFTDPSNSER
+
+           51                                             100
+1ygs       FCLGQLSNVHRTEAIERARLHIGKGVQLECKGeGDVWVRCLSDHAVFVQS
+1devA      FCLGLLSNVNRNATVEMTRRHIGRGVRLYYIG.GEVFAECLSDSAIFVQS
+
+           101                                            150
+1ygs       YYLDREAGRApGDAVHKIYPSAYIKVFDLRQCHRQMQQQAATaqa..vdD
+1devA      PNCNQRYGWH.PATVCKIPPGCNLKIFNNQEFAALLAQSVNQgf.eavyQ
+
+           151                                           199
+1ygs       LRRLCILRMSFVKGWGPDYPRQSIKETPCWIEIHLHRALQLLDEVLHTM
+1devA      LTRMCTIRMSFVKGWGAEYRRQTVTSTPCWIELHLNGPLQWLDKVLTQM
+

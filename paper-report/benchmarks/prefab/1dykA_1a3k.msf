@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dykA_1a3k.msf MSF:  401 Type: P 11/12/19 CompCheck: 4508 ..
+
+  Name: 1dykA      Len: 401  Check: 2327 Weight: 1.00
+  Name: 1a3k       Len: 401  Check: 2181 Weight: 1.00
+
+//
+
+           1                                               50
+1dykA      gpcvaesepalltgskqfglsrns...HIAIAf.DdtkVKNRLTIELEVR
+1a3k       ~~~~~~~~~~~~~~~~~~~~~~~~livPYNLP.lPgg.VVPRMLITILGT
+
+           51                                             100
+1dykA      Te..aesgllFYMARINhad.FATVQLRN.....GFPYFSydlgsgdts.
+1a3k       Vkpnanria.LDFQRGN.d.vAFHFNPRFnennrRVIVCNt........k
+
+           101                                            150
+1dykA      ........tmiptk..INDGQWHKIKIVRVKQEGILYVDdas.SQTISpk
+1a3k       ldnnwgreerqsv.fpFESGKPFKIQVLVEPDHFKVAVNdahlLQYNH..
+
+           151                                            200
+1dykA      ka..DILDVv.GILYVGglpinyttrrigpvtysLDGCVRNLHMEQapvd
+1a3k       ..rvKKLNE.iSKLGIS.................GDIDLTSASYTM....
+
+           201                                            250
+1dykA      ldqptssfhvgtcfanaesgtyfdgtgfakavggfkvgldllvefefrtt
+1a3k       ..................................................
+
+           251                                            300
+1dykA      rptgvllgvssqkmdgmgiemideklmfhvdngagrftaiydaeipghmc
+1a3k       ..................................................
+
+           301                                            350
+1dykA      ngqwhkvtakkiknrlelvvdgnqvdaqspnsastsadtndpvfvggfpg
+1a3k       ..................................................
+
+           351                                            400
+1dykA      glnqfglttnirfrgcirslkltkgtgkplevnfakalelrgvqpvscpt
+1a3k       ..................................................
+
+           401 401
+1dykA      ~
+1a3k       i
+

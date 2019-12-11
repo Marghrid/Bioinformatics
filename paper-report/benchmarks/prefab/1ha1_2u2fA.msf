@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ha1_2u2fA.msf MSF:  174 Type: P 11/12/19 CompCheck:  455 ..
+
+  Name: 2u2fA      Len: 174  Check: 7273 Weight: 1.00
+  Name: 1ha1       Len: 174  Check: 3182 Weight: 1.00
+
+//
+
+           1                                               50
+2u2fA      ~~~AHKLFIGGLPNYLNDDQVKELLTSFGPLKAFNLVKDsatgls.KGYA
+1ha1       peqLRKLFIGGLSFETTDESLRSHFEQWGTLTDCVVMRD.pntkrsRGFG
+
+           51                                             100
+2u2fA      FCEYVDINVTDQAIAGlngmqlgd...kkLLVQRASVGAkna~~~~~~~~
+1ha1       FVTYATVEEVDAAMNA.rphk...vdgrvVEPKRAVSRE...ahltvkki
+
+           101                                            150
+2u2fA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1ha1       fvggikedteehhlrdyfeqygkievieimtdrgsgkkrgfafvtfddhd
+
+           151                  174
+2u2fA      ~~~~~~~~~~~~~~~~~~~~~~~~
+1ha1       svdkiviqkyhtvnghncevrkal
+

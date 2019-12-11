@@ -1,0 +1,77 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1e2tA_1f13A.msf MSF:  838 Type: P 11/12/19 CompCheck: 2833 ..
+
+  Name: 1e2tA      Len: 838  Check:   56 Weight: 1.00
+  Name: 1f13A      Len: 838  Check: 2777 Weight: 1.00
+
+//
+
+           1                                               50
+1e2tA      mt................................................
+1f13A      ~~tafggrravppnnsnaaeddlptvelqgvvvnlqeflnvtsvhlfker
+
+           51                                             100
+1e2tA      ..................................................
+1f13A      wdtnkvdhhtdkyennklivrrgqsfyvqidfsrpydprrdlfrveyvig
+
+           101                                            150
+1e2tA      ..................................................
+1f13A      rypqenkgtyipvpivselqsgkwgakivmredrsvrlsiqsspkcivgk
+
+           151                                            200
+1e2tA      ..................................................
+1f13A      frmyvavwtpygvlrtsrnpetdtyilfnpwceddavyldnekereeyvl
+
+           201                                            250
+1e2tA      ..........................sflhayftrl.hcqpl....gvpt
+1f13A      ndigvifygevndiktrswsygqfedgildtclyvmdraqm.dlsgrgnp
+
+           251                                            300
+1e2tA      vealrtlhlahnc.....aipfenldVLLPr.....eiQLDETALEEKLL
+1f13A      ikvsrvgsamvn.akddegvlvgsw.DNIYaygvppsaWTGSVDILLEYR
+
+           301                                            350
+1e2tA      ..yarr.gGYCFELNGLFERALRDIGFNVRSLLG.rvils......hpas
+1f13A      ssenpvryGQCWVFAGVFNTFLRCLGIPARIVTNyfsah.dndanlqmdi
+
+           351                                            400
+1e2tA      ...............lpprtHRLLLVDVE........DEQWIADVgfggq
+1f13A      fleedgnvnskltkdsvwnyHCWNEAWMTrpdlpvgfGGWQAVDS.tpqe
+
+           401                                            450
+1e2tA      .....TLTAPLRL...qAEI.aqqtphgEYRLmqegstwilqfrhhehwq
+1f13A      nsdgmYRCGPASVqaikHGHvcfqf...DAPF..................
+
+           451                                            500
+1e2tA      .smycf...........................DLGVQQqsdhvmgnfws
+1f13A      vfaev.nsdliyitakkdgthvvenvdathigkLIVTKQ...........
+
+           501                                            550
+1e2tA      ahw...............................................
+1f13A      ...iggdgmmditdtykfqegqeeerlaletalmygakkplntegvmksr
+
+           551                                            600
+1e2tA      .........................................pqshfrhhl
+1f13A      snvdmdfevenavlgkdfklsitfrnnshnrytitaylsanitfy.....
+
+           601                                            650
+1e2tA      lmcrhlpdggkltltnfhftryhqghaveqvnvpdvpslyqllqqqfglg
+1f13A      ..................................................
+
+           651                                            700
+1e2tA      vndvkhgfteaelaavmaaf~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1f13A      ....................tgvpkaefkketfdvtleplsfkkeavliq
+
+           701                                            750
+1e2tA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1f13A      ageymgqlleqaslhffvtarinetrdvlakqkstvltipeiiikvrgtq
+
+           751                                            800
+1e2tA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1f13A      vvgsdmtvtveftnplketlrnvwvhldgpgvtrpmkkmfreirpnstvq
+
+           801                                838
+1e2tA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1f13A      weevcrpwvsghrkliasmssdslrhvygeldvqiqrr
+

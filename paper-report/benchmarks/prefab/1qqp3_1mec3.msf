@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qqp3_1mec3.msf MSF:  241 Type: P 11/12/19 CompCheck: 9339 ..
+
+  Name: 1qqp3      Len: 241  Check: 7401 Weight: 1.00
+  Name: 1mec3      Len: 241  Check: 1938 Weight: 1.00
+
+//
+
+           1                                               50
+1qqp3      g.IFPVACSDGYGGLVTTDPKTADPVYGKVFNPPRNQLPGRFTNLLDVAE
+1mec3      ~sPIPVTIREHAGTWYSTLPDSTVPIYGKTPVAPANYMVGEYKDFLEIAQ
+
+           51                                             100
+1qqp3      aCPTFLRFEgg..VPYVTTKt.DSD..rVLAQFDMSLa.AKHMSNTFLAG
+1mec3      .IPTFIGNKmpnaVPYIEAS.nTAVktqPLAVYQVTL.sCSCLANTFLAA
+
+           101                                            150
+1qqp3      LAQYYTQYSGTINLHFMFTGPTDAKARYMVAYAPPGMEPPKTPEAAAHCI
+1mec3      LSRNFAQYRGSLVYTFVFTGTAMMKGKFLIAYTPPGAGKPTSRDQAMQAT
+
+           151                                            200
+1qqp3      HAEWDTGLNSKFTFSIPYLSAADYTYTAS..dvaettn...VQGWVCLFQ
+1mec3      YAIWDLGLNSSYSFTVPFISPTHFRMVGTdqan.....itnVDGWVTVWQ
+
+           201                                   241
+1qqp3      I.thgka.....DGDALVVLASAGKDFELRLPVD.arae~~
+1mec3      Ltplty.ppgcpTSAKILTMVSAGKDFSLKMPISpapwspq
+

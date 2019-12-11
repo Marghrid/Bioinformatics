@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ulo_1cx1A.msf MSF:  164 Type: P 11/12/19 CompCheck: 6790 ..
+
+  Name: 1ulo       Len: 164  Check: 3139 Weight: 1.00
+  Name: 1cx1A      Len: 164  Check: 3651 Weight: 1.00
+
+//
+
+           1                                               50
+1ulo       as........PIGEGTFDDGPEGWVAYGTDgpLDTSTGALCVAVPAGSAQ
+1cx1A      ~~asldseveLLPHTSFAESLGPWSLYGTS.ePVFADGRMCVDLPGGQGN
+
+           51                                             100
+1ulo       y..GVGVVLNGVAIEEGTTYTLRYTATASTDVTVRALVGQNGAPYGTVLd
+1cx1A      .pwDAGLVYNGVPVGEGESYVLSFTASATPDMPVRVLVGEGGGAYRTAFe
+
+           101                                            150
+1ulo       ts.PALTSEPRQVTETFTASATYPATpaadDPEGQIAFQLGGfsa.daWT
+1cx1A      qgsAPLTGEPATREYAFTSNLTFPPDg...DAPGQVAFHLGK...agaYE
+
+           151        164
+1ulo       LCLDDVALDSEVEl
+1cx1A      FCISQVSLTTSAT~
+

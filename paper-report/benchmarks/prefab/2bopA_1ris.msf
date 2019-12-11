@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2bopA_1ris.msf MSF:  107 Type: P 11/12/19 CompCheck: 7432 ..
+
+  Name: 2bopA      Len: 107  Check: 7470 Weight: 1.00
+  Name: 1ris       Len: 107  Check: 9962 Weight: 1.00
+
+//
+
+           1                                               50
+2bopA      ~~SCFALISGTa.....nqVKCYRFRVKKNHRhr...YENCTTTWFTVad
+1ris       mrRYEVNIVLN.pnldqsqLALEKEIIQRALEnygarVEKVEELGLRR..
+
+           51                                             100
+2bopA      ngaer........QGQAQILITFGS.psqrqdflkhvplppgm.NISGFT
+1ris       .....laypiakdPQGYFLWYQVEMpedrvndlarelrirdnvrRVMVVK
+
+           101 107
+2bopA      ASLdf~~
+1ris       SQE..pf
+

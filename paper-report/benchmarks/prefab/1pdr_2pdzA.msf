@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1pdr_2pdzA.msf MSF:  98 Type: P 11/12/19 CompCheck:  418 ..
+
+  Name: 1pdr       Len: 98  Check: 6692 Weight: 1.00
+  Name: 2pdzA      Len: 98  Check: 3726 Weight: 1.00
+
+//
+
+           1                                               50
+1pdr       itrePRKVVLHRGs.TGLGFNIVGGED.GEGIFISFILAGGPADLSGELR
+2pdzA      ~~~~RRRVTVRKAdaGGLGISIKGGREnKMPILISKIFKGLAADQTEALF
+
+           51                                            98
+1pdr       KGDRIISVNSVDLRAASHEQAAAALKNAGQAVTIVAQYRPeeysrqha
+2pdzA      VGDAILSVNGEDLSSATHDEAVQALKKTGKEVVLEVKYMK~~~~~~~~
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ha1_1hd0A.msf MSF:  167 Type: P 11/12/19 CompCheck: 2008 ..
+
+  Name: 1ha1       Len: 167  Check: 2343 Weight: 1.00
+  Name: 1hd0A      Len: 167  Check: 9665 Weight: 1.00
+
+//
+
+           1                                               50
+1ha1       epeqlrKLFIGGLSFETTDESLRSHFEQWGTLTDCVVMRDPNTKRSRGFG
+1hd0A      ~~~~~~KMFIGGLSWDTTKKDLKDYFSKFGEVVDCTLKLDPITGRSRGFG
+
+           51                                             100
+1ha1       FVTYATVEEVDAAMNARPHKVDGRVVEPKRAvsreahltvkkifvggike
+1hd0A      FVLFKESESVDKVMDQKEHKLNGKVIDPKRA~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1ha1       dteehhlrdyfeqygkievieimtdrgsgkkrgfafvtfddhdsvdkivi
+1hd0A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151           167
+1ha1       qkyhtvnghncevrkal
+1hd0A      ~~~~~~~~~~~~~~~~~
+

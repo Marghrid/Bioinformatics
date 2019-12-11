@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dvjA_1ho1A.msf MSF:  239 Type: P 11/12/19 CompCheck: 5536 ..
+
+  Name: 1dvjA      Len: 239  Check: 7326 Weight: 1.00
+  Name: 1ho1A      Len: 239  Check: 8210 Weight: 1.00
+
+//
+
+           1                                               50
+1dvjA      MDVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAE
+1ho1A      ~~~~LLLGVNIDIATLPDPVQAAFIAEQGADGITVHLR.RRHITDRDVRI
+
+           51                                             100
+1dvjA      FRKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRA
+1ho1A      LRQTLDTRMNLEMAV......TEEMLAIAVETKPHFCCLVVAGQRDKMRD
+
+           101                                            150
+1dvjA      CLNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPS
+1ho1A      ACKRLADAGIQVSLFID.............DEEQIKAAAEVGAPFIEIHT
+
+           151                                            200
+1dvjA      TRPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLA
+1ho1A      GELARIAKAATFAASGLKVNAGGLTYH..NVKAIAPEMHELNIGHAIIGR
+
+           201                                 239
+1dvjA      DNPAAAAAGIIESIKDLLIPEDPAANKARKEAELAAATA
+1ho1A      TGLKDAVAEMKRLMLEARG~~~~~~~~~~~~~~~~~~~~
+

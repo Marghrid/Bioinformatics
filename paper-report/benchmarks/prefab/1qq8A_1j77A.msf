@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qq8A_1j77A.msf MSF:  232 Type: P 11/12/19 CompCheck: 1540 ..
+
+  Name: 1qq8A      Len: 232  Check: 7963 Weight: 1.00
+  Name: 1j77A      Len: 232  Check: 3577 Weight: 1.00
+
+//
+
+           1                                               50
+1qq8A      PQDLSEALKEATKEVHTQAENAefmrnfqkg.qvTRDGFKLVMASLYHIY
+1j77A      ALTFAKRLKADTTAVHDSVDNL.vmsvq...pfvSKENYIKFLKLQSVFH
+
+           51                                             100
+1qq8A      VALEEEIErnkespvFAPV.yfpeeLHRKAALEQDLAFWYGprwqevipy
+1j77A      KAVDHIYK.dael..NKAIpeley.MARYDAVTQDLKDLGE.....epyk
+
+           101                                            150
+1qq8A      tpamqryv.krlhevgrtEPELLVAHAYTRYLGDlsGGQVLKKIAQKAld
+1j77A      fdk.....elpye.....AGNKAIGWLYCAEGSNl.GAAFLFKHAQKLd.
+
+           151                                            200
+1qq8A      lpss...GEGLAFFTFPnIASATKFKQLYRSRMNSLEMTPAVRQRVIEEA
+1j77A      ....yngEHGARHLAPH.PDGRGKHWRAFVEHLNALNLTPEAEAEAIQGA
+
+           201                          232
+1qq8A      KTAFLLNIQLFEELQELlth~~~~~~~~~~~~
+1j77A      REAFAFYKVVLRETFGL...aadaeapegmmp
+

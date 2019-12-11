@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hyt_1ezm.msf MSF:  334 Type: P 11/12/19 CompCheck: 5794 ..
+
+  Name: 1hyt       Len: 334  Check: 2503 Weight: 1.00
+  Name: 1ezm       Len: 334  Check: 3291 Weight: 1.00
+
+//
+
+           1                                               50
+1hyt       itgtsTVGVGRGVL....GDQK.....NINTTYstyYYLQDNtrgdGIFT
+1ezm       ~~~~~AEAGGPGGNqkigKYTYgsdygPLIVND..rCEMDDG....NVIT
+
+           51                                             100
+1hyt       YDAKYRTTL.pgSLWADADNQFFASYd.....APAVDAHYYAGVTYDYYK
+1ezm       VDMNSSTDDsktTPFRFACPTNTYKQ.vngaySPLNDAHFFGGVVFKLYR
+
+           101                                            150
+1hyt       NVHNRLSYDgnnAAIRSSVHYSQGYNNAFWNGSEMVYGDGDgQTFIPLSg
+1ezm       DWFGTSPLT...HKLYMKVHYGRSVENAYWDGTAMLFGDGA.TMFYPLV.
+
+           151                                            200
+1hyt       GIDVVAHELTHAVTDYTAGLIYQNESGAINEAISDIFGTLVEFYANKNPD
+1ezm       SLDVAAHEVSHGFTEQNSGLIYRGQSGGMNEAFSDMAGEAAEFYMRGKND
+
+           201                                            250
+1hyt       WEIGEDVYTpgisGDSLRSMSDPAKY.gDPDHYSKRYTGtqdnGGVHINS
+1ezm       FLIGYDIKK...gSGALRYMDQPSRDgrSIDNASQYYNG....IDVHHSS
+
+           251                                            300
+1hyt       GIINKAAYLISQggthygvsvvgIGRDKLGKIFYRALTQYLTPTSNFSQL
+1ezm       GVYNRAFYLLANs........pgWDTRKAFEVFVDANRYYWTATSNYNSG
+
+           301                            334
+1hyt       RAAAVQSATDLYgstsQEVASVKQAFDAVGVK~~
+1ezm       ACGVIRSAQNRN....YSAADVTRAFSTVGVTcp
+

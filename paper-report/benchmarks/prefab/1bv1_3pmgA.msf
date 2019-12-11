@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bv1_3pmgA.msf MSF:  611 Type: P 11/12/19 CompCheck:  420 ..
+
+  Name: 1bv1       Len: 611  Check: 5823 Weight: 1.00
+  Name: 3pmgA      Len: 611  Check: 4597 Weight: 1.00
+
+//
+
+           1                                               50
+1bv1       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3pmgA      vkivtvktkaypdqkpgtsglrkrvkvfqsstnyaenfiqsiistvepaq
+
+           51                                             100
+1bv1       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3pmgA      rqeatlvvggdgrfymkeaiqlivriaaangigrlvigqngilstpavsc
+
+           101                                            150
+1bv1       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3pmgA      iirkikaiggiiltashnpggpngdfgikfnisnggpapeaitdkifqis
+
+           151                                            200
+1bv1       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3pmgA      ktieeyaicpdlkvdlgvlgkqqfdlenkfkpftveivdsveayatmlrn
+
+           201                                            250
+1bv1       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3pmgA      ifdfnalkellsgpnrlkiridamhgvvgpyvkkilceelgapansavnc
+
+           251                                            300
+1bv1       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3pmgA      vpledfgghhpdpnltyaadlvetmksgehdfgaafdgdgdrnmilgkhg
+
+           301                                            350
+1bv1       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3pmgA      ffvnpsdsvaviaanifsipyfqqtgvrgfarsmptsgaldrvanatkia
+
+           351                                            400
+1bv1       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3pmgA      lyetptgwkffgnlmdasklslcgeesfgtgsdhirekdglwavlawlsi
+
+           401                                            450
+1bv1       ~~~~~~~~~~~~~~~~~~~~gvfnyetett.svip.AARLFKAfildgdn
+3pmgA      latrkqsvedilkdhwhkfgrnfftrydyeeveaegATKMMKD.leal..
+
+           451                                            500
+1bv1       lfpkvapqaiss..veniegnggpgtikkisfpeglp...FKYVKDRVDE
+3pmgA      ............mfdrsf.......vgkqf.......sanDKVYTVEKAD
+
+           501                                            550
+1bv1       VDh...........TNFKYNYSVIeggpigdtleKISNEIKIVATpdggs
+3pmgA      NF.eyhdpvdgsvsKNQGLRLIFAd.........GSRIIFRLSGTgsaga
+
+           551                                            600
+1bv1       ilkisnkyhtkgdhev....kaEQVKASKEMGET..LLRAVESyllahsd
+3pmgA      tirlyidsyekdnak.inqdpqVMLAPLISIALKvsQLQERTG.......
+
+           601     611
+1bv1       ayn~~~~~~~~
+3pmgA      ...rtaptvit
+

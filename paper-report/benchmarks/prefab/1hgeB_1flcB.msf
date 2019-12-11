@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hgeB_1flcB.msf MSF:  205 Type: P 11/12/19 CompCheck: 9188 ..
+
+  Name: 1hgeB      Len: 205  Check: 3178 Weight: 1.00
+  Name: 1flcB      Len: 205  Check: 6010 Weight: 1.00
+
+//
+
+           1                                               50
+1hgeB      glfgaiag......FIENGWE...gmidgwygfrhqnse....GTGQAA.
+1flcB      ~~~~~~~~iddliiGVLFVAIvetgigg..yllgsrk..esggGVTKESa
+
+           51                                             100
+1hgeB      ..dLKSTQAAIDQINGKLNRV.iektne...kfhqiekefsevegriqd.
+1flcB      ekgFEKIGNDIQILKSSINIAieklnd.rishdeq..............a
+
+           101                                            150
+1hgeB      ...lEKYVEDTKIDLWSYNAELLVALENQHTIDLTDSEMNKLFEKTRRQl
+1flcB      irdlTLEIENARSEALLGELGIIRALLVGNISIGLQESLWELASEITNR.
+
+           151                                            200
+1hgeB      rena.EEMGNGCFKIYHK.CDNACIESIRNGty...DHDVyrdealnnrf
+1flcB      agdlaVEVSPGCWIIDNNiCDQSCQNFIFKFn.etaPVPT..........
+
+           201
+1hgeB      qikg~
+1flcB      ....i
+

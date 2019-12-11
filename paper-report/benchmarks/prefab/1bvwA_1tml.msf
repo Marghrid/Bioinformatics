@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bvwA_1tml.msf MSF:  360 Type: P 11/12/19 CompCheck: 6073 ..
+
+  Name: 1bvwA      Len: 360  Check: 5610 Weight: 1.00
+  Name: 1tml       Len: 360  Check:  463 Weight: 1.00
+
+//
+
+           1                                               50
+1bvwA      GNPFEGVQLWANNYYRSEVHTLAIPQITDPALRAAASAVAEVPSFQWLDR
+1tml       ~~~~~DSPFYVNPNMSAEWVRN.NPNDP...RTPVIRDIASVPQGTWFAH
+
+           51                                             100
+1bvwA      NVTVDTLLVQTLSEIREANQAGANPQYAAQIVVYDLPDRDaaAAASNGEW
+1tml       HN.ITGQVDALMSAAQAAG.......KIPILVVYNAP.GRda..SSGGAP
+
+           101                                            150
+1bvwA      AIANNGVNNYKAYINRIREILISFSDVRTILVIEPDSLANMVTNmNVPKa
+1tml       .....SHSAYRSWIDEFAAGLKN...RPAYIIVEPDLISLM.SSaM....
+
+           151                                            200
+1bvwA      SGAASTYRELTIYALKQLDLPHVAMYMDAGHAGWLGWPANIQPAAELFAK
+1tml       QHVQQEVLETMAYAGKALKSSQARIYFDAGHSAWH....SPAQMASWLQQ
+
+           201                                            250
+1bvwA      IYEDAGKPRAVRGLATNVANYNAWSVSSPPPYTSPNPNYDEKHYIEAFRP
+1tml       DISNS.....AHGIATNTSNYRWTA..............DEVAYAKAVLS
+
+           251                                            300
+1bvwA      LLEARGFPAQFIVDQGRSGKQPTGQKEWGHWbNAIGTGFGMRPTANTGHQ
+1tml       AIG..NPSLRAVIDTSRNGNGPA....GNEWbDPSGRAIGTPSTTNTGDP
+
+           301                                            350
+1bvwA      YVDAFVWVKPGGECDGtSDTTAARYDYHbGLEDALKPAPEAGQWFNEYFI
+1tml       MIDAFLWIKLPGEADGb....................IAGAGQFVPQAAY
+
+           351    360
+1bvwA      QLLRNANPPF
+1tml       EMAIAA~~~~
+

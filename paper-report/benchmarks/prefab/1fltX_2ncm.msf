@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fltX_2ncm.msf MSF:  110 Type: P 11/12/19 CompCheck: 8237 ..
+
+  Name: 2ncm       Len: 110  Check:  113 Weight: 1.00
+  Name: 1fltX      Len: 110  Check: 8124 Weight: 1.00
+
+//
+
+           1                                               50
+2ncm       vlqvdivp........SQGEISVGESKFFLCQVAgdakd...KDISWFSP
+1fltX      grpf....vemyseipEIIHMTEGRELVIPCRVT.....spnITVTLKKF
+
+           51                                             100
+2ncm       NGEKLSPNQQRisvvwndddsSTLTIYNANIDDAGIYKCVVTAedGTQSE
+1fltX      PLDTLIPDGKRiiwdsr....KGFIISNATYKEIGLLTCEATVn.GHLYK
+
+           101    110
+2ncm       ATVNVKIFq~
+1fltX      TNYLTHRQ.t
+

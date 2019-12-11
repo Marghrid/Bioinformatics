@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3cla_1nocB.msf MSF:  214 Type: P 11/12/19 CompCheck:  689 ..
+
+  Name: 3cla       Len: 214  Check: 1896 Weight: 1.00
+  Name: 1nocB      Len: 214  Check: 8793 Weight: 1.00
+
+//
+
+           1                                               50
+3cla       ~MNYTKFDVKNWVRREHFEFYRHRLPCGFSLTSKIDITTLKKSLDDSAYK
+1nocB      iTGYTTVDISQWHRKEHFEAFQSVAQCTYNQTVQLDITAFLKTVKKNKHK
+
+           51                                             100
+3cla       FYPVMIYLIAQAVNQFDELRMAIKDDELIVWDSVDPQFTVFHQETETFSA
+1nocB      FYPAFIHILARLMNAHPEFRMAMKDGELVIWDSVHPCYTVFHEQTETFSS
+
+           101                                            150
+3cla       LSCPYSSDIDQFMVNYLSVMERYKSDTKLFPQGvTPENHLNISALPWVNF
+1nocB      LWSEYHDDFRQFLHIYSQDVACYGENLAYFPKG.FIENMFFVSANPWVSF
+
+           151                                            200
+3cla       DSFNLNVANFTDYFAPIITMAKYQQEGDRLLLPLSVQVHHAVCDGFHVAR
+1nocB      TSFDLNVANMDNFFAPVFTMGKYYTQGDKVLMPLAIQVHHAVCDGFHVGR
+
+           201        214
+3cla       FINRLQELCNSKLK
+1nocB      MLNELQQYCDEWQG
+

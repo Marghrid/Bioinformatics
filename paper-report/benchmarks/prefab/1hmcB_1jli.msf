@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hmcB_1jli.msf MSF:  159 Type: P 11/12/19 CompCheck: 3384 ..
+
+  Name: 1hmcB      Len: 159  Check: 9937 Weight: 1.00
+  Name: 1jli       Len: 159  Check: 3447 Weight: 1.00
+
+//
+
+           1                                               50
+1hmcB      seycshmigsgHLQSLQrlidsqmetscqitfefv....DQEQlkd...P
+1jli       ~ancsimide.IIHHLK...rppnplldpn.....nlnsEDMD...ilmE
+
+           51                                             100
+1hmcB      VCYLKKAFLLVQDIMEdtMRFrdntpnaiaIVQLQELSLRLKSCFTkdye
+1jli       RNLRTPNLLAFVRAVK.hLEN.........ASAIESILKNLLPCLPlat.
+
+           101                                            150
+1hmcB      e.hdkacvrtfyet.......PLQLLEKVKNVFNETKNLLDKdwnifskn
+1jli       .aaptrhp......ihikdgdWNEFRRKLTFYLKTLENAQAQ........
+
+           151   159
+1hmcB      cnnsfaec~
+1jli       ........q
+

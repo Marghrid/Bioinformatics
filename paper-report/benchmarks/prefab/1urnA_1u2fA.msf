@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1urnA_1u2fA.msf MSF:  112 Type: P 11/12/19 CompCheck: 4762 ..
+
+  Name: 1urnA      Len: 112  Check: 6443 Weight: 1.00
+  Name: 1u2fA      Len: 112  Check: 8319 Weight: 1.00
+
+//
+
+           1                                               50
+1urnA      avpetrpnHTIYINNLNEKIKKDELKKSLHAIFSRfgq.........ILD
+1u2fA      ~~~~~~~aRRLYVGNIPFGITEEAMMDFFNAQMRL...ggltqapgnPVL
+
+           51                                             100
+1urnA      ILVSRSLKmRGQAFVIFKev.sSATNALrsMQGFPFYDKPMRIQYAKTds
+1u2fA      AVQINQDK.NFAFLEFRS..vdETTQAM.aFDGIIFQGQSLKIRRPHD..
+
+           101      112
+1urnA      diiakm~~~~~~
+1u2fA      ......yqplpg
+

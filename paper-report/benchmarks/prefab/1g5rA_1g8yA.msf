@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1g5rA_1g8yA.msf MSF:  271 Type: P 11/12/19 CompCheck: 8100 ..
+
+  Name: 1g8yA      Len: 271  Check: 4658 Weight: 1.00
+  Name: 1g5rA      Len: 271  Check: 3442 Weight: 1.00
+
+//
+
+           1                                               50
+1g8yA      thkpinileafaaapppldyvlpnmvAGTVGALVSPGgAGKSMLALQLAA
+1g5rA      ~~~~~~~~~~~~~~~~~~~~~~~~~eRGIIIVFTGNG.KGKTTAAFGTAA
+
+           51                                             100
+1g8yA      QIAGgpdllevgelpTGPVIYLPAEDPPTaihhrlhalgahlsaeerqa.
+1g5rA      RAVG..........hGKNVGVVQFIKGTW..pnge..............r
+
+           101                                            150
+1g8yA      ...VADGLLIQPLI...............gslpnimapewf..DGLKRAA
+1g5rA      nllEPHGVEFQVXAtgftwetqnreadtaacxa........vwQHGKRXL
+
+           151                                            200
+1g8yA      ..egRRLMVLDTLRRFHIEEenasg..pmaqvigrmeaiaadtgCSIVFL
+1g5rA      adplLDXVVLDELTYXVAYD.....ylpleevisalnar..pghQTVIIT
+
+           201                                            250
+1g8yA      HHA...vlvdnirwqsylssmtsaeaeewgvdddqrrffvrfgvskanyg
+1g5rA      GRGchrdildladtvselrpvk............................
+
+           251               271
+1g8yA      apfadrwfrrhdggvlkpa~~
+1g5rA      ...................ha
+

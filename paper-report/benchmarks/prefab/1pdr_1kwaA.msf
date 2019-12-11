@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1pdr_1kwaA.msf MSF:  99 Type: P 11/12/19 CompCheck: 1068 ..
+
+  Name: 1pdr       Len: 99  Check: 5594 Weight: 1.00
+  Name: 1kwaA      Len: 99  Check: 5474 Weight: 1.00
+
+//
+
+           1                                               50
+1pdr       itrEPRKVVLHR.GSTGLGFNIVGgEDGEGIFISFILAGGPADLSGELRK
+1kwaA      ~~~RSRLVQFQKnTDEPMGITLKM.NELNHCIVARIMHGGMIHRQGTLHV
+
+           51                                             99
+1pdr       GDRIISVNSVDLRAASHEQAAAALKNAGQAVTIVAQYRpeeysrqha~~
+1kwaA      GDEIREINGISVANQTVEQLQKMLREMRGSITFKIVPSyr.......ef
+

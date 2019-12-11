@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1czfA_1rmg.msf MSF:  335 Type: P 11/12/19 CompCheck: 9105 ..
+
+  Name: 1czfA      Len: 335  Check: 1563 Weight: 1.00
+  Name: 1rmg       Len: 335  Check: 7542 Weight: 1.00
+
+//
+
+           1                                               50
+1czfA      DSaTFTTAAAAKAGKAKaSTITLNNIEVPAGTTLDLTGLTSGTKVIFEGT
+1rmg       KTaNILVGPAITSAWAAaGLVYIPNYALN..TWVTLTGG.SATAIQLDGI
+
+           51                                             100
+1czfA      TTFQYEEWAGPLISMSGEHITVTGASGHLINCDGARWWDGKGTSGKKKPK
+1rmg       IYRTGT.ASGNMIAVTTTDFELFSSTKGAVQGFGYVYHA.....GTYGAR
+
+           101                                            150
+1czfA      FFYAHGLDSSSITGLNIKNTPLMAFSVQANDITFTDVTINNADGDTQGGH
+1rmg       ILRLTDVTHFSVHDIILVDAPAFHFTMDCSDGEVYNMAIRGGN.....EG
+
+           151                                            200
+1czfA      NTDAFDVGNSVGVNIIKPWVHNQDDbLAVNSGENIWFTGGTbIGGHGLSI
+1rmg       GLDGIDVW.GSNIWVHDVEVTNKDEbVTVKSANNILVESIYbNWSGGCAM
+
+           201                                            250
+1czfA      GSVGDRSNNVVKNVTIEHSTVSNSENAVRIKTISGATGSVSEITYSNIVM
+1rmg       GSLGAD..TDVTDIVYRNVYTWSSNQMYMIKSNG.GSGTVSNVLLENFIG
+
+           251                                            300
+1czfA      SGISDYGVVIQQDYEDGKPTGKPTNGVTIQDVKLESVTGSVDSGATEIYL
+1rmg       HGNA.YSLDIDGYWSSMT......DGVQLNNITVKNWKGTEANTRPPIRV
+
+           301                             335
+1czfA      LcGSGScSDWTWDDVKVTGGKKSTAdKNFPSVASd
+1rmg       VcSDAPcTDLTLEDIAIWTEELYL.dRSAYGSGYd
+

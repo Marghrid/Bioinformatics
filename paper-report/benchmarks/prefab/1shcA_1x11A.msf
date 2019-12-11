@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1shcA_1x11A.msf MSF:  202 Type: P 11/12/19 CompCheck: 8252 ..
+
+  Name: 1x11A      Len: 202  Check: 1042 Weight: 1.00
+  Name: 1shcA      Len: 202  Check: 7210 Weight: 1.00
+
+//
+
+           1                                               50
+1x11A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~edli.dGIIFAANYLGSTQLL
+1shcA      shmgqlggeewtrhgsfvnkptrgwlhpndkvmgpGVSYLVRYMGCVEVL
+
+           51                                             100
+1x11A      SDKTPSKN.VRXXQAQEAVSRIKXAQ........................
+1shcA      QSMRALDFnTRTQVTREAISLVCEAVpgakgatrrrkpcsrplssilgrs
+
+           101                                            150
+1x11A      .....XTEVDLFILTQRIKVLNADTQETXXDHPLRTISYIAD....IGNI
+1shcA      nlkfaGMPITLTVSTSSLNLMAADCKQIIANHHMQSISFASGgdpdTAEY
+
+           151                                            200
+1x11A      VVLXARrgkr..qykxichvfes..edaqliaqsigqafsvayqeflran
+1shcA      VAYVAK....dpvnqrachilecpeglaqdvistigqafelrf.kqylr~
+
+           201 202
+1x11A      gi
+1shcA      ~~
+

@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1drw_1ofgA.msf MSF:  510 Type: P 11/12/19 CompCheck: 2339 ..
+
+  Name: 1drw       Len: 510  Check: 4622 Weight: 1.00
+  Name: 1ofgA      Len: 510  Check: 7717 Weight: 1.00
+
+//
+
+           1                                               50
+1drw       hd.............................anirvaiagagGRMGR.QL
+1ofgA      ~~atlpagasqvpttpagrpmpyairpmpedrrfgyaivgl.GKYALnQI
+
+           51                                             100
+1drw       IQAALALEGVQLgaaleregSSLLGSDAgelagag.ktgv...tvqss..
+1ofgA      LPGFAGCQHSRIealvsgn.AEKAKIVA.......aeygvdprkiydysn
+
+           101                                            150
+1drw       ldav..KDDFDVFIDFTrpegtlnhlafcrqhgKGMVIGTT.gfdeagkq
+1ofgA      fdkiakDPKIDAVYIILpnslhaefairafkagKHVMCEKPmatsvadcq
+
+           151                                            200
+1drw       airdaaa..diaivfaaNFSVgvnvmlkllekaakvmgdytdieiieahh
+1ofgA      rmidaakaankklmig.YRCH.............................
+
+           201                                            250
+1drw       rhkvdapsgtalamgeaiahaldkdlkdcavysreghtgervpgtigfat
+1ofgA      ..................................................
+
+           251                                            300
+1drw       vragdivgehtamfadigerl.............................
+1ofgA      .....................ydpmnraavklirenqlgklgmvttdnsd
+
+           301                                            350
+1drw       ..................................................
+1ofgA      vmdqndpaqqwrlrrelagggslmdigiyglngtryllgeepievrayty
+
+           351                                            400
+1drw       ..................................................
+1ofgA      sdpnderfvevedriiwqmrfrsgalshgassysttttsrfsvqgdkavl
+
+           401                                            450
+1drw       ...........................eithkassrm.TFANGAVRSALW
+1ofgA      lmdpatgyyqnlisvqtpghanqsmmpqfimpa....nNQFSAQLDHLAE
+
+           451                                            500
+1drw       LSGkesg...LFDMrdvldlnnl~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1ofgA      AVI....nnkPVRS.........pgeegmqdvrliqaiyeaartgrpvnt
+
+           501    510
+1drw       ~~~~~~~~~~
+1ofgA      dwgyvrqggy
+

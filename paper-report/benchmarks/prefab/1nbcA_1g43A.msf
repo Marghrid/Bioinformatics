@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1nbcA_1g43A.msf MSF:  161 Type: P 11/12/19 CompCheck: 2496 ..
+
+  Name: 1nbcA      Len: 161  Check: 2658 Weight: 1.00
+  Name: 1g43A      Len: 161  Check: 9838 Weight: 1.00
+
+//
+
+           1                                               50
+1nbcA      ~~~~NLKVEFYNSNPSDTTNSINPQFKVTNTGSSAIDLSKLTLRYYYTVD
+1g43A      agtgVVSVQFNNGSSPASSNSIYARFKVTNTSGSPINLADLKLRYYYTQD
+
+           51                                             100
+1nbcA      GQKDQTFWCDHAAIIGsNGSYNGITSNVKGTFVKMSSSTNNADTYLEISF
+1g43A      ADKPLTFWCDHAGYMS.GSNYIDATSKVTGSFKAVSPAVTNADHYLEVAL
+
+           101                                            150
+1nbcA      T..GGTLEPGAHVQIQGRFAKNDWSNYTQSNDYSFKSASQFVEWDQVTAY
+1g43A      NsdAGSLPAGGSIEIQTRFARNDWSNFDQSNDWSYTAAGSYMDWQKISAF
+
+           151     161
+1nbcA      LNGVLVWGKEP
+1g43A      VGGTLAYGSTP
+

@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1shkA_1ng1.msf MSF:  343 Type: P 11/12/19 CompCheck: 2706 ..
+
+  Name: 1shkA      Len: 343  Check: 6141 Weight: 1.00
+  Name: 1ng1       Len: 343  Check: 6565 Weight: 1.00
+
+//
+
+           1                                               50
+1shkA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1ng1       mfqqlsarlqeaigrlrgrgriteedlkatlreirralmdadvnlevard
+
+           51                                             100
+1shkA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~MTEP
+1ng1       fvervreealgkqvlesltpaevilatvyealkealggearlpvlkDRNL
+
+           101                                            150
+1shkA      IFMVGARGCGKTTVGRELARALG.....YEFVDTD...............
+1ng1       WFLVGLQGSGKTTTAAKLALYYKgkgrrPLLVAADtqrpaareqlrllge
+
+           151                                            200
+1shkA      .......ifmqhtsgmtvadvvaaegwpgfrrres.EALQAVat......
+1ng1       kvgvpvlevmd....................gespeSIRRRV..eekarl
+
+           201                                            250
+1shkA      ...PNRVVATGGgm.......vlle..qnrqfmrahGTVVYLFAPAEEla
+1ng1       earDLILVDTAG..rlqideplmgelarlkevl.gpDEVLLVLDAMTG..
+
+           251                                            300
+1shkA      lrlqiaeeme.avlrerealyq..dvahYVVDAT................
+1ng1       ..........qeals.varafdekvgvtGLVLTKldgdarggaalsarhv
+
+           301                                     343
+1shkA      .........qppaa..IVCElmqtmrlpaa~~~~~~~~~~~~~
+1ng1       tgkpiyfagvsek.peGLEP..........fyperlagrilgm
+

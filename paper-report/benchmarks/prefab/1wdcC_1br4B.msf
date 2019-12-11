@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1wdcC_1br4B.msf MSF:  159 Type: P 11/12/19 CompCheck: 5898 ..
+
+  Name: 1wdcC      Len: 159  Check: 7969 Weight: 1.00
+  Name: 1br4B      Len: 159  Check: 7929 Weight: 1.00
+
+//
+
+           1                                               50
+1wdcC      LSQDEIDDLKDVFELFdfwDGRDGAVDAFKLGDVCRCLGINPRNEDVFAV
+1br4B      FSEEQTAEFKEAFQLFd..RTGDGKILYSQCGDVMRALGQNPTNAEVMKV
+
+           51                                             100
+1wdcC      Ggth......kmgeKSLPFEEFLPAYEGLMDC.EQGTFADYMEAFKTFDR
+1br4B      L...gnpksdemnlKTLKFEQFLPMMQTIAKNkDQGCFEDYVEGLRVFDK
+
+           101                                            150
+1wdcC      EGQGFISGAELRHVLTALGERLSDEDVDEIIKltdlqedleGNVKYEDFV
+1br4B      EGNGTVMGAEIRHVLVTLGEKMTEEEVEQLVA...ghedsnGCINYEELV
+
+           151   159
+1wdcC      KKVMAGpyp
+1br4B      RMVLSG~~~
+

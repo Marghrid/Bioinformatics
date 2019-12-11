@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1e2xA_1qbjA.msf MSF:  224 Type: P 11/12/19 CompCheck: 4666 ..
+
+  Name: 1e2xA      Len: 224  Check: 8209 Weight: 1.00
+  Name: 1qbjA      Len: 224  Check: 6457 Weight: 1.00
+
+//
+
+           1                                               50
+1e2xA      qSPAGFAEEYIIESIWnnRFPPGTIlpAERELSELIGVTRTTLREVLQRL
+1qbjA      ~SIYQDQEQRILKFLE..ELGEGKA.tTAHDLSGKLGTPKKEINRVLYSL
+
+           51                                             100
+1e2xA      ARDGWLTIqhgk..ptkvnnfwetsglniletlarldhesvpqlidnlls
+1qbjA      AKKGKLQKeagtpplwkia~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1e2xA      vrtnistifirtafrqhpdkaqevlatanevadhadafaeldynifrgla
+1qbjA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1e2xA      fasgnpiyglilngmkglytrigrhyfanpearslalgfyhklsalcseg
+1qbjA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                  224
+1e2xA      ahdqvyetvrryghesgeiwhrmq
+1qbjA      ~~~~~~~~~~~~~~~~~~~~~~~~
+

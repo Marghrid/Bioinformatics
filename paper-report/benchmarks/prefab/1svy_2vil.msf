@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1svy_2vil.msf MSF:  132 Type: P 11/12/19 CompCheck: 4292 ..
+
+  Name: 1svy       Len: 132  Check: 2575 Weight: 1.00
+  Name: 2vil       Len: 132  Check: 1717 Weight: 1.00
+
+//
+
+           1                                               50
+1svy       ~~~~~~~~~~~~~~eyKPRLLHISGdknaKVAEVP..lATSsLNSGDCFL
+2vil       velskkvtgkldkttpGIQIWRIEN...mEMVPVPtksYGN.FYEGDCYV
+
+           51                                             100
+1svy       LDAG........LTIYQFNGSKSSPQEKNKAAEVARAIDAERKGLPKVEV
+2vil       LLSTrktgsgfsYNIHYWLGKNSSQDEQGAAAIYTTQMDEYLGSVAVQHR
+
+           101                          132
+1svy       FXETDsdIPAEFWKLLGGKGAIAAKH~~~~~~
+2vil       EVQGH..ESETFRAYFKQGLIYKQGGvasgmk
+

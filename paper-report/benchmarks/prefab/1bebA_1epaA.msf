@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bebA_1epaA.msf MSF:  156 Type: P 11/12/19 CompCheck:  539 ..
+
+  Name: 1bebA      Len: 156  Check: 8910 Weight: 1.00
+  Name: 1epaA      Len: 156  Check: 1629 Weight: 1.00
+
+//
+
+           1                                               50
+1bebA      QTMKGLDIQKVAGTWYSLAMAASDISLLDAQSAPLRVYVEELKPTPEGDL
+1epaA      ~~VKDFDISKFLGFWYEIAFASK..............GAMVVELKEN.LL
+
+           51                                             100
+1bebA      EILLQKWENGEaAQKKIIAEKTKIPAVFKIDALNENKVLVLDTDYKKYLL
+1epaA      ALTTTYYSEDHaVLEKVTATEGDGPAKFQVTR.GKKEVVVEATDYLTYAI
+
+           101                                            150
+1bebA      FbMENSAEPEQSLVbQCLVRTPEVDDEALEKFDKALKALPMHIRLSFNPT
+1epaA      IdITSLV...VHRTmKLYSRSLDDNGEALYNFRKITSDHGFSDLYILKHD
+
+           151
+1bebA      QLEEqa
+1epaA      ..LTav
+

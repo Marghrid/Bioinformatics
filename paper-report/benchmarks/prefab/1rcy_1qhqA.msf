@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1rcy_1qhqA.msf MSF:  187 Type: P 11/12/19 CompCheck: 5126 ..
+
+  Name: 1rcy       Len: 187  Check:  104 Weight: 1.00
+  Name: 1qhqA      Len: 187  Check: 5022 Weight: 1.00
+
+//
+
+           1                                               50
+1rcy       ttwkeatlpqvkamlekddgkvsgdtvtysgk..............TVHV
+1qhqA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~anapggsnvvnetpAQTV
+
+           51                                             100
+1rcy       VAAAVLPgfpFPSFEVhdkknPTLEIPAGATVDVTFINTN.KGFGHSFDI
+1qhqA      EVRAAPD...ALAFAQ.....TSLSLPANTVVRLDFVNQNnLGVQHNWVL
+
+           101                                            150
+1rcy       TKKGPPyav.....mpvi..............DPIVAGTGFSPVpkdgkF
+1qhqA      VNGGDD...vaaavntaaqnnadalfvpppdtPNALAWTAMLNA.....G
+
+           151                               187
+1rcy       GYTDFTWHP.taGTYYYVCQIPGHAATGMFGKIVVK~
+1qhqA      ESGSVTFRTpapGTYLYICTFPGHYLAGMKGTLTVTp
+

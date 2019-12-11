@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/4mbp_1gggB.msf MSF:  409 Type: P 11/12/19 CompCheck: 3581 ..
+
+  Name: 4mbp       Len: 409  Check: 2605 Weight: 1.00
+  Name: 1gggB      Len: 409  Check:  976 Weight: 1.00
+
+//
+
+           1                                               50
+4mbp       kieegklviwi...ngdk..........gynglaevgkkfekdtgikvtv
+1gggB      ~~~~~~lvvatdtafvpfefkqgdlyvgfdvdlwaaiakelk...ldyel
+
+           51                                             100
+4mbp       ehpdkleeKFPQVAAtgdgpdiif..WAHDrfGGYAqsgllaeitpdkaf
+1gggB      k.pmdf.sGIIPALQ.tknvdlalagITIT..DERK..kaid........
+
+           101                                            150
+4mbp       qdklypftwdavryngkli.AYPIAVEALSLIYNKDllPNPP..KTWEEI
+1gggB      ...................fSDGYYKSGLLVMVKAN..NNDVksVKDLDG
+
+           151                                            200
+4mbp       paldkelkakgks.ALMFNLqepyftwpliaadggyafkyengkydikdv
+1gggB      .............kVVAVKS.gtgsvdyakan..................
+
+           201                                            250
+4mbp       gvdnagakagltflvdliknkhmna........DTDYSIAEAAFnkg...
+1gggB      .........................iktkdlrqFPNIDNAYMEL...gtn
+
+           251                                            300
+4mbp       eTAMTINGPWa.WSNIDTs.kvnygvtvlptfkgqpsk..PFVGVLSAGI
+1gggB      rADAVLHDTPniLYFIKTagngqfkavg..........dsLEAQQYGIAF
+
+           301                                            350
+4mbp       NAaspnKELAKEFLenylltde...gleavnkdkplgavalksyeeelak
+1gggB      PK..gsDELRDKVN.galktlrengtyneiykkwf...............
+
+           351                                            400
+4mbp       dpriaatmenaqkgeimpnipqmsafwyavrtavinaasgrqtvdealkd
+1gggB      ..................................................
+
+           401   409
+4mbp       aqtrit~~~
+1gggB      ......gte
+

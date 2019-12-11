@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d5rA_1fpzA.msf MSF:  307 Type: P 11/12/19 CompCheck: 5134 ..
+
+  Name: 1d5rA      Len: 307  Check: 2591 Weight: 1.00
+  Name: 1fpzA      Len: 307  Check: 2543 Weight: 1.00
+
+//
+
+           1                                               50
+1d5rA      RRYQEDGFDLDLTYIYPNIIAMGFPAERLEGVYRNNIDDVVRFLDSKHKN
+1fpzA      ~~~~~~~TPIHISWLSQFLGLCALPGC.KFKDVRRNVQKDTEELKSCG..
+
+           51                                             100
+1d5rA      HYKIYNLCAERHYDTAKFNCRVAQYPFEDHNPPQLELIKPFCEDLDQWLS
+1fpzA      .QDIFVFCTGELSLLDLYGIITHHHPIADGGTPDIASCCEIMEELTTCLK
+
+           101                                            150
+1d5rA      EDDNHVAAIHCKAGKGRTGVMICAYLLHRGKFLKAQEALDFYGEVRTRDK
+1fpzA      N..YRKTLIHSYGGLGRSCLVAACLLLYLSDTISPEQAIDSLRDLRG..S
+
+           151                                            200
+1d5rA      KGVTIPSQRRYVYYYSYLLKNHLDYRPVALLFHKMMFETIPMFSGGTCNP
+1fpzA      GAIQTIKQYNYLHEFRDKL.AAHL~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1d5rA      QFVVCQLKVKIYSSNSGPTRREDKFMYFEFPQPLPVCGDIKVEFFHKQNK
+1fpzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1d5rA      MLKKDKMFHFWVNTFFIPKEYLVLTLTKNDLDKANKDKANRYFSPNFKVK
+1fpzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301 307
+1d5rA      LYFTKTV
+1fpzA      ~~~~~~~
+

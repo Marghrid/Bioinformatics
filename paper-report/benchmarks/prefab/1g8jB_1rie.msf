@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1g8jB_1rie.msf MSF:  151 Type: P 11/12/19 CompCheck: 7460 ..
+
+  Name: 1rie       Len: 151  Check: 5341 Weight: 1.00
+  Name: 1g8jB      Len: 151  Check: 2119 Weight: 1.00
+
+//
+
+           1                                               50
+1rie       mSKIE.IKLSDIPEGKNMAFKWR..GKPLFVRHRTKkeidqeaavevsql
+1g8jB      yPATAvSVAKNLAANEPSSFTYPdtSSPCVAVKLGA..............
+
+           51                                             100
+1rie       rdpqhd.LERVKK..PEWVILIGVCTHLGCVPIANagd..FGGYYCPCHG
+1g8jB      ......pVPGGVGpdDDIVAYSVLCTHMGCPTSYD...ssSKTFSCPCHF
+
+           101                                            150
+1rie       SHYDA..sGRIRKGPAPLNLEVPSYEFTS.DDMVIVG~~~~~~~~~~~~~
+1g8jB      TEFDAekaGQMICGEATADLPRVLLRYDAaSDALTAVgvdgliygrqanv
+
+           151 151
+1rie       ~
+1g8jB      i
+

@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1vpsA_1dzlA.msf MSF:  558 Type: P 11/12/19 CompCheck: 8124 ..
+
+  Name: 1vpsA      Len: 558  Check: 4115 Weight: 1.00
+  Name: 1dzlA      Len: 558  Check: 4009 Weight: 1.00
+
+//
+
+           1                                               50
+1vpsA      ggm......evldlvtgpdSVTEIEAflnprm........gqpptpesl.
+1dzlA      ~~~kvvstdeyvartn...IYYHAGT......srllavghpyfpik...k
+
+           51                                             100
+1vpsA      ...teggqyygwsrginlatsdtedspgnntl.ptwsmaklqlpmlnedl
+1dzlA      pnnnkilvpkvs....................glqyrvfrihlpdpnk..
+
+           101                                            150
+1vpsA      ..........TCDTLQMWEAVSVKTEVVGSGSlldvhgfnkptdt.....
+1dzlA      fgfpdtsfynPDTQRLVWACVGVEVGRGQPLG.............vgisg
+
+           151                                            200
+1vpsA      ......................vntkgistpveg.....sqyhvfavgge
+1dzlA      hpllnklddtenasayaanagvdnrec.......ismdykqtqlcligck
+
+           201                                            250
+1vpsA      pldlqglvtdartkykeegvvtiktitkkdmvnkdqvlnp..........
+1dzlA      ppigehw...................gkgs..........pctqvavqpg
+
+           251                                            300
+1vpsA      ......iskakldkdgmypve.........................iwhp
+1dzlA      dcpplelintvi.qdgdmvdtgfgamdfttlqanksevpldictsickyp
+
+           301                                            350
+1vpsA      dpak......NENT.ryfgnytggtt........................
+1dzlA      dyikmvsepyGDSLffylrreqmfv.rhlfnragtvgenvpddlyikgsg
+
+           351                                            400
+1vpsA      ................tppvlqftnt.....lttvlldengv...GPLCK
+1dzlA      stanlassnyfptpsgsmvtsd....aqifnkpywlqraq..ghnNGICW
+
+           401                                            450
+1vpsA      Geglylscvdimgwrv......trnydvhhw..................r
+1dzlA      Gnqlfvtvvdtt....rstnmslcaa.....istsettykntnfkeylrh
+
+           451                                            500
+1vpsA      glPRYFKITLRKRWVK~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1dzlA      geEYDLQFIFQLCKITltadvmtyihsmnstiledwnfglqpppggtled
+
+           501                                            550
+1vpsA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1dzlA      tyrfvtsqaiacqkhtppapkedplkkytfwevnlkekfsadldqfplgr
+
+           551  558
+1vpsA      ~~~~~~~~
+1dzlA      kfllqlgl
+

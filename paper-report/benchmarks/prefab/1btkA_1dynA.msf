@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1btkA_1dynA.msf MSF:  175 Type: P 11/12/19 CompCheck: 5315 ..
+
+  Name: 1dynA      Len: 175  Check: 9019 Weight: 1.00
+  Name: 1btkA      Len: 175  Check: 6296 Weight: 1.00
+
+//
+
+           1                                               50
+1dynA      LVIRKGWLTInnigimk.....GGSKEYWFVLTAENLSWYKDD....EEK
+1btkA      AVILESIFLK.rsqqk.kktspLNFKKCLFLLTVHKLSYYEYDfergRRG
+
+           51                                             100
+1dynA      EKKYMLSVDNL.klrdvekg.....fmss..........KHIFALFNteq
+1btkA      SKKGSIDVEKItcvetvvpeknppperqimeqisiierfPYPFQVVYd..
+
+           101                                            150
+1dynA      rnvykdyRQLELACETQEEVDSWKASFLRAGvyperv~~~~~~~~~~~~~
+1btkA      ......eGPLYVFSPTEELRKRWIHQLKNVI......rynsdlvqkyhpc
+
+           151                   175
+1dynA      ~~~~~~~~~~~~~~~~~~~~~~~~~
+1btkA      fwidgqylccsqtaknamgcqilen
+

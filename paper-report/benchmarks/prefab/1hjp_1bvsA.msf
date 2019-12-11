@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hjp_1bvsA.msf MSF:  190 Type: P 11/12/19 CompCheck: 3322 ..
+
+  Name: 1hjp       Len: 190  Check: 9137 Weight: 1.00
+  Name: 1bvsA      Len: 190  Check: 4185 Weight: 1.00
+
+//
+
+           1                                               50
+1hjp       MIGRLRGIIIEKQPPLVLIEVGGVGYEVHMPMTCFYelpEAGQEAIVFTH
+1bvsA      MIFSVRGEVLEVALDHAVIEAAGIGYRVNATPSALAtl.NQGSQARLVTA
+
+           51                                             100
+1hjp       FVVREDAQLLYGFNNKQERTLFKELIKTNGVGPKLALAILSGMSAQQFVN
+1bvsA      MVVREDSMTLYGFSDAENRDLFLALLSVSGVGPRLAMATLAVHDAAALRQ
+
+           101                                            150
+1hjp       AVEREEVGALVKLPGIGKKTAERLIVEMKDRFKGLhgdlf.DAEQEAVAA
+1bvsA      ALADSDVASLTRVPGIGRRGAERIVLELADKVGPV.....nAVRGSVVEA
+
+           151                                  190
+1hjp       LVALGYkpqeasrmvskiarpda.SSETLIREALRAAL~~
+1bvsA      LVGLGFaakqaeeatdqvldg..eATSSALRAALSLLGkt
+

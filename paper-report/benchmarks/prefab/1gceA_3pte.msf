@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1gceA_3pte.msf MSF:  402 Type: P 11/12/19 CompCheck: 8433 ..
+
+  Name: 1gceA      Len: 402  Check: 8098 Weight: 1.00
+  Name: 3pte       Len: 402  Check:  335 Weight: 1.00
+
+//
+
+           1                                               50
+1gceA      pvsekq......laevvantvtplmkaQSVPGMAVAVIYQGKPHYYTFGK
+3pte       ~~~~~~adlpapddtglqavlhtals.QGAPGAMVRVDDNGTIHQLSEGV
+
+           51                                             100
+1gceA      ADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQ
+3pte       ADRATGRAITTTDRFRVGSVTKSFSAVVLLQLVDEGKLDLDASVNTYLPG
+
+           101                                            150
+1gceA      Ltgk.qWQGIRMLDLATYTAGglplqvpde.............vtdna..
+3pte       L...lpDDRITVRQVMSHRSGlydytndm.faqtvpgfesvrnkvfs.yq
+
+           151                                            200
+1gceA      SLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVL
+3pte       DLITLSLKHGVTNAPGAAYSYSNTNFVVAGMLIEKLTGHSVATEYQNRIF
+
+           201                                            250
+1gceA      KPLKLDHTWINvpka.....eEAHYAWGYRD.......gkavravp.gml
+3pte       TPLNLTDTFYV....hpdtviPGTHANGYLTpdeaggalvdsteqtvswa
+
+           251                                            300
+1gceA      daQAYGVKTNVQDMANWVMANMAPEnvada.slkqgialaqsryWRIGS.
+3pte       q.SAGAVISSTQDLDTFFSALMSGQ.....lmsaaqlaqmqqw.TTVNSt
+
+           301                                            350
+1gceA      MYQGLGWEMLNwpveantvvegsdskvalaplpvaevnppappvkASWVH
+3pte       QGYGLGLRRRD..lscg............................ISVYG
+
+           351                                            400
+1gceA      KTGSTGGFGSYVAFIPEKQIGIVMLANTSyp...NPARVEAAYHILEAlq
+3pte       HTGTVQGYYTYAFASKDGKRSVTALANTSnnvnvLNTMARTLESAFCG..
+
+           401 402
+1gceA      ~~
+3pte       kp
+

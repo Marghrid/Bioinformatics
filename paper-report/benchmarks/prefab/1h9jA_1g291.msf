@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1h9jA_1g291.msf MSF:  395 Type: P 11/12/19 CompCheck: 6203 ..
+
+  Name: 1h9jA      Len: 395  Check: 8175 Weight: 1.00
+  Name: 1g291      Len: 395  Check: 8028 Weight: 1.00
+
+//
+
+           1                                               50
+1h9jA      gs................................................
+1g291      ~~magvrlvdvwkvfgevtavremslevkdgefmillgpsgcgktttlrm
+
+           51                                             100
+1h9jA      ..................................................
+1g291      iagleepsrgqiyigdklvadpekgifvppkdrdiamvfqsyalyphmtv
+
+           101                                            150
+1h9jA      ..................................................
+1g291      ydniafplklrkvprqeidqrvrevaellgltellnrkprelsggqrqrv
+
+           151                                            200
+1h9jA      ..................................................
+1g291      algraivrkpqvflmdeplsnldaklrvrmraelkklqrqlgvttiyvth
+
+           201                                            250
+1h9jA      ...................................hmkis.....ARNVF
+1g291      dqveamtmgdriavmnrgvlqqvgspdevydkpantfvagfigspPMNFL
+
+           251                                            300
+1h9jA      KGTVSALkegavnaeVDILLGggDKLAAV..vtlesarslQLAAgKEVVA
+1g291      DAIVTED........GFVDFGe.FRLKLLpdqfevlgel.GYVG.REVIF
+
+           301                                            350
+1h9jA      VVKAPWVLLMTdssgy..rlsa..RNILTGTVKTIETGAVNAEVTLALqg
+1g291      GIRPEDLYDAM.....faqvrvpgENLVRAVVEIVENLGSERIVRLRVg.
+
+           351                                       395
+1h9jA      GTEITSMVTKEAvaelgLKPGASASAVIKASNVILGVPA~~~~~~
+1g291      GVTFVGSFRSESr....VREGVEVDVVFDMKKIHIFDKTtgkaif
+

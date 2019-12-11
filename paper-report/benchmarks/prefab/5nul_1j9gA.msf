@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/5nul_1j9gA.msf MSF:  138 Type: P 11/12/19 CompCheck: 8441 ..
+
+  Name: 5nul       Len: 138  Check: 2079 Weight: 1.00
+  Name: 1j9gA      Len: 138  Check: 6362 Weight: 1.00
+
+//
+
+           1                                               50
+5nul       MKIVYWSGTGNTEKMAELIAKGIIESGKDVNTINVSDVNIDELLNEDILI
+1j9gA      ALIVYGSTTGNTEYTAETIARELADAGYEVDSRDAASVEAGLFEGFDLVL
+
+           51                                             100
+5nul       LGCSAMTDEVLEESEFEPFIEEISTKISGKKVALFGSYGWGDGKWMRDFE
+1j9gA      LGCSTWGDIELQD.DFIPLFDSLEEGAQGRKVACFGCGDSYFCGAVDAIE
+
+           101                                138
+5nul       ERMNGYGCVVVETPLIVQNEPDEAEQDCIEFGKKIANI
+1j9gA      EKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGA
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a75A_1b8cB.msf MSF:  110 Type: P 11/12/19 CompCheck:  720 ..
+
+  Name: 1a75A      Len: 110  Check: 4389 Weight: 1.00
+  Name: 1b8cB      Len: 110  Check: 6331 Weight: 1.00
+
+//
+
+           1                                               50
+1a75A      agilad....ADCAAAVKACEAADSFSYKAFFAKCGLSGKSADDIKKAFV
+1b8cB      ~~afagvlndADIAAALEACKAADSFNHKAFFAKVGLTSKSADDVKKAFA
+
+           51                                             100
+1a75A      FIDQDKSGFIEEDELKLFLQVFKAGARALTDAETKAFLKAGDSDGDGAIG
+1b8cB      IIAQDKSGFIEEDELKLFLQNFKADARALTDGETKTFLKAGDSDGDGKIG
+
+           101    110
+1a75A      VEEWVALVKA
+1b8cB      VDDWTALVKA
+

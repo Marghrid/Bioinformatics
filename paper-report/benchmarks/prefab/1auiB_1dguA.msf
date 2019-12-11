@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1auiB_1dguA.msf MSF:  165 Type: P 11/12/19 CompCheck: 8710 ..
+
+  Name: 1auiB      Len: 165  Check:  442 Weight: 1.00
+  Name: 1dguA      Len: 165  Check: 8268 Weight: 1.00
+
+//
+
+           1                                               50
+1auiB      SYPLEMCSHFDADEIKRLGKRFKKLDLDNSGSLSVEEFMSLPELQQNPLV
+1dguA      LAEYQDLTFLTKQEILLAHRRFCELLPQEQ.QVPFEQILSLPELKANPFK
+
+           51                                             100
+1auiB      QRVIDIFDTDGNGEVDFKEFIEGVSQFSVKGDKEQKLRFAFRIYDMDKDG
+1dguA      ERICRVFSTSPADSLSFEDFLDLLSVFSDTATPDIKSHYAFRIFDFDDDG
+
+           101                                            150
+1auiB      YISNGELFQVLKMMVGNNLKDTQLQQIVDKTIINADKDGDGRISFEEFCA
+1dguA      TLNREDLSRLVNCLTG...SASEMKQLIDNILEESDIDRDGTINLSEFQH
+
+           151         165
+1auiB      VVGGLDIHKKMVVDV
+1dguA      VISSPDFASSFKIVL
+

@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2cmd_3ldh.msf MSF:  312 Type: P 11/12/19 CompCheck: 2140 ..
+
+  Name: 2cmd       Len: 312  Check: 6673 Weight: 1.00
+  Name: 3ldh       Len: 312  Check: 5467 Weight: 1.00
+
+//
+
+           1                                               50
+2cmd       MKVAVLGAAGGIGQALALLLKTQLPSGSELSLYDIAPVTPGVAVDLSHIP
+3ldh       NKITVVGC.DAVGMADAISVLMKDL...EVALVDVMEKLKGEMMDLEHGF
+
+           51                                             100
+2cmd       TAVKIKGFSGEDATPALEGADVVLISAGVRRKPGMDRSDLFNVNAGIVKN
+3ldh       LHTKIVSGK..DYSV.SAGSKLVVITAGARQQEGESRLNLVQRNVNIFKF
+
+           101                                            150
+2cmd       LVQQVAKTCPKACIGIITNPVNTTVAIAAEVLKKAGVYDKNKLFGVTTLD
+3ldh       IIPNIVKHSPDCLKELHPELGTDKNKQDWKLSG....LPMHRIIGSGNLD
+
+           151                                            200
+2cmd       IIRSNTFVAELKGKQPGEVEVPVIGGHSGVTILPLLSQVPGVSFTEQEVA
+3ldh       SARFRYLMGERLGVHSCLVIGWVIGQHGD.SVPSVWSGMWLHKDVKLKGY
+
+           201                                            250
+2cmd       DLTKRIQNAGTEVVEAKAGGGSATLSMGQAAARFGLSLVRALQGEQGVVE
+3ldh       TSWAIGLVVSNPVD.VL...TYVAWK.GCSVADLAQTIMKD....LCRVH
+
+           251                                            300
+2cmd       CAYVEGDGQYARFFSQPLLLGKNGVEERKSIGTLSAFEQNALEGMLDTLK
+3ldh       PVSTMVKDI.DNFLSLPCVLNNGISHNIVKM.KLKPDEEQQLQKSATTLW
+
+           301      312
+2cmd       KDIALGQEFVNK
+3ldh       DIQK...DL~~~
+

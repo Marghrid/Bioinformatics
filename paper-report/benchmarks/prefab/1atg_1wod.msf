@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1atg_1wod.msf MSF:  231 Type: P 11/12/19 CompCheck: 3507 ..
+
+  Name: 1atg       Len: 231  Check:  454 Weight: 1.00
+  Name: 1wod       Len: 231  Check: 3053 Weight: 1.00
+
+//
+
+           1                                               50
+1atg       ELKVVTATNFLGTLEQLAGQFAKQTGHAVVISSGSSGPVYAQIVNGAPYN
+1wod       KITVFAAASLTNAMQDIATQFKKEKGVDVVSSFASSSTLARQIEAGAPAD
+
+           51                                             100
+1atg       VFFSADEKSPEKLDNQGFALPGSRFTYAIGKLVLWSAKPGLVDNQGKVLA
+1wod       LFISADQKWMDYAVDKKAIDTATRQTLLGNSLVVVAPKSVQKDFTID..W
+
+           101                                            150
+1atg       GNGWRHIAISNPQIAPYGLAGTQVLTHLGLLDKLTAQERIVEANSVGQAH
+1wod       TSLLGRLAVGDPEHVPAGIYAKEALQKLGAWDTLS..PKLAPAEDVRGAL
+
+           151                                            200
+1atg       SQTASGAADLGFVALAQIIQAAAKIPGSHWFPPANYYEPIVQQAVITKST
+1wod       ALVERNEAPLGIVYGSDAVA....KGVKVATFPEDSHKKVEYPVAVVEGH
+
+           201                         231
+1atg       AEKANAEQFMSWMKGPKAVAIIKAAGYVLPQ
+1wod       .NNATVKAFYDYLKGPQAAEIFKRYGFTIK~
+

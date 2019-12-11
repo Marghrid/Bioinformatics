@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1c8pA_1cto.msf MSF:  123 Type: P 11/12/19 CompCheck: 3528 ..
+
+  Name: 1c8pA      Len: 123  Check: 9371 Weight: 1.00
+  Name: 1cto       Len: 123  Check: 4157 Weight: 1.00
+
+//
+
+           1                                               50
+1c8pA      miqmap......PSLNVTKDG........DSYSLRWETMkm.ryehIDHT
+1cto       ~~~~~~gsslepPMLQALDIGpdvvshqpGCLWLSWKPW..kpseyMEQE
+
+           51                                             100
+1c8pA      FEIQYRKDTATwkDSKTET.lqnahs..MALPALEps..TRYWARVRVRT
+1cto       CELRYQPQLKG.aNWTLVFhlpssk.dqFELCGLH..qaPVYTLQMRCIR
+
+           101                 123
+1c8pA      SrtgYNGIWSEWSEARSWDTEs~
+1cto       Ss..LPGFWSPWSPGLQLRPTmk
+

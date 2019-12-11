@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eokA_1d2kA.msf MSF:  444 Type: P 11/12/19 CompCheck: 7588 ..
+
+  Name: 1eokA      Len: 444  Check:  919 Weight: 1.00
+  Name: 1d2kA      Len: 444  Check: 6669 Weight: 1.00
+
+//
+
+           1                                               50
+1eokA      ~nGVCIAYYITD..grnptFKLKDIP.DKVDMVILFGLK......YWSlq
+1d2kA      ggFRSVVYFVNWaiygrg.HNPQDLKaDQFTHILYAFANirpsgeVYLs.
+
+           51                                             100
+1eokA      dttklpggtgmmgsFKSy..............KDLDTQIRSLQS..rgIK
+1d2kA      ....dtwa......DTDkhypgdkwdepgnnvYGCIKQMYLLKKnnrnLK
+
+           101                                            150
+1eokA      VLQNIDd.......dvs.WQSSKpggfasAAAYGDAIKSIvidKWk.LDG
+1d2kA      TLLSIG.gwtyspnfktpASTEE.....gRKKFADTSLKL.mkDL.gFDG
+
+           151                                            200
+1eokA      ISLDIEHsg..akpnpiptfpgyaatgyngwysgsmaatpAFLNVISELT
+1d2kA      IDIDWEY..pede......................kqan.DFVLLLKACR
+
+           201                                            250
+1eokA      KYFgttapn.......NKQLQIASGI...DVYAWNkiMENFRNNFNYIQL
+1d2kA      EAL..daysakhpngkKFLLTIASPAgpqNYNKLK..LAEMDKYLDFWNL
+
+           251                                            300
+1eokA      QSY............GANVS...........RTQLMMNYATGtNKIPASK
+1d2kA      MAYdfsgswdkvsghMSNVFpsttkpestpfSSDKAVKDYIK.AGVPANK
+
+           301                                            350
+1eokA      MVFGAYAEGg........................................
+1d2kA      IVLGMPLYG.rafastdgigtsfngvgggswengvwdykdmpqqgaqvte
+
+           351                                            400
+1eokA      ...................tnqa.NDVEVAKWTPTqGAKGGMMIYTYNsn
+1d2kA      lediaasysydknkrylisydtvkIAGKKAEYITK.NGMGGGMWWESSsd
+
+           401                                      444
+1eokA      .v...syanavrdavk~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1d2kA      ktgneslvgtvvnglggtgkleqrenelsypesvydnlkngmps
+

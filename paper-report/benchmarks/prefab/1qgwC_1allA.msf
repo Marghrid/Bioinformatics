@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qgwC_1allA.msf MSF:  186 Type: P 11/12/19 CompCheck: 6625 ..
+
+  Name: 1qgwC      Len: 186  Check: 7735 Weight: 1.00
+  Name: 1allA      Len: 186  Check: 8890 Weight: 1.00
+
+//
+
+           1                                               50
+1qgwC      ~~dafsrvvaayvg..............gadlqalkkfisEGNKRLDSVN
+1allA      sivtksi.......vnadaearylspgeldriksfvt...SGERRVRIAE
+
+           51                                             100
+1qgwC      SIVSNASCIVSDAVSGMICe.NPSLISPSGXCYTNRRMAACLRDGEIILR
+1allA      TMTGARERIIKQAGDQLFG.kRPDVVSPGGNAYGADMTATCLRDLDYYLR
+
+           101                                            150
+1qgwC      YVSYALLSGDASVLEDRCLNGLKETYSSLGVPANSNARAVSIMKACAVAF
+1allA      LITYGIVAGDVTPIEEIGVVGVREMYKSLGTPIEAIAEGVRAMKSVATSL
+
+           151                              186
+1qgwC      VNntasqkklstpqgdcSGLASEVGGYFDKVTAAIS
+1allA      LS...............GADAAEAGSYFDYLIGAMS
+

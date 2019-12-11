@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1jotA_1vmoA.msf MSF:  174 Type: P 11/12/19 CompCheck: 2574 ..
+
+  Name: 1jotA      Len: 174  Check: 2016 Weight: 1.00
+  Name: 1vmoA      Len: 174  Check:  558 Weight: 1.00
+
+//
+
+           1                                               50
+1jotA      ~~~~~~~~~~~~~~~~~gvtfddgay..TGIREINFEYNs.......ETA
+1vmoA      rtreytsvitvpngghwgkwgirqfchsGYANGFALKVE.psqfgrdDTA
+
+           51                                             100
+1jotA      IGGLRVTYDlngmPFVAEDHKSfitgfkpv.KISLEfpSEYIVEVSGYVG
+1vmoA      LNGIRLRCLd...GSVIESLVG..kwgtwtsFLVCP..TGYLVSFSLRSE
+
+           101                                            150
+1jotA      kv....egyTVIRSLTFKT.nkqtygpygvtngtpf.SLPIenGLIVGFK
+1vmoA      k.sqgggddTAANNIQFRCsdeavlvgdglswgrfgpWSKR..CKICGLQ
+
+           151                  174
+1jotA      GSIG........YWLDYFSIYLSL
+1vmoA      TKVEspqglrddTALNNVRFFCCK
+

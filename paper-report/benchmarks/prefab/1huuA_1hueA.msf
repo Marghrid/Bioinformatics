@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1huuA_1hueA.msf MSF:  93 Type: P 11/12/19 CompCheck: 7927 ..
+
+  Name: 1huuA      Len: 93  Check: 6430 Weight: 1.00
+  Name: 1hueA      Len: 93  Check: 1497 Weight: 1.00
+
+//
+
+           1                                               50
+1huuA      MNKTELINAVAETSGLskkdatkavdavfdsitealrkg...DKVQLIGF
+1hueA      MNKTELINAVAETSGL...skkdatkavdavfdsitealrkgDKVQLIGF
+
+           51                                       93
+1huuA      GNFEVRERAARM..........EIPASKVPAFKPGKALKDAVK
+1hueA      GNFEVRERAARKgrnpqtgeemEIPASKVPAFKPGKALKDAVK
+

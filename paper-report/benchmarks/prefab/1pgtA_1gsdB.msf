@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1pgtA_1gsdB.msf MSF:  218 Type: P 11/12/19 CompCheck: 6300 ..
+
+  Name: 1pgtA      Len: 218  Check:  494 Weight: 1.00
+  Name: 1gsdB      Len: 218  Check: 5806 Weight: 1.00
+
+//
+
+           1                                               50
+1pgtA      m.ppYTVVYFPVRGRCAALRMLLADQGQSWKEEVVTVetwqe.GSLKAs.
+1gsdB      ~aekPKLHYFNARGRMESTRWLLAAAGVEFEEKFIKSaed..lDKLRNdg
+
+           51                                             100
+1pgtA      .CLYGQLPKFQDGDLTLYQSNTILRHLGRTLGLYGKDQQEAALVDMVNDG
+1gsdB      yLMFQQVPMVEIDGMKLVQTRAILNYIASKYNLYGKDIKERALIDMYIEG
+
+           101                                            150
+1pgtA      VEDLRCKYVSLIYT...nyeagKDDYVKALPG.qlKPFETLLSQNQggKT
+1gsdB      IADLGEMILLLPVCppeekdakLALIKEKIKNryfPAFEKVLKSHG..QD
+
+           151                                            200
+1pgtA      FIVGDQISFADYNLLDLLLIHEVLAPGCLDAFPLLSAYVGRLSARPKLKA
+1gsdB      YLVGNKLSRADIHLVELLYYVEELDSSLISSFPLLKALKTRISNLPTVKK
+
+           201            218
+1pgtA      FLASPEyvnlpingngkq
+1gsdB      FLQPGSpr.kppmd~~~~
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cnt3_1lki.msf MSF:  146 Type: P 11/12/19 CompCheck: 6652 ..
+
+  Name: 1cnt3      Len: 146  Check: 1294 Weight: 1.00
+  Name: 1lki       Len: 146  Check: 5358 Weight: 1.00
+
+//
+
+           1                                               50
+1cnt3      PHRRDLCSRSIWLARKIRSDLTALTESYVKHQGLWSELTEAERLQENLQA
+1lki       ~~~GNLMNQIKNQLAQLNGSANALFISYYTAQGEHGNGTEKTKLVELYRM
+
+           51                                             100
+1cnt3      YRTFHVLLARLLEDQQVHFTPTEGDFHQAIHTLLLQVAAFAYQIEeLMiL
+1lki       VAYLSASLTNITRDQKV.LNPTAVSLQVKLNATIDVMRGLLSNVLbRLaN
+
+           101                                        146
+1cnt3      LEYKIPRNEADGGGLFEKKLWGlKVLQELSQWTVRSIHDLRFISSH
+1lki       KRVGHVDVPPVPKEAFQRKKLGcQLLGTYKQVISVVVQAF~~~~~~
+

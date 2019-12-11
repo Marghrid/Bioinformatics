@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ghqB_1e5gA.msf MSF:  177 Type: P 11/12/19 CompCheck: 9895 ..
+
+  Name: 1ghqB      Len: 177  Check: 7790 Weight: 1.00
+  Name: 1e5gA      Len: 177  Check: 2105 Weight: 1.00
+
+//
+
+           1                                               50
+1ghqB      isCGSPPPILNGRISYYstp.IAVGTVIRYSCSGTFRLIGEKSLLCITKD
+1e5gA      rrCPSPRDIDNGQLDIG...gVDFGSSITYSCNSGYHLIGESKSYCELGS
+
+           51                                             100
+1ghqB      KVDGTWDKPAPKCEYFNKY...............................
+1e5gA      TGSMVWNPEAPICESVKCQsppsisngrhngyedfytdgsvvtyscnsgy
+
+           101                                            150
+1ghqB      .............sscpepivpggykirgstpyrhgdsvtfacktnfsmn
+1e5gA      slignsgvlcsggewsdpp...............................
+
+           151                     177
+1ghqB      gnksvwcqannmwgptrlptcvs~~~~
+1e5gA      .......................tcqi
+

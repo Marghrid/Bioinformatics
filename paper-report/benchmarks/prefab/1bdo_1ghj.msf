@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bdo_1ghj.msf MSF:  89 Type: P 11/12/19 CompCheck: 6510 ..
+
+  Name: 1ghj       Len: 89  Check: 8552 Weight: 1.00
+  Name: 1bdo       Len: 89  Check: 7958 Weight: 1.00
+
+//
+
+           1                                               50
+1ghj       ~~aIDIKAPtfpesia.DGTVATw.......HKKPGEAVKRDELIVDIET
+1bdo       isgHIVRSP.......mVGTFYRtpspdakaFIEVGQKVNVGDTLCIVEA
+
+           51                                   89
+1ghj       DKVVMEVLAEADGVIAEIVKNEGDTVLSGELLGKLTegg
+1bdo       MKMMNQIEADKSGTVKAILVESGQPVEFDEPLVVIE~~~
+

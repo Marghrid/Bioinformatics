@@ -1,0 +1,69 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1mugA_1bjt.msf MSF:  730 Type: P 11/12/19 CompCheck: 4812 ..
+
+  Name: 1mugA      Len: 730  Check: 9693 Weight: 1.00
+  Name: 1bjt       Len: 730  Check: 5119 Weight: 1.00
+
+//
+
+           1                                               50
+1mugA      m........vEDILa........pgLRVVFCGINPglssagtgfpfahpa
+1bjt       ~rksritnypKLED.ankagtkegyKCTLVLTEGD...............
+
+           51                                             100
+1mugA      ...nrfwkviyqagftdrqlkpqeaqhlldYRCGVTKLVDrptvqanevs
+1bjt       salslavagla.vvgr..............DYYGCYPLRG.kmln.....
+
+           101                                            150
+1mugA      kq...ELHAGGRKLIEKIED...........YQPQALAILG.KQAYEQGF
+1bjt       ..vreLKNAEIQAIKKIMGLqhrkkyedtksLRYGHLMIMTdSHIKGLII
+
+           151                                            200
+1mugA      SQrgaqwgkq......TLTIGSTQIWVLPnpsg.................
+1bjt       NF........lessflGLLDIQGFLLEFI....tpiikvsitkptkntia
+
+           201                                            250
+1mugA      ...........................lsrvsleklveayreldqalvv~
+1bjt       fynmpdyekwreeeshkftwkqkyykglgtslaqevreyfsnldrhlkif
+
+           251                                            300
+1mugA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bjt       hslqwlrqyepfinkelilfsladnirsipnvldgfkpgqrkvlygcfkk
+
+           301                                            350
+1mugA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bjt       nlkselkvaqlapyvsectayhhgeqslaqtiiglaqnfvgsnniylllp
+
+           351                                            400
+1mugA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bjt       ngafgtratggkdaaaaryiytelnkltrkifhpaddplykyiqedektv
+
+           401                                            450
+1mugA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bjt       epewylpilpmilvngaegigtgwstyippfnpleiiknirhlmndeele
+
+           451                                            500
+1mugA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bjt       qmhpwfrgwtgtieeieplryrmygrieqigdnvleitelpartwtstik
+
+           501                                            550
+1mugA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bjt       eylllglsgndkikpwikdmeeqhddnikfiitlspeemaktrkigfyer
+
+           551                                            600
+1mugA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bjt       fklispislmnmvafdphgkikkynsvneilsefyyvrleyyqkrkdhms
+
+           601                                            650
+1mugA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bjt       erlqwevekysfqvkfikmiiekeltvtnkprnaiiqelenlgfprfnke
+
+           651                                            700
+1mugA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bjt       gkpyygspeelygtyeyllgmriwsltkeryqkllkqkqeketelenllk
+
+           701                        730
+1mugA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1bjt       lsakdiwntdlkafevgyqeflqrdaearg
+

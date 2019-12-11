@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eyrA_1fwyA.msf MSF:  225 Type: P 11/12/19 CompCheck: 1391 ..
+
+  Name: 1eyrA      Len: 225  Check:  797 Weight: 1.00
+  Name: 1fwyA      Len: 225  Check:  594 Weight: 1.00
+
+//
+
+           1                                               50
+1eyrA      XEKQNIAVILARQNSKGLPLKNLRKXNGISLLGHTINAAISSKCFDRIIV
+1fwyA      ~~NAMSVVILAAGKGTRMLPKVLHTLAGKAMVQHVIDAANELG.AAHVHL
+
+           51                                             100
+1eyrA      STDGGLIAEEAKNFGVEVVLRPAELASDTASSISGVIHALETIGSNSGTV
+1fwyA      VYGGDLLKQALKDDNLNWVLQAEQ.....LGTGHAMQQAAP.FFADDEDI
+
+           101                                            150
+1eyrA      TLLQPTSPLRTGAHIREAFSLFDEKIKGSVVSACPXEHHPLKTLLQINNG
+1fwyA      LMLYGDVPLISVETLQRLRDAKPQ..GGIGLLTVK...............
+
+           151                                            200
+1eyrA      EYAPXRHLSDLEQPRQQLPQAFRPNGAIYINDTASLIANNCFFIAPTKLY
+1fwyA      .....................EINTG.ILIANGADMKRWLDIIAREIVAV
+
+           201                   225
+1eyrA      IXSHQDSIDIDTELDLQQAENILNH
+1fwyA      HPRLSEVEGVNNRLQLSRLERVYQS
+

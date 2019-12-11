@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cs6A_1fltX.msf MSF:  392 Type: P 11/12/19 CompCheck: 1377 ..
+
+  Name: 1fltX      Len: 392  Check: 3245 Weight: 1.00
+  Name: 1cs6A      Len: 392  Check: 8132 Weight: 1.00
+
+//
+
+           1                                               50
+1fltX      ~~GRPFVEmyseip..EIIHMTe....gRELVIPCRVTsp...NITVTLK
+1cs6A      syGPVFEE......qpAHTLFP.egsaeEKVTLTCRAR..anpPATYRWK
+
+           51                                             100
+1fltX      KFpldtlipdg.KRIIWDSrKGFIISNATY.KEIGLLTCEATVNGHLYKT
+1cs6A      MN.gtelkmgpdSRYRLVA.GDLVISNPVKaKDAGSYQCVATNARGTVVS
+
+           101                                            150
+1fltX      .NYLTHRQT~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cs6A      rEASLRFGFlqefsaeerdpvkitegwgvmftcsppphypalsyrwllne
+
+           151                                            200
+1fltX      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cs6A      fpnfipadgrrfvsqttgnlyiakteasdlgnyscfatshidfitksvfs
+
+           201                                            250
+1fltX      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cs6A      kfsqlslaaedarqyapsikakfpadtyaltgqmvtlecfafgnpvpqik
+
+           251                                            300
+1fltX      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cs6A      wrkldgsqtskwlssepllhiqnvdfedegtyeceaenikgrdtyqgrii
+
+           301                                            350
+1fltX      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cs6A      ihaqpdwldvitdteadigsdlrwscvasgkprpavrwlrdgqplasqnr
+
+           351                                    392
+1fltX      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cs6A      ievsggelrfsklvledsgmyqcvaenkhgtvyasaeltvqa
+

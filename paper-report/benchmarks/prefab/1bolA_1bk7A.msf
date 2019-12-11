@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bolA_1bk7A.msf MSF:  243 Type: P 11/12/19 CompCheck: 5393 ..
+
+  Name: 1bolA      Len: 243  Check: 7010 Weight: 1.00
+  Name: 1bk7A      Len: 243  Check: 8383 Weight: 1.00
+
+//
+
+           1                                               50
+1bolA      sscsstalscsnsansdtccspeYGLVVLNMQWAP............gyg
+1bk7A      ~~~~~~~~~~~~~~~~~~~~~~~FDSFWFVQQWPPavcsfqksgscpgsg
+
+           51                                             100
+1bolA      pdnAFTLHGLWPDKcSGAYApsggcdsnRASSsiasvikskdssLYNSML
+1bk7A      lr.TFTIHGLWPQQ.SGTSLt..ncpg.SPFD..itkis....hLQSQLN
+
+           101                                            150
+1bolA      TYWPSN.qgNNNVFWSHEWSKHGTCVstydpdcydnyeege.DIVDYFQK
+1bk7A      TLWPNVlraNNQQFWSHEWTKHGTCSest............fNQAAYFKL
+
+           151                                            200
+1bolA      AMDLRSQYNVYKAFSSNGITPG.gtYTATEMQSAIESYFGAKAKIDCSS.
+1bk7A      AVDMRNNYDIIGALRPHAAGPNgrtKSRQAIKGFLKAKFGKFPGLRCRTd
+
+           201                                     243
+1bolA      .....GTLSDVALYFYVrgrdTYVITDALStgscsgdveyptk
+1bk7A      pqtkvSYLVQVVACFAQ...dGSTLIDCTR.dtcganfif~~~
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cd8_1wit.msf MSF:  122 Type: P 11/12/19 CompCheck: 5705 ..
+
+  Name: 1cd8       Len: 122  Check: 3395 Weight: 1.00
+  Name: 1wit       Len: 122  Check: 2310 Weight: 1.00
+
+//
+
+           1                                               50
+1cd8       s...QFRVSPLdr..TWNLGETVELKCQVLLsnptSGCSWLFQprgaaa.
+1wit       ~lkpKILTASR..kiKIKAGFTHNLEVDFIGapd.PTATWTVG......d
+
+           51                                             100
+1cd8       SPTFLlylsqnkpkaaegldtq..RFSGKRLGDTFVLTLSDFRRENEGYY
+1wit       SGAAL.................apELLVDAKSSTTSIFFPSAKRADSGNY
+
+           101                122
+1cd8       FCSALSNSImyfshFVPVFLPa
+1wit       KLKVKNELGedea.IFEVIVQ~
+

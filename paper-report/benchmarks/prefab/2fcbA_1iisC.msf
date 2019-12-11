@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2fcbA_1iisC.msf MSF:  177 Type: P 11/12/19 CompCheck: 6197 ..
+
+  Name: 2fcbA      Len: 177  Check: 4470 Weight: 1.00
+  Name: 1iisC      Len: 177  Check: 1727 Weight: 1.00
+
+//
+
+           1                                               50
+2fcbA      aPPKAVLKLEPQWINVLQEDSVTLTCRGTHspes...dSIQWFHNGNLIp
+1iisC      ~LPKAVVFLEPQWYSVLEKDSVTLKCQGAYs...pednSTQWFHNESLIs
+
+           51                                             100
+2fcbA      tHTQPSYRF.kANNNDSGEYTCQTGQTSLSDPVHLTVLSEWLVLQTPHLE
+1iisC      .SQASSYFIdaATVNDSGEYRCQTNLSTLSDPVQLEVHIGWLLLQAPRWV
+
+           101                                            150
+2fcbA      FQEGETIVLRCHSWKDKPLVKVTFFQNGKSKKFSRSDPNFSIPQANHSHS
+1iisC      FKEEDPIHLRCHSWKNTALHKVTYLQNGKDRKYFHHNSDFHIPKATLKDS
+
+           151                     177
+2fcbA      GDYHCTGNIGYTLYSSKPVTITvqapa
+1iisC      GSYFCRGLVGSKNVSSETVNIT~~~~~
+

@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a02N_1a3qA.msf MSF:  324 Type: P 11/12/19 CompCheck: 7751 ..
+
+  Name: 1a02N      Len: 324  Check: 7683 Weight: 1.00
+  Name: 1a3qA      Len: 324  Check:   68 Weight: 1.00
+
+//
+
+           1                                               50
+1a02N      wplssqsgSYELRIEVQPKPH.HRAHYETEGS.RGAVKAPTg.....GHP
+1a3qA      ~~~~~~~~GPYLVIVEQPKQRgFRFRYGCEGPsHGGLPGASsekgrkTYP
+
+           51                                             100
+1a02N      VVQLHGYMenKPLGLQIFIGTAde.RILKPHAfYQVHRItgktvtttsye
+1a3qA      TVKICNYE..GPAKIEVDLVTH..sDPPRAHA.HSLVGK..........q
+
+           101                                            150
+1a02N      kivgnTKVLEIPLEPKnnMRATIDCAGILKLRNADIEL............
+1a3qA      cse..LGICAVSVGPK.dMTAQFNNLGVLHVTKKNMMGtmiqklqrqrlr
+
+           151                                            200
+1a02N      ..............RKGE..TDIGrk..NTRVRLVFRVHIPessgrivsl
+1a3qA      srpqglteaeqrelEQEAkeLKKV..mdLSIVRLRFSAFLR.....slpl
+
+           201                                            250
+1a02N      .QTASNPIECSQ.rsahelpmverqdtdsclvyggqqmiltgqnfts.es
+1a3qA      kPVISQPIHDSKspgas.nlkisrmdktagsvrggdevyllcdkvqkddi
+
+           251                                            300
+1a02N      kvvftekttdgqqiwemeatvdkdk..sqpnmlfveipeyrnkhirtpvk
+1a3qA      evrfyedd...engwqafgdfspt.dvhkqyaivfrtppyhkmkierpvt
+
+           301                  324
+1a02N      vnfyvingkr.krsqpqhftyhpv
+1a3qA      vflqlkrkrggdvsdskqftyyp~
+

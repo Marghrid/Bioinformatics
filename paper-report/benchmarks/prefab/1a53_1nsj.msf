@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a53_1nsj.msf MSF:  247 Type: P 11/12/19 CompCheck: 7732 ..
+
+  Name: 1a53       Len: 247  Check: 7530 Weight: 1.00
+  Name: 1nsj       Len: 247  Check:  202 Weight: 1.00
+
+//
+
+           1                                               50
+1a53       PRYLKGWLKDVVQLSLRRPSFRASRQRPIISLNERILEFNKRNITAIIAE
+1nsj       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~MVRVKIC
+
+           51                                             100
+1a53       YKRKSPSGLDVERDPIEYSKFMERYAVGLSILTEEKYFNGSYETLRKIAS
+1nsj       GI............NLEDALFSVEGADAVGFVFYPKKRYISPEDARRISV
+
+           101                                            150
+1a53       SVSIPILMKDFIVKESQIDDAYNLGADTVLLIVKILTERELESLLEYARS
+1nsj       ELPVFRVGVFVNEEPEILDVASYVQLNAVQLHGE.....EPIELCRKIAE
+
+           151                                            200
+1a53       YGMEPLIEINDENDLDIALRIGARFIGINSRDLETLEINKENQRKLISMI
+1nsj       R.ILVIKAVGVERDMERALNYREFPILLDTK.TPEYGKTFD.WSLILPYR
+
+           201                                         247
+1a53       PSNVVKVAESGISERNEIEELRKLGVNAFLIGSSLMRNPEKIKEFIL
+1nsj       DRFRYLVLSGGLNPE.NVRSAIDVRPFAVDVSSGVEADHDSIKMFIK
+

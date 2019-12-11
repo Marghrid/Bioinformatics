@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bfg_1afcH.msf MSF:  128 Type: P 11/12/19 CompCheck: 2941 ..
+
+  Name: 1bfg       Len: 128  Check: 2424 Weight: 1.00
+  Name: 1afcH      Len: 128  Check:  517 Weight: 1.00
+
+//
+
+           1                                               50
+1bfg       DPKRLYCKNGGFFLRIHPDGRVDGVREKSDPHIKLQLQAEERGVVSIKGV
+1afcH      KPKLLYCSNGGYFLRILPDGTVDGTKDRSDQHIQLQLAAESIGEVYIKST
+
+           51                                             100
+1bfg       SANRYLAMKEDGRLLASKSVTDECFFFERLESNNYNTYRSRKYT..SWYV
+1afcH      ETGQFLAMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAekHWFV
+
+           101                      128
+1bfg       ALKRTGQYKLGSKTGPGQKAILFLPMSa
+1afcH      GLKKNGRSKLGPRTHFGQKAILFLPLP~
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dr9A_1i85A.msf MSF:  200 Type: P 11/12/19 CompCheck: 4011 ..
+
+  Name: 1dr9A      Len: 200  Check: 5747 Weight: 1.00
+  Name: 1i85A      Len: 200  Check: 8264 Weight: 1.00
+
+//
+
+           1                                               50
+1dr9A      VIHVTKEVKEVATLSaGHNVSVEELAQTRIYWQKEKKMVLTMMSGDMNIW
+1i85A      MLKIQAYFNETADLPaQFAN.NQSLSELVVFWQDQNLVLNEVYLGKEKVH
+
+           51                                             100
+1dr9A      PEYKNRTIFDITNNLSIVILALRPSDEGTYEaVVLKYEKDAFKREHLAEV
+1i85A      SKYMGRTSFDSDS.WTLRLHNLQIKDKGLYQaIIHHKKPTGMIRIHQMNS
+
+           101                                            150
+1dr9A      TLSVKADFPTPSISDFEIPTSNIRRIIbSTSGGFPEPHLSWLENGEELNA
+1i85A      ELSVLA~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1dr9A      INTTVSQDPETELYAVSSKLDFNMTTNHSFMbLIKYGHLRVNQTFNWNTA
+1i85A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

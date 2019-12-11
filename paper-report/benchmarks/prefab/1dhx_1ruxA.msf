@@ -1,0 +1,89 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dhx_1ruxA.msf MSF:  980 Type: P 11/12/19 CompCheck: 2387 ..
+
+  Name: 1dhx       Len: 980  Check: 5441 Weight: 1.00
+  Name: 1ruxA      Len: 980  Check: 6946 Weight: 1.00
+
+//
+
+           1                                               50
+1dhx       rnptvapthdvttdrsqrltl...rfip...vdredt.aysykarftlav
+1ruxA      ~mmpqwsymhisgqdaseylspglvqfaratetyfslnnkfrnptvapth
+
+           51                                             100
+1dhx       gdnrvldmastyfdirgvldrgptfkpysgtaynalapkgapnsceweqt
+1ruxA      dvttdrsqrltlrfipvdredtays.ykar.ftlavgdnrvldmastyfd
+
+           101                                            150
+1dhx       edsgravaedee.eededeee.eeee.qnardqatkkthvyaqaplsget
+1ruxA      irgvldrgptfkpysgtaynalapkgapnpc...................
+
+           151                                            200
+1dhx       itksglqigsdnaetqakpvyadpsyqpepqigesqwneadanaaggrvl
+1ruxA      ....................................ewdt.......hvf
+
+           201                                            250
+1dhx       k................................................k
+1ruxA      gqapysginitkegiqigkyadktfqpepqigesqwyeteinhaagrvlk
+
+           251                                            300
+1dhx       ttpmkpc.YGSYA.rptnpfggqsvlv..pdekgvplpkv..KPKVVLYS
+1ruxA      kttpmkpcYGSYAkptne..nggqgilvesqvemqffsttnlTPKVVLYS
+
+           301                                            350
+1dhx       EDVNMETPDTHLSYKPGKGDENSKAMLGQQSMPNRPNYIAFRDNFIGLMY
+1ruxA      EDVDIETPDTHISYMPTIKEGNSRELMGQQSMPNRPNYIAFRDNFIGLMY
+
+           351                                            400
+1dhx       YNS...tgnmgvlagqasqlnavvdlqdrNTELSYQLLLDSIGDRTRYFS
+1ruxA      YNStgnmgvlagqasq.lnavvd.lqdr.NTELSYQLLLDSIGDRTRYFS
+
+           401                                            450
+1dhx       MWNQAVDSYDPDVRIIENHGTEDELPNYCFPLGGIGVTDTYQAIKAngng
+1ruxA      MWNQAVDSYDPDVRIIENHGTEDELPNYCFPLGGVINTETLTKVKP....
+
+           451                                            500
+1dhx       sgdngdttwtkdetFATRNEIGVGNNFAMEINLNANLWRNFLYSNIALYL
+1ruxA      ........gwekdaFSDKNEIRVGNNFAMEINLNANLWRNFLYSNIALYL
+
+           501                                            550
+1dhx       PDKLKYNPTN.veisdnpnTYDYMNKRVVAPGLVDCYINLGARWSLDYMD
+1ruxA      PDKLKYSPSNvkisdnpn.TYDYMNKRVVAPGLVDCYINLGARWSLDYMD
+
+           551                                            600
+1dhx       NVNPFNHHRNAGLRYRSMLLGNGRYVPFHIQVPQKFFAIKNLLLLPGSYT
+1ruxA      NVNPFNHHRNAGLRYRSMLLGNGRYVPFHIQVPQKFFAIKNLLLLPGSYT
+
+           601                                            650
+1dhx       YEWNFRKDVNMVLQSSLGNDLRVDGASIKFDSICLYATFFPMAH.ntast
+1ruxA      YEWNFRKDVNMVLQSSLGNDLRVDGASIKFDSICLYATFFPMAHntastl
+
+           651                                            700
+1dhx       leamlrn.dtndqsfnd.ylsaanmlyp.ipanatnvpisipsrnwaafr
+1ruxA      eamlrndtndqsfndylsaanml.ypipanatnvpisipsrnwaafrgwa
+
+           701                                            750
+1dhx       gwaftrlktKETPSLGSGYDPYYTYSGSIPYLDGTFYLNHTFKKVAITFD
+1ruxA      .ftrlkt..KETPSLGSGYDPYYTYSGSIPYLDGTFYLNHTFKKVAITFD
+
+           751                                            800
+1dhx       SSVSWPGNDRLLTPNEFEIKRSVDGEGY.nvaqcnmtKDWFLVQMLANYN
+1ruxA      SSVSWPGNDRLLTPNEFEIKRSVDGEGYnvaqcnmt.KDWFLVQMLANYN
+
+           801                                            850
+1dhx       IGYQGFYIPESYKDRMYSFFRNFQPMSRQVVDdt.kykey.QQVGILHQH
+1ruxA      IGYQGFYIPESYKDRMYSFFRNFQPMSRQVVD..dtkykdyQQVGILHQH
+
+           851                                            900
+1dhx       NNSGFVGYLAPTMREGQAYPANVPYPLIGKTAVDSITQKKFLCDRTLWRI
+1ruxA      NNSGFVGYLAPTMREGQAYPANFPYPLIGKTAVDSITQKKFLCDRTLWRI
+
+           901                                            950
+1dhx       PFSSNFMSMGALTDLGQNLLYANSAHALDMTFEVDPMDEPTLLYVLFEVF
+1ruxA      PFSSNFMSMGALTDLGQNLLYANSAHALDMTFEVDPMDEPTLLYVLFEVF
+
+           951                        980
+1dhx       DVVRVHQPHRGVIETVYLRTPFSagnatt~
+1ruxA      DVVRVHRPHRGVIETVYLRTPFS......a
+

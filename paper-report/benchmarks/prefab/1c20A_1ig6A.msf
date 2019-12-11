@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1c20A_1ig6A.msf MSF:  147 Type: P 11/12/19 CompCheck: 9754 ..
+
+  Name: 1c20A      Len: 147  Check: 6700 Weight: 1.00
+  Name: 1ig6A      Len: 147  Check: 3054 Weight: 1.00
+
+//
+
+           1                                               50
+1c20A      gwsfeeqfkqvrqlyeindd.PKRKEFLDDLFSFMQKRGTPI.nrlpima
+1ig6A      ~~~~~~~~~~~~~~~~~~~~rADEQAFLVALYKYMKERKTPIeripy...
+
+           51                                             100
+1c20A      ks....VLDLYELYNLVIARGGLVDVINKKLWQEIIKGLHLPSSITSAAF
+1ig6A      ..lgfkQINLWTMFQAAQKLGGYETITARRQWKHIYDELGGNPGSTSAAT
+
+           101                                         147
+1c20A      TLRTQYMKYLYPYECEKKNlstpaelqaaidgnr~~~~~~~~~~~~~
+1ig6A      CTRRHYERLILPYERFIKG...............eedkplppikprk
+

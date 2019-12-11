@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1tvdA_1qfwL.msf MSF:  116 Type: P 11/12/19 CompCheck: 5390 ..
+
+  Name: 1tvdA      Len: 116  Check: 7172 Weight: 1.00
+  Name: 1qfwL      Len: 116  Check: 8218 Weight: 1.00
+
+//
+
+           1                                               50
+1tvdA      DKVTQSSPDQTVASGSEVVLLaTYDTVYSNPDLFWYRIRPDYSFQFVFYG
+1qfwL      IELTQSPDSLAVSLGQRATISlRAS.SYGNSFMQWYQQKPGQPPKLLIYR
+
+           51                                             100
+1tvdA      DDSRSEGADFTQGRFSVKHILTQKAFHLVISPVRTEDSATYYaAFTLPPP
+1qfwL      ....SNLESGIPARFSGTGSR..TDFTLTINPVEADDVATYYlQQSDEY.
+
+           101          116
+1tvdA      TDKLIFGKGTRVTVEP
+1qfwL      PYMYTFGGGTKLEIKR
+

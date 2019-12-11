@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aly_1d4vB.msf MSF:  146 Type: P 11/12/19 CompCheck: 6288 ..
+
+  Name: 1aly       Len: 146  Check: 6328 Weight: 1.00
+  Name: 1d4vB      Len: 146  Check: 9960 Weight: 1.00
+
+//
+
+           1                                               50
+1aly       GDQNPQIAAHVISEASSKTTSVLQWAEKGYYTMSNNLVTLENGKQLTVKR
+1d4vB      ~~~PQRVAAHITGTSNTLS.RKINWESSGHSFLS..NLHLRN.GELVIHE
+
+           51                                             100
+1aly       QGLYYIYAQVTFCSNREASSQAPFIASLCLKSPGRFERILLRAANTHSSA
+1d4vB      KGFYYIYSQTYFRFQ....NDKQMVQYIYKYTSYPDPILLMKSARNSCWS
+
+           101                                        146
+1aly       KPCGQQSIHLGGVFELQPGASVFVNVTDPSQVSHGTGFTSFGLLKL
+1d4vB      AEYGLYSIYQGGIFELKENDRIFVSVTNEHLIDMDHEASFFGAFLV
+

@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1mroA_1mroB.msf MSF:  614 Type: P 11/12/19 CompCheck: 3642 ..
+
+  Name: 1mroA      Len: 614  Check: 2085 Weight: 1.00
+  Name: 1mroB      Len: 614  Check: 1557 Weight: 1.00
+
+//
+
+           1                                               50
+1mroA      adklfinalkkkfeespeekkttfytlggwkqserktefvnagkevaakr
+1mroB      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1mroA      gipqynpdigtplgqr..vLMPYQVST....tdty.VEGDDLHFVNNAAM
+1mroB      ~~~~~~~~~~~~~~~~akfEDKVDLYDdrgnlveeqVPLEALSPLRNPAI
+
+           101                                            150
+1mroA      QQMWDDIRRTVIVGLNHAHAVIEKr............LGKEVTPETITHY
+1mroB      KSIVQGIKRTVAVNLEGIENALKTakvggpackimgrELDLDIVGNAESI
+
+           151                                            200
+1mroA      LETVNHAMPgaavvqehmveTHPAlvADSYVKVFTgndeiadeidpafvi
+1mroB      AAAAKEMIQ...........VTED..DDTNVELLG...............
+
+           201                                            250
+1mroA      dinkqfpedqaetlkaevgdgIWQVVRIPTIVSRTC.DGATTSRWSAMQI
+1mroB      ...................ggKRALVQVPSARFDVAaEYSAAPLVTATAF
+
+           251                                            300
+1mroA      GMSMISAYKQAagEAATGDFAYAAKX..........AEVIHMGTY...lp
+1mroB      VQAIINEFDVS..MYDANMVKAAVLGrypqsveymgANIATMLDIpqkle
+
+           301                                            350
+1mroA      vrxargen.EPGGVPFGYLADICQSsrvnyedpvrVSLDVVATGAMLYDq
+1mroB      gpg.....yALRNIMVNHVVAATLK..........NTLQAAALSTILEQ.
+
+           351                                            400
+1mroA      IWLGsymsggvg.....FTQYATAA..YTDNILDDFTYFGKEYVedkygl
+1mroB      TAMF.emgdavgafermHLLGLAYQgmNADNLVFDLVKANGKEG......
+
+           401                                            450
+1mroA      ceapnnmdtvldVATEVTFYGLEQYEEYPall...............eDQ
+1mroB      ............TVGSVIADLVERALEDGv..ikvekeltdykvygtdDL
+
+           451                                            500
+1mroA      FGGSXRAAVVAAAAGCSTAFATGNAQTGLSGWYLSMYLHKEQHS.rlgfy
+1mroB      AMWNAYAAAGLMAATMVNQGAARAAQGVSSTLLYYNDLIEFETGlpsvdf
+
+           501                                            550
+1mroA      ..YDLQDQXGASNVFSirgdegLPLELRGPNYPNYAMN.vGHQGEYAGIS
+1mroB      gkVEGTAVGFSFFSHS.iygg.GGPGIFNGNHIVTRHSkgFAIPCVAAAM
+
+           551                                            600
+1mroA      QAPhaargd.afvf..NPLVKIAFADDnlvFDFTNVRGEFAKGALrefep
+1mroB      ALD..agtqmfspeatSGLIKEVFSQV...DEFREPLKYVVEAAAei...
+
+           601        614
+1mroA      ageralitpa~~~~
+1mroB      ..........knei
+

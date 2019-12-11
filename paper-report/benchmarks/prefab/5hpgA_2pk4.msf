@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/5hpgA_2pk4.msf MSF:  85 Type: P 11/12/19 CompCheck:  486 ..
+
+  Name: 5hpgA      Len: 85  Check: 7363 Weight: 1.00
+  Name: 2pk4       Len: 85  Check: 3123 Weight: 1.00
+
+//
+
+           1                                               50
+5hpgA      ~DCMFGNGKGYRGKRVTTVTGTPCQDWAAQEPHRHsIFTPETNPRAGLEK
+2pk4       qDCYHGDGQSYRGTSSTTTTGKKCQSWSSMTPHRH.QKTPENYPNAGLTM
+
+           51                               85
+5hpgA      NYCRNPDGDvgGPWCYTTNPRKLYDYCDVPQCaap
+2pk4       NYCRNPDAD.kGPWCFTTDPSVRWEYCNLKKC~~~
+

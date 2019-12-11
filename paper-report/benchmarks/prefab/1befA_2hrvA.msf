@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1befA_2hrvA.msf MSF:  205 Type: P 11/12/19 CompCheck: 3519 ..
+
+  Name: 1befA      Len: 205  Check: 8098 Weight: 1.00
+  Name: 2hrvA      Len: 205  Check: 5421 Weight: 1.00
+
+//
+
+           1                                               50
+1befA      wdvpspppvgkaeledgayrikqkgilgysqigAGVYKEGTFHTMWHVTR
+2hrvA      ~~~~~~~~~~~~~~~~~~~~gpsd.........MYVHVGNLIYRNLHLFN
+
+           51                                             100
+1befA      GAVlmhkgkri.EPSWADVKK.dlvscg.GGWKLEGEWKEGEEVQVLAL.
+2hrvA      SEM........hESILVSYSSdliiyrtnTVGDDYIPSCDCTQATYYCKh
+
+           101                                            150
+1befA      .EPGKNPRAVQ....................TKPGLfktnagtigavsld
+2hrvA      kNRYFPITVTShdwyeiqeseyypkhiqynlLIGEG..............
+
+           151                                            200
+1befA      f..SPGTSGSPIIDkKGKVVGIYGNGVvtrsgAYVSAIAQTEKSIEdnpe
+2hrvA      .pcEPGDCGGKLLC.KHGVIGIVTAGG.....DNHVAFIDLRHFHC....
+
+           201
+1befA      iedd~
+2hrvA      ....a
+

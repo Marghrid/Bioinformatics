@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cydA_1fjhB.msf MSF:  242 Type: P 11/12/19 CompCheck: 7982 ..
+
+  Name: 1cydA      Len: 242  Check: 4407 Weight: 1.00
+  Name: 1fjhB      Len: 242  Check: 3575 Weight: 1.00
+
+//
+
+           1                                               50
+1cydA      LNFSGLRALVTGAGKGIGRDTVKALHASGAKVVAVTRTNSDLVSLAKECP
+1fjhB      ~~~~MSIIVISGCATGIGAATRKVLEAAGHQIVGIDIRD...........
+
+           51                                             100
+1cydA      GIEPVCVDLGDWDATEKALGGIGPVDLLVNNAALVIMQPFLEVTKEAFDR
+1fjhB      ...EVIADLSGRKQAIADVLAKKGMDGLVLCAGLGPQ........KVLGN
+
+           101                                            150
+1cydA      SFSVNLRSVFQVSQMVARDMINRGVPGSIVNVSSMVAHVTFPNLITYSST
+1fjhB      VVSVNYFGATELMDAFLPALKK.GHQPAAVVISSVASAHLA..NLAYAGS
+
+           151                                            200
+1cydA      KGAMTMLTKAMAMELGPHKIRVNSVNPTVVLTDMGKKVSADPEFARKLKE
+1fjhB      KNALTVAVRKRAAAWGEAGVRLNTIAPGA................FVPPM
+
+           201                                    242
+1cydA      RHPLRKFAEVEDVVNSILFLLSDRSASTSGGGILVDAGYLAS
+1fjhB      ....GRRAEPSEMASVIAFLMS..ASYVH.AQIVIDGIDAVM
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cvsC_1fltX.msf MSF:  218 Type: P 11/12/19 CompCheck: 9810 ..
+
+  Name: 1fltX      Len: 218  Check: 6242 Weight: 1.00
+  Name: 1cvsC      Len: 218  Check: 3568 Weight: 1.00
+
+//
+
+           1                                               50
+1fltX      ~~GRPFVEMyse...IPEIIHMTEGRELVIPCRVTsp...nITVTLKKFp
+1cvsC      pvAPYWTSP...ekmEKKLHAVPAAKTVKFKCPSS..gtpqPTLRWLKN.
+
+           51                                             100
+1fltX      ldtlipdg....KRIIWDSRK.GFIISNATYKEIGLLTCEATVNGHLYKT
+1cvsC      gkefkp..dhriGGYKVRYATwSIIMDSVVPSDKGNYTCIVENEYGSINH
+
+           101                                            150
+1fltX      NYLTHRQt~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cvsC      TYQLDVVersphrpilqaglpanktvalgsnvefmckvysdpqphiqwlk
+
+           151                                            200
+1fltX      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cvsC      hievngskigpdnlpyvqilktagvnttdkemevlhlrnvsfedageytc
+
+           201            218
+1fltX      ~~~~~~~~~~~~~~~~~~
+1cvsC      lagnsiglshhsawltvl
+

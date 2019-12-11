@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1neu_1kacB.msf MSF:  115 Type: P 11/12/19 CompCheck: 7080 ..
+
+  Name: 1neu       Len: 115  Check: 5991 Weight: 1.00
+  Name: 1kacB      Len: 115  Check: 1089 Weight: 1.00
+
+//
+
+           1                                               50
+1neu       IVVYTDREVYGAVGSQVTLHaSFWSSEWVSDDISFTWRYQPEGGRDAISI
+1kacB      ~GITTEEMIEKAKGETAYLPaKFTLSPEDQ.PLDIEWLISPANQKVDQVI
+
+           51                                             100
+1neu       FHYAKGQPYIDEVGTFKERIQWVGDPSWKDGSIVIHNLDYSDNGTFTaDV
+1kacB      ILYSGDKIYDDY.PDLKGRVHFTSDLKSGDASINVTNLQLSDIGTYQaKV
+
+           101         115
+1neu       KNVGKTSQVTLYVFE
+1kacB      KK.VANKKIHLVVLV
+

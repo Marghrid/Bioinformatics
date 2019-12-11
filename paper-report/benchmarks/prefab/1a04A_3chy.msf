@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a04A_3chy.msf MSF:  205 Type: P 11/12/19 CompCheck: 4383 ..
+
+  Name: 1a04A      Len: 205  Check: 8475 Weight: 1.00
+  Name: 3chy       Len: 205  Check: 5908 Weight: 1.00
+
+//
+
+           1                                               50
+1a04A      EPATILLIDDHPMLRTGVKQLISMAPDITVVGEASNGEQGIELAESLDPD
+3chy       KELKFLVVDDFSTMRRIVRNLLKELGFNNV.EEAEDGVDALNKLQAGGYG
+
+           51                                             100
+1a04A      LILLDLNMPGMNGLETLDKLREKSLSGRIVVFSVSNHEEDVVTALKRGAD
+3chy       FVISDWNMPNMDGLELLKTIRDGAMALPVLMVTAEAKKENIIAAAQAGAS
+
+           101                                            150
+1a04A      GYLLKDMEPEDLLKALHQAAAGEMVLSEALTPVLAASLERDVNQLTPRER
+3chy       GYVVKPFTAATLEEKLNKI..FEKL~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1a04A      DILKLIAQGLPNKMIARRLDITESTVKVHVKHMLKKMKLKSRVEAAVWVH
+3chy       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201
+1a04A      QERIF
+3chy       ~~~~~
+

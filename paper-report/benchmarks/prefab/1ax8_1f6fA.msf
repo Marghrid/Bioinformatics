@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ax8_1f6fA.msf MSF:  195 Type: P 11/12/19 CompCheck: 4299 ..
+
+  Name: 1f6fA      Len: 195  Check: 4573 Weight: 1.00
+  Name: 1ax8       Len: 195  Check: 9726 Weight: 1.00
+
+//
+
+           1                                               50
+1f6fA      qhppycrnqpgkcqipLQSLFDRATTVANYNSKLAGEMvnrfdeqyvi..
+1ax8       ~~~~~~~~~~~~~~~~IQKVQDDTKTLIKTIVTRINDI..........ld
+
+           51                                             100
+1f6fA      .nchtssittpnskaeaintedk..iLFKLVISLLHSWDEPLHHAVtela
+1ax8       fipglh.................pilTLSKMDQTLAVYQQILTSMP....
+
+           101                                            150
+1f6fA      npalLTKAQEIKEKAKVLVDGVEVIQKRIHPgEKNEPYPV..wseqsslt
+1ax8       ....SRNVIQISNDLENLRDLLHVLAFSKSC.HLPEASGLetldslgg..
+
+           151                                       195
+1f6fA      sqde...NVRRVAFYRLFHCLHRDSSKIYTYLRILkcrltsc~~~
+1ax8       ....vleASGYSTEVVALSRLQGSLQDMLWQLDLS.......pgc
+

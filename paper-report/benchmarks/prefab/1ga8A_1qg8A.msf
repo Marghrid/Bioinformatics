@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ga8A_1qg8A.msf MSF:  349 Type: P 11/12/19 CompCheck: 3311 ..
+
+  Name: 1qg8A      Len: 349  Check: 3081 Weight: 1.00
+  Name: 1ga8A      Len: 349  Check:  230 Weight: 1.00
+
+//
+
+           1                                               50
+1qg8A      kVSVIMTSYn.KSDYVAKSISSILSQTf..SDFELFIMDDNSNEETLNVI
+1ga8A      ~XDIVFAADdnYAAYLCVAAKSVEAAH.pdTEIRFHVLDAGISEANRAAV
+
+           51                                             100
+1qg8A      RPFL..NDNRVRFYQSDIsgvkertek........tRYAalinqaiema.
+1ga8A      AANLrgGGGNIRFIDVNPe...dfagfplnirhisiTTY.arlklgeyia
+
+           101                                            150
+1qg8A      EGEYITYATDDNIYMPDRlLKMVRELdthpeka.....VIYSasktyhln
+1ga8A      DCDKVLYLDIDVLVRDSL.TPLWDTD.......lgdnwLGAS........
+
+           151                                            200
+1qg8A      divketvrpaaqv...................TWNApcaIDHCSVMHRYS
+1ga8A      .............idlfverqegykqkigxadGEYY...FNAGVLLINLK
+
+           201                                            250
+1qg8A      VLEkvkekf.gsyw.despafy........RIGDARFFWRVNhfypfypl
+1ga8A      KWR......rhdifkxssewv.eqykdvxqYQDQDILNGLFK.ggvcyan
+
+           251                                            300
+1qg8A      de.............................eldl......nyitefvrn
+1ga8A      srfnfxptnyafxasrhtdplyrdrtntvxpvavshycgpakpwh.....
+
+           301                                           349
+1qg8A      lppqrncrelreslkklgmg~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1ga8A      ....................rdctawgaerftelagslttvpeewrgkl
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1btkA_1btn.msf MSF:  174 Type: P 11/12/19 CompCheck: 1791 ..
+
+  Name: 1btn       Len: 174  Check:  601 Weight: 1.00
+  Name: 1btkA      Len: 174  Check: 1190 Weight: 1.00
+
+//
+
+           1                                               50
+1btn       ~~~MEGFLNRKHeweahnkkASs....RSWHNVYCVINNQEMGFYKD...
+1btkA      aviLESIFLKRS.......qQKkktspLNFKKCLFLLTVHKLSYYEYdfe
+
+           51                                             100
+1btn       aksaasgipyhseVPVSLKEA.ICEVAldykkk.................
+1btkA      rgrr..gskk...GSIDVEKItCVETV.vpek.nppperqimeqisiier
+
+           101                                            150
+1btn       .KHVFKLRLsdgNEYLFQAKDDEEMNTWIQAISSA~~~~~~~~~~~~~~~
+1btkA      fPYPFQVVY.deGPLYVFSPTEELRKRWIHQLKNVirynsdlvqkyhpcf
+
+           151                  174
+1btn       ~~~~~~~~~~~~~~~~~~~~~~~~
+1btkA      widgqylccsqtaknamgcqilen
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cof_1cnuA.msf MSF:  137 Type: P 11/12/19 CompCheck: 9766 ..
+
+  Name: 1cof       Len: 137  Check: 3243 Weight: 1.00
+  Name: 1cnuA      Len: 137  Check: 6523 Weight: 1.00
+
+//
+
+           1                                               50
+1cof       ~VAVADESLTAFNDLKLGKKYKFILFGLNDAKTEIVVKETST.DPSYDAF
+1cnuA      gIAVSDDCVQKFNELKLGHQHRYVTFKMNASNTEVVVEHVGGpNATYEDF
+
+           51                                             100
+1cof       LEKLPENDCLYAIYDFEYEINgnEGKRSKIVFFTWSPDTAPVRSKMVYAS
+1cnuA      KSQLPERDCRYAIFDYEFQVD..GGQRNKITFILWAPDSAPIKSKMMYTS
+
+           101                               137
+1cof       SKDALRRALNGVSTDVQGTDFSEVSYDSVLERVSRga
+1cnuA      TKDSIKKKLVGIQVEVQATDAAEISEDAVSERAKK~~
+

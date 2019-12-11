@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qrjB_1ak4C.msf MSF:  247 Type: P 11/12/19 CompCheck: 5205 ..
+
+  Name: 1qrjB      Len: 247  Check: 8358 Weight: 1.00
+  Name: 1ak4C      Len: 247  Check: 6847 Weight: 1.00
+
+//
+
+           1                                               50
+1qrjB      ~~~~~~~~~~~~~~~QMKDLQAIKQEVSQAapg..sPQFMQTIRLAVQqf
+1ak4C      pivqnlqgqmvhqaiSPRTLNAWVKVVEEK...afsPEVIPMFSALSE..
+
+           51                                             100
+1qrjB      DPTAKDLQDLLQYLc..sSLVASLHHQQLDSLISEAETRGi.........
+1ak4C      GATPQDLNTMLNTV.gghQAAMQMLKETINEEAAEWDRLH.pvhagpiap
+
+           101                                            150
+1qrjB      ...tgynplagp.....lrvqan....npqqq......GLRREYQQLWLA
+1ak4C      gqmrepr.....gsdiagtts..tlqeqigwmthnppiPVGEIYKRWIIL
+
+           151                                            200
+1qrjB      AFAALPGsakdpswasilqgleepyhafverlnialdnglpegtpkdpil
+1ak4C      GLNKIVR...........................................
+
+           201                                         247
+1qrjB      rslaysnankecqkllqarghtnsplgdmlracqtwtpkdktkvl~~
+1ak4C      .............................................my
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1havA_1cqqA.msf MSF:  225 Type: P 11/12/19 CompCheck: 1849 ..
+
+  Name: 1havA      Len: 225  Check: 7974 Weight: 1.00
+  Name: 1cqqA      Len: 225  Check: 3875 Weight: 1.00
+
+//
+
+           1                                               50
+1havA      ~STLEIAGLVR.kNLVQFGVgekngsvRWVMNALGVKDDWLLVPSHAYkf
+1cqqA      gPEEEFGMSLIkhNSCVITT......eNGKFTGLGVYDRFVVVPTHAD..
+
+           51                                             100
+1havA      ekdyem..MEFYFNrggtyysisagnVVIQSLDV...GFQDVVLMKVPTI
+1cqqA      ......pgKEIQVD....gittkv..IDSYDLYNkngIKLEITVLKLDRN
+
+           101                                            150
+1havA      PKFRDITQHFIKKgdvpr.ALNRLATLVTTVNG.TPMLISEGPLKMEEKA
+1cqqA      EKFRDIRRYIPNN.....eDDYPNCNLALLANQpEPTIINVGDVVSYGNI
+
+           151                                            200
+1havA      TYVhkkndgttvDLTVDQAWRGKGEGLPGMCGGALVSsnqsiqNAILGIH
+1cqqA      LLS.........GNQTARMLKYSYPTKSGYCGGVLYKi.....GQVLGIH
+
+           201                   225
+1havA      VAGGNSILVAKLVTQEMFQnidkki
+1cqqA      VGGNGRDGFSAMLLRSYFT~~~~~~
+

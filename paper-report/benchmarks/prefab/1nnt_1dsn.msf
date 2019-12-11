@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1nnt_1dsn.msf MSF:  420 Type: P 11/12/19 CompCheck: 2052 ..
+
+  Name: 1nnt       Len: 420  Check: 1243 Weight: 1.00
+  Name: 1dsn       Len: 420  Check:  809 Weight: 1.00
+
+//
+
+           1                                               50
+1nnt       ~~sVIRWCTISSPEEKKCNNLRDLTQQ.ERISLTCVQKATYLDCIKAIAN
+1dsn       rrrSVQWCAVSQPEATKCFQWQRNMRRvRGPPVSCIKRDSPIQCIQAIAE
+
+           51                                             100
+1nnt       NEADAISLDGGQAFEAGLAPYKLKPIAAEVYEHTEGSTTSYYAVAVVKKg
+1dsn       NRADAVTLSGGFIYEAGLAPYKLRPVAAEVYGTERQPRTHYYAVAVVKK.
+
+           101                                            150
+1nnt       teftvn.......DLQGKTScht...GLGRSAGWNIPIGTLLhrGAIEWE
+1dsn       ......ggsfqlnELQGLKS...chtGLRRTAGWNVPIGTLR..PFLNWT
+
+           151                                            200
+1nnt       GIesGSVEQAVAKFFSASCVpg..AT..Ieqklcrqckgdpktkcarnap
+1dsn       GP.pEPIEAAVARFFSASCV..pgADkgQ.....................
+
+           201                                            250
+1nnt       ysgysgafh................................CLKDgkgdv
+1dsn       .........fpnlcrlcagtgenkcafssqepyfsysgafkCLRD.....
+
+           251                                            300
+1nnt       afvkhttvnenapdqkdeyellcldg........................
+1dsn       ..........................gagdvafirestvfedlsdeaerd
+
+           301                                            350
+1nnt       .........SRQPvdn...YKTCn.WARVAAHAVVARDDN.KVEDIWSFL
+1dsn       eyellcpdnTRKP...vdkFKDC.hLARVPSHAVVARSVNgKEDAIWNLL
+
+           351                                            400
+1nnt       SKAQSDFGVDTKSDFHLFGPpgkkdp..VLKDLLFKDSAIMLKRVPSLmd
+1dsn       RQAQEKFGKDKSPKFQLFGS......psGQKDLLFKDSAIGFSRVPPR..
+
+           401              420
+1nnt       sqlylgfeyysaiqsmr~~~
+1dsn       .................ids
+

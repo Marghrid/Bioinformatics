@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cqkA_1fc1B.msf MSF:  214 Type: P 11/12/19 CompCheck: 7035 ..
+
+  Name: 1cqkA      Len: 214  Check: 4924 Weight: 1.00
+  Name: 1fc1B      Len: 214  Check: 2111 Weight: 1.00
+
+//
+
+           1                                               50
+1cqkA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1fc1B      psvflfppkpkdtlmisrtpevtcvvvdvshedpqvkfnwyvdgvqvhna
+
+           51                                             100
+1cqkA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1fc1B      ktkpreqqynstyrvvsvltvlhqnwldgkeykckvsnkalpapiektis
+
+           101                                            150
+1cqkA      ~~~~~PAAPQVYTIPPPLEq.MAKDLVSLTCMITDFFPEDITVEWQwngq
+1fc1B      kakgqPREPQVYTLPPSRE.eMTKNQVSLTCLVKGFYPSDIAVEWE....
+
+           151                                            200
+1cqkA      ...paen.YKNTQPIMDTDGSYFVYSKLNVQKSNWEAGNTFTCSVLHEgl
+1fc1B      sngqpennYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHE..
+
+           201        214
+1cqkA      ...hnHHTEKSLSH
+1fc1B      alhn.HYTQKSLSL
+

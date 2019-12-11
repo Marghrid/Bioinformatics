@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1byi_1nksA.msf MSF:  273 Type: P 11/12/19 CompCheck: 5488 ..
+
+  Name: 1nksA      Len: 273  Check: 3532 Weight: 1.00
+  Name: 1byi       Len: 273  Check: 1956 Weight: 1.00
+
+//
+
+           1                                               50
+1nksA      KIGIVTGi.PGVGKSTVLAKVKEILDNQGINNKIINYGD...........
+1byi       KRYFVTGtdTEVGKTVASCALLQAAKAAGYRTAGYKPVAsgsektpeglr
+
+           51                                             100
+1nksA      ....................FMLatalklgyakdrde..MRKLS..vekq
+1byi       nsdalalqrnsslqldyatvNPYt.......faept.spHIISAqegrpi
+
+           101                                            150
+1nksA      kklqidaakgiaeearaggeGYLFIDT..havirtpsgyl......pglp
+1byi       ..eslvmsaglraleqqa..DWVLVEGaggwft.......plsdtftfad
+
+           151                                            200
+1nksA      syVITEINPsVIFLLEADPKiilsrqkrdttrnrndysdesVILETINFA
+1byi       ..WVTQEQL.PVILVVGVKL.....................GCINHAMLT
+
+           201                                            250
+1nksA      RYAATASavlagstv.KVIVN...........................ve
+1byi       AQVIQHA....gltlaGWVANdvtppgkrhaeymttltrmipapllgeip
+
+           251                 273
+1nksA      gd........PSIAANeiIRSMk
+1byi       wlaenpenaaTGKYIN..LALL~
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1c9kB_1g5rA.msf MSF:  218 Type: P 11/12/19 CompCheck: 7153 ..
+
+  Name: 1g5rA      Len: 218  Check: 6231 Weight: 1.00
+  Name: 1c9kB      Len: 218  Check:  922 Weight: 1.00
+
+//
+
+           1                                               50
+1g5rA      rgiIIVFTGN.GKGKTTAAFGTAARAvghgkNVGVVQFIKg.....twpn
+1c9kB      ~~~MILVTGGaRSGKSRHAEALIGDA....pQVLYIATSQilddemaari
+
+           51                                             100
+1g5rA      .gernllepHGVEFQVxatgftwetqnreadtaacxavwqhgKRXLA..d
+1c9kB      qhhkdgrp.AHWRTAEc....................wrhl.DTLITadl
+
+           101                                            150
+1g5rA      pllDXVVLDELTYXvaydyl........................PLEEVI
+1c9kB      apdDAILLECITTM.vtnl.lfalggendpeqwdyaameraiddEIQILI
+
+           151                                            200
+1g5rA      SALNARpghQTVIITGRGc......................HRDILDLAD
+1c9kB      AACQRCp..AKVVLVTNE.vgmgivpenrlarhfrdiagrvNQRLAAAAD
+
+           201            218
+1g5rA      TVSELRPvkha~~~~~~~
+1c9kB      EVWLVVS....gigvkik
+

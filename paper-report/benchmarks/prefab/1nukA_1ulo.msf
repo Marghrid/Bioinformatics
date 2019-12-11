@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1nukA_1ulo.msf MSF:  200 Type: P 11/12/19 CompCheck: 3606 ..
+
+  Name: 1ulo       Len: 200  Check: 4363 Weight: 1.00
+  Name: 1nukA      Len: 200  Check: 9243 Weight: 1.00
+
+//
+
+           1                                               50
+1ulo       s.PIGEGt..fddgpeGWVAYGTDgp..LDTST....GALCVAVPAgs..
+1nukA      ~eTLMDS.ttatael.GWMVHPPS..gwEEVSGydntIRTYQVCNV..fe
+
+           51                                             100
+1ulo       AQYGVGVVLNGVAIEEGTTYTLRYTATASTd............VTVRALV
+1nukA      SSQNNWLRTKFIRRRGAHRIHVEMKFSVRD.cssipsvpgsckETFNLYY
+
+           101                                            150
+1ulo       GQngapygtv................LDTSPALt.........SEPRQVT
+1nukA      YEadf.....dlatktfpnwmenpwvKVDTIAA.desfsqvdvMKINTEV
+
+           151                                            200
+1ulo       ETFT.asatypatpaaddpeGQIAFQLGGfsadaWTLCLDDVALDSEvel
+1nukA      RSFGpvsrng..........FYLAFQDYG.....GCMSLIAVRVFYR~~~
+

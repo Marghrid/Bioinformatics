@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ckv_1g10A.msf MSF:  150 Type: P 11/12/19 CompCheck: 1442 ..
+
+  Name: 1ckv       Len: 150  Check:  115 Weight: 1.00
+  Name: 1g10A      Len: 150  Check: 1327 Weight: 1.00
+
+//
+
+           1                                               50
+1ckv       msvnsnaydagimglkgkdfadqffadenqv....vHES..DTVVLVLKK
+1g10A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~stladQALhnNNVGPIIRA
+
+           51                                             100
+1ckv       SdeinTFIEEiLLTDYKKNVNPTVNVEDRAGYWWIKANGKIEVd.CDEIS
+1g10A      G...dLVEPV.IETAEIDNPGKEITVEDRRAYVRIAAEGELILtrKTLEE
+
+           101                                            150
+1ckv       ELlGRQFNvy..DFLVDVSSTIGRAYTLGNKFTITSELMGldrkledyha
+1g10A      QL.GRPFN..mqELEINLASFAGQIQADEDQIRFYFDKTM~~~~~~~~~~
+

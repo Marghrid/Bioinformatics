@@ -1,0 +1,89 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2btvA_2btvB.msf MSF:  973 Type: P 11/12/19 CompCheck: 3268 ..
+
+  Name: 2btvA      Len: 973  Check: 7190 Weight: 1.00
+  Name: 2btvB      Len: 973  Check: 6078 Weight: 1.00
+
+//
+
+           1                                               50
+2btvA      ~~~~~~~~~~~~~~~~~vdftv............................
+2btvB      rperikttpylegdvlssdsgpllsvfalqeimqkvrqvqadymtatrev
+
+           51                                             100
+2btvA      ....PDVQQILDDIKALAAEQVYKIVKVPSTSFRHIVTQSRDRVLRVDTY
+2btvB      dftvPDVQQILDDIKALAAEQVYKIVKVPSTSFRHIVTQSRDRVLRVDTY
+
+           101                                            150
+2btvA      YEEMSQVGDVITEDEPEKFYSTIIKKVRFIRGKGSFILHDIPARDHRGME
+2btvB      YEEMSQVGDVITEDEPEKFYSTIIKKVRFIRGKGSFILHDIPARDHRGME
+
+           151                                            200
+2btvA      VAEPEVLGVEFKNVLPVLTAEHRAMIQNALDGSIIENgnvatr......D
+2btvB      VAEPEVLGVEFKNVLPVLTAEHRAMIQNALDGSIIEN......gnvatrD
+
+           201                                            250
+2btvA      VDVFIGACSEPIYRIYNRLQGYIEAVQLQELRNSIGWLERLGQRKRITYS
+2btvB      VDVFIGACSEPIYRIYNRLQGYIEAVQLQELRNSIGWLERLGQRKRITYS
+
+           251                                            300
+2btvA      q..evltdfRRQDMIWVLALQLPVNPQVVWDVPRSSIANLIMNIATCLPT
+2btvB      .qevltdf.RRQDMIWVLALQLPVNPQVVWDVPRSSIANLIMNIATCLPT
+
+           301                                            350
+2btvA      GEYIAPNPRISS........itltqritttgpFAILTGSTPTAQQLNDVR
+2btvB      GEYIAPNPRISSitltqritttgp........FAILTGSTPTAQQLNDVR
+
+           351                                            400
+2btvA      KIYLALMFPGQIILdlkidpg.ERMDPAVRMVAGVVGHLLFTAGGRFTNL
+2btvB      KIYLALMFPGQIIL.dlkidpgERMDPAVRMVAGVVGHLLFTAGGRFTNL
+
+           401                                            450
+2btvA      TQNMARQLDIALNDYLLYMYNTRVQVNYGPTGEPLDFQIGRNQYDCNVFR
+2btvB      TQNMARQLDIALNDYLLYMYNTRVQVNYGPTGEPLDFQIGRNQYDCNVFR
+
+           451                                            500
+2btvA      ADFATGTGYNGWATIDVEYRDPAPYVHAQRYIRYCGIDSrelinpt...t
+2btvB      ADFATGTGYNGWATIDVEYRDPAPYVHAQRYIRYCGIDS.reli..nptt
+
+           501                                            550
+2btvA      ygIGMTYHCYNEMLRMLVAAGKDSEAAYFRSMLPFHMVRFARINQIINED
+2btvB      ygIGMTYHCYNEMLRMLVAAGKDSEAAYFRSMLPFHMVRFARINQIINED
+
+           551                                            600
+2btvA      LHSVFSLPDDMFNALLPDLIAGAHQNADPVVLDVSWISLWFAFNRSFEPT
+2btvB      LHSVFSLPDDMFNALLPDLIAGAHQNADPVVLDVSWISLWFAFNRSFEPT
+
+           601                                            650
+2btvA      HRNEMLEIAPLIESVYASELSVMKVDMRHLSLMQRRFPDVLIQARPSHFW
+2btvB      HRNEMLEIAPLIESVYASELSVMKVDMRHLSLMQRRFPDVLIQARPSHFW
+
+           651                                            700
+2btvA      KAVLNDSPEAVKAVMNLSHSHNFINIRDMMRWVLLPSLQPSLKLVLEEEA
+2btvB      KAVLNDSPEAVKAVMNLSHSHNFINIRDMMRWVLLPSLQPSLKLVLEEEA
+
+           701                                            750
+2btvA      WAAANDFEDLMLTDQVYMHRDMLPEPRLDDIERFRQEGFYYTNMLEAPPE
+2btvB      WAAANDFEDLMLTDQVYMHRDMLPEPRLDDIERFRQEGFYYTNMLEAPPE
+
+           751                                            800
+2btvA      Idrvvqy..........TYEIArlqanmgqfraalrri............
+2btvB      I......drvvqytyeiARLQA................nmgqfraalrri
+
+           801                                            850
+2btvA      MDDDDWvrfgg.....VLRTVRVKFFDARPPDDILQGLPfsydtnekggl
+2btvB      MDDDDW.....vrfggVLRTVRVKFFDARPPDDILQGLP...........
+
+           851                                            900
+2btvA      syatikya.........TETTIFYLIYNVEfsntpdslvlin........
+2btvB      ........fsydtikyaTETTIFYLIYNVE............fsntpdsl
+
+           901                                            950
+2btvA      ....PTYTMTKVFINKRIVERVRVGQILAVLNRRFVAYKGKMRIMDITQS
+2btvB      vlinPTYTMTKVFINKRIVERVRVGQILAVLNRRFVAYKGKMRIMDITQS
+
+           951                 973
+2btvA      Lkmgtklaaptv~~~~~~~~~~~
+2btvB      L...........kmgtklaaptv
+

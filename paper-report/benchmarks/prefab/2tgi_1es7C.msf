@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2tgi_1es7C.msf MSF:  118 Type: P 11/12/19 CompCheck: 7484 ..
+
+  Name: 2tgi       Len: 118  Check: 7030 Weight: 1.00
+  Name: 1es7C      Len: 118  Check:  454 Weight: 1.00
+
+//
+
+           1                                               50
+2tgi       ldaaycfrnvqDNCCLRPLYIDFKRdlgwk.WIHEPKGYNANFCAGACPY
+1es7C      ~~~~~~~~~~kSSCKRHPLYVDFSD.vgwndWIVAPPGYHAFYCHGECPF
+
+           51                                             100
+2tgi       LWss.....DTQHSRVLSLYNTINPeASASPCCVSQDLEPLTILYYI.GK
+1es7C      PL..adhlnSTNHAIVQTLVNSVNS.KIPKACCVPTELSAISMLYLDeNE
+
+           101            118
+2tgi       TPKIEQLSNMIVKSCKCS
+1es7C      KVVLKNYQDMVVEGCGCR
+

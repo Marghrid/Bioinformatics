@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qlaB_1c1yB.msf MSF:  249 Type: P 11/12/19 CompCheck: 1866 ..
+
+  Name: 1qlaB      Len: 249  Check: 5172 Weight: 1.00
+  Name: 1c1yB      Len: 249  Check: 6694 Weight: 1.00
+
+//
+
+           1                                               50
+1qlaB      mgRMLTIRVFKydpqsavskphFQEYKIEEAPSMTIFIVLNMIREtyDPD
+1c1yB      ~sNTIRVFLPN...........KQRTVVNVRNGMSLHDCLMKALK..VRG
+
+           51                                             100
+1qlaB      LNFDfvcragicgscg..MMIN........GRPSLAcrTLTKDFEDGVIT
+1c1yB      LQPE............ccAVFRllhehkgkKARLDWn.TDAASLIGEELQ
+
+           101                                            150
+1qlaB      LLPLpafklikdlsvdtgnwfngmsqrveswihaqkehdiskleeriepe
+1c1yB      VDFL~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1qlaB      vaqevfeldrciecgcciaacgtkimredfvgaaglnrvvrfmidphder
+1c1yB      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                           249
+1qlaB      tdedyyeligdddgvfgcmtllachdvcpknlplqskiaylrrkmvsvn
+1c1yB      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

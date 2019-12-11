@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1zin_5ukdA.msf MSF:  217 Type: P 11/12/19 CompCheck: 4070 ..
+
+  Name: 1zin       Len: 217  Check: 1295 Weight: 1.00
+  Name: 5ukdA      Len: 217  Check: 2775 Weight: 1.00
+
+//
+
+           1                                               50
+1zin       MNLVLMGLPGAGKGTQAEKIVAAYGIPHISTGDMFRAAMKEGTPLGLQAK
+5ukdA      NVVFVLGGPGSGKGTQCANIVRDFGWVHLSAGDLLRQEQQSGSKDGEMIA
+
+           51                                             100
+1zin       QYMDRGDLVPDEVTIGIVRERLSKDDCQNGFLLDGFPRTVAQAEALETML
+5ukdA      TMIKNGEIVPSIVTVKLLKNAIDANQ.GKNFLVDGFPRNEENNNSWEENM
+
+           101                                            150
+1zin       ADIGRKLDYVIHIDVRQDVLMERLTGRRICRNCGATYHLIFHPPAKPGVC
+5ukdA      KDF.VDTKFVLFFDCPEEVMTQRLLKRGES....................
+
+           151                                            200
+1zin       DKCGGELYQRADDNEATVANRLEVNMKQMKPLVDFYEQKGYLRNINGEQD
+5ukdA      .......SGRSDDNIESIKKRFNTFNVQTKLVIDHYNKFDKVKIIPANRD
+
+           201           217
+1zin       MEKVFADIRELLGGLAR
+5ukdA      VNEVYNDVENLFKSMG~
+

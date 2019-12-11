@@ -1,0 +1,73 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2bbkH_1qfmA.msf MSF:  793 Type: P 11/12/19 CompCheck: 9069 ..
+
+  Name: 2bbkH      Len: 793  Check: 3523 Weight: 1.00
+  Name: 1qfmA      Len: 793  Check: 5546 Weight: 1.00
+
+//
+
+           1                                               50
+2bbkH      deprileapapdar....................................
+1qfmA      ~~~~~~~~~~~~~~mlsfqypdvyrdetaiqdyhghkvxdpyawledpds
+
+           51                                             100
+2bbkH      ................................................rv
+1qfmA      eqtkafveaqnkitvpfleqxpirglykermtelydypkyschfkkgkry
+
+           101                                            150
+2bbkH      yvndpahf....aavTQQFVIDge.agrvig.MIDG........GFLPNP
+1qfmA      fyfy....ntglqnqRVLYVQD..slegearvFLDPnilsddgtVALRGY
+
+           151                                            200
+2bbkH      VVADDGSFIAHASTVfsriargeRTDYVEVFDPVTLLPTADIELpdAPRF
+1qfmA      AFSEDGEYFAYGLSAsg.....sDWVTIKFMKVDGAKELPDVLE..RVKF
+
+           201                                            250
+2bbkH      lvgtypw.MTSLTPDGKTLLFYQFs..............PAPAVGVVDLE
+1qfmA      .......sXMAWTHDGKGMFYNAYpqqdgksdgtetstnLHQKLYYHVLG
+
+           251                                            300
+2bbkH      GKA.fKRMLDVP.....DCYHIFPTapd....tffmhcrd.....GSLAK
+1qfmA      TDQseDILCAEFpdepkWMGGAELS...ddgryvllsiregxdpvNRLWY
+
+           301                                            350
+2bbkH      VAF.....GTEGTPEITH.tevfhpedeFLinhpaysqkAGRLVWPTy..
+1qfmA      CDLqqesnGITGILKWVKlidnfe...gEYd..yvtne.GTVFTFKTnrh
+
+           351                                            400
+2bbkH      ..TGKIHQIDlssgdakf.......LPAVEALTEaeradGWRPGgwqQVA
+1qfmA      spNYRLINIDf.......tdpeeskWKVLVPEHE.....KDVLE...WVA
+
+           401                                            450
+2bbkH      YHralDRIYLLVDQRDewrhktas.RFVVVLDAKTGERLAKFEMG.HEID
+1qfmA      CV.rsNFLVLCYLHDV........kNTLQLHDLATGALLKIFPLEvGSVV
+
+           451                                            500
+2bbkH      SINVSQDek.PLLYALSTG...DKTLYIHDAes..geelrsvnqlghgpq
+1qfmA      GYSGQKK..dTEIFYQFTSflsPGIIYHCDLtkeeleprvfrev......
+
+           501                                            550
+2bbkH      vittadmg~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1qfmA      ........tvkgidasdyqtvqifypskdgtkipmfivhkkgikldgshp
+
+           551                                            600
+2bbkH      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1qfmA      aflygyggfnisitpnysvsrlifvrhmggvlavanirgggeygetwhkg
+
+           601                                            650
+2bbkH      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1qfmA      gilankqncfddfqcaaeylikegytspkrltinggsnggllvatcanqr
+
+           651                                            700
+2bbkH      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1qfmA      pdlfgcviaqvgvmdmlkfhkytighawttdygxsdskqhfewlikyspl
+
+           701                                            750
+2bbkH      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1qfmA      hnvklpeaddiqypsmllltadhddrvvplhslkfiatlqyivgrsrkqn
+
+           751                                     793
+2bbkH      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1qfmA      npllihvdtkaghgagkptakvieevsdmfafiarclnidwip
+

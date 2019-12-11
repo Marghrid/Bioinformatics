@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1amoA_1ddgB.msf MSF:  610 Type: P 11/12/19 CompCheck:  949 ..
+
+  Name: 1amoA      Len: 610  Check:  441 Weight: 1.00
+  Name: 1ddgB      Len: 610  Check:  508 Weight: 1.00
+
+//
+
+           1                                               50
+1amoA      vkessfvekmkktgrniivfygsqtgtaeefanrlskdahrygmrgmsad
+1ddgB      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1amoA      peeydladlsslpeidkslvvfcmatygegdptdnaqdfydwlqetdvdl
+1ddgB      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1amoA      tgvkfavfglgnktyehfnamgkyvdqrleqlgaqrifelglgdddgnle
+1ddgB      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1amoA      edfitwreqfwpavceffgvearqyelvvhedmdvakvytgemgrlksye
+1ddgB      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1amoA      nq..kpPFDAKNPFLAAVTANRKLNQGT.ERHLMHLELDISDSKIRYESG
+1ddgB      ~~ihtsPYSKDAPLVASLSVNQKITGRNsEKDVRHIEIDLGDSGLRYQPG
+
+           251                                            300
+1amoA      DHVAVYPANDSALVNQIGEILGADLDVIMSlnnldeesnkkhPFPCPTTY
+1ddgB      DALGVWYQNDPALVKELVELLWLKGDEPVT............VEGKTLPL
+
+           301                                            350
+1amoA      RTALTYYLDITNP...prtnvlyelaqyasepseQEHLHKMASssgegKE
+1ddgB      NEALQWHFELTVNtanivenyatltr........SETLLPLVG....dKA
+
+           351                                            400
+1amoA      LYLSwVVEArrhiLAILQDYPsLRPPIDHLCELLPRLQARYYSIASSSKV
+1ddgB      KLQH.YAAT.tpiVDMVRFSP.AQLDAEALINLLRPLTPRLYSIASSQAE
+
+           401                                            450
+1amoA      HPNSVHICAVAVEYEAkSGRVNKGVATSWLRA.kepa.LVPMFVRKS.QF
+1ddgB      VENEVHVTVGVVRYDV.EGRARAGGASSFLADrveeegEVRVFIEHNdNF
+
+           451                                            500
+1amoA      RLPFKSTTPVIMVGPGTGIAPFMGFIQERAWLReqgkEVGETLLYYGCRR
+1ddgB      RLPANPETPVIMIGPGTGIAPFRAFMQQRAADE....APGKNWLFFGNPH
+
+           501                                            550
+1amoA      SDEDYLYREELARFHKDGALTQLNVAFSREQAHKVYVQHLLKRDREHLWK
+1ddgB      FTEDFLYQVEWQRYVKEGVLTRIDLAWSRDQKEKVYVQDKLREQGAELWR
+
+           551                                            600
+1amoA      LIHeGGAHIYVCGDARNMAKDVQNTFYDIVAEFGPMEHTQAVDYVKKLMT
+1ddgB      WIN.DGAHIYVCGDANRMAKDVEQALLEVIAEFGGMDTEAADEFLSELRV
+
+           601    610
+1amoA      KGRYSLDVWs
+1ddgB      ERRYQRDVY~
+

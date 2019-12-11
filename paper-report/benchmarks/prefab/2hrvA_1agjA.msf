@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2hrvA_1agjA.msf MSF:  260 Type: P 11/12/19 CompCheck: 8131 ..
+
+  Name: 2hrvA      Len: 260  Check: 3104 Weight: 1.00
+  Name: 1agjA      Len: 260  Check: 5027 Weight: 1.00
+
+//
+
+           1                                               50
+2hrvA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~gpsd....
+1agjA      vsaeeikkheekwnkyygvnafnlpkelfskvdekdrqkypyntignvfv
+
+           51                                             100
+2hrvA      ......MYVHVG.NLIYRNLHLFN.semhe....................
+1agjA      kgqtsaTGVLIGkNTVLTNRHIAKfangdpskvsfrpsintddngntetp
+
+           101                                            150
+2hrvA      ........SILVs..YSSDLIIYRTNtv............gDDYIPS.cd
+1agjA      ygeyevkeILQEpfgAGVDLALIRLK..pdqngvslgdkisPAKIGTsnd
+
+           151                                            200
+2hrvA      ct...QATYYCKH......knryfpitvtshdwyeiqeseyypkhiqynL
+1agjA      lkdgdKLELIGYPfdhkvnqmhrseielttlsr................G
+
+           201                                            250
+2hrvA      LIGEGPCEPGDCGGKLLCKH.GVIGIVTAGGd......NHVAFIDLR.HF
+1agjA      LRYYGFTVPGNSGSGIFNSNgELVGIHSSKVshldrehQINYGVGIGnYV
+
+           251    260
+2hrvA      HCa~~~~~~~
+1agjA      KR.iinekne
+

@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fi2A_1dzrA.msf MSF:  287 Type: P 11/12/19 CompCheck: 3343 ..
+
+  Name: 1fi2A      Len: 287  Check: 6400 Weight: 1.00
+  Name: 1dzrA      Len: 287  Check: 6943 Weight: 1.00
+
+//
+
+           1                                               50
+1fi2A      tdpdplqdfcvadldgkavsvnghtckpmseagddflfsskltkagntst
+1dzrA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1fi2A      pngsavteldvaewpgtntlg.............................
+1dzrA      ~~~~~~~~~~~~~~~~~~~~~mmiviktaipdvlilepkvfgdergfffe
+
+           101                                            150
+1fi2A      .................VSMNRVDFAPGGTNPPHIHP...RATEIGMVMK
+1dzrA      synqqtfeeligrkvtfVQDNHSKSKKNVLRGLHFQRgenAQGKLVRCAV
+
+           151                                            200
+1fi2A      GELLVGILGS...LDSGNKLYSRVVRA..GETFVIPRGLMHFQFNVGkte
+1dzrA      GEVFDVAVDIrkeSPTFGQWVGVNLSAenKRQLWIPEGFAHGFVTLS.ey
+
+           201                                            250
+1fi2A      AYMVVSFNSQNp...GIVFVP........................ltlfg
+1dzrA      AEFLYKATNYY.spsSEGSILwndeaigiewpfsqlpelsakdaaaplld
+
+           251                               287
+1fi2A      sdppiptpvltkalrveagvvellkskfaggs~~~~~
+1dzrA      q...............................allte
+

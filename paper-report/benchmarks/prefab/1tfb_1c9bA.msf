@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1tfb_1c9bA.msf MSF:  284 Type: P 11/12/19 CompCheck: 9198 ..
+
+  Name: 1tfb       Len: 284  Check: 8038 Weight: 1.00
+  Name: 1c9bA      Len: 284  Check: 1160 Weight: 1.00
+
+//
+
+           1                                               50
+1tfb       ~SRAMMNAFKEITTMADRINLPRNIVDRTNNLFKQVYEQKSLKGRANDAI
+1c9bA      sDRAMMNAFKEITTMADRINLPRNIVDRTNNLFKQVYEQKSLKGRANDAI
+
+           51                                             100
+1tfb       ASACLYIACRQ.egvprTFKEICAVSRISKKEIGRCFKLILK.aletsvd
+1c9bA      ASACLYIACRQegvpr.TFKEICAVSRISKKEIGRCFKLILKalets...
+
+           101                                            150
+1tfb       littgdfmsrfcs.................nlcl..pkqvqmaathiark
+1c9bA      .............vdlittgdfmsrfcsnlclpkqvqmaathiarkavel
+
+           151                                            200
+1tfb       aveLDLVpgrspisvaaaa.iymasqasaekrtqkeigdiagvadvtirq
+1c9bA      dl.VPGR............spisva.........................
+
+           201                                            250
+1tfb       syrliyprapdlfptdfkfdt..................pvdklpql~~~
+1c9bA      .....................aaaiymasqasaekrtqkeigdiag.vad
+
+           251                            284
+1tfb       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1c9bA      vtirqsyrliyprapdlfptdfkfdtpvdklpql
+

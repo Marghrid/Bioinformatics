@@ -1,0 +1,85 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fdo_1dmr.msf MSF:  923 Type: P 11/12/19 CompCheck: 3082 ..
+
+  Name: 1fdo       Len: 923  Check: 4189 Weight: 1.00
+  Name: 1dmr       Len: 923  Check: 8893 Weight: 1.00
+
+//
+
+           1                                               50
+1fdo       ~~mkkvvtvcpycasgCKINLVVDNGKIVRAEAAQGktnQGTLCLKgyyg
+1dmr       langtvmsgshw....GVFTATVENGRATAFTPWEK...DPHPSPM.lag
+
+           51                                             100
+1fdo       w.DFINDtqilt.PRLKTPMIRRQRgg...............KLEPVSWD
+1dmr       vlDSIYS.....pTRIKYPMVRREF..lekgvnadrstrgngDFVRVSWD
+
+           101                                            150
+1fdo       EALNYVAERLSAIKEKYGPDAIQT.TGSSRg.TGNetn..YVMQKFARav
+1dmr       QALDLVAAEVKRVEETYGPEGVFGgSYGWK.sPGRlhnctTLLRRMLT.l
+
+           151                                            200
+1fdo       igtnnvdccaRVXHGPSVAGLHQSVGNGa..MSNAin.eidn.tDLVFVF
+1dmr       aggyvngag.DYSTGAAQVIMPHVVGTLevyEQQTawpvlaentEVMVFW
+
+           201                                            250
+1fdo       GYNPADSHP.......ivan.HVINAKRNGAKIIVCDPRKIETAR.IADM
+1dmr       AADPIKTSQigwvipehgaypGLEALKAKGTKVIVIDPVRTKTVEfFGAE
+
+           251                                            300
+1fdo       HIALKNGSNIALLNAMGHVIIeenlydkafVASRTEGFEEYRKIVE....
+1dmr       HITPKPQTDVAIMLGMAHTLVaedlydkdfIANYTSGFDKFLPYLDgetd
+
+           301                                            350
+1fdo       ..GYTPESVEDITGVSASEIRQAARMYAQAksaailwgmgVTQFYQGVET
+1dmr       stPKTAEWAEGISGVPAETIKELARLFESK.rtmlaagwsMQRMHHGEQA
+
+           351                                            400
+1fdo       VRSLTSLAMLTGNLGKPHagvnpvrgqnnvqgacdmgalpdtypgyqyvk
+1dmr       HWMLVTLASMLGQIGLPGggfgls..........................
+
+           401                                            450
+1fdo       dpanrek......................fakawgveslpah.....tgy
+1dmr       .......yhysgggtpstsgpalagitdggaat....kgpewlaasgasv
+
+           451                                            500
+1fdo       r.ISELPHRAAHG..............EVRAAYIMGEDPLQTDAELSAVR
+1dmr       ipVARVVDMLENPgaefdfngtrskfpDVKMAYWVGGNPFVHHQDRNRMV
+
+           501                                            550
+1fdo       KAFEDLELVIVQDIFMTKTASAADVILPSTSWGEHegvft.aadrg..fq
+1dmr       KAWEKLETFVVHDFQWTPTARHADIVLPATTSYERndietigdysntgil
+
+           551                                            600
+1fdo       RFFKAVEPKWDLKTDWQIISEIATRMGYp..MHyn.ntqeiwdelrhlcp
+1dmr       AMKKIVEPLYEARSDYDIFAAVAERLGKgaeFTegkdemgwiksf.....
+
+           601                                            650
+1fdo       dfyga.................tyekm..gelgfiqwpcrdtsda....d
+1dmr       .....yddaakqgkaagvqmpafdaf.waegiv............efpvt
+
+           651                                            700
+1fdo       qgt..SYLFKEk........FDTPNGLAQFF..............TCDWV
+1dmr       dg.adFVRYASfredpllnpLGTPTGLIEIYskniekmgyddcpaHPTWM
+
+           701                                            750
+1fdo       APID....kltdeYPMVLSTVREVGHYSCrsmtgncaaLAaladepg...
+1dmr       EPLErldgpgak.YPLHIAASHPFNRLHSq..lngtv.LR.......egy
+
+           751                                            800
+1fdo       ......YAQINTEDAKRLgiedea......LVWVHSRKGKIITRAQVSDR
+1dmr       avqghePCLMHPDDAAAR......giadgdVVRVHNDRGQILTGVKVTDA
+
+           801                                            850
+1fdo       PNKGAIYMTYQWWigacnelvtenlspitktp..................
+1dmr       VMKGVIQIYEGGW...................ydpsdvtepgtldkygdv
+
+           851                                            900
+1fdo       ................EYKYCAVRVEPiadqraaeqyvideynklktrlr
+1dmr       nvlsadigtsklaqgnCGQTVLAEVEK.......................
+
+           901                 923
+1fdo       eaala~~~~~~~~~~~~~~~~~~
+1dmr       .....ytgpavtltgfvapkaae
+

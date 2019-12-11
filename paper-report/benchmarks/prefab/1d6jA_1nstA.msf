@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d6jA_1nstA.msf MSF:  352 Type: P 11/12/19 CompCheck: 1093 ..
+
+  Name: 1d6jA      Len: 352  Check: 8047 Weight: 1.00
+  Name: 1nstA      Len: 352  Check: 3046 Weight: 1.00
+
+//
+
+           1                                               50
+1d6jA      hasaltrsertelrnqrg............LTIWLTGLSASGKSTLAVEL
+1nstA      ~~~~~~~~~~~~~~~~~~dplwqdpccdrfPKLLIIGPQKTGTTALYLFL
+
+           51                                             100
+1d6jA      EHQlvrdrrvhayrldgdnirfglnkdlgfsea.........drnenirr
+1nstA      GMH......pdlssny..psset..........feeiqffnghnyh....
+
+           101                                            150
+1d6jA      iaevaklfads............NSIAITSF.ispyr.KDRDTARQLHEv
+1nstA      ...........kgidwymeffpiSDFYFEKSanyfdseVAPRRAAALLP.
+
+           151                                            200
+1d6jA      atpgeetglPFVEVYVDVPVEapy..........................
+1nstA      .........KAKVLTILINPA...drayswyqhqrahddpvalkytfhev
+
+           201                                            250
+1d6jA      ..........................EApanp........EVHVKNY..e
+1nstA      itagsdassklralqnrclvpgwyatHIerw.lsayhanqILVLDGKllr
+
+           251                                            300
+1d6jA      lPVQDAVKQIIDYLDtkgylpakk~~~~~~~~~~~~~~~~~~~~~~~~~~
+1nstA      tEPAKVMDMVQKFLG...vtnt..idyhktlafdpkkgfwcqlleggktk
+
+           301                                            350
+1d6jA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1nstA      clgkskgrkypemdldsraflkdyyrdhnielskllykmgqtlptwlred
+
+           351 352
+1d6jA      ~~
+1nstA      lq
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bqk_2mtaA.msf MSF:  149 Type: P 11/12/19 CompCheck:  334 ..
+
+  Name: 1bqk       Len: 149  Check:  551 Weight: 1.00
+  Name: 2mtaA      Len: 149  Check: 9783 Weight: 1.00
+
+//
+
+           1                                               50
+1bqk       ~~~~~~~~~~~~~~~~~~adFEVHMLNkgkdgaMVFEPASLKVAPGDTVT
+2mtaA      dkatipsespfaaaevadgaIVVDIAK......MKYETPELHVKVGDTVT
+
+           51                                             100
+1bqk       FIPTD.kghnvetikgmipdgae...afkskin...ENYKVTFTAPGVYG
+2mtaA      WINREamphnvhfvagvl.....geaalkgpmmkkeQAYSLTFTEAGTYD
+
+           101                                           149
+1bqk       VKCTPHYgmGMVGVVQVGdapanleavkgaknpkkaqerldaalaalgn
+2mtaA      YHCTPHP..FMRGKVVVE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

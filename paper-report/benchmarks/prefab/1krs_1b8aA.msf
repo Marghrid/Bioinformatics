@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1krs_1b8aA.msf MSF:  459 Type: P 11/12/19 CompCheck: 4824 ..
+
+  Name: 1krs       Len: 459  Check: 9003 Weight: 1.00
+  Name: 1b8aA      Len: 459  Check: 5821 Weight: 1.00
+
+//
+
+           1                                               50
+1krs       ~frrdh...TSDQLHaefdgkeneeleal.NIEVAVAGRMMTRRIMGKAS
+1b8aA      myrth.yssEITEEL..............nGQKVKVAGWVWEVKDLGGIK
+
+           51                                             100
+1krs       FVTLQDVGGRIQLYVARDDlp..EGVYneqfkkwdlgd..ILGAKGKLFK
+1b8aA      FLWIRDRDGIVQITAPKKK..vdPELF.klipklrs..edVVAVEGVVNF
+
+           101                                            150
+1krs       TKTg...ELSIHCTELRLLTKa~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1b8aA      TPK.aklGFEILPEKIVVLNRaetplpldptgkvkaeldtrlnnrfmdlr
+
+           151                                            200
+1krs       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1b8aA      rpevmaifkirssvfkavrdffhengfieihtpkiiatateggtelfpmk
+
+           201                                            250
+1krs       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1b8aA      yfeedaflaespqlykeimmasgldrvyeiapifraeehnttrhlneaws
+
+           251                                            300
+1krs       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1b8aA      idsemafiedeeevmsflerlvahainyvrehnakeldilnfeleepklp
+
+           301                                            350
+1krs       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1b8aA      fprvsydkaleilgdlgkeipwgedidtegerllgkymmenenaplyfly
+
+           351                                            400
+1krs       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1b8aA      qypseakpfyimkydnkpeicrafdleyrgveissggqrehrhdilveqi
+
+           401                                            450
+1krs       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1b8aA      kekglnpesfefylkafrygmpphggfglgaerlikqmldlpnirevilf
+
+           451   459
+1krs       ~~~~~~~~~
+1b8aA      prdrrrltp
+

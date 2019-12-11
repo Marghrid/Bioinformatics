@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1evsA_1lki.msf MSF:  163 Type: P 11/12/19 CompCheck: 5268 ..
+
+  Name: 1evsA      Len: 163  Check: 3206 Weight: 1.00
+  Name: 1lki       Len: 163  Check: 2062 Weight: 1.00
+
+//
+
+           1                                               50
+1evsA      GSaSKEYRVLLGQLQKQTDLMQDTSRLLDPYIRIQGLDVPKLREHbRERP
+1lki       HPbHG...NLMNQIKNQLAQLNSANALFISYYTAQPFPN..NVEKcAPNM
+
+           51                                             100
+1evsA      GAFPSEETLRGLGRRGFLQTLNATLGCVLHRLADLEQRLPKAQDLERSGL
+1lki       TDFPSF..HGNGTEKTKLVELYRMVAYLSASLTNITRDQKV........T
+
+           101                                            150
+1evsA      NIEDLEKLQMARPNILGLRNNIYaMAqLLDNASDAFQRKLEGbRFLHGYH
+1lki       AVSLQVKLNATIDVMRGLLSNVLbRLaKYRVDKEAFQRKKLGcQLLGTYK
+
+           151       163
+1evsA      RFMHSVGRVFSKW
+1lki       QVISVVVQAF~~~
+

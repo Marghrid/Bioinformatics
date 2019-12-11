@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ayfA_1put.msf MSF:  111 Type: P 11/12/19 CompCheck: 7254 ..
+
+  Name: 1ayfA      Len: 111  Check: 2285 Weight: 1.00
+  Name: 1put       Len: 111  Check: 4969 Weight: 1.00
+
+//
+
+           1                                               50
+1ayfA      kITVHFINRDGETLTTKGKIGDSLLDVVVQNNLdidg...FGACEGTLAC
+1put       ~SKVVYVSHDGTRRQLDVADGVSLMQAAVSNGI....ydiVGDCGGSASC
+
+           51                                             100
+1ayfA      STCHLIFEQHIFEKLEAITDEENDMLDLA.YGLTDRSRLGCQICLTKAMD
+1put       ATCHVYVNEAFTDKVPAANEREIGMLECVtAELKPNSRLCCQIIMTPELD
+
+           101     111
+1ayfA      NMTVRVP~~~~
+1put       GIVVDVPdrqw
+

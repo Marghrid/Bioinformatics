@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1kb5B_1tlk.msf MSF:  130 Type: P 11/12/19 CompCheck: 4595 ..
+
+  Name: 1tlk       Len: 130  Check: 5911 Weight: 1.00
+  Name: 1kb5B      Len: 130  Check: 8684 Weight: 1.00
+
+//
+
+           1                                               50
+1tlk       aeekphvkp.yftktild.MDVVEGSAARFDCKVEGYPDPEVMWFKD...
+1kb5B      ~~~~~~~~~vtlleqnprwRLVPRGQAVNLRCILKNSQYPWMSWYQQdlq
+
+           51                                             100
+1tlk       ..DNPV.........kESR....HFQIDYDEEGNCSLTISEVCGddDAKY
+1kb5B      kqLQWLftlrspgdkeVKSlpgaDYLATRVTDTELRLQVANMSQ..GRTL
+
+           101                        130
+1tlk       TCKAVNS.......LGEATC.TAELLVEtm
+1kb5B      YCTCSAApdwgasaETLYFGsGTRLTVL~~
+

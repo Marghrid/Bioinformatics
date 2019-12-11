@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aoeA_1d1gA.msf MSF:  192 Type: P 11/12/19 CompCheck:  547 ..
+
+  Name: 1aoeA      Len: 192  Check: 9197 Weight: 1.00
+  Name: 1d1gA      Len: 192  Check: 1350 Weight: 1.00
+
+//
+
+           1                                               50
+1aoeA      MLKPNVAIIVAALKPALGIGYKGKMPWRLRKEIRYFKDVTTRTTKPNTRN
+1d1gA      ~~~AKVIFVLAMDV.SGKIASS...SWSSFEDRKNFRKITTE.......G
+
+           51                                             100
+1aoeA      AVIMGRKTWESIPQKFRPLPDRLNIILSRSYENEIIDDNIIHASSIESSL
+1d1gA      NVVMGRITFEEIG...RPLPERLNVVLTRRPK.TSNNPSLVFFNGPADVV
+
+           101                                            150
+1aoeA      NLVSDVERVFIIGGAEIYNELINNSLVSHLLITEIEHPSPESIEMDTFLK
+1d1gA      KFLKGYERVAVIGGKTVFTEFLREKLVDELFVTVEPY.....FGKGIPFF
+
+           151                                    192
+1aoeA      FPLESWTKQPKSELQKFVGDTVLEDDIKEGDFTYNYTLWTRK
+1d1gA      ..YFPLKLLEM............RRLNER...GTLFLKYSVE
+

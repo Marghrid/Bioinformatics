@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ljrA_1pd21.msf MSF:  249 Type: P 11/12/19 CompCheck: 3906 ..
+
+  Name: 1ljrA      Len: 249  Check: 3090 Weight: 1.00
+  Name: 1pd21      Len: 249  Check:  816 Weight: 1.00
+
+//
+
+           1                                               50
+1ljrA      ~mGLELFLDLVSQPSRAVYIFAKKNGIPLELRTVDlvkgqhkskeflqiN
+1pd21      mpNYKLLYFNMRGRAEIIRYIFAYLDIKYEDHRIE.qadw..pkikpt.L
+
+           51                                             100
+1ljrA      SLGKLPTLKDGDFILTESSAILIYLSCkyqtPDHWYPSDLQARARVHEYL
+1pd21      PFGKIPVLEVEGLTLHQSLAIARYLTK....NTDLAGKTELEQCQVDAVV
+
+           101                                            150
+1ljrA      GWHADcirgtfgiplwvqvlgpligvqvp.eEKVERNRT.amdqalqwle
+1pd21      DTLDD.fmsl..fpwae.......enqdlkeRTFNDLLTrqaphllkdld
+
+           151                                            200
+1ljrA      dkfLGDRPFLAGQQVTLADLMALEELMQPVALGYELFEGRPRLAAWRGRV
+1pd21      ty.LGDKEWFIGNYVTWADFYWDICSTTLLVLKPDLLGIYPRLVSLRNKV
+
+           201                                           249
+1ljrA      EAF.LGAELCQEAh.SIILsileqaakktlptpspeayqamllriarip
+1pd21      QAIpAISAWILKR.pQTKL~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

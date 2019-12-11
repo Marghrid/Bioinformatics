@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cyx_2occB.msf MSF:  158 Type: P 11/12/19 CompCheck: 4813 ..
+
+  Name: 1cyx       Len: 158  Check: 4530 Weight: 1.00
+  Name: 2occB      Len: 158  Check:  283 Weight: 1.00
+
+//
+
+           1                                               50
+1cyx       KPITIEVVSMDWKWFFIYPEQGIATVNEIAFPANTPVYFKVTSNSVMHSF
+2occB      PSLTVKTMGHQWYWSYEYTDEDLSFDSRVVLPMEMTIRMLVSSEDVLHSW
+
+           51                                             100
+1cyx       FIPRLGSQIYAMAGMQTRLHLIANEPGTYDGICAEICGPGHSGMKFKAIA
+2occB      AVPSLGLKTDAIPGRLNQTTLMSSRPGLYYGQCSEICGSNHSFMPIVLEL
+
+           101                                            150
+1cyx       TPDRAAFDQWVAKAKQSPNTMSDMAAFEKLAAPSEYNQVEYFSNVKPDLF
+2occB      V.PLKYFEKWSASML~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151  158
+1cyx       ADVINKFM
+2occB      ~~~~~~~~
+

@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1iso_1cnzA.msf MSF:  435 Type: P 11/12/19 CompCheck:  306 ..
+
+  Name: 1iso       Len: 435  Check: 4545 Weight: 1.00
+  Name: 1cnzA      Len: 435  Check: 5761 Weight: 1.00
+
+//
+
+           1                                               50
+1iso       skvvvpaqgkkitlqngklnv.peNPIIPYIEGDGIGVDVTPAMLKVVDA
+1cnzA      ~~~~~~~~~~~~~~~~~~~~~mskNYHIAVLPGDGIGPEVMAQALKVMDA
+
+           51                                             100
+1iso       AVEkaykgeRKISWMEIYTGEKSTQvygqdVWLPAETLDLIREYRVAIKG
+1cnzA      VRSrfd...MRITTSHYDVGGIAIDnhg..HPLPKATVEGCEQADAILFG
+
+           101                                            150
+1iso       PLTt...PVGGGI....RSLNVALRQELDLYICLRPVRYYQGT..PSPVk
+1cnzA      SVGgpkwENLPPEsqpeRGALLPLRKHFKLFSNLRPAKLYQGLeaFCPLr
+
+           151                                            200
+1iso       ...HPELTDMVIFRENSEDIYAGi.ewkadsadaekvikflreemgvkki
+1cnzA      adiAANGFDILCVRELTGGIYFGqpkgreg....................
+
+           201                                            250
+1iso       r.fPEHCGIGIKPMSEEGTKRLVRAAIEYAIaNDRDSVTLVHKGNIMkFT
+1cnzA      .sgQYEKAFDTEVYHRFEIERIARIAFESAR.KRRRKVTSIDKANVL.QS
+
+           251                                            300
+1iso       EGAFKDWGYQLAreefggelidggpwlkvknpntgkEIVIKDVIADAFLQ
+1cnzA      SILWREIVNDVA.ktyp...................DVELAHMYIDNATM
+
+           301                                            350
+1iso       QILLRPAEYDVIACMNLNGDYISDALAAQVGGIGIAPGANIGDE.YALFE
+1cnzA      QLIKDPSQFDVLLCSNLFGDILSDECAMITGSMGMLPSASLNEQgFGLYE
+
+           351                                            400
+1iso       ATHGTAPDIAGQDKANPGSIILSAEMMLRH.MGWTEAADLIVKGMEGAIN
+1cnzA      PAGGSAPDIAGKNIANPIAQILSLALLLRYsLDANDAATAIEQAINRALE
+
+           401                             435
+1iso       AKTVTKDFESLmdgAKLLKCSEFGDAIIEn~~~~~
+1cnzA      EGVRTGDLARG...AAAVSTDEMGDIIARyvaegv
+

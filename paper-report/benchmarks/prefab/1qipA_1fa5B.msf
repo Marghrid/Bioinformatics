@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qipA_1fa5B.msf MSF:  180 Type: P 11/12/19 CompCheck: 6992 ..
+
+  Name: 1qipA      Len: 180  Check: 7713 Weight: 1.00
+  Name: 1fa5B      Len: 180  Check: 9279 Weight: 1.00
+
+//
+
+           1                                               50
+1qipA      ggltdeaalsccsdadpstkdFLLQQTMLRVKDPKKSLDFYTRVLGMTLI
+1fa5B      ~~~~~~~~~~~~~~~~~~~~~MRLLHTMLRVGDLQRSIDFYTKVLGMKLL
+
+           51                                             100
+1qipA      QKCDFPIMKFSLYFLAYEdkndipkekdekiawALSRKATLELTHNWGTE
+1fa5B      RTSENPEYKYSLAFVGYG...............PETEEAVIELTYNWGVD
+
+           101                                            150
+1qipA      ddetqsyhngnsdpRGFGHIGIAVPDVYSACKRFEELGVKFVKKPDdgk.
+1fa5B      .....kyelg....TAYGHIALSVDNAAEACEKIRQNGGNVTREAGpvkg
+
+           151                        180
+1qipA      .mkGLAFIQDPDGYWIEILNPnkmatlm~~
+1fa5B      gttVIAFVEDPDGYKIELIEE.......gn
+

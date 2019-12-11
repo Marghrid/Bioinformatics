@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qghA_2fha.msf MSF:  150 Type: P 11/12/19 CompCheck: 5611 ..
+
+  Name: 1qghA      Len: 150  Check: 8734 Weight: 1.00
+  Name: 2fha       Len: 150  Check: 6877 Weight: 1.00
+
+//
+
+           1                                               50
+1qghA      VDTKEFLNHQVANLNVFTVKIHQIHWYMRGHNFFTLHEKMDDLYSEFGEQ
+2fha       QDSEAAINRQINLELYASYVYLSMSYYF..VALKNFAKYFLHQSHEEREH
+
+           51                                             100
+1qghA      MDEVAERLLAIGGSPFSTLKEFLENASVEEAPYTKPKTMDQLMEDLVGTL
+2fha       AEKLMKLQNQRGGRIFLQD.........KPDCDD..ESGLNAMECALHLE
+
+           101                                            150
+1qghA      ELLRDEYKQGIELTDKEGDDVTNDMLIAFKASIDKHIWMFKAFLGKAPLE
+2fha       KNVNQSLLELHKLATDKNDPHLCDFIEHYLNEQVKAIKELGDHVTN~~~~
+

@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1jk0A_1xikA.msf MSF:  334 Type: P 11/12/19 CompCheck: 3118 ..
+
+  Name: 1jk0A      Len: 334  Check: 3753 Weight: 1.00
+  Name: 1xikA      Len: 334  Check: 9365 Weight: 1.00
+
+//
+
+           1                                               50
+1jk0A      LNKELETLREENRVKSDMLKEKLSKDAENHKAYLKSHQVHRHKLKEMEKE
+1xikA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1jk0A      EPLLNEDKERTVLFPIKYHEIWQAYKRAEASFWTAEEIDLSKDIHDWNNR
+1xikA      ~PMFFGQPVNVARDQQKYDIFEKLIEKQLSFFWRPEEVDVSRDRIDYQ.A
+
+           101                                            150
+1jk0A      MNENERFFISRVLAFFAASDGIVNENLVENFSTEVQIPEAKSFYGFQIMI
+1xikA      LPEHEKHIFISNLKYQTLLDSIQGRSPNVALLPLISIPELETWVETWAFS
+
+           151                                            200
+1jk0A      ENIHSETYSLLIDTYIKDPKESEFLFNAIHTIPEIGEKAEWALRWIQDAD
+1xikA      ETIHSRSYTHIIRNIVND...PSVVFDDIVTNEQQKRAE.GISSYYDEL.
+
+           201                                            250
+1jk0A      ALFGERLVAFASIEGVFFSGSFASIFWLKKRGMMPGLTFSNELICRDEGL
+1xikA      KKLYLCLMSVNALEAIRFYVSFACSFAFAERELMEGNAKIIRLIARDEAL
+
+           251                                            300
+1jk0A      HTDFACLLFAHLKNKPDPAIVEKIVTEAVEIEQRYFLDALPVALLGMNAD
+1xikA      HLTGTQHMLNLLAEIACKQECYDLFVQAAQQEKDWA.DYLF.GSMILNKD
+
+           301                            334
+1jk0A      LMNQYVEFVADRLLVAFGNKKYYKVENPFDFMEN
+1xikA      ILCQYVEYITNIRMQAVGLDLPFTRSNPIPWINT
+

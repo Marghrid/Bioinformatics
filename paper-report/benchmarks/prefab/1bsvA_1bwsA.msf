@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bsvA_1bwsA.msf MSF:  347 Type: P 11/12/19 CompCheck: 5716 ..
+
+  Name: 1bsvA      Len: 347  Check: 4760 Weight: 1.00
+  Name: 1bwsA      Len: 347  Check:  956 Weight: 1.00
+
+//
+
+           1                                               50
+1bsvA      k.QRVFIAGHRGMVGSAIRRQLEQR.gdVELVLRTRd.ELNLLDSRAVHD
+1bwsA      ~kQRVFIAGHRGMVGSAIRRQLEQRgd.VELVLRTR.dELNLLDSRAVHD
+
+           51                                             100
+1bsvA      FFASERIDQVYLAAAKVGgiv.ANNTYPADFIYQNMMIESNIIHAAHQND
+1bwsA      FFASERIDQVYLAAAKVG.givANNTYPADFIYQNMMIESNIIHAAHQND
+
+           101                                            150
+1bsvA      VNKLLFLGSSCIYPKLAKQPMAESELLqg..TLEPtn..EPYAIAKIAGI
+1bwsA      VNKLLFLGSSCIYPKLAKQPMAESELL..qgTLEP..tnEPYAIAKIAGI
+
+           151                                            200
+1bsvA      KLCESYNRQYGRDYRSVMPTNLYGphdnfhp.SNSHVIPALLRRFHEAta
+1bwsA      KLCESYNRQYGRDYRSVMPTNLYG.phdnfhpSNSHVIPALLRRFHEA..
+
+           201                                            250
+1bsvA      qnap......DVVVWGSGTPMREFLHVDDMAAASIHVMELAHevwlentq
+1bwsA      ....taqnapDVVVWGSGTPMREFLHVDDMAAASIHVMELAH........
+
+           251                                            300
+1bsvA      pml...........SHINVGTGVDCTIRELAQTIAKVVGYKgr..VVFDa
+1bwsA      ...evwlentqpmlSHINVGTGVDCTIRDLAQTIAKVVGYK..grVVFD.
+
+           301                                         347
+1bsvA      ..skpdgTPRKLLDVTRLHQLGWYHEISLEAGLASTYQWFLENQdrf
+1bwsA      askpdg.TPRKLLDVTRLHQLGWYHEISLEAGLASTYQWFLENQ~~~
+

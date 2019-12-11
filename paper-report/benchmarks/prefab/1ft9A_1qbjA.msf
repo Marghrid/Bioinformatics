@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ft9A_1qbjA.msf MSF:  211 Type: P 11/12/19 CompCheck: 9966 ..
+
+  Name: 1qbjA      Len: 211  Check: 2530 Weight: 1.00
+  Name: 1ft9A      Len: 211  Check: 7436 Weight: 1.00
+
+//
+
+           1                                               50
+1qbjA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1ft9A      prfnianvllspdgetffrgfrskihakgslvctgegdengvfvvvdgrl
+
+           51                                             100
+1qbjA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1ft9A      rvylvgeereislfyltsgdmfcmhsgclveatertevrfadirtfeqkl
+
+           101                                            150
+1qbjA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~siYQDQEQRILKFLEELG.....
+1ft9A      qtcpsmawgliailgraltscmrtiedlmFHDIKQRIAGFFIDHAnttgr
+
+           151                                            200
+1qbjA      .....EGKATTAHDLSGKLGTPKKEINRVLYSLAKKGKLQKEAgtpplwk
+1ft9A      qtgviVSVDFTVEEIANLIGSSRQTTSTALNSLIKEGYISRQG..rghyt
+
+           201     211
+1qbjA      ia~~~~~~~~~
+1ft9A      ipnlvrlkaaa
+

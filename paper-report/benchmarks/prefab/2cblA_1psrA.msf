@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2cblA_1psrA.msf MSF:  336 Type: P 11/12/19 CompCheck:   12 ..
+
+  Name: 2cblA      Len: 336  Check: 7873 Weight: 1.00
+  Name: 1psrA      Len: 336  Check: 2139 Weight: 1.00
+
+//
+
+           1                                               50
+2cblA      ppgtvdkkmvekcwklmdkvvrlcqnpklalknsppyildllpdtyqhlr
+1psrA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+2cblA      tilsryegkmetlgeneyfrvfmenlmkktkqtislfkegkermyeensq
+1psrA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+2cblA      prrnltklslifshmlaelkgifpsglfqgdtfrit........KADAAE
+1psrA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sntqaersIIGMID
+
+           151                                            200
+2cblA      FWRKAFg.EKTIVPWKSFRQALHEVHPissg...........LEAMALKS
+1psrA      MFHKYT.rRDDKIDKPSLLTMMKENFP....nflsacdkkgtNYLADVFE
+
+           201                                            250
+2cblA      TIDLTCNDYISVFEFDIFTRLFQpwssllrnw...........nslavth
+1psrA      KKDKNEDKKIDFSEFLSLLGDIAt........dyhkqshgaapcsggsq~
+
+           251                                            300
+2cblA      pgymafltydevkarlqkfihkpgsyifrlsctrlgqwaigyvtadgnil
+1psrA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                              336
+2cblA      qtiphnkplfqalidgfregfylfpdgrnqnpdltg
+1psrA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2omf_1osmC.msf MSF:  354 Type: P 11/12/19 CompCheck: 7746 ..
+
+  Name: 2omf       Len: 354  Check: 3875 Weight: 1.00
+  Name: 1osmC      Len: 354  Check: 3871 Weight: 1.00
+
+//
+
+           1                                               50
+2omf       AEIYNKDGNKVDLYGKAVGLHYFSKGNGensygGNGDMTYARLGFKGETQ
+1osmC      AEIYNKDGNKLDLYGKIDGLHYFSDDKD.....VDGDQTYMRLGVKGETQ
+
+           51                                             100
+2omf       INSDLTGYGQWEYNFQGNNSEGadaqtgNKTRLAFAGLKYADVGSFDYGR
+1osmC      INDQLTGYGQWEYNVQANNTES.ssdq.AWTRLAFAGLKFGDAGSFDYGR
+
+           101                                            150
+2omf       NYGVVYDALGYTDMLPEFGGDTAYSDDFFVGRVGGVATYRNSNFFGLVDG
+1osmC      NYGVVYDVTSWTDVLPEFGGDTYGSDNFLQSRANGVATYRNSDFFGLVDG
+
+           151                                            200
+2omf       LNFAVQYLGKNEr..........DTARRSNGDGVGGSISYEy.EGFGIVG
+1osmC      LNFALQYQGKNGsvsgegatnngRGALKQNGDGFGTSVTYDifDGISAGF
+
+           201                                            250
+2omf       AYGAADRTNLQEAQPLGNGKKAEQWATGLKYDANNIYLAANYGETRNATP
+1osmC      AYANSKRTDDQNQLLLGEGDHAETYTGGLKYDANNIYLATQYTQTYNATR
+
+           251                                            300
+2omf       ITNkftntSGFANKTQDVLLVAQYQFDFGLRPSIAYTKSKAKDVEGIGDV
+1osmC      AGS.....LGFANKAQNFEVAAQYQFDFGLRPSVAYLQSKGKDLNGYGDQ
+
+           301                                            350
+2omf       DLVNYFEVGATYYFNKNMSTYVDYIINQIDSDNKLG...VGSDDTVAVGI
+1osmC      DILKYVDVGATYYFNKNMSTYVDYKINLLDDNSFTRsagISTDDVVALGL
+
+           351
+2omf       VYQF
+1osmC      VYQF
+

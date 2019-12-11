@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bkrA_1aoa.msf MSF:  250 Type: P 11/12/19 CompCheck: 8591 ..
+
+  Name: 1bkrA      Len: 250  Check: 6392 Weight: 1.00
+  Name: 1aoa       Len: 250  Check: 2199 Weight: 1.00
+
+//
+
+           1                                               50
+1bkrA      ~~ksaKDALLLWCQMKTAGYPNV..nihn......FTTSWRDGMAFNALI
+1aoa       yseeeKYAFVNWINKALENDPDCrhvipmnpntddLFKAVGDGIVLCKMI
+
+           51                                             100
+1bkrA      HKHRPDLIDFDKLKKS.....NAHYNLQNAFNLAEqhlgltk.LLDPEDI
+1aoa       NLSVPDTIDERAINKKkltpfIIQENLNLALNSAS.aigchvvNIGAEDL
+
+           101                                            150
+1bkrA      SVdhPDEKSIITYVVTYYHYFSKM~~~~~~~~~~~~~~~~~~~~~~~~~~
+1aoa       RA..GKPHLVLGLLWQIIKIGLFAdielsrnealtleelmklspeelllr
+
+           151                                            200
+1bkrA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1aoa       wanfhlensgwqkinnfsadikdskayfhllnqiapkgqkegepridinm
+
+           201                                            250
+1bkrA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1aoa       sgfnetddlkraesmlqqadklgcrqfvtpadvvsgnpklnlafvanlfn
+

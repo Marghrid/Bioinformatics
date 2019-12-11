@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1poxA_1bfd.msf MSF:  600 Type: P 11/12/19 CompCheck: 3692 ..
+
+  Name: 1poxA      Len: 600  Check: 9244 Weight: 1.00
+  Name: 1bfd       Len: 600  Check: 4448 Weight: 1.00
+
+//
+
+           1                                               50
+1poxA      tnILAGAAVIKVLEAWGVDHLYGIPGGSINSIMDalsaerdRIHYIQVRH
+1bfd       ~~ASVHGTTYELLRRQGIDTVFGNPGSNELPFLK..dfpe.DFRYILALQ
+
+           51                                             100
+1poxA      EEVGAMAAAADAKLTGKIGVCFGSAGPGGTHLMNGLYDAREDHVPVLALI
+1bfd       EACVVGIADGYAQASRKPAFINLHSAAGTGNAMGALSNAWNSHSPLIVTA
+
+           101                                            150
+1poxA      GQFGTTGMNMDTFQE.mnenPIYADVADYNVTAVNAATLPHVIDEAIRRA
+1bfd       GQQTRAMIGVEALLTnvdaaNLPRPLVKWSYEPASAAEVPHAMSRAIHMA
+
+           151                                            200
+1poxA      YAh..QGVAVVQIPVDLPwqqisaedw.yasannYQTPllpepdvqavtr
+1bfd       SM.apQGPVYLSVPYDDWdkdadpqshhlfdr..HVSS.svrlndqdldi
+
+           201                                            250
+1poxA      ltqtllaaeRPLIYYGIGAR..KAGKELEQLSKTLKIPLMST..ypakgI
+1bfd       lvkalnsasNPAIVLGPDVDaaNANADCVMLAERLKAPVWVApsaprc.P
+
+           251                                            300
+1poxA      VADRYPAYLGSANRvaqkp....anEALAQADVVLFVGNN.ypfa..evs
+1bfd       FPTRHPCFRGLMPA.....giaaisQLLEGHDVVLVIGAPvfryhqydpg
+
+           301                                            350
+1poxA      kafkntryflqidIDPAKLGKRHKTdIAVLAdaqktlaailaqvserest
+1bfd       qylkpgtrlisvtCDPLEAARAPMG.DAIVAdigamasalanlveessr.
+
+           351                                            400
+1poxA      pwwqanlanvknwraylasleDKQEGPLQAYQVLRAVNKIAEPDAIYSID
+1bfd       ...qlpt..aape...pakv.DQDAGRLHPETVFDTLNDMAPENAIYLNE
+
+           401                                            450
+1poxA      VGDINLNANRHLKLTPSNRHITSNlFATMGVGIPGAIAAKLNYPERQVFN
+1bfd       STSTTAQMWQRLNMRNPGSYYFCA.AGGLGFALPAAIGVQLAEPERQVIA
+
+           451                                            500
+1poxA      LAGDGGASMTMQDLVTQVQYHLPVINVVFTNCQYGFIKDEQEDTNQNDFI
+1bfd       VIGDGSANYSISALWTAAQYNIPTIFVIMNNGTYGALRWFAGVLEAENVP
+
+           501                                            550
+1poxA      GVEFNDIDFSKIADGVHMQAFRVNKIEQLPDVFEQAKAIaqHEPVLIDAV
+1bfd       GLDVPGIDFRALAKGYGVQALKADNLEQLKGSLQEALSA..KGPVLIEVS
+
+           551                                            600
+1poxA      ITgdrplpaeklrldsamssaadieafkqryeaqdlqplstylkqfgldd
+1bfd       TV~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

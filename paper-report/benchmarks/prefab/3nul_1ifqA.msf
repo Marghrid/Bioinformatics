@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3nul_1ifqA.msf MSF:  171 Type: P 11/12/19 CompCheck: 2382 ..
+
+  Name: 3nul       Len: 171  Check: 6941 Weight: 1.00
+  Name: 1ifqA      Len: 171  Check: 5441 Weight: 1.00
+
+//
+
+           1                                               50
+3nul       swqsyvddhlxcdvegnhLTAAAILGQ.DGSVWAQSAK...........F
+1ifqA      ~~~~~~~~~~~~~~~~~sVLLTXIARVaDGLPLAASXQedeqsgrdlqqY
+
+           51                                             100
+3nul       PQLkp..QEIDGIKKDFeepgflaptglflggekyxviqgeqGAVIRGKK
+1ifqA      QSQ..akQLFRKLNEQS.........................PTRCTLEA
+
+           101                                            150
+3nul       GPGGVTIKKTNQALVFGFYDEPXTGGQCNLVVERLGDYLIESEL~~~~~~
+1ifqA      GAXTFHYIIEQGVCYLVLCEAAFPKKLAFAYLEDLHSEFDEQHGkkvptv
+
+           151               171
+3nul       ~~~~~~~~~~~~~~~~~~~~~
+1ifqA      srpysfiefdtfiqktkklyi
+

@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hyuA_1tde.msf MSF:  531 Type: P 11/12/19 CompCheck: 5768 ..
+
+  Name: 1hyuA      Len: 531  Check: 6946 Weight: 1.00
+  Name: 1tde       Len: 531  Check: 8822 Weight: 1.00
+
+//
+
+           1                                               50
+1hyuA      ldtnmktqlraylekltkpveliatlddsaksaeikellaeiaelsdkvt
+1tde       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1hyuA      fkedntlpvrkpsflitnpgsqqgprfagsplgheftslvlallwtgghp
+1tde       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1hyuA      skeaqslleqirdidgdfefetyyslschncpdvvqalnlmavlnprikh
+1tde       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1hyuA      taidggtfqneiternvmgvpavfvngkefgqgrmtlteivakvdtgaek
+1tde       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1hyuA      raaealnkrdAYDVLIVGSGPAGAAAAVYSARKGIRTGLMGE.RFGGQVL
+1tde       ~~~gttk...HSKLLILGSGPAGYTAAVYAARANLQPVLITGmEKGGQLT
+
+           251                                            300
+1hyuA      DTVDIENYISVP.kTEGQKLAGALKAHVSDYDVDVIDsQSASKLVPAAte
+1tde       TTTEVENWPGDPndLTGPLLMERMHEHATKFETEIIF.DHINKVDLQN..
+
+           301                                            350
+1hyuA      gGLHQIETasgAVLKARSIIIATGAKWRNMNVPGEDQYRTKGVTYCPHCD
+1tde       .RPFRLNGdn.GEYTCDALIIATGASARYLGLPSEEAFKGRGVSACATCD
+
+           351                                            400
+1hyuA      GPLFKGKRVAVIGGGNSGVEAAIDLAGIVEHVTLLEFAPEMKAdqvlqdk
+1tde       GFFYRNQKVAVIGGGNTAVEEALYLSNIASEVHLIHRRDGFRAekilikr
+
+           401                                            450
+1hyuA      vrsl...KNVDIILNAQTTEVKGDGSKVVGLEYRDRV.sgdIHSVALAGI
+1tde       lmdkvenGNIILHTNRTLEEVTGDQMGVTGVRLRDTQnsdnIESLDVAGL
+
+           451                                            500
+1hyuA      FVQIGLLPNTHWLEGALERNrmGEIIIDA.....KCETSVKGVFAAGDCT
+1tde       FVAIGHSPNTAIFEGQLELE.nGYIKVQSgihgnATQTSIPGVFAAGDVM
+
+           501                         531
+1hyuA      TVPYKQIIIATGEGAKASLSAFDYLIRtkia
+1tde       DHIYRQAITSAGTGCMAALDAERYLDG~~~~
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1plc_2occB.msf MSF:  247 Type: P 11/12/19 CompCheck: 3993 ..
+
+  Name: 1plc       Len: 247  Check: 8550 Weight: 1.00
+  Name: 2occB      Len: 247  Check: 5443 Weight: 1.00
+
+//
+
+           1                                               50
+1plc       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2occB      maypmqlgfqdatspimeellhfhdhtlmivflisslvlyiislmlttkl
+
+           51                                             100
+1plc       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~idvl
+2occB      thtstmdaqevetiwtilpaiililialpslrilymmdeinnpsltvktm
+
+           101                                            150
+1plc       lgaddgSLAFVPs................................efsis
+2occB      gh....QWYWSY.eytdyedlsfdsymiptselkpgelrllevdnrvvlp
+
+           151                                            200
+1plc       p.GEKIVFKNNAGFPHNIVFDEdsipsgvdasKISMseed.LLNAKGETF
+2occB      meMTIRMLVSSEDVLHSWAVPS..........LGLK....tDAIPGRLNQ
+
+           201                                         247
+1plc       EVALS.nkgeYSFYCSPHq....GAGMVGKVTVN~~~~~~~~~~~~~
+2occB      TTLMSsrpglYYGQCSEI.cgsnHSFMPIVLELVplkyfekwsasml
+

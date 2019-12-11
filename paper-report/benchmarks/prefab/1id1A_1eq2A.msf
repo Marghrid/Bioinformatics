@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1id1A_1eq2A.msf MSF:  299 Type: P 11/12/19 CompCheck: 7212 ..
+
+  Name: 1id1A      Len: 299  Check: 7904 Weight: 1.00
+  Name: 1eq2A      Len: 299  Check: 9308 Weight: 1.00
+
+//
+
+           1                                               50
+1id1A      hrkdHFIVCG.HSILAINTILQLNQRGQ.NVTVISNLPEDDIKQLEQRLg
+1eq2A      ~~~~MIIVTGgAGFIGSNIVKALNDKGItDILVVDNLKDGTKFVNLVDLn
+
+           51                                             100
+1id1A      dnadvipgd.sndssvl...KKAGidRCRAILALSD..............
+1eq2A      .iadymdkedfliqi..magEEFG..DVEAIFHEGAxssttewdgkymmd
+
+           101                                            150
+1id1A      .ndadnafvvlsakdmssDVKTVLAVs.......................
+1eq2A      nnyqyskellhycler..EIPFLYAS.saatyggrtsdfiesreyekpln
+
+           151                                            200
+1id1A      .dsknlnkikmvhp..........DIILSPQ...................
+1eq2A      vygyskflfdeyv.rqilpeansqIVGFRYFnvygpreghkgsmasvafh
+
+           201                                            250
+1id1A      .................................lfgseilarvlngeei.
+1eq2A      lntqlnnkrdfvyvgdvadvnlwflengvsgifnlgt..graes.....f
+
+           251                                           299
+1id1A      ...................nndmlvsmlln~~~~~~~~~~~~~~~~~~~
+1eq2A      qavadatyqaftqadltnlraagy......dkpfktvaegvteymawln
+

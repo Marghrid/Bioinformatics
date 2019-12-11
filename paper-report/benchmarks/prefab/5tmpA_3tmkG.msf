@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/5tmpA_3tmkG.msf MSF:  210 Type: P 11/12/19 CompCheck: 6615 ..
+
+  Name: 5tmpA      Len: 210  Check: 6042 Weight: 1.00
+  Name: 3tmkG      Len: 210  Check:  573 Weight: 1.00
+
+//
+
+           1                                               50
+5tmpA      RSKYIVIEGLEGAGKTTARNVVVETLEQLGIRDMVFTREPGGTQLAEKLR
+3tmkG      RGKLILIEGLDRTGKTTQCNILYKKLQ....PNCKLLKFPE....STRIG
+
+           51                                             100
+5tmpA      SLLLDIKSVGDEVITDKAEVLMFYAARVQLVETVIKPALANGTWVIGDRH
+3tmkG      GLILTDDSF...QLSDQAIHLLFSANRWEIVD.KIKKDLLEGKNIVMDRY
+
+           101                                            150
+5tmpA      DLSTQAYQGGGRGIDQHMLATLRDAVLGDFRPDLTLYLDVTPEVGLKRAR
+3tmkG      VYSGVAYSA.AKGTDLDWCLQPDV...GLLKPDLTLFLSTDVDN.NAEKS
+
+           151                                            200
+5tmpA      ARGELDRIEQESFDFFNRTRARYLELAAQDKSIHTIDATQPLEAVMDAIR
+3tmkG      .GFGDERYE..TVKFQEKVKQTFMKLLDKEESITIVDVTKGIQEVEALIW
+
+           201    210
+5tmpA      TTVTHWVKEL
+3tmkG      QIVEPVLSTH
+

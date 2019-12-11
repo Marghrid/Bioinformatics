@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cmoA_1hjbC.msf MSF:  138 Type: P 11/12/19 CompCheck: 9507 ..
+
+  Name: 1cmoA      Len: 138  Check: 3182 Weight: 1.00
+  Name: 1hjbC      Len: 138  Check: 6325 Weight: 1.00
+
+//
+
+           1                                               50
+1cmoA      vevladhpg.ELVRTDSPNFLCsvLPTHWRSnk.TLPI..AFKVVALGDV
+1hjbC      ~~~~~~~~~gELVRTDSPNFLCs.VLPTHWR..cNKTLpiAFKVVALGDV
+
+           51                                             100
+1cmoA      PDGTLVTVMAGNDENYSAELRNATAAMKNQVARFNDLRFVGRSGRGKSFT
+1hjbC      PDGTLVTVMAGNDENYSAELRNATAAMKNQVARFNDLRFVGRSGRGKSFT
+
+           101                                138
+1cmoA      LTITVFTNPPQVATYHRaiki.......TVDGpreprr
+1hjbC      LTITVFTNPPQVATYHR....aikitvdGPRE..prrh
+

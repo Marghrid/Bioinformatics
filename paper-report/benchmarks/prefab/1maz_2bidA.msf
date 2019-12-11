@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1maz_2bidA.msf MSF:  221 Type: P 11/12/19 CompCheck: 1362 ..
+
+  Name: 1maz       Len: 221  Check: 7873 Weight: 1.00
+  Name: 2bidA      Len: 221  Check: 3489 Weight: 1.00
+
+//
+
+           1                                               50
+1maz       ~~~~~~~~~~~~~~MSQSNRELVVDFLSYKLsqkgys..wsqfip.....
+2bidA      gsmdcevnngsslrDECITNLLVFGFLQSCS.dnsfrreldal..ghelp
+
+           51                                             100
+1maz       .....................................maavkqalreagd
+2bidA      vlapqwegydelqtdgnrsshsrlgrieadsesqediirniarhlaqvgd
+
+           101                                            150
+1maz       efelryr.RAFSDLTSQLHITpGTAYQSFEQVVN.elfrdg........v
+2bidA      smdrsippGLVNGLALQLRNT.SRSEEDRNRDLAtaleqllqayprdmek
+
+           151                                            200
+1maz       nwgrivaffsfggalcvesvdkemqvLVSRIAAWMATYLNDHLEPWiqen
+2bidA      ektmlvlalllakkvashtp.....sLLRDVFHTTVNFINQNLRTY....
+
+           201               221
+1maz       ggwdtfvelyg~~~~~~~~~~
+2bidA      ...........vrslarngmd
+

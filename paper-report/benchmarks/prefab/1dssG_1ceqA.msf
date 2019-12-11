@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dssG_1ceqA.msf MSF:  478 Type: P 11/12/19 CompCheck: 5586 ..
+
+  Name: 1dssG      Len: 478  Check: 6236 Weight: 1.00
+  Name: 1ceqA      Len: 478  Check: 9350 Weight: 1.00
+
+//
+
+           1                                               50
+1dssG      ~~SKIGINGFGRIGRLVLRAALEMGAQVVAVNDPFialeymvymfkydst
+1ceqA      pkAKIVLVGSGMIGGVMATLIVQKNLGDVVLFDIVknm..phgkald...
+
+           51                                             100
+1dssG      hgmfkgevkaedgal.vvdg......KKITVFNEmkpenipwskaGAEYI
+1ceqA      ...............tshtnvmaysnCKVSGSNT....yddla..GSDVV
+
+           101                                            150
+1dssG      VESTGVftt.............iekas.ahfkgga..KKVIISA..psad
+1ceqA      IVTAGF...tnrddllplnnkimieigghikknc.pnAFIIVVTnpvdvm
+
+           151                                            200
+1dssG      apmfvcgvnlekys........KDMKVVSNAs..xttncla.........
+1ceqA      vq............llhqhsgvPKNKIIGLG.gvldtsrlkyyisqklnv
+
+           201                                            250
+1dssG      ..pvak.................vlhenfeiveg...............l
+1ceqA      cprdvnahivgahgnkmvllkryitvggiplq..efinnklisdaeleai
+
+           251                                            300
+1dssG      mtt.....vhavtatqktvdgpsakdwrggrgaaqniipsstgaakavgk
+1ceqA      fdrtvntaleiv......................................
+
+           301                                            350
+1dssG      vipeldgkltgmafrvptpnvsvvdltvrlgkecsyddikaamkaasegp
+1ceqA      ...............nlhas..............................
+
+           351                                            400
+1dssG      lqgvlgyteddvvscdftgdnrssifdakagiqlsktfvkvvswydnefg
+1ceqA      ..............................................pyva
+
+           401                                            450
+1dssG      ysqrvidlikhmqk.............................vdsa~~~
+1ceqA      paaaiiemaesylkdlkkvlicstllegqyghsdifggtpvvlgangveq
+
+           451                      478
+1dssG      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1ceqA      vielqlnseekakfdeaiaetkrmkala
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1hqoA_1g6wA.msf MSF:  236 Type: P 11/12/19 CompCheck: 3055 ..
+
+  Name: 1hqoA      Len: 236  Check: 6915 Weight: 1.00
+  Name: 1g6wA      Len: 236  Check: 6140 Weight: 1.00
+
+//
+
+           1                                               50
+1hqoA      ~~~fqeq...PLEGYTLFSHRSAPNGFKVAIVLSELGFHYNTIFLDFNLG
+1g6wA      sritkffqeqPLEGYTLFSHRSAPNGFKVAIVLSELGFHYNTIFLDFNLG
+
+           51                                             100
+1hqoA      EHRAPEFVSVNPNARVPALIDHGXDNLSIWESGAILLHLVNKYYKETGNP
+1g6wA      EHRAPEFVSVNPNARVPALIDHGMDNLSIWESGAILLHLVNKYYKETGNP
+
+           101                                            150
+1hqoA      LLWSDDLADQSQINAWLFFQTSGHAPXIGQALHFRYFHSQKIASAVERYT
+1g6wA      LLWSDDLADQSQINAWLFFQTSGHAPMIGQALHFRYFHSQKIASAVERYT
+
+           151                                            200
+1hqoA      DEVRRVYGVVEXALAERREALVXf...DYPVWLVGDKLTIADLAFVPWNN
+1g6wA      DEVRRVYGVVEMALAERREALVM.eldDYPVWLVGDKLTIADLAFVPWNN
+
+           201                              236
+1hqoA      VVDRIGINIKIEFPEVYKWTKHXXRRPAVIKALRGe
+1g6wA      VVDRIGINIKIEFPEVYKWTKHMMRRPAVIKALRG~
+

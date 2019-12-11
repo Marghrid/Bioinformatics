@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dhn_1b9lA.msf MSF:  126 Type: P 11/12/19 CompCheck: 3550 ..
+
+  Name: 1dhn       Len: 126  Check: 6034 Weight: 1.00
+  Name: 1b9lA      Len: 126  Check: 7516 Weight: 1.00
+
+//
+
+           1                                               50
+1dhn       ~~mqDTIFLKGMRFYGYHGALSAENEIGQIFKVDVTLKVD...lseagrt
+1b9lA      aqpaAIIRIKNLRLRTFIGIKEEEINNRQDIVINVTIHYPadkarts..e
+
+           51                                             100
+1dhn       dnvidTVHYGEVFEEVKSIMEGKAVNLLEHLAERIANRINsQYNRVMETK
+1b9lA      dind.ALNYRTVTKNIIQHVENNRFSLLEKLTQDVLDIAR.EHHWVTYAE
+
+           101                    126
+1dhn       VRITKENPPIpgHYDGVGIEIVRENk
+1b9lA      VEIDKLHALR..YADSVSMTLSWQR~
+

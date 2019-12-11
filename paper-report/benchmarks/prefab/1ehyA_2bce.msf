@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ehyA_2bce.msf MSF:  625 Type: P 11/12/19 CompCheck: 7117 ..
+
+  Name: 1ehyA      Len: 625  Check: 1352 Weight: 1.00
+  Name: 2bce       Len: 625  Check: 5765 Weight: 1.00
+
+//
+
+           1                                               50
+1ehyA      airrpedfkh................................yevqlpd.
+2bce       ~~~~~~~~~~aklgsvyteggfvegvnkklslfgdsvdifkgipfaaapk
+
+           51                                             100
+1ehyA      ......................................vKIHYVREGA..
+2bce       alekperhpgwqgtlkaksfkkrclqatltqdstygnedCLYLNIWVPqg
+
+           101                                            150
+1ehyA      .......GPTLLLLHGw..pgfw.....WEWSkvIGPLAE..HYDVIVPD
+2bce       rkevshdLPVMIWIYG.gafl..mglsnYLYD..GEEIATrgNVIVVTFN
+
+           151                                            200
+1ehyA      LRGfgdsekpd.lndlskysl..........dkaaddqaalldalg....
+2bce       YRV........gp....lgf.lstgdsnlpgnyglwdqhmaiawvkrnie
+
+           201                                            250
+1ehyA      .....IEKAYVVGHDFAAIVLHKFIRK.y.SDRVIKAAIFDPIqpdfesw
+2bce       afggdPDQITLFGESAGGASVSLQTLSpynKGLIKRAISQSGV.......
+
+           251                                            300
+1ehyA      .........ysqfhqldmavevvgssrevckkyfkhffdhwsyrdellte
+2bce       glcpwaiqqdplfwak..riaek...........................
+
+           301                                            350
+1ehyA      eelevhvdncmkpd....................nihggfn.........
+2bce       ..............vgcpvddtskmagclkitdpralt...layklplgs
+
+           351                                            400
+1ehyA      ........yyranirpdaal.......wtdldhtmsd.LPVTMIWGLGdt
+2bce       teypklhylsfvpv.....idgdfipddpvnlyanaadVDYIAGTNDM..
+
+           401                                            450
+1ehyA      cv................................................
+2bce       ..dghlfvgmdvpainsnkqdvteedfyklvsgltvtkglrgaqatyevy
+
+           451                                            500
+1ehyA      .........................pYApl.IEFVPKyys......NYTM
+2bce       tepwaqdssqetrkktmvdletdilfLI.ptKIAVAQ.hkshaksaNTYT
+
+           501                                            550
+1ehyA      ETIED............CGHF.LMVEk...................PEIA
+2bce       YLFSQpsrmpiypkwmgADHAdDLQY.vfgkpfatplgyraqdrtvSKAM
+
+           551                                            600
+1ehyA      IDRIKTAFR~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2bce       IAYWTNFARtgdpntghstvpanwdpytleddnyleinkqmdsnsmklhl
+
+           601                   625
+1ehyA      ~~~~~~~~~~~~~~~~~~~~~~~~~
+2bce       rtnylqfwtqtyqalptvtpvvigf
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2i1b_2ila.msf MSF:  153 Type: P 11/12/19 CompCheck: 4172 ..
+
+  Name: 2i1b       Len: 153  Check: 2242 Weight: 1.00
+  Name: 2ila       Len: 153  Check: 1930 Weight: 1.00
+
+//
+
+           1                                               50
+2i1b       APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGE
+2ila       ~MRIIKYFILNDALNQSIIRANAQYLTAAALH..NLDEAVKFDMGAYKSS
+
+           51                                             100
+2i1b       ESNDKIPVALGLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFV
+2ila       A...KITVILRISKTQLYVTAQD....QPVLLKEMPE..IPKTI.ETNLL
+
+           101                                            150
+2i1b       FNKIEINNKLEFESAQFPNWYISTSQAENMPVFLGGTKGGQDITDFTMQF
+2ila       FFWETHGTKNYFTSVAHPNLFIATKQD..YWVCLAGG..PPSITDFQILE
+
+           151 153
+2i1b       VSS
+2ila       ~~~
+

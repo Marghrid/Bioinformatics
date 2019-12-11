@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1tbgE_1tbgF.msf MSF:  69 Type: P 11/12/19 CompCheck: 3117 ..
+
+  Name: 1tbgE      Len: 69  Check:  525 Weight: 1.00
+  Name: 1tbgF      Len: 69  Check: 2592 Weight: 1.00
+
+//
+
+           1                                               50
+1tbgE      p.vinie.DLTEKDKLKMEVDQLKKEVTLERMLVSKCCEEFRDYVEERSG
+1tbgF      ~apvinieDLTEKDKLKMEVDQLKKEVTLERMLVSKCCEEFRDYVEERSG
+
+           51               69
+1tbgE      EDPLVKGIPEDKNPFKelk
+1tbgF      EDPLVKGIPEDKNPFK~~~
+

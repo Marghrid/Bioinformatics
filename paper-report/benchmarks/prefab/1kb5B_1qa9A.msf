@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1kb5B_1qa9A.msf MSF:  126 Type: P 11/12/19 CompCheck: 7269 ..
+
+  Name: 1qa9A      Len: 126  Check: 7782 Weight: 1.00
+  Name: 1kb5B      Len: 126  Check: 9487 Weight: 1.00
+
+//
+
+           1                                               50
+1qa9A      na.......LETWGALGQDINLDIpsFQMSDDIDDIKWEKTS...DKKKI
+1kb5B      ~~tlleqnpRWRLVPRGQAVNLRC..ILKNSQYPWMSWYQQDlqkQLQWL
+
+           51                                             100
+1qa9A      AQFRKEk.ETFKEKd....tyellk....NGALKIkhlktddQDIYKVSI
+1kb5B      FTLRSP.gDKEVKS.lpgadylatrvtdtELRLQVa.nmsq.GRTLYCTC
+
+           101                    126
+1qa9A      YDTK......GKNVLEKIFDLKIqer
+1kb5B      SAAPdwgasaETLYFGSGTRLTVl~~
+

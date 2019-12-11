@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bak_1btkA.msf MSF:  185 Type: P 11/12/19 CompCheck: 8944 ..
+
+  Name: 1btkA      Len: 185  Check: 9576 Weight: 1.00
+  Name: 1bak       Len: 185  Check: 9368 Weight: 1.00
+
+//
+
+           1                                               50
+1btkA      ~~~~aAVILESIFLKRSQQkkktsp.LNFKKCLFLLTVHKLSYYEYdfer
+1bak       shmgkDCIMHGYMSKMGNPf.....lTQWQRRYFYLFPNRLEWRGEge..
+
+           51                                             100
+1btkA      grrgskk...GSIDVEKITCVETVvpeknppperqimeqisiierfpy..
+1bak       .......apqSLLTMEEIQSVEET.qike...................rk
+
+           101                                            150
+1btkA      pfqvvy.DEGPLYVFSPTEELRKRWIHQLKNVIR.ynsdlvqkyhpcfwi
+1bak       clllkirGGKQFILQCDSDPELVQWKKELRDAYReaqql...........
+
+           151                             185
+1btkA      dgqylccsqtaknamgcqilen~~~~~~~~~~~~~
+1bak       ......................vqrvpkmknkprs
+

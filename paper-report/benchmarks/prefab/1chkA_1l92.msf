@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1chkA_1l92.msf MSF:  260 Type: P 11/12/19 CompCheck: 7855 ..
+
+  Name: 1chkA      Len: 260  Check: 9366 Weight: 1.00
+  Name: 1l92       Len: 260  Check: 8489 Weight: 1.00
+
+//
+
+           1                                               50
+1chkA      agaglddphkkeiamelvssaenssldwkaqykyiedigdg...rgytgg
+1l92       ~~~~~~~~~~~mnifemlrideg.......lrlkiyk....dtegyytig
+
+           51                                             100
+1chkA      iigfcsgtgdm.......LELVQHYTdlepgnilakylpalkkvngsash
+1l92       ighlltks...pslnaakSELDKAIG........................
+
+           101                                            150
+1chkA      sglgtpft..kdwataakdtvFQQAQNDERdrvyfdpavsq..akad..G
+1l92       ........rntngv..itkd.EAEKLFNQDvdaavrgilrnaklkpvydS
+
+           151                                            200
+1chkA      LRALGQFAYYDAIVMHGPGndptSFGGIrKTAMKKartpaqggd..etty
+1l92       LDAVRRAAIINMVFQMGET....GVAGF.TNSLRM.........lqqkrw
+
+           201                                            250
+1chkA      lNGFLDARKAA.mlteaahddt..srvdteqrvflkagnldlnpplk.wk
+1l92       .DEAAVNLAKSrwynq..tpnrakrvit.tfrtgt............wda
+
+           251    260
+1chkA      tygdpyvins
+1l92       yk~~~~~~~~
+

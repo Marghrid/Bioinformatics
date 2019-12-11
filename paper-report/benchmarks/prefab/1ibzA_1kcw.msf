@@ -1,0 +1,93 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ibzA_1kcw.msf MSF:  1024 Type: P 11/12/19 CompCheck: 8618 ..
+
+  Name: 1kcw       Len: 1024  Check: 9615 Weight: 1.00
+  Name: 1ibzA      Len: 1024  Check: 9003 Weight: 1.00
+
+//
+
+           1                                               50
+1kcw       ekhyyigiiettwdyasdhgekklisvdtehsniylqngpdrigrlykka
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1kcw       lylqytdetfrttiekpvwlgflgpiikaetgdkvyvhlknlasrpytfh
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1kcw       shgityykehegaiypdnttdfqraddkvypgeqytymllateeqspgeg
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1kcw       dgncvtriyhshidapkdiasgligpliickkdsldkekekhidrefvvm
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1kcw       fsvvdenfswyledniktycsepekvdkdnedfqesnrmysvngytfgsl
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1kcw       pglsmcaedrvkwylfgmgnevdvhaaffhgqaltnknyridtinlfpat
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1kcw       lfdaymvaqnpgewmlscqnlnhlkaglqaffqvqecirgkhvrhyyiaa
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                            400
+1kcw       eeiiwnyapsgidiftkenltapgsdsavffeqgttriggsykklvyrey
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           401                                            450
+1kcw       tdasftnrkergpeeehlgilgpviwaevgdtirvtfhnkgayplsiepi
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           451                                            500
+1kcw       gvrfnknnegtyyspvppsashvaptetftyewtvpkevgptnadpvcla
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           501                                            550
+1kcw       kmyysavdptkdiftgligpmkickkgslhangrqkdvdkefylfptvfd
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           551                                            600
+1kcw       eneslllednirmfttapdqvdkededfqesnkmhsmngfmygnqpgltm
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           601                                            650
+1kcw       ckgdsvvwylfsagneadvhgiyfsgntylwrgerrdtanlfpqtsltlh
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           651                                            700
+1kcw       mwpdtegtfnveclttdhytggmkqkytvnqcrrqsedstfylgertyyi
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           701                                            750
+1kcw       aavevewdyspqrewekelhhlqeqnvsnafldkgefyigskykkvvyrq
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           751                                            800
+1kcw       ytdstfrvpverkaeeehlgilgpqlhadvgdkvkiifknmatrpysiha
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           801                                            850
+1kcw       hgvqtesstvtptlpgetltyvwkipersgagtedsacipwayystvdqv
+1ibzA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           851                                            900
+1kcw       kdlysgligplivcrrprrkLEFALLFLVFDENeswylddniktysdhpe
+1ibzA      ~~~~~~~~~~~~~~~~~~~~HNFNVVINAYDTTipelnv...........
+
+           901                                            950
+1kcw       kvnkddeefie........SNKMHAINgrmfgnLQGLTMHVGDEVNWYLM
+1ibzA      ...........egvtvkniRAFNVLNE......PETLVVKKGDAVKVVVE
+
+           951                                           1000
+1kcw       GMGNeiDLHTVHFHGHSfqykhrgvyssDVFDIFPGTYQTLEMFPRTPGI
+1ibzA      NKSP..ISEGFSIDAFG...........VQEVIKAGETKTISFTADKAGA
+
+           1001                1024
+1kcw       WLLHCHVTDhIHAGMETTYTVLQn
+1ibzA      FTIWCQLHP.KNIHLPGTLNVVE~
+

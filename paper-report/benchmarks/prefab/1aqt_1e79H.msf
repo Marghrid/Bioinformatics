@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aqt_1e79H.msf MSF:  135 Type: P 11/12/19 CompCheck: 5732 ..
+
+  Name: 1aqt       Len: 135  Check: 5521 Weight: 1.00
+  Name: 1e79H      Len: 135  Check:  211 Weight: 1.00
+
+//
+
+           1                                               50
+1aqt       STYHLDVVSAEQQMFSGLVEKIQVTGSEGELGIYPGHAPLLTAIKPGMIR
+1e79H      ~QMSFTFASPTQVFFNANVRQVDVPTQTGAFGILAAHVPTLQVLRPGLVV
+
+           51                                             100
+1aqt       IVKQHGHEEFIYLSGGILEVQPGNVTVLADTAIRGQDLDEARAMEAKRKA
+1e79H      VHAEDGTTSKYFVSSGSVTVNDSSVQLLAEEAVTLDMLDLGAAKANLEKA
+
+           101                             135
+1aqt       EEHISSSHGDVDYAQASAELAKAIAQLRVIELTKK
+1e79H      QSELLGAADEATRAEIQIRIEANEALVKAL~~~~~
+

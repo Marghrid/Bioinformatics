@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qfoA_1tit.msf MSF:  119 Type: P 11/12/19 CompCheck: 2849 ..
+
+  Name: 1tit       Len: 119  Check: 9424 Weight: 1.00
+  Name: 1qfoA      Len: 119  Check: 3425 Weight: 1.00
+
+//
+
+           1                                               50
+1tit       ieveKPLYGVEVFVGETAHFEIELSEp......DVHGQWKLK....gqpl
+1qfoA      wgv.SSPKNVQGLSGSCLLIPCIFSY.padvpvGITAIWYYDysgkrqvv
+
+           51                                             100
+1tit       ta.............SPDCEIIEDG..KKHILILHNCQLGMTGEVSFQAa
+1qfoA      ..ihsgdpklvdkrfRGRAELMGNMdhKVCNLLLKDLKPEDSGTYNFRFe
+
+           101             119
+1tit       ....naks..AANLKVKEl
+1qfoA      issnrwldvkGTTVTVTT~
+

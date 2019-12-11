@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dfuP_1feuA.msf MSF:  94 Type: P 11/12/19 CompCheck: 3674 ..
+
+  Name: 1dfuP      Len: 94  Check: 5953 Weight: 1.00
+  Name: 1feuA      Len: 94  Check: 7721 Weight: 1.00
+
+//
+
+           1                                               50
+1dfuP      MFTINAEVRKEQGKGASRRLRAANKFPAIIYGGKEAPLAIELDHDKVMNM
+1feuA      EYRLKAYYREGE...KPSALRRAGKLPGLMYNR.HLNRKVYVDLVEFDKV
+
+           51                                        94
+1dfuP      QAKAEFYSEVLTIVVDGKEIKVKAQDVQRHPYKPKLQHIDFVRA
+1feuA      FRQ.ASIHHVIVLELPGQSLPTLVRQVNLDKRRRRPEHVDFFVL
+

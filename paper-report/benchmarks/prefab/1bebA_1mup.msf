@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bebA_1mup.msf MSF:  156 Type: P 11/12/19 CompCheck: 2933 ..
+
+  Name: 1bebA      Len: 156  Check: 8910 Weight: 1.00
+  Name: 1mup       Len: 156  Check: 4023 Weight: 1.00
+
+//
+
+           1                                               50
+1bebA      QTMKGLDIQKVAGTWYSLAMAASDISLLDAQSAPLRVYVEELKPTPEGDL
+1mup       ~SSTGFNVEKINGEWHTIILASDKREKIE.DNGNFRLFLEQIHVL.ENSL
+
+           51                                             100
+1bebA      EILLQKWENGEaAQKKIIAEKTKIPAVFKIDALNENKVLVLDTDYKKYLL
+1mup       VLKFHTVRDEEaSELSMVADKTEKAGEYSVTYDGFNTFTIPKTDYDNFLM
+
+           101                                            150
+1bebA      FbMENSAEPEQSLVbQCLVRTPEVDDEALEKFDKALKALPMHIRLSFNPT
+1mup       AhLINEK...TFQLmGLYGREPDLSSDIKERFAQLCEEHGILNIIDLSN.
+
+           151
+1bebA      QLEeQa
+1mup       ANRa~~
+

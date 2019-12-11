@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cydA_1gegG.msf MSF:  267 Type: P 11/12/19 CompCheck: 4439 ..
+
+  Name: 1cydA      Len: 267  Check: 4319 Weight: 1.00
+  Name: 1gegG      Len: 267  Check:  120 Weight: 1.00
+
+//
+
+           1                                               50
+1cydA      lnfsGLRALVTGAGKGIGRDTVKALHASGAKVVAVTRt.NSDLVSLAKEC
+1gegG      ~~~~KKVALVTGAGQGIGKAIALRLVKDGFAVAIADY.nDATAKAVASEI
+
+           51                                             100
+1cydA      P....GIEPVCVDLGDWDATEKALGGIG....PVDLLVNNAALVIMQPFL
+1gegG      NqaggHAVAVKVDVSDRDQVFAAVEQARktlgGFDVIVNNAGVAPSTPIE
+
+           101                                            150
+1cydA      EVTKEAFDRSFSVNLRSVFQVSQMVARDMInrg...VPGSIVNVSSMVAH
+1gegG      SITPEIVDKVYNINVKGVIWGIQAAVEAFK...kegHGGKIINACSQAGH
+
+           151                                            200
+1cydA      VTFPNLITYSSTKGAMTMLTKAMAMELGPHKIRVNSVNPTVVLTDMGKKV
+1gegG      VGNPELAVYSSSKFAVRGLTQTAARDLAPLGITVNGYCPGIVKTPMWAEI
+
+           201                                            250
+1cydA      SA..........dpEFARKLKer.HPLRKFAEVEDVVNSILFLLSDRSAS
+1gegG      DRqvseaagkplg.YGTAEFA.krITLGRLSEPEDVAACVSYLASPDSDY
+
+           251           267
+1cydA      TSGGGILVDAGYLas~~
+1gegG      MTGQSLLIDGGMV..fn
+

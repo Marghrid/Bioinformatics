@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fjjA_1qouA.msf MSF:  196 Type: P 11/12/19 CompCheck: 9359 ..
+
+  Name: 1qouA      Len: 196  Check: 9743 Weight: 1.00
+  Name: 1fjjA      Len: 196  Check: 9616 Weight: 1.00
+
+//
+
+           1                                               50
+1qouA      rvigdvvdhftstvkmsviynsikHVYNGHELfpsav..........TST
+1fjjA      ~~~~~~~~~~~~axklisn.....DLRDGDKL.phrhvfngxgydgdNIS
+
+           51                                             100
+1qouA      PRVEVHGGDMRS.FFTLIMTDPDVpgpsdPYLREHLHWIVTDIpg.TTDS
+1fjjA      PHLAWDDVPAGTkSFVVTCYDPDA.....PTGSGWWHWVVVNLpadTRVL
+
+           101                                            150
+1qouA      Sf.............gkev......vSYEMPRPNi..GIHRFVFLLFKQK
+1fjjA      P.qgfgsglvaxpdgvlqtrtdfgktGYDGAAPP.kgETHRYIFTVHALD
+
+           151                                        196
+1qouA      KRGvvcrdgf.......ntrkftqe.nELGlp..VAAVFFNCQret
+1fjjA      IER.......idvdegasgaxvgfnvhFHS..laSASITAXFS~~~
+

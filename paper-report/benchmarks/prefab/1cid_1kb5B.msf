@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cid_1kb5B.msf MSF:  198 Type: P 11/12/19 CompCheck: 5916 ..
+
+  Name: 1kb5B      Len: 198  Check: 8928 Weight: 1.00
+  Name: 1cid       Len: 198  Check: 6988 Weight: 1.00
+
+//
+
+           1                                               50
+1kb5B      tlleqn.prwrlvprGQAVNLRCILKNSqy...pwmswyqqdl.qkqlqw
+1cid       ~~~~~~tsitaykseGESAEFSFPLNLG..eeslqgelrwkaekapssqs
+
+           51                                             100
+1kb5B      lftlrs..PGDKE..VKSLpgADYLATRVTdtELRLQVANMs..QGRTLY
+1cid       witfslknQKVSVqkSTSN..PKFQLSETL..PLTLQIPQVslqFAGSGN
+
+           101                                            150
+1kb5B      CTCSAApdwgasaETLYFGsgtrltvl~~~~~~~~~~~~~~~~~~~~~~~
+1cid       LTLTLD.......RGILYQ.evnlvv.mkvtqpdsntltcevmgptspkm
+
+           151                                          198
+1kb5B      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1cid       rlilkqenqearvsrqekviqvqapeagvwqcllsegeevkmdskiqv
+

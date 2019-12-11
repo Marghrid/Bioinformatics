@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dwnA_1msc.msf MSF:  136 Type: P 11/12/19 CompCheck: 3439 ..
+
+  Name: 1msc       Len: 136  Check: 9606 Weight: 1.00
+  Name: 1dwnA      Len: 136  Check: 3833 Weight: 1.00
+
+//
+
+           1                                               50
+1msc       snf.TQFVlvdnggtGDVTVAPSNFANGVAEWISSNSR.SQAYKVTCSVR
+1dwnA      ~~~sKTIV.lsvge.ATRTLTEIQSTADRQIFEEKVGPlVGRLRLTASLR
+
+           51                                             100
+1msc       QSS.AQNRKYTIKVEVPkvaTQTvggv....ELPVAARRSYLNMELTIPI
+1dwnA      QNGaKTAYRVNLKLDQAd..VVDcst.svcgELPKVRYTQVWSHDVTIVA
+
+           101                              136
+1msc       FATNSDCELIVKAMQGLLKDgnPIPSAIAAnsgiy~
+1dwnA      NSTEASRKSLYDLTKSLVAT.sQVEDLVVNlvplgr
+

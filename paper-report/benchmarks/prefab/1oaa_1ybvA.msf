@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1oaa_1ybvA.msf MSF:  259 Type: P 11/12/19 CompCheck: 3593 ..
+
+  Name: 1oaa       Len: 259  Check: 2856 Weight: 1.00
+  Name: 1ybvA      Len: 259  Check:  737 Weight: 1.00
+
+//
+
+           1                                               50
+1oaa       ADGLGCAVCVLTGASRGFGRALAPQLARLLSPGSVMLVSARSESMLRQLK
+1ybvA      SASLEGKVALVTGAGRGIGREMAMELGRRG...CKVIVNYASTESAEEVV
+
+           51                                             100
+1oaa       EELGAQQPDLKVVLAAADLGTEAGVQRLLSAVRELPRPEGLQRLLLINNA
+1ybvA      AAIKKNG..SDAACVKANVGVVEDIVRMFEEAVKIFG......DIVCSNS
+
+           101                                            150
+1oaa       ATLGDVSKGFLNVNDLAEVNNYWALNLTSMLCLTSGTLNAFQDSPGLSKT
+1ybvA      GVVSF..GHVKDV.TPEEFDRVFTINTRGQFFVAREAYKHLE....IGGR
+
+           151                                            200
+1oaa       VVNISSLCALQPYKGWGLYCAGKAARDMLYQVLAAEEPSVRVLSYAPGPL
+1ybvA      LILMGSITGQAKVPKHAVYSGSKGAIETFARCMAIDMAKITVNVVAPGGI
+
+           201                                            250
+1oaa       DNDMQQLARETSKDPELRSKLQKLKSDGALVDCGTSAQKLLGLLQKDTFQ
+1ybvA      KTDMYHAVCREYIPNG..EVDEYAAVQRRVGLPIDIARVVCFLASDGGWV
+
+           251   259
+1oaa       SGAHVDFYD
+1ybvA      TGKVIGID~
+

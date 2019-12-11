@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qdlB_1i7qB.msf MSF:  203 Type: P 11/12/19 CompCheck: 6638 ..
+
+  Name: 1qdlB      Len: 203  Check: 5307 Weight: 1.00
+  Name: 1i7qB      Len: 203  Check: 1331 Weight: 1.00
+
+//
+
+           1                                               50
+1qdlB      mDLTLIIDNYDSFVYNIAQIVGELGSYPIVIRNDeiSIKGIERID....P
+1i7qB      ~ADILLLDNVDSFTYNLVDQLRASGHQVVIYRNQ.iGAEVIIERLqhmeQ
+
+           51                                             100
+1qdlB      DRLIISPGPGTPEkreDIGVSLDVIKYLGKRTPILGVCLGHQAIGYAFGA
+1i7qB      PVLMLSPGPGTPS...EAGCMPELLQRLRGQLPIIGICLGHQAIVEAYGG
+
+           101                                            150
+1qdlB      KIRRARKVFHGKISNIILVnnspLSLYYGIAKEFKATRYHSLVVDEVHRP
+1i7qB      QVGQAGEILHGKASAIAHD...gEGMFAGMANPLPVARYHSLVGSNIPAD
+
+           151                                            200
+1qdlB      LIVDAISAedNEIMAIHHEEYPIYGVQFHPESVGTSLGYKILYNFLNRV~
+1i7qB      LTVNARFG..EMVMAVRDDRRRVCGFQFHPESILTTHGARLLEQTLAWAl
+
+           201 203
+1qdlB      ~~~
+1i7qB      akx
+

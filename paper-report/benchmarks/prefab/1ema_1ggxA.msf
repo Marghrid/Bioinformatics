@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ema_1ggxA.msf MSF:  225 Type: P 11/12/19 CompCheck: 4260 ..
+
+  Name: 1ema       Len: 225  Check: 9867 Weight: 1.00
+  Name: 1ggxA      Len: 225  Check: 4393 Weight: 1.00
+
+//
+
+           1                                               50
+1ema       SKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTG
+1ggxA      ~~~~~VIKEFMRFKVRMEGTVNGHEFEIEGEGEGRPYEGHNTVKLKVTKG
+
+           51                                             100
+1ema       KLPVPWPTLVTTFVQCFSRYPDHXKRHDFFKSAXPEGYVQERTIFFKDDG
+1ggxA      PLPFAWDILSPQFSKVYVKHPADI..PDYKKLSFPEGFKWERVMNFEDGG
+
+           101                                            150
+1ema       NYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIXA
+1ggxA      VVTVTQDSSLQDGCFIYKVKFIGVNFPSDGPVMQKKTM.GWEASTERLYP
+
+           151                                            200
+1ema       DKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ
+1ggxA      R..DGVLKGEIHKALKLKDGGHYLVEFKSIYMAKK..PVQLPGYYYVDSK
+
+           201                   225
+1ema       SALSKDPNEKRDHXVLLEFVTAAGI
+1ggxA      LDITSH..NEDYIVEQYERTEGRHH
+

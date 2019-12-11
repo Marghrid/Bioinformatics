@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1faoA_1fhoA.msf MSF:  130 Type: P 11/12/19 CompCheck: 5428 ..
+
+  Name: 1fhoA      Len: 130  Check: 2605 Weight: 1.00
+  Name: 1faoA      Len: 130  Check: 2823 Weight: 1.00
+
+//
+
+           1                                               50
+1fhoA      gdtgklgrIIRHDAFQVWEG.DEPPKLRYVFLFRNKIMFTEQdastspp.
+1faoA      ~~~~~pslGTKEGYLTKQGGlVKTWKTRWFTLHRNELKYFKD.......q
+
+           51                                             100
+1fhoA      .syTHYSSIRLDKYNI.rqhttd....EDTIVLQPQEpglPSFRIKPKdf
+1faoA      mspEPIRILDLTECSAvqfdy..sqerVNCFCLVFPF...RTFYLCAK..
+
+           101                        130
+1fhoA      etSEYVRKAWLRDIAEEqekyaaerd~~~~
+1faoA      ..TGVEADEWIKILRWK.........lsqi
+

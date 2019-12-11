@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2rmpA_1avfA.msf MSF:  392 Type: P 11/12/19 CompCheck: 2921 ..
+
+  Name: 2rmpA      Len: 392  Check: 6129 Weight: 1.00
+  Name: 1avfA      Len: 392  Check: 6792 Weight: 1.00
+
+//
+
+           1                                               50
+2rmpA      gsvdtpgyydfdl..........EEYAIPVSIGtp..GQDFLLLFDTGSS
+1avfA      ~~~~~~~~~~~~~vtyepmaymdAAYFGEISIG..tpPQNFLVLFDTGSS
+
+           51                                             100
+2rmpA      DTWVPHKGCTKSeGCVGSRFFDPSASst..FKATNYNLNITygTGGANGL
+1avfA      NLWVPSVYCQSQ.ACTSHSRFNPSES..stYSTNGQTFSLQ..SGSLTGF
+
+           101                                            150
+2rmpA      YFEDSIAIGDITVtk.QILAYVDNVRGPt.AEQSpnadiFLDGLFGAAYP
+1avfA      FGYDTLTVQSIQV.pnQEFGLSENEPGT.nFVYA.....QFDGIMGLAYP
+
+           151                                            200
+2rmpA      DNTAMeaeygsTYNTVHVNLYkq..GLISSPLFSVYMntnsgt.GEVVFG
+1avfA      ALSVD......EATTAMQGMV..qeGALTSPVFSVYLs.....gGAVVFG
+
+           201                                            250
+2rmpA      GVNNTLLGGDIAYTDVMSryggYYFWDAPVTGITVDGSAAvrf....srP
+1avfA      GVDSSLYTGQIYWAPVTQ....ELYWQIGIEEFLIGGQAS...gwcse.G
+
+           251                                            300
+2rmpA      QAFTIDTGTNFFIMPSsAASK.ivkaalpdATET.qqgwvvpcasyQns.
+1avfA      CQAIVDTGTSLLTVPQ.QYMSallqatg..AQEDeygqflvncns.I..q
+
+           301                                            350
+2rmpA      .KSTISIVMQksgsssdTIEISVPVSKMLLPVdqsn.eTCMFIILPDGGn
+1avfA      nLPSLTFIIN.......GVEFPLPPSSYILSN....ngYCTVGVEPTYL.
+
+           351                                    392
+2rmpA      .......QYIVGNLFLRFFVNVYDFGNNRIGFAPLAsayene
+1avfA      ssqngqpLWILGDVFLRSYYSVYDLGNNRVGFATAA~~~~~~
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fmb_1b11A.msf MSF:  114 Type: P 11/12/19 CompCheck: 8098 ..
+
+  Name: 1fmb       Len: 114  Check: 8049 Weight: 1.00
+  Name: 1b11A      Len: 114  Check:   49 Weight: 1.00
+
+//
+
+           1                                               50
+1fmb       ~vTYNLEKRPTTIVLINDTPLNVLLDTGADTSVLTTAHYnrLKYRGRKYQ
+1b11A      gtTTTLEKRPEILIFVNGYPIKFLLDTGADITILNRRDF..QVKNSIENG
+
+           51                                             100
+1fmb       GTGIGGVGGNVETFSTP.VTIKK.....KGRHIKTRMLVA...DIPVTIL
+1b11A      RQNMIGVGGGKRGTNYInVHLEIrdenyKTQCIFGNVCVLednSLIQPLL
+
+           101        114
+1fmb       GRDILQDLGAKLVL
+1b11A      GRDNMIKFNIRLVM
+

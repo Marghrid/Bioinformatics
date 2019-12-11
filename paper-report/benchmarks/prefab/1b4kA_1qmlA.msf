@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b4kA_1qmlA.msf MSF:  346 Type: P 11/12/19 CompCheck:  871 ..
+
+  Name: 1b4kA      Len: 346  Check: 9701 Weight: 1.00
+  Name: 1qmlA      Len: 346  Check: 1170 Weight: 1.00
+
+//
+
+           1                                               50
+1b4kA      ~~~~~~~~~~~~ypyTRLRRNRRDDFSRRLVRENVLTVDDLILPVFVLDG
+1qmlA      mhtaefletepteisSVLAGGYNHPLLRQWQSERQLTKNMLIFPLFISDN
+
+           51                                             100
+1b4kA      VNQRESIPSMPGVERLSIDQLLIEAEEWVALGIPALALFPVTPv.EKKSL
+1qmlA      PDDFTEIDSLPNINRIGVNRLKDYLKPLVAKGLRSVILFGVPLipGTKDP
+
+           101                                            150
+1b4kA      DAAEAYNPEGIAQRATRALRERFPELGIITDVALDPFTTHGQDGILDDDG
+1qmlA      VGTAADDPAGPVIQGIKFIREYFPELYIICDVCLCEYTSHGHCGVLYDDG
+
+           151                                            200
+1b4kA      YVLNDVSIDVLVRQALSHAEAGAQVVAPSDMMDGRIGAIREALESAGH.T
+1qmlA      TINRERSVSRLAAVAVNYAKAGAHCVAPSDMIDGRIRDIKRGLINANLaH
+
+           201                                            250
+1b4kA      NVRIMAYSAKYASAYYGpfrdavgsasnlgkgnka..TYQMDPANSDEAL
+1qmlA      KTFVLSYAAKFSGNLYG..................pfCYQLPPAGRGLAR
+
+           251                                            300
+1b4kA      HEVAADLAEGADMVMVKPGMPYLDIVRRVKDEFR.APTFVYQVSGEYAMH
+1qmlA      RALERDMSEGADGIIVKPSTFYLDIMRDASEICKdLPICAYHVSGEYAML
+
+           301                                        346
+1b4kA      MGAIQNGWLAE.SVILESLTAFKRAGADGILTYFAKQAAEQLRR~~
+1qmlA      HAAAEKGVVDLkTIAFESHQGFLRAGARLIITYLAPEFLDWLDEen
+

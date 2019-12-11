@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fltX_1tit.msf MSF:  102 Type: P 11/12/19 CompCheck: 7449 ..
+
+  Name: 1tit       Len: 102  Check: 4362 Weight: 1.00
+  Name: 1fltX      Len: 102  Check: 3087 Weight: 1.00
+
+//
+
+           1                                               50
+1tit       IEVEKpl......ygvevfvGETAHFEIELSEPDVHGQWKLKg..QPLTA
+1fltX      RPFVE..myseipeiihmteGRELVIPCRVTSPNITVTLKKF.plDTLIP
+
+           51                                             100
+1tit       S.pdceiiedgkKHILILHNCQLGMTGEVSFQAA....NAKSAANLKVke
+1fltX      Dgkriiwds...RKGFIISNATYKEIGLLTCEATvnghLYKTNYLTHRq.
+
+           101 102
+1tit       l~
+1fltX      .t
+

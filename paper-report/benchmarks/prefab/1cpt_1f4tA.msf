@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cpt_1f4tA.msf MSF:  412 Type: P 11/12/19 CompCheck: 5077 ..
+
+  Name: 1cpt       Len: 412  Check: 4010 Weight: 1.00
+  Name: 1f4tA      Len: 412  Check: 1067 Weight: 1.00
+
+//
+
+           1                                               50
+1cpt       MDARATIPEHIARTVILPQGYADDEVIYPAFKWLRDEQPLAMAHIEGYDP
+1f4tA      ~~~~~~~~~~~~~~~~~~~~~~~~~~MYDWFSEMRKKDPVYYDG.....N
+
+           51                                             100
+1cpt       MWIATKHADVMQIGKQPGLFSNAEGSEILYDQNNEAFMRSISGGCPHVID
+1f4tA      IWQVFSYRYTKEVLNNFSKFSSDL....................TGYHRY
+
+           101                                            150
+1cpt       SLTSMDPPTHTAYRGLTLNWFQPASIRKLEENIRRIAQASVQRLLDFDGE
+1f4tA      TMLTSDPPLHDELRSMSADIFSPQKLQTLETFIRETTRSLLDSI..DPRE
+
+           151                                            200
+1cpt       CDFMTDCALYYPLHVVMTALGVPEDDEPLMLKLTQDFFGVEAARRFHETI
+1f4tA      DDIVKKLAVPLPIIVISKILGLPIEDKEKFKEWSD.LVAF....ELGKKY
+
+           201                                            250
+1cpt       ATFYDYFNGFTVDRRSCPKDDVMSLLANSKLDGNYIDDKYINAYYVAIAT
+1f4tA      LELIGYVKDHLNSG.....TEVVSRVVNSN.....LSDIEKLGYIILLLI
+
+           251                                            300
+1cpt       AGHDTTSSSSGGAIIGLSRNPEQLALAKSDPALIPRLVDEAVRWTAPVKS
+1f4tA      AGNETTTNLISNSVIDFTRFN.LWQRIREEN.LYLKAIEEALRYSPPVMR
+
+           301                                            350
+1cpt       FMRTALADTEVRGQNIKRGDRIMLSYPSANRDEEVFSNPDEFDITRFPNR
+1f4tA      TVRKTKERVKLGDQTIEEGEYVRVWIASANRDEEVFHDGEKFIPDRNPNP
+
+           351                                            400
+1cpt       HLGFGWGAHMCLGQHLAKLEMKIFFEELLPKLKSVELSGPPRLVATNFVG
+1f4tA      HLSFGSGIHLCLGAPLARLEARIAIEEFSKRFRHIEILD.TEKVPNEVLN
+
+           401      412
+1cpt       GPKNVPIRFTKA
+1f4tA      GYKRLVVRLKSN
+

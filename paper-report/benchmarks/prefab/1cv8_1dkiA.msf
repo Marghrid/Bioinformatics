@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cv8_1dkiA.msf MSF:  341 Type: P 11/12/19 CompCheck: 4514 ..
+
+  Name: 1dkiA      Len: 341  Check: 1239 Weight: 1.00
+  Name: 1cv8       Len: 341  Check: 3275 Weight: 1.00
+
+//
+
+           1                                               50
+1dkiA      dkvnlggelsgsnmyvyngfvivsgdkrspeilgystsgsfdvngkenia
+1cv8       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1dkiA      sfmesyveqikenkklp...vvkslldSKGIH.ynqgnpynlltpviekv
+1cv8       ~~~~~~~~~~~~~~~~~neqyvnkl..ENFKIretqgn............
+
+           101                                            150
+1dkiA      kpgeqsfvgqhaATGSVATATAQIMKYHNypnkglkdytytlssnnpyfn
+1cv8       ............NGWCAGYTMSALLNATYn....................
+
+           151                                            200
+1dkiA      hpknlfaaistrqynwnnilptysgresnvqkmaise....LMADVGISV
+1cv8       .....................................tnkyHAEAVMRFL
+
+           201                                            250
+1dkiA      Dmd......ygpssgsagSSRVQRALKenFGYNqsvhqinrgdfskqd..
+1cv8       H..pnlqgqqfqftglt.PREMIYFGQt.QGRS..pqllnr.......mt
+
+           251                                            300
+1dkiA      weaqidkelsqnqPVYYQGVgkv.......gGHAFVIDGADGr....NFY
+1cv8       tynevdnltknnkGIAILGSrv.esrngmhaGHAMAVVGNAKlnngqEVI
+
+           301                                   341
+1dkiA      HVNWGWggvsDGFFRldal............yqsavvgikp
+1cv8       IIWNPW.dngFMTQDakn.nvipvsngdhyqwyssiygy~~
+

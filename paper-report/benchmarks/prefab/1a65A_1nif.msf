@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a65A_1nif.msf MSF:  588 Type: P 11/12/19 CompCheck: 2039 ..
+
+  Name: 1a65A      Len: 588  Check: 8690 Weight: 1.00
+  Name: 1nif       Len: 588  Check: 3349 Weight: 1.00
+
+//
+
+           1                                               50
+1a65A      qivn...............................svdtmtltnanvspd
+1nif       ~~~~distlprvkvdlvkppfvhahdqvaktgprvveftmtieekklvid
+
+           51                                             100
+1a65A      g..ftragilvngvh.GPLIRGGKNDNFELNVVNDLDNPtmlrptsihwh
+1nif       regteihamtfngsvpGPLMVVHENDYVELRLINPDTNT...llhnidfh
+
+           101                                            150
+1a65A      glfqrgtNWADGAdgvnqcpispghaflykftpagHAGTFWYHSHFg...
+1nif       aat....GALGGGa...ltqvnpgeettlrfkat.KPGVFVYHCAPegmv
+
+           151                                            200
+1a65A      .TQYCDGLRGPMVIYDDNDPH.....aalydeddentiitladwyhip..
+1nif       pWHVTSGMNGAIMVLPRDGLKdekgqpltydki...yyvgeqdfyvp.kd
+
+           201                                            250
+1a65A      .................apsiqgaaqpdatlingkgryvggpaaelsi..
+1nif       eagnykkyetpgeayedavkamrtltpthivfngav........galtgd
+
+           251                                            300
+1a65A      ..VNVEQGKKYrmrlislscdpNWQFSIDGHELTIIE.vdge.LTEPHTV
+1nif       haLTAAVGERVlvvhsqan..rDTRPHLIGGHGDYVWatgkfrNPPDLDQ
+
+           301                                            350
+1a65A      DRLQIFTGQRYSFVLDANQpVDNYWIRAQpnkgrnglagtf.ANGVNSAI
+1nif       ETWLIPGGTAGAAFYTFRQ.PGVYAYVNH........nlieaFELGAAGH
+
+           351                                            400
+1a65A      LRYAGAanadpttsanpnpaqlneadlhalidpaapgiptpgaadvnlrf
+1nif       FKVTGE............................................
+
+           401                                            450
+1a65A      qlgfsggrftingtayespsvptllqimsgaqsandllpagsvyelprnq
+1nif       ..................................................
+
+           451                                            500
+1a65A      vvelvvpagvlggphpfhlhghafsvvrsagsstynfvnpvkrdvvslgv
+1nif       ..................................................
+
+           501                                            550
+1a65A      tgdevtirfvtdnpgpwffhchiefhlmnglaivfaedmantvdannppv
+1nif       ..................................................
+
+           551                                588
+1a65A      ewaqlceiyddlppeatsiqtvv~~~~~~~~~~~~~~~
+1nif       .......................wnddlmtsvvkpasm
+

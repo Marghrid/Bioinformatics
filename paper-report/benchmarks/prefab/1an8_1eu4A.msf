@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1an8_1eu4A.msf MSF:  206 Type: P 11/12/19 CompCheck: 3272 ..
+
+  Name: 1an8       Len: 206  Check: 7974 Weight: 1.00
+  Name: 1eu4A      Len: 206  Check: 5298 Weight: 1.00
+
+//
+
+           1                                               50
+1an8       KKDISNVKSDLLYAYTITPYDYKDCRVNFSTTHTLNIDTQKYRGKDYYIS
+1eu4A      ~~NSYNNRHNLESLYKHDLIEADSIKNSPVTSHMLKYSVK.....DKNLS
+
+           51                                             100
+1an8       SEMSYEASQKFKRDDHVDVFGLFYILNsHTGEYIYGGITPAQNNKVNHKL
+1eu4A      VFFEDWISQEFK.DKEVDIYALSAQEVaGKRYEAFGGITLTNSEKKEIKV
+
+           101                                            150
+1an8       LGNLFISGESQQNLNNKIILEKDIVTFQEIDFKIRKYLMDNYKIYDATSP
+1eu4A      PVNVWDKSKQQPPM..FITVNKPKVTAQEVDIKVRKLLIKKYDIYNNEQK
+
+           151                                            200
+1an8       YVSGRIEIGTKDGKHEQIDLFDSPNEGTRSDIFAKYKDNRIINMKNFSHF
+1eu4A      YSKGTVTLDLNSGKDIVFDLYYFGN.GDFNSMLKIYSNNERIDSTQF.HV
+
+           201
+1an8       DIYLEK
+1eu4A      DVSIS~
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1otcB_1quqA.msf MSF:  250 Type: P 11/12/19 CompCheck: 5993 ..
+
+  Name: 1otcB      Len: 250  Check: 7185 Weight: 1.00
+  Name: 1quqA      Len: 250  Check: 8808 Weight: 1.00
+
+//
+
+           1                                               50
+1otcB      qqs.....AFKQLYTElfnnegdf...skvssnl.KKPLKCYVKESYPh.
+1quqA      ~~~hivpcTISQLLSA.tlvdevfrignvei...sQVTIVGIIRHAEK.a
+
+           51                                             100
+1otcB      .....FLVTDGY.fFVAPYFTKeavnefhakfpn..vnivdLTDKVIVIN
+1quqA      ptnivYKIDDMTaaPMDVRQWV............dtntvv.PPETYVKVA
+
+           101                                            150
+1otcB      nWSLELRRvnsaevftsyanLEARLIVHSFKPNLQErlnptrypvnlfrd
+1quqA      .GHLRSFQ............NKKSLVAFKIMPLEDM..............
+
+           151                                            200
+1otcB      defkttiqhfrhtalqaainktvkgdnlvdiskvadaagkkgkvdagivk
+1quqA      ..................................................
+
+           201                                            250
+1otcB      asaskgdefsdfsfkegntatlkiadifvqe~~~~~~~~~~~~~~~~~~~
+1quqA      ...............................neftthilevinahmvlsk
+

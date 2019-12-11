@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aba_1h75A.msf MSF:  94 Type: P 11/12/19 CompCheck: 9275 ..
+
+  Name: 1h75A      Len: 94  Check: 4657 Weight: 1.00
+  Name: 1aba       Len: 94  Check: 4618 Weight: 1.00
+
+//
+
+           1                                               50
+1h75A      RITIYTRN....DCVQCHATKRAMENRGFDFEMINVD.....rVPEAAEA
+1aba       MFKVYGYDsnihKCGPCDNAKRLLTVKKQPFEFINIMpekgvfDDEKIAE
+
+           51                                        94
+1h75A      LRAQGf.......RQLPVVIa.GDLSWSGF..RPDMInrlhpap
+1aba       LLTKL.grdtqigLTMPQVFapDGSHIGGFdqLREYFk~~~~~~
+

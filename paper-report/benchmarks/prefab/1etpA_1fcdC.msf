@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1etpA_1fcdC.msf MSF:  190 Type: P 11/12/19 CompCheck:  981 ..
+
+  Name: 1etpA      Len: 190  Check: 5679 Weight: 1.00
+  Name: 1fcdC      Len: 190  Check: 5302 Weight: 1.00
+
+//
+
+           1                                               50
+1etpA      AGDAEAGQGKVAVCGACHGVDGNSPAPNFPKLAGQGERYLLKQLQDIKAG
+1fcdC      ~~~~~TAEMLTNNCAGCHGTHGNSVGPASPSIAQMDPMVFVEVMEGFKSG
+
+           51                                             100
+1etpA      STPGAPEGVGRKVLEMTGMLDPLSDQDLEDIAAYFSSQKGSVGYADPALA
+1fcdC      .........EIASTIMGRIAKGYSTADFEKMAGYFKQQTYQPQSFDTALA
+
+           101                                            150
+1etpA      KQGEKLFRGGKLDQGMPACTGCHAPNGVGNDLAGFPKLGGQHAAYTAKQL
+1fcdC      DTGAKLHDK........YCEKCHVEGGKPLAEEDYHILAGQWTPYLQYAM
+
+           151                                  190
+1etpA      TDFREGNRTNDGDTMIMRGVAAKLSNKDIEALSSYIQGLH
+1fcdC      SDFREERRPME...KKMASKLRE.GDAGLDALFAFYASQQ
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1evhA_1qc6A.msf MSF:  112 Type: P 11/12/19 CompCheck: 7470 ..
+
+  Name: 1evhA      Len: 112  Check: 3697 Weight: 1.00
+  Name: 1qc6A      Len: 112  Check: 3773 Weight: 1.00
+
+//
+
+           1                                               50
+1evhA      ~SEQSICQARAAVMVYDDANKKWVPAGgstgFSRVHIYHHTGNNTFRVVG
+1qc6A      xSEQSICQARASVXVYDDTSKKWVPIK....FSRINIYHNTASSTFRVVG
+
+           51                                             100
+1evhA      RKIQDHQVVINCAIPKGLKYNQATQTFHQWRDARQVYGLNFGSKEDANVF
+1qc6A      VKLQDQQVVINYSIVKGLKYNQATPTFHQWRDARQVYGLNFASKEEATTF
+
+           101      112
+1evhA      ASAMMHALEVLN
+1qc6A      SNAXLFALNIXN
+

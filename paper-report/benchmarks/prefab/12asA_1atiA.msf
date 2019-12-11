@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/12asA_1atiA.msf MSF:  546 Type: P 11/12/19 CompCheck: 6547 ..
+
+  Name: 12asA      Len: 546  Check: 8296 Weight: 1.00
+  Name: 1atiA      Len: 546  Check: 8251 Weight: 1.00
+
+//
+
+           1                                               50
+12asA      ay...................................iakqrqisfvksh
+1atiA      ~~aassldelvalckrrgfifqsseiygglqgvydygplgvelknnlkqa
+
+           51                                             100
+12asA      fsrqleerl.glievqapilsrvg..dgtqdnl...sgae..........
+1atiA      wwrrnvyerddmegldasvlthrlvlhysg...heatfadpmvdnwtppr
+
+           101                                            150
+12asA      ...KAVQVKVK.alpd.AQFEVVHSLAKWKRQTLGQHD....FSAGEGLY
+1atiA      yfnMMFQDLRGprggrgLLAYLRPETAQGIFVNFKNVLdatsRKLGFGIA
+
+           151                                            200
+12asA      THMKALRPDEDRLSP.LHSVYVDQWDWERVMGDGERQfSTLKSTVEAIWA
+1atiA      QIGKAFRNEITPRNFiFRVREFEQMEIEYFVRPGEDE.YWHRYWVEERLK
+
+           201                                            250
+12asA      GIKATEaavseefglapflpdqihfvhsqellsrypdldakgreraiakd
+1atiA      WWQEMG............lsre............................
+
+           251                                            300
+12asA      lgavflvgiggklsdghrhdvrapdyddwstpselghaglngdilvwnpv
+1atiA      .nlvpyq.qppe........ssah.yaka...........tvdilyrfp.
+
+           301                                            350
+12asA      leDAFELSSMGIRVD..............ADTLkhqlaltgdedrlelew
+1atiA      .hGSLELEGIAQRTDfdlgshtkdqealgITAR.........vlrnehs.
+
+           351                                            400
+12asA      hqall.rgem...........PQTIGGGIGQSRLTMLLLQlphigqvqag
+1atiA      .....tqrlayrdpetgkwfvPYVIEPSAGVDRGVLALLA..........
+
+           401                                            450
+12asA      vwpaavresvpsll~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1atiA      ..............eaftreelpngeerivlklkpqlapikvaviplvkn
+
+           451                                            500
+12asA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1atiA      rpeiteyakrlkarllalglgrvlyedtgnigkayrrhdevgtpfavtvd
+
+           501                                        546
+12asA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1atiA      ydtigqskdgttrlkdtvtvrdrdtmeqirlhvdelegflrerlrw
+

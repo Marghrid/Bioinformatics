@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1pvc4_1ar94.msf MSF:  61 Type: P 11/12/19 CompCheck: 3991 ..
+
+  Name: 1pvc4      Len: 61  Check: 7794 Weight: 1.00
+  Name: 1ar94      Len: 61  Check: 6197 Weight: 1.00
+
+//
+
+           1                                               50
+1pvc4      AQVSSQKVGAHEnsSTINYTTINYYKDSASNAASKQDYSQDPSKFTEPLK
+1ar94      AQVSSQKVGAHE..STINYTTINYYRDSASNAASKQDFSQDPSKFTEPIK
+
+           51       61
+1pvc4      DVLIKTAPALN
+1ar94      DVLIKTAPMLN
+

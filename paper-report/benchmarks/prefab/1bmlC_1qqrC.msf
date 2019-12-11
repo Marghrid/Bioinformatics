@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bmlC_1qqrC.msf MSF:  337 Type: P 11/12/19 CompCheck: 9850 ..
+
+  Name: 1bmlC      Len: 337  Check: 4188 Weight: 1.00
+  Name: 1qqrC      Len: 337  Check: 5662 Weight: 1.00
+
+//
+
+           1                                               50
+1bmlC      svnnsqlvvsvagtvegtnqdislkffeidltsrphklekadllkaiqeq
+1qqrC      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1bmlC      lianvhsnddyfevidfasdatitdrngkvyfadkdgsvtlptqpvqefl
+1qqrC      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1bmlC      lsghvrvrpykekpiqnqaksvdveytvqftplnpddd.......TKLLK
+1qqrC      ~~~~~~~~~~~~~~iqnqaksvdveytvqftplnpdddfrpglklTKLLK
+
+           151                                            200
+1bmlC      TLAIGDTITSQELLAQAQSILNKTHPGYTIYERDSSIVTHDNDIFRTILP
+1qqrC      TLAIGDTITSQELLAQAQSILNKNHPGYTIYERDSSIVTHDNDIFRTILP
+
+           201                                            250
+1bmlC      MDQEFTYHVKNREQA...........einntdlisekyyvlkkgekp.yd
+1qqrC      MDQEFTYRVKNREQAyrinkksglneeinntdlisekyyvlkkgekpydp
+
+           251                                            300
+1bmlC      pfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakl
+1qqrC      fd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                               337
+1bmlC      lynnldafgimdytltgkvednhddtnriitvymgkr
+1qqrC      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

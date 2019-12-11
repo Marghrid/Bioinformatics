@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qu9A_1qd9C.msf MSF:  128 Type: P 11/12/19 CompCheck: 5547 ..
+
+  Name: 1qu9A      Len: 128  Check: 9010 Weight: 1.00
+  Name: 1qd9C      Len: 128  Check: 6537 Weight: 1.00
+
+//
+
+           1                                               50
+1qu9A      SKTIATENAPAAIGPYVQGVDLGNMIITSGQIPVNPKtgevp.ADVAAQA
+1qd9C      TKAVHTKHAPAAIGPYSQGIIVNNMFYSSGQIPLTPS.gemvnGDIKEQT
+
+           51                                             100
+1qu9A      RQSLDNVKAIVEAAGLKVGDIVKTTVFVKDLNDFATVNATYEAFFTehnA
+1qd9C      HQVFSNLKAVLEEAGASFETVVKATVFIADMEQFAEVNEVYGQYFD...T
+
+           101                      128
+1qu9A      TFPARSXVEVARLPKDVKIEIEAIAVRR
+1qd9C      HKPARSCVEVARLPKDALVEIEVIALVK
+

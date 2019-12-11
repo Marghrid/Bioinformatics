@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2hddA_1b8iA.msf MSF:  62 Type: P 11/12/19 CompCheck: 7249 ..
+
+  Name: 2hddA      Len: 62  Check: 8426 Weight: 1.00
+  Name: 1b8iA      Len: 62  Check: 8823 Weight: 1.00
+
+//
+
+           1                                               50
+2hddA      ~~~~~~RTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIW
+1b8iA      fypwmaRQTYTRYQTLELEKEFHTNHYLTRRRRIEMAHALSLTERQIKIW
+
+           51        62
+2hddA      FKNKRAKIKKS~
+1b8iA      FQNRRMKLKKEi
+

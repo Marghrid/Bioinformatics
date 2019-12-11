@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1pne_3nul.msf MSF:  145 Type: P 11/12/19 CompCheck:   26 ..
+
+  Name: 1pne       Len: 145  Check: 8260 Weight: 1.00
+  Name: 3nul       Len: 145  Check: 1766 Weight: 1.00
+
+//
+
+           1                                               50
+1pne       agWNAYIDN.LMAD...GTCQDAAIVGYkdsPSVWAAVPGKTfvNITPAE
+3nul       ~sWQSYVDDhLXCDvegNHLTAAAILGQd..GSVWAQSAKFP..QLKPQE
+
+           51                                             100
+1pne       VGILVG..KDRSSFFVNGLTLGGQKCSVIRDSLLqdgeFTMDLRTkstgg
+3nul       IDGIKKdfEEPGFLAPTGLFLGGEKYXVIQGEQG....AVIRGKK.....
+
+           101                                       145
+1pne       aPTFNITVTMTAKTLVLLMGKEGVHGGMINKKCYEMASHLRRSQY
+3nul       .GPGGVTIKKTNQALVFGFYDEPXTGGQCNLVVERLGDYLIESEL
+

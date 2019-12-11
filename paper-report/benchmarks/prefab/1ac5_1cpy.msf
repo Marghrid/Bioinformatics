@@ -1,0 +1,49 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ac5_1cpy.msf MSF:  483 Type: P 11/12/19 CompCheck: 9892 ..
+
+  Name: 1ac5       Len: 483  Check: 2705 Weight: 1.00
+  Name: 1cpy       Len: 483  Check: 7187 Weight: 1.00
+
+//
+
+           1                                               50
+1ac5       LPSSEEYKVAYELLPGLSEVPDPSNIPQMHAGHIPLRSEDADEQDSSDLE
+1cpy       ~~~~~IKDP.KILG..........PNVTQYTGYLDVE........DEDKH
+
+           51                                             100
+1ac5       YFFWKFTNNDSNGNVDRPLIIWLNGGPGaSSMDGALVESGPFRVNSDGKL
+1cpy       FFFWTFESRN..DPAKDPVILWLNGGPGaSSLTGLFFALGPSSIGPDLKP
+
+           101                                            150
+1ac5       YLNEGSWISKGDLLFIDQPTGTGFSVEQNKDEGKIDKNKFDEDLEDVTKH
+1cpy       IGNPYSWNSNATVIFLDQPVNVGFSYS..........SSGVSNTVAAGKD
+
+           151                                            200
+1ac5       FMDFLENYFKIFPEDLTRKIILSGESYAGQYIPFFANAILNHNKFSKIDG
+1cpy       VYNFLELFFDQFPEYVGQDFHIAGASYAGHYIPVFASEILSHKD......
+
+           201                                            250
+1ac5       DTYDLKALLIGNGWIDPNTQSLSYLPFAmEKKLIDESNPNfKHLTNAHEN
+1cpy       RNFNLTSVLIGNGLTDPLTQYNYYEPMAbGPSVLPSE..EbSAMEDSLER
+
+           251                                            300
+1ac5       bQNLINSaSTDEAaHFSYQEbENILNLLLSYTRESSQKGTADcLNMYNFN
+1cpy       cLGLIESd..VWSdV.ATIYcNNQLAPYQRT...........gRNVYDIR
+
+           301                                            350
+1ac5       LKdSYPScGMNwPKDISFVSKFFSTPGVIDSLHLDSDKIDHWKEaTNSVG
+1cpy       KDeEGGN...LeYPTLQDIDDYLNQDYVKEAVGAE...VDHYESaNFDIN
+
+           351                                            400
+1ac5       TKLSNPISKPSIHLLPGLLESGIEIVLFNGDKDLICNNKGVLDTIDNLKW
+1cpy       RNFLFAGDKPYHTAVTDLLNQDLPILVYAGDKDFICNWLGNKAWTDVLPW
+
+           401                                            450
+1ac5       GGIKGFSDDAVSFDWIHKSKSTDDSEEFSGYVKYDRNLTFVSVYNASHMV
+1cpy       KYDEEFAS.QKVRNWTASIT.....DEVAGEVKSYKHFTYLRVFNGGHMV
+
+           451                           483
+1ac5       PFDKSLVSRGIVDIYSNDVMIIDNNGKNVMITT
+1cpy       PFDVPENALSMVEWIHGG~~~~~~~~~~~~~~~
+

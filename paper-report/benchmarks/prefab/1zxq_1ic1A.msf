@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1zxq_1ic1A.msf MSF:  200 Type: P 11/12/19 CompCheck: 6915 ..
+
+  Name: 1zxq       Len: 200  Check: 5380 Weight: 1.00
+  Name: 1ic1A      Len: 200  Check: 1535 Weight: 1.00
+
+//
+
+           1                                               50
+1zxq       kvfeVHVRPKKLAVEPKGSLEVNCSTTCNQPEVGGLETSLNKILLDE.qa
+1ic1A      ~~~qTSVSPSKVILPRGGSVLVTCSTSCDQPKLLGIETPLPKKELLLpgn
+
+           51                                             100
+1zxq       QWKHYLVSNISHDTVLQCHFTCSGKQESMNSNVSVYQPPRQVILTl.QPT
+1ic1A      NRKVYELSNVQEDSQPMCYSNCPDGQSTAKTFLTVYWTPERVELA.pLPS
+
+           101                                            150
+1zxq       LVAVGKSFTIECRVPTVEPLDSLTLFLFRGNETLHYETFGkaapapq.EA
+1ic1A      WQPVGKNLTLRCQVEGGAPRANLTVVLLRGEKELKREPAVg......ePA
+
+           151                                            200
+1zxq       TATFNSTADREDGHRNFSCLAVLDlmsrggnIFHKHSAPKMLEIY~~~~~
+1ic1A      EVTTTVLVRRDHHGANFSCRTELDlrpqgleLFENTSAPYQLQTFvlpat
+

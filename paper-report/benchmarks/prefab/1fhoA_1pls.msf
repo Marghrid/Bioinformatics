@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fhoA_1pls.msf MSF:  144 Type: P 11/12/19 CompCheck: 5689 ..
+
+  Name: 1fhoA      Len: 144  Check: 5794 Weight: 1.00
+  Name: 1pls       Len: 144  Check: 9895 Weight: 1.00
+
+//
+
+           1                                               50
+1fhoA      mgdtgKLGRiIRHDAFQVWEGD.ePPKLRYVFLFRNKIMFTEQdastspp
+1pls       ~~~~mEPKR.IREGYLVKKGSVfnTWKPMWVVLLEDGIEFYKK.......
+
+           51                                             100
+1fhoA      sy....THYSSIRLDKYNIRQHtt......DEDTIVLQPQEpgLPSFRIK
+1pls       ..ksdnSPKGMIPLKGSTLTSP..cqdfgkRMFVFKITTTK..QQDHFFQ
+
+           101                                      144
+1fhoA      PKdfetSEYVRKAWLRDIAEEqekyaaerd~~~~~~~~~~~~~~
+1pls       AA....FLEERDAWVRDINKA.........ikcieglehhhhhh
+

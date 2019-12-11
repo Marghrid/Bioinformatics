@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1am7A_3lzt.msf MSF:  198 Type: P 11/12/19 CompCheck: 4770 ..
+
+  Name: 1am7A      Len: 198  Check: 9651 Weight: 1.00
+  Name: 3lzt       Len: 198  Check: 5119 Weight: 1.00
+
+//
+
+           1                                               50
+1am7A      m..............veinn...QRKAFLDMLAXSEGTdngrqktrnhGY
+3lzt       ~kvfgrcelaaamkrhgldnyrgYSLGNWVCAAKFESNf.........NT
+
+           51                                             100
+1am7A      DVIVggelftdysdhprklvtlnpklKSTGAGRYQLLS.rxxd.......
+3lzt       QATN..............rntd....GSTDYGILQINSrwwcndgrtpgs
+
+           101                                            150
+1am7A      ..ayrkqlglkdf........SPKSQDAVALQQIKERgalpmidrgdirq
+3lzt       rnlcni.......pcsallssDITASVNCAKKIVSDG.............
+
+           151                                          198
+1am7A      aidr.csnixaslpgagygqfehkads...LIAKFKEaggtvr~~~~~
+3lzt       ....ngmnawvawr.............nrcKGTDVQAwi....rgcrl
+

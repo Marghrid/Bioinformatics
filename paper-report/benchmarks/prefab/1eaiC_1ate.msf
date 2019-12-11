@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eaiC_1ate.msf MSF:  65 Type: P 11/12/19 CompCheck: 7199 ..
+
+  Name: 1eaiC      Len: 65  Check: 5200 Weight: 1.00
+  Name: 1ate       Len: 65  Check: 1999 Weight: 1.00
+
+//
+
+           1                                               50
+1eaiC      qesc.GPNEVWTECTGCEMKCGPdent...PCPLMCRRPSCECSPGRGMR
+1ate       aekctKPNEQWTKCGGCEGTCAQ....kivPCTRECKPPRCECIASAGFV
+
+           51           65
+1eaiC      RTNDGKCIPASQCP~
+1ate       RDAQGNCIKFEDCPk
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1esl_1qddA.msf MSF:  157 Type: P 11/12/19 CompCheck: 1307 ..
+
+  Name: 1esl       Len: 157  Check: 6311 Weight: 1.00
+  Name: 1qddA      Len: 157  Check: 4996 Weight: 1.00
+
+//
+
+           1                                               50
+1esl       WsYNTSTEAMTYDEASAYaQQRYTHLVAIQNKEEIEYLNSILSYSPSYYW
+1qddA      YaYYFNEDRETWVDADLYbQNMSGNLVSVLTQAEGAFVASLIKTDDFNVW
+
+           51                                             100
+1esl       IGIRKVNNVWVWVGTQKPLTEEAKNWAPGEPNNRQKDEDbVEIYIKREKD
+1qddA      IGLHDPKRAWHWSS.GSLVS..YKSWGIGAPSSVNP.GYcVSLTS...ST
+
+           101                                            150
+1esl       VGMWNDERbSKKKLALaYTAAcTNTSdSGHGEcVETINNYTdKeDPGFSG
+1qddA      GFKWKDVPcEDKFSFVbKFKN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151 157
+1esl       LKeEQIV
+1qddA      ~~~~~~~
+

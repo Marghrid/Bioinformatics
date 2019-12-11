@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1g1eB_1e91A.msf MSF:  93 Type: P 11/12/19 CompCheck: 4362 ..
+
+  Name: 1g1eB      Len: 93  Check: 2442 Weight: 1.00
+  Name: 1e91A      Len: 93  Check: 1920 Weight: 1.00
+
+//
+
+           1                                               50
+1g1eB      slqnnqPVEFNHAINYVNKIKNRFQGQPDIYKAFLEILHTYQKEQRnake
+1e91A      ~~~esdSVEFNNAISYVNKIKTRFLDHPEIYRSFLEILHTYQKEQL..ht
+
+           51                                       93
+1g1eB      aggnytpaLTEQEVYAQVARLFKNQEDLLSEFGQFLPda~~~~
+1e91A      kgrpfrg.MSEEEVFTEVANLFRGQEDLLSEFGQFLP..eakr
+

@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d8jA_1d8kA.msf MSF:  83 Type: P 11/12/19 CompCheck: 8043 ..
+
+  Name: 1d8jA      Len: 83  Check: 4839 Weight: 1.00
+  Name: 1d8kA      Len: 83  Check: 3204 Weight: 1.00
+
+//
+
+           1                                               50
+1d8jA      aLSGSS.GYKFGVLAKIVNYMKTRHQRGDTHPLTLDEILDETQHLDIGLK
+1d8kA      ~ALSGSsGYKFGVLAKIVNYMKTRHQRGDTHPLTLDEILDETQHLDIGLK
+
+           51                             83
+1d8jA      QKQWLMTEALVNNPKIEVIDGKYAFKPkynvr~
+1d8kA      QKQWLMTEALVNNPKIEVIDGKYAFKP.kynvr
+

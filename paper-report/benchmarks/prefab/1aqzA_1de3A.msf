@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aqzA_1de3A.msf MSF:  150 Type: P 11/12/19 CompCheck: 1137 ..
+
+  Name: 1aqzA      Len: 150  Check: 8653 Weight: 1.00
+  Name: 1de3A      Len: 150  Check: 2484 Weight: 1.00
+
+//
+
+           1                                               50
+1aqzA      ~ATWTCINQQL.......EDKRLLYSQAKAESNSHHAPLSDGKTGSSYPH
+1de3A      aVTWTCLNDQKnpktnkyETKRLLYNQNKAESNSHHAPLSDGKTGSSYPH
+
+           51                                             100
+1aqzA      WFTNGYDGNGKLIKGRTPIKFGKADCDRPPKHSQNGMGKDDHYLLEFPTF
+1de3A      WFTNGYDGDGKLPKGRTPIKFGKSDCDRPPKHSKDGNGKTDHYLLEFPTF
+
+           101                                            150
+1aqzA      PDGHDYKFDSKKPKENPGPARVIYTYPNKVFCGIVAHQRGNQGDLRLCSH
+1de3A      PDGHDYKFDSKKPKENPGPARVIYTYPNKVFCGIIAHTKENQGELKLCSH
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dwnA_1qbeA.msf MSF:  136 Type: P 11/12/19 CompCheck: 3358 ..
+
+  Name: 1dwnA      Len: 136  Check: 2683 Weight: 1.00
+  Name: 1qbeA      Len: 136  Check:  675 Weight: 1.00
+
+//
+
+           1                                               50
+1dwnA      s...KTIVLSV....GEATRTLTEIQST..aDRQIFEEKVGPLVGRLRLT
+1qbeA      ~aklETVTLGNigkdGKQTLVLNPRGVNptnGVASLSQAGAVPALEKRVT
+
+           51                                             100
+1dwnA      ASLRqngaktAYRVNLKLDQADVVDcstsvcgELPKVRYTQVWSHDVTIV
+1qbeA      VSVSqp....NYKVQVKIQNPTACT.......CDPSVTRQAYADVTFSFT
+
+           101                              136
+1dwnA      ANSTEASRKSLYDLTKSLVATSQVEDLVVNLVPLGr
+1qbeA      QYSTDEERAFVRTELAALLASPLLIDAIDQLNPAY~
+

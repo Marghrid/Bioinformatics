@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1tcrA_1ah1.msf MSF:  214 Type: P 11/12/19 CompCheck: 4145 ..
+
+  Name: 1tcrA      Len: 214  Check: 4396 Weight: 1.00
+  Name: 1ah1       Len: 214  Check: 9749 Weight: 1.00
+
+//
+
+           1                                               50
+1tcrA      q..svtqpDARVTVSEGASLQLRCKYSYSA...TPYLFWYVQYprqglql
+1ah1       ~amhvaq.PAVVLASSRGIASFVCEYASPGkatEVRVTVLRQA.dsqvte
+
+           51                                             100
+1tcrA      llkyy..sGDPVVQg..VNGFEAEFSksNSSFHLRKASVHWSDSAVYFCA
+1ah1       vcaatymmGNELTF.ldDSICTGTSS..GNQVNLTIQGLRAMDTGLYICK
+
+           101                                            150
+1tcrA      VSGf...ASALTFGSGTKVIVLPYIQNpepavyalkdprsqdstlclftd
+1ah1       VELmyppPYYLGIGNGTQIYVIDPEPCpdsd.................qe
+
+           151                                            200
+1tcrA      fdsqinvpktmesgtfitdatvldmkamdsksngaiawsnqtsftcqdif
+1ah1       pk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201        214
+1tcrA      ketnatypssdvpc
+1ah1       ~~~~~~~~~~~~~~
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dg9A_1jfvA.msf MSF:  157 Type: P 11/12/19 CompCheck: 7917 ..
+
+  Name: 1dg9A      Len: 157  Check: 5008 Weight: 1.00
+  Name: 1jfvA      Len: 157  Check: 2909 Weight: 1.00
+
+//
+
+           1                                               50
+1dg9A      AEQVTKSVLFVCLGNICRSPIAEAVFRKLVTDQNISDNWVIDSGAVSDWN
+1jfvA      ~~MDKKTIYFISTGNSARSQXAEGWGKEIL.....GEGWNVYSAGIET..
+
+           51                                             100
+1dg9A      VGRSPDPRAVSCLRNHGINTAHKARQVTKEDFVTFDYILCMdESNLRdLN
+1jfvA      ..HGVNPKAIEAXKEVDIDINHTSDLIDNDILKQSDLVVTLaSD..NaPI
+
+           101                                            150
+1dg9A      RKSNQVKNCRAKIELLGSYDPQKQLIIEDPYYGNDADFETVYQQCVRCCR
+1jfvA      .LPPN.....VKKEHW.........GFDDPAGKEWSEFQRVRDEIKLAIE
+
+           151 157
+1dg9A      AFLEKVR
+1jfvA      KFKLR~~
+

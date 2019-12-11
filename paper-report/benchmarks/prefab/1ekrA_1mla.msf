@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ekrA_1mla.msf MSF:  372 Type: P 11/12/19 CompCheck: 9008 ..
+
+  Name: 1ekrA      Len: 372  Check: 5609 Weight: 1.00
+  Name: 1mla       Len: 372  Check: 3399 Weight: 1.00
+
+//
+
+           1                                               50
+1ekrA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~geah
+1mla       qfafvfpgqgsqtvgmladmaasypiveetfaeasaalgydlwaltqqgp
+
+           51                                             100
+1ekrA      mvd...............................................
+1mla       ...aeelnktwqtqpalltasvalyrvwqqqggkapammaghslgeysal
+
+           101                                            150
+1ekrA      ...........vsakae.......tvre...ARAEAFVTMrsetlamiid
+1mla       vcagvidfadavrlv..emrgkfmqeavpegTGAMAAIIG..........
+
+           151                                            200
+1ekrA      grhhkg...DVFATARIAGIQaakrtwdliplchplmlsk.vevnl.QAE
+1mla       ......lddASIAKACEEAAE...................gqvvspvNFN
+
+           201                                            250
+1ekrA      PehNRVRIETlcrltgktgvemeALTAASVAALTIYDMCkavqkd.MVIG
+1mla       S.pGQVVIAG.............HKEAVERAGAACKAAG......aKRAL
+
+           251                                            300
+1ekrA      PVRLLakssgdfk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1mla       PLPVSv.......pshcalmkpaadklavelakitfnaptvpvvnnvdvk
+
+           301                                            350
+1ekrA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1mla       cetngdairdalvrqlynpvqwtksveymaaqgvehlyevgpgkvltglt
+
+           351                372
+1ekrA      ~~~~~~~~~~~~~~~~~~~~~~
+1mla       krivdtltasalnepsamaaal
+

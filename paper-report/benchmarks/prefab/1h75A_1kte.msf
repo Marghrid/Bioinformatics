@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1h75A_1kte.msf MSF:  108 Type: P 11/12/19 CompCheck: 7251 ..
+
+  Name: 1kte       Len: 108  Check: 5120 Weight: 1.00
+  Name: 1h75A      Len: 108  Check: 2131 Weight: 1.00
+
+//
+
+           1                                               50
+1kte       qafvnskiqpGKVVVFIKPTCPFCRKTQELLSQLPFkegLLEFVDITAts
+1h75A      ~~~~~~~~~~MRITIYTRNDCVQCHATKRAMENRGF...DFEMINVDR..
+
+           51                                             100
+1kte       dtNEIQDYLQQLtGARTVPRVFIGKECIGGCtdLESMhkrgellt...RL
+1h75A      .vPEAAEALRAQ.GFRQLPVVIAGDLSWSGF..RPDM........inrLH
+
+           101  108
+1kte       QQvgavk~
+1h75A      PA.....p
+

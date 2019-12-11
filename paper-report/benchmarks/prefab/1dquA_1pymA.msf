@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dquA_1pymA.msf MSF:  525 Type: P 11/12/19 CompCheck: 1266 ..
+
+  Name: 1dquA      Len: 525  Check: 7298 Weight: 1.00
+  Name: 1pymA      Len: 525  Check: 3968 Weight: 1.00
+
+//
+
+           1                                               50
+1dquA      syieeedqrywdevaavknwwkdsrwrytkrpftaeqivakrgnlkieyp
+1pymA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1dquA      sn.VQAKKLWGILERNfknkEASFTYGCLDPTMVTQMA.kYLDTVYVSGW
+1pymA      ~~vKKTTQLKQXLNSK....DLEFIXEAHNGLSARIVQeaGFKGIWGSGL
+
+           101                                            150
+1dquA      QSSSTAsstdePSPDLADYPMNTVPNKVNHLWMAQlfhdrkqreermttp
+1pymA      SVSAQL.....GVRDSNEASWTQVVEVLEFXSDAS...............
+
+           151                                            200
+1dquA      kdqrhkvanvdyLRPIIADADTGHGGLTAVMKLTKLFVERGAAGIHIEDQ
+1pymA      ............DVPILLDADTGYGNFNNARRLVRKLEDRGVAGACLEDK
+
+           201                                            250
+1dquA      APGTK.......GKVLVPISEHINRLVAIRAQAdiMGTDLLAIARTDSEA
+1pymA      LFPKTnslhdgrAQPLADIEEFALKIKACKDSQ..TDPDFCIVARVEAFI
+
+           251                                            300
+1dquA      Atlitstidhrdhpfiigstnpdiqplndlmvmaeqagkngaelqaiede
+1pymA      A.................................................
+
+           301                                            350
+1dquA      wlakaglklfndavvdainnsplpnkkaaiekyltqskgksnlearaiak
+1pymA      ..................................................
+
+           351                                            400
+1dquA      eiagtdiyfdweaprtregyyryqGGTQCAINRAVAYAP.FADLIWMESK
+1pymA      .......................gWGLDEALKRAEAYRNaGADAILXHSK
+
+           401                                            450
+1dquA      LPDYKQAKEFADGVHavwPEQKLAYNLSPSFnwkkamprdeqetyiKRLG
+1pymA      KADPSDIEAFXKAWN...NQGPVVIVPTKYY..........ktpt.DHFR
+
+           451                                            500
+1dquA      ALGYAWQFITLAGLHTTALISDTFAKAYakq.gmraygelvqepemangv
+1pymA      DXGVSXVIWANHNLRASVSAIQQTTKQIyddqslvnvedki..vsvk...
+
+           501                   525
+1dquA      dvvthqk.wsganyvdnmlkmitgg
+1pymA      .eifr..lqrddelvqaedkylpkn
+

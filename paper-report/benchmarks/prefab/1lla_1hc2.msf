@@ -1,0 +1,65 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1lla_1hc2.msf MSF:  657 Type: P 11/12/19 CompCheck: 3083 ..
+
+  Name: 1lla       Len: 657  Check: 3195 Weight: 1.00
+  Name: 1hc2       Len: 657  Check: 9888 Weight: 1.00
+
+//
+
+           1                                               50
+1lla       ~~LHDKQIRICHLFEQLSSAth............................
+1hc2       tgNAQKQQDINHLLDKIYEP..tkypdlkdiaenfnplgdtsiyndhgaa
+
+           51                                             100
+1lla       sdrlknvg....KLQPGAIFSCFHPDHLEEARHLYEVFWEAGDFNDFIEI
+1hc2       vetlmkelndhrLLEQRHWYSLFNTRQRKEALMLFAVLNQCKEWYCFRSN
+
+           101                                            150
+1lla       AKEARTFVNEGLFAFAAEVAVLHRDDCKGLYVPPVQEIFPDKFIPSAAIN
+1hc2       AAYFRERMNEGEFVYALYVSVIHSKLGDGIVLPPLYQITPHMFTNSEVID
+
+           151                                            200
+1lla       EAFKK...espILVDVtgni..LDPEYRLAYYREDVGINAHHWHWHLVYP
+1hc2       KAYSAkmtqkpGTFNV....sfKNREQRVAYFGEDIGMNIHHVTWHMDFP
+
+           201                                            250
+1lla       STWNPkYFGKKKDRKGELFYYMHQQMCARYDCERLSNGMHRMLPFnnfde
+1hc2       FWWED.SYGYHLDRKGELFFWVHHQLTARFDFERLSNWLDPVDEL.hwdr
+
+           251                                            300
+1lla       pl.AGYAPHLTHVasgKYYSPRPDGLKLRDLGD.IEISEMVRMRERILDS
+1hc2       iirEGFAPLTSYK.ygGEFPVRPDNIHFEDVDGvAHVHDLEITESRIHEA
+
+           301                                            350
+1lla       IHLGYVISEDGSHKTLDELHGTDILGALVESSYESVNHEYYGNLHNWGHV
+1hc2       IDHGYITDSDGHTIDIRQPKGIELLGDIIESSKYSSNVQYYGSLHNTAHV
+
+           351                                            400
+1lla       TMARIHDPDGRFHEEPGVMSDTSTSLRDPIFYNWHRFIDNIFHEYKNTLK
+1hc2       MLGRQGDPHGKFNLPPGVMEHFETATRDPSFFRLHKYMDNIFKKHTDSFP
+
+           401                                            450
+1lla       PYDHDVLNFPDIQVQDVTLHArvdnvVHTFMREQELELKhginpg....N
+1hc2       PYTHDNLEFSGMVVNGVAIDG....eLITFFDEFQYSLI.navdsgeniE
+
+           451                                            500
+1lla       ARSIKARYYHLDHEPFSYAVNVQNNSASDKHATVRIFLAPKYDELGNEIK
+1hc2       DVEINARVHRLNHNEFTYKITMSNNNDGERLATFRIFLCPIEDNNGITLT
+
+           501                                            550
+1lla       ADELRRTAIELDKFKTDLHPGKNTVVRHSLDSSVTLSHQPTFEDLLHGv.
+1hc2       LDEARWFCIELDKFFQKVPSGPETIERSSKDSSVTVPDMPSFQSLKEQ.a
+
+           551                                            600
+1lla       ........glse.YCSCGWPSHLLVPKGNIKGMEYHLFVMLTDWDKDKVs
+1hc2       dnavnggldlsayERSCGIPDRMLLPKSKPEGMEFNLYVAVTDGDKDTEg
+
+           601                                            650
+1lla       vacvdavsycGARD.HKYPDKKPMGFPFDRPIHTehisdfl.TNNMFIKD
+1hc2       hhaq......CGVHgEAYPDNRPLGYPLERRIPD..ervidgVSNIKHVV
+
+           651 657
+1lla       IKIKFHE
+1hc2       VKIVHHL
+

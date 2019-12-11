@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1avgI_1epaA.msf MSF:  190 Type: P 11/12/19 CompCheck: 6715 ..
+
+  Name: 1avgI      Len: 190  Check: 7524 Weight: 1.00
+  Name: 1epaA      Len: 190  Check: 9191 Weight: 1.00
+
+//
+
+           1                                               50
+1avgI      aegddcsiekaMGDFKPEEFfngtwylahgpgv....TSPAvcqkf....
+1epaA      ~~~~~~~~~~~VKDFDISKF.lgfwyeia....faskEEKM.....gamv
+
+           51                                             100
+1avgI      .TTSGSKgft...QIVEIgynkfe...snVKFQCNQVDnknge.QYSFKC
+1epaA      vELKENL...lalTTTYY......sedhcVLEKVTATE.gdgpaKFQVTR
+
+           101                                            150
+1avgI      kssdnt.EFEADFTFISVSYDNFALVCRSITFTsqpKEDRYLVFERTKSd
+1epaA      ......lSGKKEVVVEATDYLTYAIIDITSLVA.gaVHRTMKLYSRSLD.
+
+           151                                  190
+1avgI      ...........................TDPD.akeic~~~
+1epaA      dngealynfrkitsdhgfsetdlyilkHDLTcvkvlqsaa
+

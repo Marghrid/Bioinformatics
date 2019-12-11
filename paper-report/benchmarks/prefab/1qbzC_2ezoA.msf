@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qbzC_2ezoA.msf MSF:  133 Type: P 11/12/19 CompCheck: 7222 ..
+
+  Name: 1qbzC      Len: 133  Check: 4205 Weight: 1.00
+  Name: 2ezoA      Len: 133  Check: 3017 Weight: 1.00
+
+//
+
+           1                                               50
+1qbzC      ~QSRTLLAGIVQQQQQLLDVVKRQQELLRLTVWGTKNLQTRVTAIEkylk
+2ezoA      aQSRTLLAGIVQQQQQLLDVVKRQQELLRLTVWGTKNLQTRVTAIEkylk
+
+           51                                             100
+1qbzC      dqaqlnawgaafrqv...........ttvpWPNasl.TPKWNNETWQEWE
+2ezoA      dqaq..lnaw.....gaafrqvahttvpwpNAS...lTPKWNNETWQEWE
+
+           101                           133
+1qbzC      RKVDFLEENITALLEEAQIQQEKNMYELQKLNS
+2ezoA      RKVDFLEENITALLEEAQIQQEKNMYELQKLNS
+

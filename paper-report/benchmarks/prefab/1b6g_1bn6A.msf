@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1b6g_1bn6A.msf MSF:  352 Type: P 11/12/19 CompCheck: 1020 ..
+
+  Name: 1b6g       Len: 352  Check: 3325 Weight: 1.00
+  Name: 1bn6A      Len: 352  Check: 7695 Weight: 1.00
+
+//
+
+           1                                               50
+1b6g       mvnairtpdqrfsn.lDQYPFSPNYLDdlpgypglRAHYLDEGNsda..E
+1bn6A      ~~~~~~~~~~~~~~igTGFPFDPHYVE.vlge...RMHYVDVGP...rdG
+
+           51                                             100
+1b6g       DVFLCLHGEPTWSYLYRKMIPVFAEsGARVIAPDFFGFGKSDKPVDeeDY
+1bn6A      TPVLFLHGNPTSSYLWRNIIPHVAP.SHRCIAPDLIGMGKSDKPDL..DY
+
+           101                                            150
+1b6g       TFEFHRNFLLALIERLDLRNITLVVQDWGGFLGLTLPMADPSRFKRLIIM
+1bn6A      FFDDHVRYLDAFIEALGLEEVVLVIHDWGSALGFHWAKRNPERVKGIACM
+
+           151                                            200
+1b6g       NAXlmtdpvtqpafsafvtqpa.........dgf.tawkydlv....tps
+1bn6A      EFI...................rpiptwdewpefaretfqafrtadvgre
+
+           201                                            250
+1b6g       dlr.ldqfmkrwapt......LTEAEASAYAAPFPDTSYQAGVRKFPK.m
+1bn6A      liidqnafiegvlp.kcvvrpLTEVEMDHYREPFLKPVDREPLWRFPNei
+
+           251                                            300
+1b6g       va..qrdqAX..idisTEAIS...fwqndwNGQTFMAIGMKdkllg....
+1bn6A      piagepa.NIvalv..EAYMNwlhqs....PVPKLLFWGTP.....gvli
+
+           301                                            350
+1b6g       .PDVMYPMKAl.INGCPePLEIADAGHFVQE.FGEQVAREALKHFAete~
+1bn6A      pPAEAARLAE.sLPNCK.TVDIGPGLHYLQEdNPDLIGSEIARWLP...g
+
+           351 352
+1b6g       ~~
+1bn6A      la
+

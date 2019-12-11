@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1msc_1qbeA.msf MSF:  135 Type: P 11/12/19 CompCheck: 7887 ..
+
+  Name: 1qbeA      Len: 135  Check: 9663 Weight: 1.00
+  Name: 1msc       Len: 135  Check: 8224 Weight: 1.00
+
+//
+
+           1                                               50
+1qbeA      akletvt.lgnigkdg.kqTLVLNPRGVNptnGVASLSQagAVPALEKRV
+1msc       snftqfvlvdng....gtgDVTVAPSNFA..nGVAEWIS.sNSRSQAYKV
+
+           51                                             100
+1qbeA      TVSVSQp...NYKVQVKIQNP..TACT....CDPSVTRQAYADVTFSFTQ
+1msc       TCSVRQssaqNRKYTIKVEVPkvATQTvggvELPVAARRSYLNMELTIPI
+
+           101                             135
+1qbeA      YSTDEERAFVRTELAALLAS.pLLIDAIDQLNPAY
+1msc       FATNSDCELIVKAMQGLLKDgnPIPSAIAANSGIY
+

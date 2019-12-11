@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2pkaA_1a7s.msf MSF:  221 Type: P 11/12/19 CompCheck: 5541 ..
+
+  Name: 2pkaA      Len: 221  Check: 8848 Weight: 1.00
+  Name: 1a7s       Len: 221  Check: 6693 Weight: 1.00
+
+//
+
+           1                                               50
+2pkaA      IIGGRECEKNSHPWQVAIYHYSSFQCGGVLVNPKWVLTAAHCKNDNYEVW
+1a7s       IVGGRKARPRQFPFLASIQNQGRHFCGGALIHARFVMTAASCFPGVSTVV
+
+           51                                             100
+2pkaA      LGRHNLFENE.NTAQFFGVTADFPHPGFNLS~~~~~~~~~~~~~~~~~~~
+1a7s       LGAYDLRRRErQSRQTFSISSMSENGYDPQQnlndlmllqldreanltss
+
+           101                                            150
+2pkaA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1a7s       vtilplplqnatveagtrcqvagwgsqrsggrlsrfprfvnvtvtpedqc
+
+           151                                            200
+2pkaA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1a7s       rpnnvctgvltrrggicngdggtplvceglahgvasfslgpcgrgpdfft
+
+           201               221
+2pkaA      ~~~~~~~~~~~~~~~~~~~~~
+1a7s       rvalfrdwidgvlnnpgpgpa
+

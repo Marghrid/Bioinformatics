@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1pdgA_1vpfA.msf MSF:  99 Type: P 11/12/19 CompCheck:  765 ..
+
+  Name: 1vpfA      Len: 99  Check: 3208 Weight: 1.00
+  Name: 1pdgA      Len: 99  Check: 7557 Weight: 1.00
+
+//
+
+           1                                               50
+1vpfA      vkfmdvyqrSYCHPIETLVDIFqeypdeie.YIFKPSCVPLMRCGGCCND
+1pdgA      epam....iAECKTRTEVFEIS........rFLVWPPCVEVQRCSGCCNN
+
+           51                                             99
+1vpfA      EGLECVPTEESNITMQIMRIKPH...QGQHIGEMSFLQHNKCECRPk~~
+1pdgA      RNVQCRPTQVQLRPVQVRKIEIVrkkPIFKKATVTLEDHLACKCETvaa
+

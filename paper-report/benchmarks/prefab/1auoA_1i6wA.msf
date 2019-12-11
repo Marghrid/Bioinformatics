@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1auoA_1i6wA.msf MSF:  218 Type: P 11/12/19 CompCheck: 1028 ..
+
+  Name: 1auoA      Len: 218  Check: 2381 Weight: 1.00
+  Name: 1i6wA      Len: 218  Check: 8647 Weight: 1.00
+
+//
+
+           1                                               50
+1auoA      MTEPLILQPAKPADACVIWLHGLGADRYDFMPVAEALQESLLTTRFVLPQ
+1i6wA      ~~~~~~~~~~~~~HNPVVMVHGIGGASFNFAGIKSYLVSQGWSRKLYAVD
+
+           51                                             100
+1auoA      APTRPVTINGGYEMPSWYDIKAMSPARSISLEELEVSAKMVTDLIEAQKR
+1i6wA      FWD...........KTGT...............NYNNGPVLSRFVQKVLD
+
+           101                                            150
+1auoA      TGIDASRIFLAGFSQGGAVVFHTAFINWQGPLGGVIALSTYAPTFGDELE
+1i6wA      EGAKK..VDIVAHSMGGANTLYYIKNLGGNKVANVVTLGGANLTTG....
+
+           151                                            200
+1auoA      LSASQQRIPALCLHGQYDDVVQNAMGRSAFEHLKSRGVTVTWQEYPMGHE
+1i6wA      PGTD.QKILYTSIYSSADMIVMNYLS..RLDG.......ARNVQIHVGHI
+
+           201            218
+1auoA      VLPQEIHDIGAWLAARLG
+1i6wA      GSSQVNSLIKEGLNGG~~
+

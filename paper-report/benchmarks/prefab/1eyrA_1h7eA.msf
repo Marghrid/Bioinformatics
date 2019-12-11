@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eyrA_1h7eA.msf MSF:  225 Type: P 11/12/19 CompCheck: 9175 ..
+
+  Name: 1eyrA      Len: 225  Check:  797 Weight: 1.00
+  Name: 1h7eA      Len: 225  Check: 8378 Weight: 1.00
+
+//
+
+           1                                               50
+1eyrA      XEKQNIAVILARQNSKGLPLKNLRKXNGISLLGHTINAAISSKCFDRIIV
+1h7eA      ~~SKAVIVIPARYGSSRLPGKPLLDIVGKPMIQHVYERALQVAGVAEVWV
+
+           51                                             100
+1eyrA      STDGGLIAEEAKNFGVEVVLRPAELASDTASSISGVIHALETIGSNSGTV
+1h7eA      ATDDPRVEQAVQAFGGKAIMTRNDH....ESGTDRLVEVMHKVEA..DIY
+
+           101                                            150
+1eyrA      TLLQPTSPLRTGAHIREAFSLFDEKIKGSVVSACPXEHHPLKTLLQINNG
+1h7eA      INLQGDEPMIRPRDVETLLQGMDDPALPVATLCHAISAPIPYP.......
+
+           151                                            200
+1eyrA      EYAPXRHLSDLEQPRQQLPQAFRPNGAIYINDTASLIANNCFFIAPTKLY
+1h7eA      ............RNAE.KARYLKHVG.IYAYRRDVLQNYS....INIRTF
+
+           201                   225
+1eyrA      IXSHQDSIDIDTELDLQQAENILNH
+1h7eA      EVAA.TGPGVDTPACLEKVRALMAQ
+

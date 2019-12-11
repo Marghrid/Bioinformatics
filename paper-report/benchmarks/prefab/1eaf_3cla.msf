@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1eaf_3cla.msf MSF:  243 Type: P 11/12/19 CompCheck: 2864 ..
+
+  Name: 1eaf       Len: 243  Check: 6415 Weight: 1.00
+  Name: 3cla       Len: 243  Check: 6449 Weight: 1.00
+
+//
+
+           1                                               50
+1eaf       IPPIPPVDFAKYGEIEEVPMTRLMQIGATNLHRSWLNVPHVTQFESADIT
+3cla       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~CGFSLTSKIDIT
+
+           51                                             100
+1eaf       ELEAFRVAQKAVAKKAGVKLTVLPLLLKACAYLLKELPDFNSSLAPSGQA
+3cla       TLKKSLDDSA.........YKFYPVMIYLIAQAVNQFDELRMAIKDD..E
+
+           101                                            150
+1eaf       LIRKKYVHIGFAVDTPDGLLVPVIRNVDQKSLLQLAAEAAELAEKARSKK
+3cla       LIVWDSVDPQFTVFHTETFSALSCP.YSSDI.DQFMVNYLSVMERYKSD.
+
+           151                                            200
+1eaf       LGADAMQGACFTISSLGHIGGTAFTPIVNAPEVAILGVSKASMQPVWDGK
+3cla       PQGV.TPENHLNISALP.WVNFSFNL....YFAPIITMAKYQQEG.....
+
+           201                                     243
+1eaf       AFQPRLMLPLSLSYDHRVINGAAAARFTKRLGDLLADIRAILL
+3cla       ...DRLLLPLSVQVHHAVCDGFHVARFINRLQELC.NSKL~~~
+

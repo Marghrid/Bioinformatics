@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1jkmA_1evqA.msf MSF:  369 Type: P 11/12/19 CompCheck: 5761 ..
+
+  Name: 1jkmA      Len: 369  Check: 8424 Weight: 1.00
+  Name: 1evqA      Len: 369  Check: 7337 Weight: 1.00
+
+//
+
+           1                                               50
+1jkmA      pgrlgdessgprtdprFSPAMVEALAtfGLDAvaa..appvsasddlptv
+1evqA      ~~~~~~~~~~~~~~~~LDPVIQQVLD..QLNR...mpapdyk........
+
+           51                                             100
+1jkmA      l.AAVGASHDGfQAVYdsIALDlptDRDDVETSTETILGvdGNEITLHVF
+1evqA      .hLSAQQFRSQ.QSLF..PPVK...KEPVAEVREFDXDL.pGRTLKVRXY
+
+           101                                            150
+1jkmA      RPAGVEGVLPGLVYTHGGGMTILttdnrvHRRWCTDLAAA.GSVVVMVDF
+1evqA      RPEGVEPPYPALVYYHGGGWVVG.dlet.HDPVCRVLAKDgRAVVFSVDY
+
+           151                                            200
+1jkmA      RNAWtaegHHPFPSGVEDCLAAVLWVDEHRESLGLS..GVVVQGESGGGN
+1evqA      RLAP....EHKFPAAVEDAYDALQWIAERAADFHLDpaRIAVGGDSAGGN
+
+           201                                            250
+1jkmA      LAIATTLLAKRRGRlDAIDGVYASIPYISGGyawdherr.LTELPSLVEN
+1evqA      LAAVTSILAKERGG.PALAFQLLIYPSTGYD........pAHPPASIEEN
+
+           251                                            300
+1jkmA      DG.YFIENGGMALLVRAYDPTGEHAEDPIAWPYFASedELRGLPPFVVAV
+1evqA      AEgYLLTGGXXLWFRDQYLNSLEELTHPWFSPVLYP..DLSGLPPAYIAT
+
+           301                                            350
+1jkmA      NELDPLRDEGIAFARRLARAGVDVAARVNIGLVHGAdVIFRHWL...paa
+1evqA      AQYDPLRDVGKLYAEALNKAGVKVEIENFEDLIHGF.AQFYSLSpgatka
+
+           351             369
+1jkmA      lestvrdvagfaadrarlr
+1evqA      lvriaeklrdala~~~~~~
+

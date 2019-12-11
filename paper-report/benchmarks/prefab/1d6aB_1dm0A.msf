@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d6aB_1dm0A.msf MSF:  307 Type: P 11/12/19 CompCheck: 9031 ..
+
+  Name: 1d6aB      Len: 307  Check: 1443 Weight: 1.00
+  Name: 1dm0A      Len: 307  Check: 7588 Weight: 1.00
+
+//
+
+           1                                               50
+1d6aB      vNTIIYNVgsTTISKYATFLNDLRNEAKdpslkcy.......gIPMLPnt
+1dm0A      ~KEFTLDF..STAKTYVDSLNVIRSAIG...tplqtissggtsLLMID..
+
+           51                                             100
+1d6aB      ntnpKYVLVELQG.....SNKKTITLMLRRNNLYVMGYSDPFetnKCRYH
+1dm0A      ...dNLFAVDVRGidpeeGRFNNLRLIVERNNLYVTGFVNRT...NNVFY
+
+           101                                            150
+1d6aB      IFNDIsgterqdvettlcpnansrVSKNINFDSRYPTLESKAGVkSRSQV
+1dm0A      RFADF....shvtfp.......gtTAVTLSGDSSYTTLQRVAGI.SRTGM
+
+           151                                            200
+1d6aB      QLGIQILDSNIGKISGVMSf..TEKTEAEFLLVAIQMVSEAARFKYIENQ
+1dm0A      QINRHSLTTSYLDLMSHSG.tsLTQSVARAMLRFVTVTAEALRFRQIQRG
+
+           201                                            250
+1d6aB      VKTNFnrAFNPNPKVLNLQETWGKISTAIHDAKNGVLpkplelvdasgak
+1dm0A      FRTTLd.SYVMTAEDVDLTLNWGRLSSVLPDYHGQDS..vrvgr......
+
+           251                                            300
+1d6aB      wIVLRVDEIKPDVALLNYVggscqtt~~~~~~~~~~~~~~~~~~~~~~~~
+1dm0A      iSFGSINAILGSVALILNC.......fpsmcpadgrvrgithnkilwdss
+
+           301 307
+1d6aB      ~~~~~~~
+1dm0A      tlgailm
+

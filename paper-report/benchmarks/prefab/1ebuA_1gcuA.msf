@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ebuA_1gcuA.msf MSF:  532 Type: P 11/12/19 CompCheck: 1348 ..
+
+  Name: 1gcuA      Len: 532  Check: 8850 Weight: 1.00
+  Name: 1ebuA      Len: 532  Check: 2498 Weight: 1.00
+
+//
+
+           1                                               50
+1gcuA      daePKRKFGVVVVGVGRAGSVRLRDLKDPRsa..AFLNLIGFVSrrelgs
+1ebuA      ~~~STKVVNVAVIGAGVVGSAFLDQLLAMK..stITYNLVLLAE.aersl
+
+           51                                             100
+1gcuA      .............ldevr.......qisledal.rsqei....DVAYICS
+1ebuA      iskdfsplnvgsdwkaa.laasttktlplddliahlkt.spkpVILVDNT
+
+           101                                            150
+1gcuA      ESSSHEDYIRQFLQAGKHVLVEYPMTlsfaaaqelwela...........
+1ebuA      SSAYIAGFYTKFVENGISIATPNKKA.............fssdlatwkal
+
+           151                                            200
+1gcuA      ...AQkgrvlheehvellmeefeflrrevlgkellkgslrftaspleeer
+1ebuA      fsnKPtngfvy.......................................
+
+           201                                            250
+1gcuA      fgfpafsgisrltwlvslfgelslisatleerkedqymkmtvqletqnkg
+1ebuA      ..................................................
+
+           251                                            300
+1gcuA      llswieekgpglkrnryvnfqftsgsleevpsvgv...............
+1ebuA      ...................................heatvgaglpiisfl
+
+           301                                            350
+1gcuA      ..................................................
+1ebuA      reiiqtgdevekiegifsgtlsyifnefstsqandvkfsdvvkvakklgy
+
+           351                                            400
+1gcuA      ..................................................
+1ebuA      tepdprddlngldvarkvtivgrisgvevesptsfpvqslipkplesvks
+
+           401                                            450
+1gcuA      ..................................................
+1ebuA      adefleklsdydkdltqlkkeaatenkvlrfigkvdvatksvsvgiekyd
+
+           451                                            500
+1gcuA      .................................NKNI.flkdqdifvqkl
+1ebuA      yshpfaslkgsdnvisiktkrytnpvviqgagaGAAVtaagvlgdvikia
+
+           501                          532
+1gcuA      ldqvsaedlaaekkrimhclglasdiqklch~
+1ebuA      qr.............................l
+

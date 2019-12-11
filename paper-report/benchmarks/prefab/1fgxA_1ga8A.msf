@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fgxA_1ga8A.msf MSF:  400 Type: P 11/12/19 CompCheck: 6688 ..
+
+  Name: 1fgxA      Len: 400  Check: 5795 Weight: 1.00
+  Name: 1ga8A      Len: 400  Check:  893 Weight: 1.00
+
+//
+
+           1                                               50
+1fgxA      ltacpeespllvgpmliefnipvdlklieqqnpkvklggrytpmdcisph
+1ga8A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1fgxA      kVAIIIPFRN.RQEHLKYWLYYLHPIlqrqQLDYGIYVINqa........
+1ga8A      ~XDIVFAADDnYAAYLCVAAKSVEAAhp..DTEIRFHVLDagiseanraa
+
+           101                                            150
+1fgxA      .................gesm............fnrakllnvgfkealkd
+1ga8A      vaanlrggggnirfidvnpedfagfplnirhisitty.arlklgeyia..
+
+           151                                            200
+1fgxA      yDYNCFVFSDVDLIPMND.hntyr..cfsq..prhisvamdkfgfs..lp
+1ga8A      .DCDKVLYLDIDVLVRDSltplw.dtdlgdnwlgas..........idlf
+
+           201                                            250
+1fgxA      yv................QYFGGVSALSKQQFLsingfpnnywg......
+1ga8A      verqegykqkigxadgeyYFNAGVLLINLKKWRrhdifkx....ssewve
+
+           251                                            300
+1fgxA      ......wggedddiynrlafrgmSVSRP......................
+1ga8A      qykdvxqyqdqdilnglfk..ggVCYANsrfnfxptnyafxasrhtdply
+
+           301                                            350
+1fgxA      .....navigkcrmi.....RHSRDKKnepnpqrfdriahtketmlsdgl
+1ga8A      rdrtntvxpvavshycgpakPWHRDCTaw.....................
+
+           351                                            400
+1fgxA      nsltymvlevqryplytkitvdigtps~~~~~~~~~~~~~~~~~~~~~~~
+1ga8A      ...........................gaerftelagslttvpeewrgkl
+

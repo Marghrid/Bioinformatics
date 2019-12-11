@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1h8uA_1htn.msf MSF:  115 Type: P 11/12/19 CompCheck: 4046 ..
+
+  Name: 1h8uA      Len: 115  Check: 4857 Weight: 1.00
+  Name: 1htn       Len: 115  Check: 9189 Weight: 1.00
+
+//
+
+           1                                               50
+1h8uA      rYLLVRSLQTFSQAWFTaRRCYRGNLVSIHNFNINYRIQCSVSALNQGQV
+1htn       aFLAFTQTKTFHEASEDbIS.RGGTLSTPQTGSENDALYEYLRQGNEAEI
+
+           51                                             100
+1h8uA      WIGGRITGSGRCRRFQWVDGSRWNFAYWAAHQPWSRGGHbVALCTRGGYW
+1htn       WLGLNDMAA...GTWVDMTGARIAYKNWETAQPDGGTENcAVLSGANGKW
+
+           101         115
+1h8uA      RRAHbLRRLPFIaSY
+1htn       FDKRcRDQLPYIbQF
+

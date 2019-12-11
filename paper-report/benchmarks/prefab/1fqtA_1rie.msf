@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fqtA_1rie.msf MSF:  141 Type: P 11/12/19 CompCheck: 7058 ..
+
+  Name: 1rie       Len: 141  Check: 2328 Weight: 1.00
+  Name: 1fqtA      Len: 141  Check: 4730 Weight: 1.00
+
+//
+
+           1                                               50
+1rie       m.skie.IKLSDIPEGKNMAFKWRGKPLFVRHRTkkeidqeaavevsqlr
+1fqtA      ~mkftrvCDRRDVPEGEALKVESGGTSVAIFNVD................
+
+           51                                             100
+1rie       dpqhdlervkkpEWVILIGVCTHLGCVP..IANAgdf..gGYYCPCHGSH
+1fqtA      ...........gELFATQDRCTHGDWSLsdGGYL...egdVVECSLHMGK
+
+           101                                   141
+1rie       YDAS.GRIRKGPAPLNLEVPSYEFtsdDMVIVG~~~~~~~~
+1fqtA      FCVRtGKVKSPPPCEALKIFPIRIed.NDVLVDfeagylap
+

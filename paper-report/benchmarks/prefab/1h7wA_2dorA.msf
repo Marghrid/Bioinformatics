@@ -1,0 +1,93 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1h7wA_2dorA.msf MSF:  1016 Type: P 11/12/19 CompCheck:  367 ..
+
+  Name: 1h7wA      Len: 1016  Check: 9041 Weight: 1.00
+  Name: 2dorA      Len: 1016  Check: 1326 Weight: 1.00
+
+//
+
+           1                                               50
+1h7wA      APVLSKDVADIESILALNPRTQSHAALHSTLAKKLDKKHWKRNPDKNCFH
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1h7wA      CEKLENNFDDIKHTTLGERGALREAMRCLKCADAPCQKSCPTHLDIKSFI
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1h7wA      TSISNKNYYGAAKMIFSDNPLGLTCGMVCPTSDLCVGGCNLYATEEGSIN
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1h7wA      IGGLQQFASEVFKAMNIPQIRNPCLPSQEKMPEAYSAKIALLGAGPASIS
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1h7wA      CASFLARLGYSDITIFEKQEYVGGLSTSEIPQFRLPYDVVNFEIELMKDL
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1h7wA      GVKIICGKSLSENEITLNTLKEEGYKAAFIGIGLPEPKTDDIFQGLTQDQ
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1h7wA      GFYTSKDFLPLVAKSSKAGMCACHSPLPSIRGAVIVLGAGDTAFDCATSA
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                            400
+1h7wA      LRCGARRVFLVFRKGFVNIRAVPEEVELAKEEKCEFLPFLSPRKVIVKGG
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           401                                            450
+1h7wA      RIVAVQFVRTEQDETGKWNEDEDQIVHLKADVVISAFGSVLRDPKVKEAL
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           451                                            500
+1h7wA      SPIKFNRWDLPEVDPETMQTSEPWVFAGGDIVGMANTTVESVNDGKQASW
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           501                                            550
+1h7wA      YIHKYIQAQYGASVSAKPELPLFYTPVDLVDISVEMAGLKFINPFGLASA
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~MLNTTFANAKFANPFMNASG
+
+           551                                            600
+1h7wA      APTTSSSMIRRAFEAGWGFALTKTFSLDKDIVTNVSPRIVRGTTSGPMYG
+2dorA      VHCMTIEDLEELKASQAGAYITKSSTLE..KREGPLPRYVDLE.......
+
+           601                                            650
+1h7wA      PGQSSFLNIELISEKTAAYWCQSVTELKADFPDNIVIASIMCSYNKNDWM
+2dorA      ...LGSINSMGLPNLGFDYYLDYVLKNQKEAQEGPIFFSIAGMSA.AENI
+
+           651                                            700
+1h7wA      ELSRKAEASGADALELNLSCPHGMGERGMGLACGQDPELVRNICRWVRQA
+2dorA      AMLKKIQSDFSGITELNLSC..........PQLAYDFEATEKLLKEVFTF
+
+           701                                            750
+1h7wA      VQIPFFAKLTPNVTDIVSIARAAKEGGADGVTATNTVSGLMGLKADGTPW
+2dorA      FTKPLGVKLPPYFDHFDIMAEILNQFPLTYVNSVNSIGGLFIDPEAESVV
+
+           751                                            800
+1h7wA      PAVGAGKRTTYGGVSGTAIRPIALRAVTTIARALPGFPILATGGIDSAES
+2dorA      IKP....KDGFGGIGGAYIKPTALANVRAFYTRLKPIQIIGTGGIETGQD
+
+           801                                            850
+1h7wA      GLQFLHSGASVLQVCSAVQNQDFTVIQDYCTGLKALLYLKSIEELQGWDG
+2dorA      AFEHLLCGATMLQIGTALHKEGPAIFDRIIKELEEIMNQKG.........
+
+           851                                            900
+1h7wA      QSPGTESHQKGKPVPRIAELMGKKLPNFGPYLEQRKKIIAEEKMRLKEQN
+2dorA      ..................................................
+
+           901                                            950
+1h7wA      AAFPPLERKPFIPKKPIPAIKDVIGKALQYLGTFGELSNIEQVVAVIDEE
+2dorA      ................YQSIADFHGKLKSL~~~~~~~~~~~~~~~~~~~~
+
+           951                                           1000
+1h7wA      MCINCGKCYMTCNDSGYQAIQFDPETHLPTVTDTCTGCTLCLSVCPIIDC
+2dorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           1001        1016
+1h7wA      IRMVSRTTPYEPKRGL
+2dorA      ~~~~~~~~~~~~~~~~
+

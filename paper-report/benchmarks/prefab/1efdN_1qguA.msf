@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1efdN_1qguA.msf MSF:  556 Type: P 11/12/19 CompCheck: 5713 ..
+
+  Name: 1efdN      Len: 556  Check: 4925 Weight: 1.00
+  Name: 1qguA      Len: 556  Check:  788 Weight: 1.00
+
+//
+
+           1                                               50
+1efdN      g.................................................
+1qguA      ~tnatgernlaliqevlevfpetarkerrkhmmvsdpkmksvgkciisnr
+
+           51                                             100
+1efdN      ..................................................
+1qguA      ksqpgvmtvrgcayagskgvvfgpikdmahishgpvgcgqysragrrnyy
+
+           101                                            150
+1efdN      ..................................................
+1qguA      tgvsgvdsfgtlnftsdfqerdivfggdkklsklieemellfpltkgiti
+
+           151                                            200
+1efdN      ..................................................
+1qguA      qsecpvgligddisavanasskaldkpvipvrcegfrgvsqslghhiand
+
+           201                                            250
+1efdN      .................IDPnrIVALE........wlpvelllalgiVPY
+1qguA      vvrdwilnnregqpfetTPYd.VAIIGdyniggdawasrilleemglRVV
+
+           251                                            300
+1efdN      GVADTinyrlwvsepplpdsvidvglrtep.nlelltemkpsfmvwsagy
+1qguA      AQWSG.................dgtl....vement..pfvklnlvhc.y
+
+           301                                            350
+1efdN      gpspemlari.....apgrgfnfsdgkq.pLAMARKSLTEMADLLn..LQ
+1qguA      rsmnyiarhmeekhqipwmeynf.....fgPTKIAESLRKIADQFddtIR
+
+           351                                            400
+1efdN      SAAE...thlaqyedfirsm.kprfvkrgar..PLLLTTLIdprhmlvfg
+1qguA      ANAEaviaryegqmaaiiakyrprl......egRKVLLYMG.........
+
+           401                                            450
+1efdN      p.......nslfqeildeygIPNAWqge.............tnfwgs...
+1qguA      .glrprhvigayedlg....MEIIA...agyefahnddydrtlpd..lke
+
+           451                                            500
+1efdN      ...tavs..idrl.aaykd...VDVLCFDhdnskdmdalmatplwqamp.
+1qguA      gtllfddassyeleafvk.alkPDLIGSG....................i
+
+           501                                            550
+1efdN      .....FVRAGRFQRvp.....AVWFyGATLSAMHFVRVLDNAIg~~~~~~
+1qguA      kekyiFQKMGVPFRqmhswdySGPY.HGYDGFAIFARDMDMTLnnpawne
+
+           551
+1efdN      ~~~~~~
+1qguA      ltapwl
+

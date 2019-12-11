@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dk5A_1aow.msf MSF:  322 Type: P 11/12/19 CompCheck: 8771 ..
+
+  Name: 1dk5A      Len: 322  Check:  464 Weight: 1.00
+  Name: 1aow       Len: 322  Check: 8307 Weight: 1.00
+
+//
+
+           1                                               50
+1dk5A      hhhmasltvpahvpSAAEDCEQLRSAFKGWGTNEKLIISILAHRTAAQRK
+1aow       ~~~~~~~~~asgf.NAAEDAQTLRKAMKGLGTDEDAIINVLAYRSTAQRQ
+
+           51                                             100
+1dk5A      LIRQTYAETFGEDLLKELDRELTHDFEKLVLVWTLDPSERDAHLAKEATK
+1aow       EIRTAYKTTIGRDLMDDLKSELSGNFEQVILGMMTPTVLYDVQEVRKAMK
+
+           101                                            150
+1dk5A      RWTKSNFVLVELACTRSPKELVLAREAYHARYKKSLEEDVAYHTTGDHRK
+1aow       GAGTDEGCLIEILASRTPEEIRRINQTYQLQYGRSLEDDIRSDTSFMFQR
+
+           151                                            200
+1dk5A      LLVPLVSSYRYGGEEVDLRLAKAESKILHEKISdkaysd...DEVIRILA
+1aow       VLVSLSAGGRDESNYLDDALMRQDAQDLYEAGE.kkwg.tdeVKFLTVLC
+
+           201                                            250
+1dk5A      TRSKAQLNATLNHYKDEHGEDILKQLED..GDEFVALLRATIKGLVYPEH
+1aow       SRNRNHLLHVFDEYKRIAQKDIEQSIKSetSGSFEDALLAIVKCMRNKSA
+
+           251                                            300
+1dk5A      YFVEVLRDAINRRGTEEDHLTRVIATRAEVDLKIIADEYQKRDSIPLGRA
+1aow       YFAERLYKSMKGLGTDDDTLIRVMVSRAEIDMLDIRANFKRLYGKSLYSF
+
+           301                322
+1dk5A      IAKDTRGDYESMLLALLGQe~~
+1aow       IKGDTSGDYRKVLLILCGG.dd
+

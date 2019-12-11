@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fc6A_1pdr.msf MSF:  408 Type: P 11/12/19 CompCheck: 5582 ..
+
+  Name: 1pdr       Len: 408  Check: 2069 Weight: 1.00
+  Name: 1fc6A      Len: 408  Check: 3513 Weight: 1.00
+
+//
+
+           1                                               50
+1pdr       treprkvvlhrg......................................
+1fc6A      ~~~~~~~~~~~~tseqllfleawravdrayvdksfngqswfklretylkk
+
+           51                                             100
+1pdr       ...........................................STGLGFN
+1fc6A      epxdrraqtydairkxlavlddpftrflepsrlaalrrgtagsVTGVGLE
+
+           101                                            150
+1pdr       IVGge...DGEGIFISFILAGGPADLsgELRKGDRIISVNSVDLRAASHE
+1fc6A      ITY..dggSGKDVVVLTPAPGGPAEKa.GARAGDVIVTVDGTAVKGXSLY
+
+           151                                            200
+1pdr       QAAAALKNag...qavtivaqyrpeeysrqha~~~~~~~~~~~~~~~~~~
+1fc6A      DVSDLLQG..eadsqvevvlhapgap......sntrtlqltrqkvtinpv
+
+           201                                            250
+1pdr       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1fc6A      tfttcsnvaaaalppgaakqqlgyvrlatfnsnttaaaqqaftelskqgv
+
+           251                                            300
+1pdr       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1fc6A      aglvldirnnggglfpagvnvarxlvdrgdlvliadsqgirdiysadgns
+
+           301                                            350
+1pdr       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1fc6A      idsatplvvlvnrgtasasevlagalkdskrgliagertfgkgliqtvvd
+
+           351                                            400
+1pdr       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1fc6A      lsdgsgvavtvaryqtpagvdinkigvspdvqldpevlptdlegvcrvlg
+
+           401  408
+1pdr       ~~~~~~~~
+1fc6A      sdaaprlf
+

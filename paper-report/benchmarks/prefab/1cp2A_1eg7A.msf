@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cp2A_1eg7A.msf MSF:  625 Type: P 11/12/19 CompCheck: 3814 ..
+
+  Name: 1eg7A      Len: 625  Check: 4971 Weight: 1.00
+  Name: 1cp2A      Len: 625  Check: 8843 Weight: 1.00
+
+//
+
+           1                                               50
+1eg7A      ieiaqaakmkpvmelarglgiqedevelygkykakisldvyrrlkdkpdG
+1cp2A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~M
+
+           51                                             100
+1eg7A      KLILVTAItptpa.GEGKTTTSVGLTDALARLGkrvmvclrepslgpsfg
+1cp2A      RQVAIYGK.....gGIGKSTTTQNLTSGLHAMGktimvvgc.........
+
+           101                                            150
+1eg7A      ikggaagggya........qvvpmedinlhft....gdihavtyahnlla
+1cp2A      ...........dpkadstrlllgglaq.....ksvldtlree........
+
+           151                                            200
+1eg7A      amvdnhlqqgnvlnidprtitwrrvidlneralrniviglggkangvpre
+1cp2A      ..................................................
+
+           201                                            250
+1eg7A      tgfdisvasevmaclclasdlmdlkerfsrkvvgytydgkpvtagdleaq
+1cp2A      ..................................................
+
+           251                                            300
+1eg7A      gsmallmkdaikp..nlvqtlentpafihggpfan....iahgc.....N
+1cp2A      ......gedvel.dsilkegyggircve.sggp..epgvgcag.rgiitS
+
+           301                                            350
+1eg7A      SIIAtk....TALKLADYVVTEAGFG.adlGAEKFYDVkcryagFKPDAT
+1cp2A      INML..eqlgAYTDDLDYVFYDVLGDvvcgGFAMPIRE......GKAQEI
+
+           351                                            400
+1eg7A      VIVATVralkmhggvpksdlatenlealreg.FANLEKHIENIGKFG...
+1cp2A      YIVASGemm......................aLYAANNISKGIQKYAksg
+
+           401                                            450
+1eg7A      ..vpaVVAINAFPTDTeaELNLLYELCA..KAGA.evalswakgg.....
+1cp2A      gvrlgGIICNSRKVAN..EYELLDAFAKelGSQLihfvp......rspmv
+
+           451                                            500
+1eg7A      ....................egglelarkvlqtlesrpsnfhvlynldls
+1cp2A      tkaeinkqtvieydptceqaeeyrelarkvdan..elfv...........
+
+           501                                            550
+1eg7A      ikdkiakiateiygadgvnytaeadkaiqryeslgygnlpvvmaktqysf
+1cp2A      ..................................................
+
+           551                                            600
+1eg7A      sddmtkl....grprnftitvrevrlsaggrlivpitgaimtmpglpkrp
+1cp2A      .......ipkpmtqe...................................
+
+           601                   625
+1eg7A      aacnididadgvitg~~~~~~~~~~
+1cp2A      ...............rleeilmqyg
+

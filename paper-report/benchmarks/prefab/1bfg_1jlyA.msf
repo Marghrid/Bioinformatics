@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bfg_1jlyA.msf MSF:  126 Type: P 11/12/19 CompCheck: 4804 ..
+
+  Name: 1bfg       Len: 126  Check: 2539 Weight: 1.00
+  Name: 1jlyA      Len: 126  Check: 2265 Weight: 1.00
+
+//
+
+           1                                               50
+1bfg       DPKRLYCKNGGFFLRIHPDGRVDGVREKSDPHIKLQLQAEERGVVSIKGV
+1jlyA      GYVTFKGN.NGKYLGVI.LPCLQFYDNLNDPKVAHQMFVTSNGTICIKSN
+
+           51                                             100
+1bfg       SANRYLAMKEDGRLLASKSVTDECFFFERLESNNYNTYRSRKYTSWYVAL
+1jlyA      YMNKFWRLSTDDWILVDGNDEAAALFRSDVHDFNVISLLNMQKT.WFIKR
+
+           101                    126
+1bfg       KRTGQYKLGSKTGPGQKAILFLPMSA
+1jlyA      F..INCMNA.ATQNVDETAILEIIEL
+

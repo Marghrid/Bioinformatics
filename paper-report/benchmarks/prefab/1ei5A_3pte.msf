@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ei5A_3pte.msf MSF:  560 Type: P 11/12/19 CompCheck: 9332 ..
+
+  Name: 1ei5A      Len: 560  Check: 6809 Weight: 1.00
+  Name: 3pte       Len: 560  Check: 2523 Weight: 1.00
+
+//
+
+           1                                               50
+1ei5A      ~kfdtsa.LEAFVRHIPQNYK...GPGGVVAVVKDgEVVLQHAWGFADLR
+3pte       adlpa..pDDTGLQAVLHTALsqgAPGAMVRVDDN.GTIHQLSEGVADRA
+
+           51                                             100
+1ei5A      TRTPMTLDTRMPICSVSKQFTCAVLLDAv....GEPEL.ldDALEAYLdk
+3pte       TGRAITTTDRFRVGSVTKSFSAVVLLQLvdegkLDLDAsvnTYLPGLLp.
+
+           101                                            150
+1ei5A      feDERPAVRDLCNNQSGLRDYWALsvlcga.......dpegvflpaqAQS
+3pte       ..DDRITVRQVMSHRSGLYDYTNDmfa...qtvpgfesvrnkvfs..YQD
+
+           151                                            200
+1ei5A      LLR..RLKTTHFEPGSHYSYCNGNFRILADLIEAHTGRTLVDILSERIFA
+3pte       LITlsLKHGVTNAPGAAYSYSNTNFVVAGMLIEKLTGHSVATEYQNRIFT
+
+           201                                            250
+1ei5A      PAGMKRAELISDTALFD..ECTGYEGdt...vrgflpa.tNRIQ.WMGDA
+3pte       PLNLTDTFYVHPDTVIPgtHANGYLTp.deaggalvdsteQTVSwAQSAG
+
+           251                                            300
+1ei5A      GICASLNDMIAWEQFIDATrd..desglyrrlsgpqtfkdgvaa.....P
+3pte       AVISSTQDLDTFFSALMSGq.lmsaaq.laqmqqwtt.......vnstqG
+
+           301                                            350
+1ei5A      YGFGLNLHET.GGKRLTGHGGALRGWRCQRWHCADERLSTIAMFNFE...
+3pte       YGLGLRRRDLsCGISVYGHTGTVQGYYTYAFASKDGKRSVTALANTSnnv
+
+           351                                            400
+1ei5A      .ggas.EVAFK.lmnialgvsssevsrveadsawfgswlddetglvlsle
+3pte       nvlntmARTLEsafcg..................................
+
+           401                                            450
+1ei5A      daghgrmkarfgtspemmdvvsanearsavttirrdgetielvrasenlr
+3pte       ..................................................
+
+           451                                            500
+1ei5A      lsmkrvkgeakhdiigryhsdeldadlllvseggaiygafegflgksdmy
+3pte       ..................................................
+
+           501                                            550
+1ei5A      plysvgsdvwllpvqrsmdapspgewklvfrrddkgeitglsvgcwlarg
+3pte       ..................................................
+
+           551    560
+1ei5A      veyrrvqp~~
+3pte       ........kp
+

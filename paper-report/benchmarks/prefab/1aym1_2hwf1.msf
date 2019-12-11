@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aym1_2hwf1.msf MSF:  288 Type: P 11/12/19 CompCheck: 8473 ..
+
+  Name: 1aym1      Len: 288  Check: 9033 Weight: 1.00
+  Name: 2hwf1      Len: 288  Check: 9440 Weight: 1.00
+
+//
+
+           1                                               50
+1aym1      npveRYVDEVLNEVLVVPNINQSHPTTSNAAPVLDAAETGHTNKIQPEDT
+2hwf1      ~~~~NYIDEVLNEVLVVPNIKESHHTTSNSAPLLDAAETGHTSNVQPEDA
+
+           51                                             100
+1aym1      IETRYVQSSQTLDEMSVESFLGRSGCIHESVLDIV.dnynd..QSFTKWN
+2hwf1      IETRYVITSQTRDEMSIESFLGRSGCVHISRIKVDytdyngqdINFTKWK
+
+           101                                            150
+1aym1      INLQEMAQIRRKFEMFTYARFDSEITMVPSVAAKDGHIGHIVMQYMYVPP
+2hwf1      ITLQEMAQIRRKFELFTYVRFDSEITLVPCIAGRGDDIGHIVMQYMYVPP
+
+           151                                            200
+1aym1      GAPIPTTRDDYAWQSGTNASVFWQHGQPFPRFSLPFLSIASAYYMFYDGY
+2hwf1      GAPIPSKRNDFSWQSGTNMSIFWQHGQPFPRFSIPFLSIASAYYMFYDGY
+
+           201                                            250
+1aym1      DGDTYKSRYGTVVTNDMGTLCSRIVTSEQLHKVKVVTRIYHKAKHTKAWC
+2hwf1      DGDNTSSKYGSVVTNDMGTICSRIVTEKQKLSVVITTHIYHKAKHTKAWC
+
+           251                                288
+1aym1      PRPPRAVQYSHTHTTNYKlssevhnDVAIRPRTNLTTV
+2hwf1      PRPPRAVPYTHSHVTNYMpetgd.vTTAIVRRNTITTA
+

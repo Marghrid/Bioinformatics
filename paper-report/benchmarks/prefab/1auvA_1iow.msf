@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1auvA_1iow.msf MSF:  355 Type: P 11/12/19 CompCheck: 6884 ..
+
+  Name: 1auvA      Len: 355  Check: 2169 Weight: 1.00
+  Name: 1iow       Len: 355  Check: 4715 Weight: 1.00
+
+//
+
+           1                                               50
+1auvA      AARVLLVID.........epht..dwakyfkgkkihgeidIKVEQAEFSD
+1iow       MTDKIAVLLggtsaerevslnsgaavlaglregg......IDAYPVDPKE
+
+           51                                             100
+1auvA      LNLvahanggfSVDxevlrngvkvvrSLKPDFVLIRQHAFsxarngdy..
+1iow       VDV.......tQLK............SMGFQKVFIALHGR........gg
+
+           101                                            150
+1auvA      ..rSLVIGLQYAGIPSINSLH.SVYNFCDKPWVFAQXVRLHkklgteeFP
+1iow       edgTLQGMLELMGLPYTGSGVmASALSMDKLRSKLLWQGAG.......LP
+
+           151                                            200
+1auvA      LINQTFYpnhkex.........LSSt..TYPVVVKXGHAHSGXGKVKVDN
+1iow       VAPWVAL.traefekglsdkqlAEIsalGLPVIVKPSREGSSVGMSKVVA
+
+           201                                            250
+1auvA      QHDFQDIASVVALTKTYATTEPFIDAkYDVRIQKIGqnyk.AYXRT....
+1iow       ENALQDALRLAFQHDEEVLIEKWLSG.PEFTVAILGeeilpSIRIQpsgt
+
+           251                                            300
+1auvA      ..............LEQIAx......SDRYKLWVDTCSEIFGGLDICAVE
+1iow       fydyeakflsdetqYFCPA.gleasqEANLQALVLKAWTTLGCKGWGRID
+
+           301                                            350
+1auvA      ALHGKDGRDHIIEVVGssxpl.......igdhq...DEDKQLIVELVVNK
+1iow       VMLDSDGQFYLLEANT.spgmtshslvpmaar.qagMSFSQLVVRILELA
+
+           351
+1auvA      xaqa~
+1iow       ....d
+

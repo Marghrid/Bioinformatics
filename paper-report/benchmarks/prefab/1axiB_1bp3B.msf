@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1axiB_1bp3B.msf MSF:  202 Type: P 11/12/19 CompCheck: 4102 ..
+
+  Name: 1axiB      Len: 202  Check: 7129 Weight: 1.00
+  Name: 1bp3B      Len: 202  Check: 6973 Weight: 1.00
+
+//
+
+           1                                               50
+1axiB      ~~~~EPKFTKCRSPERETFSCHWTDe....gPIQLFYTRrn..EWKECPD
+1bp3B      lppgKPEIFKCRSPNKETFTCWWRP.gtdgtNYSLTYHRegetLMHECPD
+
+           51                                             100
+1axiB      YVSAGENSCYFNSSFTSIAIPYCIKLTSN.GGTVDEKCFSVDEIVQPDPP
+1bp3B      YITGGPNSCHFGKQYTSMWRTYIMMVNATnSSFSDELYVDVTYIVQPDPP
+
+           101                                            150
+1axiB      IALNWTLLNvsltgihADIQVRWEAPRNADIQKGWMVLEYELQYKEVNET
+1bp3B      LELAVEVKQ.pedr.kPYLWIKWSPPTLIDLKTGWFTLLYEIRLKPEKAA
+
+           151                                            200
+1axiB      KWKMMDPILTTSVPVYSLKVDKEYEVRVRSKQRnSGNYGEFSEVLYVTLP
+1bp3B      EWEIHFAGQQTEFKILSLHPGQKYLVQVRCKPD.HGYWSAWSPATFIQIP
+
+           201 202
+1axiB      Qm
+1bp3B      S~
+

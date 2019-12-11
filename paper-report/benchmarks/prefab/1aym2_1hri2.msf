@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aym2_1hri2.msf MSF:  259 Type: P 11/12/19 CompCheck: 3965 ..
+
+  Name: 1aym2      Len: 259  Check: 8473 Weight: 1.00
+  Name: 1hri2      Len: 259  Check: 5492 Weight: 1.00
+
+//
+
+           1                                               50
+1aym2      ~~SDRIIQITRGDSTITSQDVANAVVGYGVWPHYLTPQDATAIDKPTQPD
+1hri2      gySDRVQQITLGNSTITTQEAANAVVCYAEWPEYLPDVDASDVNKTSKPD
+
+           51                                             100
+1aym2      TSSNRFYTLDSKMWNSTSKGWWWKLPDALKDMGIFGENMFYHFLGRSGYT
+1hri2      TSVCRFYTLDSKTWTTGSKGWCWKLPDALKDMGVFGQNMFFHSLGRSGYT
+
+           101                                            150
+1aym2      VHVQCNASKFHQGTLLVVMIPEHQLATVnkgnvn.AGYKYTHPGEAGREV
+1hri2      VHVQCNATKFHSGCLLVVVIPEHQLASH.eggnvsVKYTFTHPGERGIDL
+
+           151                                            200
+1aym2      Gt..qveneKQPSDDNWLNFDGTLLGNLLIFPHQFINLRSNNSATLIVPY
+1hri2      S.sane..vGGPVKDVLYNMNGTLLGNLLIFPHQFINLRTNNTATIVIPY
+
+           201                                            250
+1aym2      VNAVPMDSMVRHNNWSLVIIPVCQLQSn.NISNIVPITVSISPMCAEFSG
+1hri2      INSVPIDSMTRHNNVSLMVIPIAPLTVptGATPSLPITVTIAPMCTEFSG
+
+           251   259
+1aym2      ARAKTVVQ~
+1hri2      IRSKSIVPq
+

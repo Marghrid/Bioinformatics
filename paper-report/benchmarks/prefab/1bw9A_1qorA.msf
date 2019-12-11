@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bw9A_1qorA.msf MSF:  519 Type: P 11/12/19 CompCheck: 3395 ..
+
+  Name: 1bw9A      Len: 519  Check: 9114 Weight: 1.00
+  Name: 1qorA      Len: 519  Check: 4281 Weight: 1.00
+
+//
+
+           1                                               50
+1bw9A      sidsalnwdgemtvtrfdsmtgahfvirldstqlgpaaggtraaqysnla
+1qorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1bw9A      daltdagklagamtlkmavsnlpmgggksv......ialpaprhsidpst
+1qorA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~atriefhkh..ggpev...l
+
+           101                                            150
+1bw9A      warilrihaenid...klsgnywtg................pdvntn...
+1qorA      qav..........eftpadpa....eneiqvenkaiginfidtyir.sgl
+
+           151                                            200
+1bw9A      .......sadmdtlndttefvfgrslerggag..................
+1qorA      ypppslpsglg.....................teaagivskvgsgvkhik
+
+           201                                            250
+1bw9A      .........................................SSAFTTAVG
+1qorA      agdrvvyaqsalgayssvhniiadkaailpaaisfeqaaasFLKGLTVYY
+
+           251                                            300
+1bw9A      VF.eamkatvahrglgs.LDGLTVLVQGL.GAVGGSLASLAAEAGAQLLV
+1qorA      LLrktye..........iKPDEQFLFHAAaGGVGLIACQWAKALGAKLIG
+
+           301                                            350
+1bw9A      ADTDTERVAHAVALg..hTAVAL..eDVLSt.........pcdvfapcAM
+1qorA      TVGTAQKAQSALKA.gawQVINYreeDLVE.rlkeitggkkvrvvyd.SV
+
+           351                                            400
+1bw9A      GGVIttevar....tLDC...svvag.aannv...IADEAaSDILHAR.g
+1qorA      GRDT......werslDCLqrrglmv.sfgns.sgaVTGVN.LGILNQKgs
+
+           401                                            450
+1bw9A      ilyapdfvanAGGAIHLvgrevlg.wsesvvheravaigdtlnqvfeisd
+1qorA      lyvtr....pSLQGYIT.......treelteasn................
+
+           451                                            500
+1bw9A      ndgvtpdeaartlagrrareast~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1qorA      .......................elfsliasgvikvdvaeqqkyplkdaq
+
+           501             519
+1bw9A      ~~~~~~~~~~~~~~~~~~~
+1qorA      raheilesratqgssllip
+

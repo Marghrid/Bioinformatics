@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1d4vA_1extA.msf MSF:  169 Type: P 11/12/19 CompCheck: 9888 ..
+
+  Name: 1d4vA      Len: 169  Check: 9320 Weight: 1.00
+  Name: 1extA      Len: 169  Check:  568 Weight: 1.00
+
+//
+
+           1                                               50
+1d4vA      qqkrssps.............EGLCPPGHHISEDG......RDCISCKyg
+1extA      vcp.....qgkyihpqnnsicCTKCHKGTYLYNDCpgpgqdTDCRECEs.
+
+           51                                             100
+1d4vA      QDYSTHWNDLLFCLRCTRCDS..GEVELSPCTTTRNTVCQCEEGTFREED
+1extA      GSFTASENHLRHCLSCSKCRKemGQVEISSCTVDRDTVCGCRKNQYRHYW
+
+           101                                            150
+1d4vA      s...pemcrkcrtGCPRgmvkvgdctpwsdiecvhkesgd~~~~~~~~~~
+1extA      .senlfqcfncs.LCLN.gtvhlscqekqntvctc.hagfflrenecvsc
+
+           151             169
+1d4vA      ~~~~~~~~~~~~~~~~~~~
+1extA      snckkslectklclpqien
+

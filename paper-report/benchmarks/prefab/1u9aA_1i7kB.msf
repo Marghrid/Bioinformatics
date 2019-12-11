@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1u9aA_1i7kB.msf MSF:  160 Type: P 11/12/19 CompCheck: 3395 ..
+
+  Name: 1u9aA      Len: 160  Check: 5710 Weight: 1.00
+  Name: 1i7kB      Len: 160  Check: 7685 Weight: 1.00
+
+//
+
+           1                                               50
+1u9aA      lnmsgIALSRLAQERKAWRKDHPFGFVAVPTKNpdgtmNLMNWECAIPGK
+1i7kB      ~~~~~PVGKRLQQELMTLMMSGDKGISAFPESD.....NLFKWVGTIHGA
+
+           51                                             100
+1u9aA      KGTPWEGGLFKLRMLFKDDYPSSPPKCKFEPPLFHPNVYPSGTVCLSILE
+1i7kB      AGTVYEDLRYKLSLEFPSGYPYNAPTVKFLTPCYHPNVDTQGNISLDILK
+
+           101                                            150
+1u9aA      edKDWRPAITIKQILLGIQELLNEPNIQDPAQAEAYTIYCqNRVEYEKRV
+1i7kB      ..EKWSALYDVRTILLSIQSLLGEPNIDSPLNTHAAELWK.NPTAFKKYL
+
+           151    160
+1u9aA      RAqakkfap~
+1i7kB      QEtyskqv.t
+

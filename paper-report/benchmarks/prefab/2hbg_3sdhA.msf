@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2hbg_3sdhA.msf MSF:  147 Type: P 11/12/19 CompCheck: 1425 ..
+
+  Name: 2hbg       Len: 147  Check: 7395 Weight: 1.00
+  Name: 3sdhA      Len: 147  Check: 4030 Weight: 1.00
+
+//
+
+           1                                               50
+2hbg       GLSAAQRQVIAATWKDIAGADNGAGVGKKCLIKFLSAHPQMAAVFGFSGA
+3sdhA      QLTADVKKDLRDSWKVIGS..DKKGNGVALMTTLFADNQETIGYFKLGNV
+
+           51                                             100
+2hbg       SDPGVAALGAKVLAQIGVAVSHLGDEGKMVAQMKAVGVRHKGYGNKHIKA
+3sdhA      SNDKLRGHSITLMYALQNFIDQLDNPDDLVCVVEKFAVNHITR...KISA
+
+           101                                         147
+2hbg       QYFEPLGASLLSAMEHRIGGKMNAAAKDAWAAAYADISGALISGLQS
+3sdhA      AEFGKINGPIKKVLASKN...FGDKYANAWAKLVAV.VQAAL~~~~~
+

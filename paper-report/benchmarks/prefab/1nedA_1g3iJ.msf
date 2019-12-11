@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1nedA_1g3iJ.msf MSF:  182 Type: P 11/12/19 CompCheck: 3380 ..
+
+  Name: 1nedA      Len: 182  Check: 3401 Weight: 1.00
+  Name: 1g3iJ      Len: 182  Check: 9979 Weight: 1.00
+
+//
+
+           1                                               50
+1nedA      TTIVSVRRNGHVVIAGDGQATLGNTVMKGNVKKVRRLYNDKVIAGFAGGT
+1g3iJ      TTIVSVRRNGQVVVGGDGQVSLGNTVMKGNARKVRRLYNGKVLAGFAGGT
+
+           51                                             100
+1nedA      ADAFTLFELFERKLEMHQGHLVKAAVELAKDwrtdr.MLRKLEALLAVAD
+1g3iJ      ADAFTLFELFERKLEMHQGHLLKSAVELAKD.wrtdrALRKLEAMLIVAD
+
+           101                                            150
+1nedA      ETASLIITGNGDVVQPE.NDLIAIGSGGPYAQAAARALLENTELSAREIA
+1g3iJ      EKESLIITGIGDVVQPEeDQILAIGSGGNYALSAARALVENTELSAHEIV
+
+           151                          182
+1nedA      EKALDIAGDICIYTNHFHTIEELSykaefhhh
+1g3iJ      EKSLRIAGDICVFTNTNFTIEELP~~~~~~~~
+

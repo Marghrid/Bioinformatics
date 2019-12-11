@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qdlB_1tmy.msf MSF:  209 Type: P 11/12/19 CompCheck: 7555 ..
+
+  Name: 1qdlB      Len: 209  Check:  763 Weight: 1.00
+  Name: 1tmy       Len: 209  Check: 6792 Weight: 1.00
+
+//
+
+           1                                               50
+1qdlB      mDLTLIIDNYDSFVYNIAQIVGELGSYP.IVIRNde..ISIKGIERIDPD
+1tmy       gKRVLIVDDAAFMRMMLKDIITKAGYEVaGEATN..grEAVEKYKELKPD
+
+           51                                             100
+1qdlB      RLIISPGPgtpekredigvsldvikylg...KRTPILGVClg.......H
+1tmy       IVTMDITM.....pemn..gidaikeimkidPNAKIIVCS..amgqqamV
+
+           101                                            150
+1qdlB      QAIGYAfgakirrarkvfhgkisniilvnnsplslyygiakefkatryhs
+1tmy       IEAIKA............................................
+
+           151                                            200
+1qdlB      lvvdevhrplivdaisaedneimaihheeypiygvqfhpesvgtslgYKI
+1tmy       .............................gakdfivkpf.......qPSR
+
+           201   209
+1qdlB      LYNFLNRV~
+1tmy       VVEALNKVs
+

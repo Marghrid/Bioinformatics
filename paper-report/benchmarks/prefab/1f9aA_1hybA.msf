@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1f9aA_1hybA.msf MSF:  167 Type: P 11/12/19 CompCheck: 1830 ..
+
+  Name: 1f9aA      Len: 167  Check: 1379 Weight: 1.00
+  Name: 1hybA      Len: 167  Check:  451 Weight: 1.00
+
+//
+
+           1                                               50
+1f9aA      LRGFIIGRFQPFHKGHLEVIKKIAEEVDEIIIGIGSAQKSHTLENPFTAG
+1hybA      MRGLLVGRMQPFHRGALQVIKSILEEVDELIICIGSAQLSHSIRDPFTAG
+
+           51                                             100
+1f9aA      ERILMITQSLK..dydl.TYYPIPIKDIEFNSIWVSYVESLTPPFDIVYS
+1hybA      ERVMMLTKALSengipasRYYIIPVQDIECNALWVGHIKMLTPPFDRVYS
+
+           101                                            150
+1f9aA      GNPLVRVLFEERGYEVKRPEmfnrkeYSGTEIRRRMLNGEKWEHLVPKAV
+1hybA      GNPLVQRLFSEDGYEVTAPP......YSGTEVRRRMLDDGDWRSLLPESV
+
+           151           167
+1f9aA      VDVIKEIKGVERLRKLA
+1hybA      VEVIDEINGVERIKHLA
+

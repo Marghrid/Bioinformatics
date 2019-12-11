@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1id1A_1ofgA.msf MSF:  427 Type: P 11/12/19 CompCheck: 1975 ..
+
+  Name: 1ofgA      Len: 427  Check:  588 Weight: 1.00
+  Name: 1id1A      Len: 427  Check: 1387 Weight: 1.00
+
+//
+
+           1                                               50
+1ofgA      tlpagasqvpttpagrpmpyairpmpedr..rFGYAIVGLGKYALnQILP
+1id1A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~hrkDHFIVCGHSILAI.NTIL
+
+           51                                             100
+1ofgA      GFAGcqHSRIealvsgnae.KAKIVAAEY..gvdprkIYDY....snfdk
+1id1A      QLNQr.GQNV.tvisnlpedDIKQLEQRLgdnadv..IPGDsndssvlkk
+
+           101                                            150
+1ofgA      .iakdpkidavyiil.PNSLHAEFAIRAFKAG..KHVMCEKPma...tsv
+1id1A      agidr..crailalsdNDADNAFVVLSAKDMSsdVKTVLAVS..dsknln
+
+           151                                            200
+1ofgA      adCQRMIdaakaankk.LMIGyrchydpmnraavklirenqlgklgmvtt
+1id1A      k.IKMVH.........pDIIL.............................
+
+           201                                            250
+1ofgA      dnsdvmdqndpaqqwrlrrelagggslmdigiyglngtryllgeepievr
+1id1A      ..................................................
+
+           251                                            300
+1ofgA      aytysdpnderfvevedriiwqmrfrsgalshgassysttttsrfsvqgd
+1id1A      ..................................................
+
+           301                                            350
+1ofgA      kavllmdpatgyyqnlisvqtpghanqsmmpqfimpannqfsaqldhlae
+1id1A      ..................................................
+
+           351                                            400
+1ofgA      avinnkpvrspgeegmqdvrliqaiyeaartgrpvntdwgyvrqggy~~~
+1id1A      ...............................................spq
+
+           401                     427
+1ofgA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1id1A      lfgseilarvlngeeinndmlvsmlln
+

@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cy5A_3ygsP.msf MSF:  92 Type: P 11/12/19 CompCheck: 7533 ..
+
+  Name: 1cy5A      Len: 92  Check: 1873 Weight: 1.00
+  Name: 3ygsP      Len: 92  Check: 5660 Weight: 1.00
+
+//
+
+           1                                               50
+1cy5A      MDAKARNCLLQHREALEKDIKTSYIMDHMISDGFLTISEEEKVRNEPTQQ
+3ygsP      MDEADRRLLRRCRLRLVEELQVDQLWDVLLSRELFRPHMIEDIQRAGSRR
+
+           51                                      92
+1cy5A      QRAAMLIKMILKKDNDSYVSFYNALLHEGYKDLAALLHDGIP
+3ygsP      DQARQLIIDLETRGSQALPLFISCLEDTGQDMLASFLRTNR~
+

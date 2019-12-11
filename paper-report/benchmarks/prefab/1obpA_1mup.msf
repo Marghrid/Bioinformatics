@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1obpA_1mup.msf MSF:  196 Type: P 11/12/19 CompCheck: 4035 ..
+
+  Name: 1obpA      Len: 196  Check:  118 Weight: 1.00
+  Name: 1mup       Len: 196  Check: 3917 Weight: 1.00
+
+//
+
+           1                                               50
+1obpA      eee.......aeqnLSELSGPWRTVYIGSTNPEKIQENGPFRTYFRELVF
+1mup       ~~~eeasstgrnfnVEKINGEWHTIILASDKREKIEDNGNFRLFLEQIHV
+
+           51                                             100
+1obpA      DdeKGTVDFYFSVKRDGKWKNVHVKATKQDDG.TYVADYEGQNVFKIVSL
+1mup       L..ENSLVLKFHTVRDEECSELSMVADKTEKAgEYSVTYDGFNTFTIPKT
+
+           101                                            150
+1obpA      S.rTHLVAHNINVDkHGQTTELTGLFVKLnvededlekfwkltedkgidk
+1mup       DydNFLMAHLINEK.DGETFQLMGLYGRE.....................
+
+           151                                        196
+1obpA      knvvnflenedh.............................phpe~
+1mup       ............pdlssdikerfaqlceehgilreniidlsnanrc
+

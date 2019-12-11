@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fzgD_2eboA.msf MSF:  76 Type: P 11/12/19 CompCheck: 1280 ..
+
+  Name: 1fzgD      Len: 76  Check: 6327 Weight: 1.00
+  Name: 2eboA      Len: 76  Check: 4953 Weight: 1.00
+
+//
+
+           1                                               50
+1fzgD      ~~~LLQKNVRAQLVDMKRLEVDIDIKIRSCRGSCSra.............
+2eboA      glrQLANETTQALQLFLRATTELRTFSILNRKAID..fllqrwggtchil
+
+           51                      76
+1fzgD      .....LAREVDLKDYEDQQKQLEQ~~
+2eboA      gpdcaIEPHDWTKNITDKIDQIIHdf
+

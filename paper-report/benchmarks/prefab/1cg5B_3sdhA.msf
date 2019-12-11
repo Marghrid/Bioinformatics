@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1cg5B_3sdhA.msf MSF:  141 Type: P 11/12/19 CompCheck: 2170 ..
+
+  Name: 1cg5B      Len: 141  Check: 1208 Weight: 1.00
+  Name: 3sdhA      Len: 141  Check:  962 Weight: 1.00
+
+//
+
+           1                                               50
+1cg5B      VKLSEDQEHYIKGVWKDVDHKQITAKALERVFVVYPWTTRLFSKLQGLFS
+3sdhA      AQLTADVKKDLRDSWKVIDKKGNGVALMTTLFADNQETIGYFKRLGNVSG
+
+           51                                             100
+1cg5B      ANDIGVQQHADKVQRALGEAIDDLKKVEINFQNLSGKHQEIGVDTQNFKL
+3sdhA      MANDKLRGHSITLMYALQNFIDQLDDLVCVVEKFAVNHITRKISAAEFGK
+
+           101                                   141
+1cg5B      LGQTFMVELALHYKKTFRPKEHAAAYKFFRLVAEALSSNYH
+3sdhA      INGPIKKVLASKN...FGDKYANAWAKLVAV.VQAAL~~~~
+

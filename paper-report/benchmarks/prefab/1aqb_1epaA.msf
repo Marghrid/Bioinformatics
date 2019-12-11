@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aqb_1epaA.msf MSF:  175 Type: P 11/12/19 CompCheck: 6310 ..
+
+  Name: 1aqb       Len: 175  Check: 6818 Weight: 1.00
+  Name: 1epaA      Len: 175  Check: 9492 Weight: 1.00
+
+//
+
+           1                                               50
+1aqb       ERDaRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDEN
+1epaA      ~~~~~~~~~~~VKDFDISKFLGFWYEIAFASK.....EKMGAMVVELK.E
+
+           51                                             100
+1aqb       GHMSATAKGRVRLLNNWDVbADMVGTFTDTEDPAKFKMKYWGVASFLQKG
+1epaA      NLLALTTTYYSE.....DHaVLEKVTATEGDGPAKFQVTR.........G
+
+           101                                            150
+1aqb       NDDHWIIDTDYDTYAVQYScRLQNLDGTcADSYSFVFARDPHGFSPEVQK
+1epaA      KKEVVVEATDYLTYAIIDItSL.......VHRTMKLYSRSLDDNG.EALY
+
+           151                   175
+1aqb       IVRQRQEELaLARQYRIITHNGYbD
+1epaA      NFRKITSDHgFSEDLYILKHDLTa~
+

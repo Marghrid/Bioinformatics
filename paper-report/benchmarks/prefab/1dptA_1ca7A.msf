@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dptA_1ca7A.msf MSF:  117 Type: P 11/12/19 CompCheck: 3597 ..
+
+  Name: 1dptA      Len: 117  Check: 9786 Weight: 1.00
+  Name: 1ca7A      Len: 117  Check: 3811 Weight: 1.00
+
+//
+
+           1                                               50
+1dptA      PFLELDTNLPANRVPAGLEKRLCAAAASILGKPADRVNVTVRPGLAMALS
+1ca7A      PMFIVNTNVPRASVPDGFLSELTQQLAQATGKPPQYIAVHVVPDQLMAFG
+
+           51                                             100
+1dptA      GSTEPCAQLSISSIGVVgTAEDNRSHSAHFFEFLTKELALGQDRILIRFF
+1ca7A      GSSEPCALCSLHSIGKI.GGAQNRSYSKLLCGLLAERLRISPDRVYINYY
+
+           101           117
+1dptA      PLESWQIGKIGTVMTfl
+1ca7A      DMNAANVGWNNSTFA~~
+

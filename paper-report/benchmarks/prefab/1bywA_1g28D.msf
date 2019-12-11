@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bywA_1g28D.msf MSF:  110 Type: P 11/12/19 CompCheck: 2613 ..
+
+  Name: 1bywA      Len: 110  Check: 1225 Weight: 1.00
+  Name: 1g28D      Len: 110  Check: 1388 Weight: 1.00
+
+//
+
+           1                                               50
+1bywA      sRKFIIANARVENCAVIYCNDGFCELCGYSRAEVMQRPctCDFLHGPCTQ
+1g28D      ~KSFVITDPRLPDNPIIFASDRFLELTEYTREEVLGNN..CRFLQGRGTD
+
+           51                                             100
+1bywA      RRAAAQIAQALLGAEERKVEIAFYRKDGSCFLCLVDVVPVKNEDGAVIMF
+1g28D      RKAVQLIRDAVKEQRDVTVQVLNYTKGGRAFWNLFHLQVMRDENGDVQYF
+
+           101    110
+1bywA      ILNFEVVmek
+1g28D      IGVQQEM~~~
+

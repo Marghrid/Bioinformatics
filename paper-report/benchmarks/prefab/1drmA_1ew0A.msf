@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1drmA_1ew0A.msf MSF:  143 Type: P 11/12/19 CompCheck: 7200 ..
+
+  Name: 1drmA      Len: 143  Check: 8236 Weight: 1.00
+  Name: 1ew0A      Len: 143  Check: 8964 Weight: 1.00
+
+//
+
+           1                                               50
+1drmA      ~~~~~~~~~~~~~~~~~~~~~~~~iPDAMIVIDGHGIIQLFSTAAERLFG
+1ew0A      gshmletedvvrardahlrsildtvPDATVVSATDGTIVSFNAAAVRQFG
+
+           51                                             100
+1drmA      WSELEAIGQNVNILMPEPDRSRHDSYISRYRTTSDPHIIGIGRIVTGKRR
+1ew0A      YAEEEVIGQNLRILMPEPYRHEHDGYLQRYMATGEKRIIGIDRVVSGQRK
+
+           101                                     143
+1drmA      DGTTFPMHLSIGEMQSGGEPYFTGFVRDLTehqqtqarlqelq
+1ew0A      DGSTFPMKLAVGEMRSGGERFFTGFIRDLT~~~~~~~~~~~~~
+

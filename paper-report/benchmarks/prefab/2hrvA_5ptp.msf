@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2hrvA_5ptp.msf MSF:  235 Type: P 11/12/19 CompCheck: 2491 ..
+
+  Name: 5ptp       Len: 235  Check: 1037 Weight: 1.00
+  Name: 2hrvA      Len: 235  Check: 1454 Weight: 1.00
+
+//
+
+           1                                               50
+5ptp       vggytcgantvpyqvslnsgyhfcGGSLINsQWVVSAAHCYKSgiqvrlg
+2hrvA      ~~~~~~~~~~~gpsd.........MYVHVG.NLIYRNLHLFNSe......
+
+           51                                             100
+5ptp       edninvvegneqfisa..sksivhpsynsntl.nndimliklksaaslns
+2hrvA      ................mhesilvs........yssdliiyrtntv.....
+
+           101                                            150
+5ptp       rva.SISLPTSCAsagTQCLISGwgntkssgtsypdvLKCLKAPILSDss
+2hrvA      ...gDDYIPSCDC...TQATYYCkhk...........NRYFPITVTSH..
+
+           151                                            200
+5ptp       c..ksay......pgqitsNMFCAGyleggKDSCQGDXGGPVVCSGKLQG
+2hrvA      .dwyeiqeseyypkhiqy.NLLIGE.....GPCEPGDCGGKLLCKHGVIG
+
+           201                             235
+5ptp       IVSWGSgcaqknkPGVYTKVCNYVSwikqtiasn~
+2hrvA      IVTAGGdn.....HVAFIDLRHFHC.........a
+

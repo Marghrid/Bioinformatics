@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bo4A_1cjwA.msf MSF:  180 Type: P 11/12/19 CompCheck: 7744 ..
+
+  Name: 1cjwA      Len: 180  Check: 1373 Weight: 1.00
+  Name: 1bo4A      Len: 180  Check: 6371 Weight: 1.00
+
+//
+
+           1                                               50
+1cjwA      tlpANEFRCLT...pedaagvfeiereafiSVSGNCplnl.......DEV
+1bo4A      ~~gIIRTCRLGpdqvksmraaldlfgref.GDVATY....sqhqpdsDYL
+
+           51                                             100
+1cjwA      QHFLTLCp.ELSLGWFVEGRLVAFIIGSLWDeerltqeslalhrp...rg
+1bo4A      GNLLRSK.tFIALAAFDQEAVVGALAAYVLPk.............feqpr
+
+           101                                            150
+1cjwA      HSAHLHALAVHRSFRQQGKGSVLLwrylhhvgaqpAVRRAVLMCEDalvp
+1bo4A      SEIYIYDLAVSGEHRRQGIATALInllkheanal.GAYVIYVQADY....
+
+           151                        180
+1cjwA      fyqrfgfhpagpcai.vvgsltftemhcsl
+1bo4A      ...............gddpa.valytkl~~
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1flp_1h97A.msf MSF:  142 Type: P 11/12/19 CompCheck: 2554 ..
+
+  Name: 1flp       Len: 142  Check: 3805 Weight: 1.00
+  Name: 1h97A      Len: 142  Check: 8749 Weight: 1.00
+
+//
+
+           1                                               50
+1flp       SLEAAQKSNVTSSWAKASAAWGTAGPEFFMALFDAHDDVFAKFSGLFSGA
+1h97A      TLTKHEQDILLKELGPHVDHIVETGLGAYHALFTAHPQYISHF.SRLEGH
+
+           51                                             100
+1flp       AKGTVKNTPEMAAQAQSFKGLVSNWVDNLDNAGALEGQCKTFAANHKARG
+1h97A      TIENVMQSEGIKHYARTLTEAIVHMLKEISNDAEVKKIAAQYGKDHTSRK
+
+           101                                    142
+1flp       ISAGQLEAAFKVLSGFMKSYGGDEGAWTAVAGALMGEIEPDM
+1h97A      VTKDEFMSGEPIFTKYFQNLV.GKAAVEKFLKHVFPMMAAEI
+

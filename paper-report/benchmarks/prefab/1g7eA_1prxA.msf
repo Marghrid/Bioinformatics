@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1g7eA_1prxA.msf MSF:  240 Type: P 11/12/19 CompCheck: 8471 ..
+
+  Name: 1g7eA      Len: 240  Check: 2451 Weight: 1.00
+  Name: 1prxA      Len: 240  Check: 6020 Weight: 1.00
+
+//
+
+           1                                               50
+1g7eA      ~~~~~~~~~~~~LHTKgalpldt..VTFYKVIPKSkFVLVKFDTQ.ypyg
+1prxA      lllgdvapnfeaNTTV.......grIRFHDFLGDS.WGILFSHPRdftpv
+
+           51                                             100
+1g7eA      ..EKQDEFKRLAENSASsdDLLVAEVGISdygdkln..............
+1prxA      xtTELGRAAKLAPEFAKr.NVKLIALSIDsv.....edhlawskdinayn
+
+           101                                            150
+1g7eA      .................melsekykld..........KESYPVFYLFRDG
+1prxA      seepteklpfpiiddrnrelaillgmldpaekdekgmPVTARVVFVFGPD
+
+           151                                            200
+1g7eA      dfENPVPYSG....AVKVGAIQRWLKGQGvylgm~~~~~~~~~~~~~~~~
+1prxA      .kKLKLSILYpattGRNFDEILRVVISLQ.....ltaekrvatpvdwkdg
+
+           201                                  240
+1g7eA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1prxA      dsvmvlptipeeeakklfpkgvftkelpsgkkylrytpqp
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1svpA_5ptp.msf MSF:  246 Type: P 11/12/19 CompCheck: 1529 ..
+
+  Name: 5ptp       Len: 246  Check: 4566 Weight: 1.00
+  Name: 1svpA      Len: 246  Check: 6963 Weight: 1.00
+
+//
+
+           1                                               50
+5ptp       vggytcg...antvpYQVSLNS..gYHFCGGSLINSqWVVSAAHCYKsgI
+1svpA      ~~~~~~~alklead.RLFDVKNedgDVIGHALAMEG.KVMKPLHVKG..T
+
+           51                                             100
+5ptp       QVRlgedninvvegneqfisa.SKSIVHPSynsntlnNDIMLIKlks.aa
+1svpA      IDH..............pvlskLKFTKSSA.......YDMEFAQ...lpv
+
+           101                                            150
+5ptp       slnsr.vASISLPtSCASAGtqclisgwgntkssgtsypdvlkCLKAPIL
+1svpA      nm...rsEAFTYT.SEHPEG.fynwh.................HGAVQYS
+
+           151                                            200
+5ptp       SDsscksaypgqitsnmfcagylegGKDSCQGDXGGPVVCS.GKLQGIVS
+1svpA      GG................rfti..pRGVGGRGDAGRPIMDNsGRVVAIVL
+
+           201                                        246
+5ptp       WGSgcaQKN.kpgvytkvCNYvswikqtiasn~~~~~~~~~~~~~~
+1svpA      GGA..dEGTrtalsvvt.WNSkgk........tikttpegteewsa
+

@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1fxd_1vjw.msf MSF:  60 Type: P 11/12/19 CompCheck: 1216 ..
+
+  Name: 1fxd       Len: 60  Check:  410 Weight: 1.00
+  Name: 1vjw       Len: 60  Check:  806 Weight: 1.00
+
+//
+
+           1                                               50
+1fxd       ~PIEVN.DDCMACEACVEICPDVFEMNeegDKAVVINPDSDLDCVEEAID
+1vjw       mKVRVDaDACIGCGVCENLCPDVFQLG.ddGKAKVLQPETDLPCAKDAAD
+
+           51      60
+1fxd       SCPAEAIVRs
+1vjw       SCPTGAISV~
+

@@ -1,0 +1,77 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ihmA_1a6cA.msf MSF:  827 Type: P 11/12/19 CompCheck: 3109 ..
+
+  Name: 1ihmA      Len: 827  Check: 1123 Weight: 1.00
+  Name: 1a6cA      Len: 827  Check: 1986 Weight: 1.00
+
+//
+
+           1                                               50
+1ihmA      dplamdpvagsstavatagqvnpid.....pwiinnfvqapqGEFTISPN
+1a6cA      ~~~~~~~~~~~~~~~~~~~~~~~~~avtvvpdpt.ccgt...LSFKVPKD
+
+           51                                             100
+1ihmA      NTPGDVLFDLSLGphlnp....FLLHLSQMYNGWVGNMRVRIMLAGNAFT
+1a6cA      AKKGKHLGTFDIR.qaimdyggLHSQEWCAKGIVNPTFTVRMHAPRNAFA
+
+           101                                            150
+1ihmA      AGKIIVSCIppgFGSH....nLTIAQATLFPHVIADVR.tldp.IEVPLE
+1a6cA      GLSIACTFDdy.KRIDlpalgNECPPSEMFELPTKVFMlkdadvHEWQFN
+
+           151                                            200
+1ihmA      D..vRNVlfhnndrnq.QTMRLVCMLYTPLRTgggtg.DSFVVAGRVMTC
+1a6cA      YgelTGH.glcnwanvaTQPTLYFFVASTNQV.....tMAADWQCIVTMH
+
+           201                                            250
+1ihmA      PSpdfnflflvpptveqktrpftlpnlplsslsns...............
+1a6cA      VD..mgpv...........................idrfelnptmtwpiq
+
+           251                                            300
+1ihmA      ..................................................
+1a6cA      lgdtfaidryyeakeikldgstsmlsisynfggpvkhskkhaisysravm
+
+           301                                            350
+1ihmA      ..................................................
+1a6cA      srnlgwsgtisgsvksvsslfctasfvifpweceapptlrqvlwgphqim
+
+           351                                            400
+1ihmA      ..................................................
+1a6cA      hgdgqfeiaiktrlhsaatteegfgrlgilplsgpiapdahvgsyefivh
+
+           401                                            450
+1ihmA      ..............................raplpissmgispdnvqsvq
+1a6cA      intwrpdsqvhppmfssselynwftltnlkpdan................
+
+           451                                            500
+1ihmA      fqngrctldgrlvg...ttpvslshvaki.....................
+1a6cA      ..............tgvvnfd........ipgyihdfaskdatvtlasnp
+
+           501                                            550
+1ihmA      .....................rgtsngtvinlteld..............
+1a6cA      lswlvaatgwhygevdlciswsrskqaqaq......egsvsittnyrdwg
+
+           551                                            600
+1ihmA      ........gtpfhpfegpap........................igfpdl
+1a6cA      aywqgqariydlrrt.....eaeipiflgsyagatpsgalgkqnyvri..
+
+           601                                            650
+1ihmA      ggcdwhinmtqfghssqtqydvdttpdtfvphlgsiqangigsgnyvgvl
+1a6cA      ..................................................
+
+           651                                            700
+1ihmA      swisppshpsgsqvdlwkipnygssiteathlapsvyppgfgevlvffms
+1a6cA      ..................................................
+
+           701                                            750
+1ihmA      kmpgpgaynlpcllpqeyishlaseqaptvgeaallhyvdpdtgrnlgef
+1a6cA      ..................................................
+
+           751                                            800
+1ihmA      kaypdgfltcvpngassgpqqlpingvfvfvswvsrfyqlkpvgtas~~~
+1a6cA      ...............................................siv
+
+           801                     827
+1ihmA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1a6cA      nakdivalrvclrpksikfwgrsatlf
+

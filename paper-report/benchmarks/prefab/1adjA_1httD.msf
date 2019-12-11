@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1adjA_1httD.msf MSF:  427 Type: P 11/12/19 CompCheck: 7885 ..
+
+  Name: 1adjA      Len: 427  Check: 6249 Weight: 1.00
+  Name: 1httD      Len: 427  Check: 1636 Weight: 1.00
+
+//
+
+           1                                               50
+1adjA      TARAVRGTKDLFGKELRMHQRIVATARKVLEAAGALELVTPIFEETQVFE
+1httD      NIQAIRGMNDYLPGETAIWQRIEGTLKNVLGSYGYSEIRLPIVEQTPLFK
+
+           51                                             100
+1adjA      KGVGAATDIVRKEMFTFQDRGGRSLTLRPEGTAAMVRAYLehgmkvwpqp
+1httD      RAIGEVTDVVEKEMYTFEDRNGDSLTLRPEGTAGCVRAGIehglly.nqe
+
+           101                                            150
+1adjA      vrlwmagpmfraerpqkg..RYRQFHQVNYEALGSENPILDAEAVVLLYE
+1httD      qrlwyigpmfrherpq..kgRYRQFHQLGCEVFGLQGPDIDAELIMLTAR
+
+           151                                            200
+1adjA      CLKELGL.RRLKVKLSSVGdpedrarynaylrevlsphrealsedskerl
+1httD      WWRALGIsEHVTLELNSIG...............................
+
+           201                                            250
+1adjA      eenpmrildskserdqallkelgvrpmldflGEEARAHLKEVERHLERLS
+1httD      ...............................DEESREHFAGLCKLLESAG
+
+           251                                            300
+1adjA      VPYELEPALVRGLDYYVRTAFEVHHEeigaQSALGGGGRYDGLSELLGGP
+1httD      IAYTVNQRLVRGLDYYNRTVFEWVTN....QGTVCAGGRYDGLVEQLGGR
+
+           301                                            350
+1adjA      RVPGVGFAFGVERVALALEAEGF.glpeekgpdLYLIPLTEEAVAEAFYL
+1httD      ATPAVGFAMGLERLVLLVQAVNPefkadpvvd.IYLVASGADTQSAAMAL
+
+           351                                            400
+1adjA      AEALRPRL...RAEYALAPRKPAKGLEEALKRGAAFAGFLGEDELRAGEV
+1httD      AERLRDELpgvKLMTNHGGGNFKKQFARADKWGARVAVVLGESEVANGTA
+
+           401                     427
+1adjA      TLKRLATGEQVRLSREEVPGYLLQALG
+1httD      VVKDLRSGEQTAVAQDSVAAHLRTLLG
+

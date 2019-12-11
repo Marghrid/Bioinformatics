@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aly_1dyoA.msf MSF:  197 Type: P 11/12/19 CompCheck:  756 ..
+
+  Name: 1aly       Len: 197  Check: 3846 Weight: 1.00
+  Name: 1dyoA      Len: 197  Check: 6910 Weight: 1.00
+
+//
+
+           1                                               50
+1aly       gdq.npqiaahvi.............................SEASSKTT
+1dyoA      ~~~pdagyyyhdtfegsvgqwtargpaevllsgrtaykgsesLLVRNRTA
+
+           51                                             100
+1aly       .svlqwaekgyytmsnnlvtlengKQLTVK....rQGLYYIYAQVTFCSN
+1dyoA      awnga...................QRALNPrtfvpGNTYCFSVVASFIEG
+
+           101                                            150
+1aly       reassq.aPFIASLCLKSPG....RFERILLRAANThssakpcgQQSIHL
+1dyoA      ......asSTTFCXKLQYVDgsgtQRYDTIDXKTVGp.......NQWVHL
+
+           151                                         197
+1aly       GG.VFELqp....GASVFVNVt.DPSQVShgtgf.TSFGLLKL~~~~
+1dyoA      YNpQYRIp.sdatDXYVYVETadDTINFY.....iDEAIGAVAgtvi
+

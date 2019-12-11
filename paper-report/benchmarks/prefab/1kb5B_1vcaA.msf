@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1kb5B_1vcaA.msf MSF:  230 Type: P 11/12/19 CompCheck:  328 ..
+
+  Name: 1vcaA      Len: 230  Check: 1976 Weight: 1.00
+  Name: 1kb5B      Len: 230  Check: 8352 Weight: 1.00
+
+//
+
+           1                                               50
+1vcaA      ~KIETTPeSRYLAQIGDSVSLTCSTTGCESPFFSWRTQ...idspl....
+1kb5B      tLLEQNP.RWRLVPRGQAVNLRCILKNSQYPWMSWYQQdlqkqlq.wlft
+
+           51                                             100
+1vcaA      ...............NGKVTNE.GTTSTLTMNpvsfgnEHSYLCTATCE.
+1kb5B      lrspgdkevkslpgaDYLATRVtDTELRLQVA.nmsq.GRTLYCTCSAAp
+
+           101                                            150
+1vcaA      ......SRKLEk.GIQVEIYsfpkdpeihlsgpleagkpitvkcsvadvy
+1kb5B      dwgasaETLYFgsGTRLTVL~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1vcaA      pfdrleidllkgdhlmksqefledadrksletkslevtftpviedigkvl
+1kb5B      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                        230
+1vcaA      vcraklhidemdsvptvrqavkelqvyisp
+1kb5B      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

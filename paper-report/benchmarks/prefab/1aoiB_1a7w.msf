@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1aoiB_1a7w.msf MSF:  83 Type: P 11/12/19 CompCheck:  559 ..
+
+  Name: 1aoiB      Len: 83  Check: 3806 Weight: 1.00
+  Name: 1a7w       Len: 83  Check: 6753 Weight: 1.00
+
+//
+
+           1                                               50
+1aoiB      kvlrdniqgitkpAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDA
+1a7w       ~~~~~~melpia.PIGRIIKDAGAERVSDDARITLAKILEEMGRDIASEA
+
+           51                             83
+1aoiB      VTYTEHAKRKTVTAMDVVYALKRQgrtlygfgg
+1a7w       IKLARHAGRKTIKAEDIELAVRRFk~~~~~~~~
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1faoA_1fhxA.msf MSF:  127 Type: P 11/12/19 CompCheck:  159 ..
+
+  Name: 1faoA      Len: 127  Check: 1363 Weight: 1.00
+  Name: 1fhxA      Len: 127  Check: 8796 Weight: 1.00
+
+//
+
+           1                                               50
+1faoA      pslgTKEGYLTKQGGLVKTWKTRWFTLHRNELKYFKDQMSPEPIRILDLT
+1fhxA      ~~npDREGWLLKLGGRVKTWKRRWFILTDNCLYYFEYTTDKEPRGIIPLE
+
+           51                                             100
+1faoA      EcsAVQFDYSQERVNCFCLVFpf.......................RTFY
+1fhxA      Nl.SIREVEDPRKPNCFELYNp.shkgqvikackteadgrvvegnhVVYR
+
+           101                     127
+1faoA      LCAKTGVEADEWIKILRWKLSQI~~~~
+1fhxA      ISAPSPEEKEEWXKSIKASISRDpfyd
+

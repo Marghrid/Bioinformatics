@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dgnA_3crd.msf MSF:  106 Type: P 11/12/19 CompCheck: 5980 ..
+
+  Name: 3crd       Len: 106  Check: 6305 Weight: 1.00
+  Name: 1dgnA      Len: 106  Check: 9675 Weight: 1.00
+
+//
+
+           1                                               50
+3crd       eard.kQVLRSLRLELGAEVLVEG..LVLQYLYQEGILTENHIQEINAQT
+1dgnA      ~~~~adQLLRKKRRIFIHSVGAGTinALLDCLLEDEVISQEDMNKVRDEN
+
+           51                                             100
+3crd       TGL.RKTMLLLDILPSRGPKAFDTFLDSL..QEfpwvrEKLKKareeamt
+1dgnA      DTVmDKARVLIDLVTGKGPKSCCKFIKHLceEDpqla.SKMGL.......
+
+           101
+3crd       dlpag~
+1dgnA      .....h
+

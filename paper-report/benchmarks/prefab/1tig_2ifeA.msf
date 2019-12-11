@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1tig_2ifeA.msf MSF:  94 Type: P 11/12/19 CompCheck: 7108 ..
+
+  Name: 1tig       Len: 94  Check: 3669 Weight: 1.00
+  Name: 2ifeA      Len: 94  Check: 3439 Weight: 1.00
+
+//
+
+           1                                               50
+1tig       ~INVKEVRLSPTIEEHDFNTKLRNARKFLEKGDKVKATIRFKGRait...
+2ifeA      vIQVKEIKFRPGTDEGDYQVKLRSLIRFLEEGDKAKITLRFRGR...ema
+
+           51                                        94
+1tig       HKEIGQRVLDRLSEACADIAVVETAPK.MDGRNMFLVLAPKNd~
+2ifeA      HQQIGMEVLNRVKDDLQELAVVESFPTkIEGRQMIMVLAPKKkq
+

@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1irp_2irtA.msf MSF:  165 Type: P 11/12/19 CompCheck: 6130 ..
+
+  Name: 1irp       Len: 165  Check:  977 Weight: 1.00
+  Name: 2irtA      Len: 165  Check: 5153 Weight: 1.00
+
+//
+
+           1                                               50
+1irp       rpsgrkssk..mQAFRIWDVNQKTFYLRNn.QLVAGYlqgpnv.NLEEKI
+2irtA      ~~~~~~~~~skmQAFRIWDVNQKTFYLRN.nQLVAGY.lqgpnvNLEEKI
+
+           51                                             100
+1irp       DVVPIEPh.ALFLGIHGGKMCLSCVKSGDETRLQLEAVnitdl..s.ENR
+2irtA      DVVPIEP.hALFLGIHGGKMCLSCVKSGDETRLQLEAV.....nitdLSE
+
+           101                                            150
+1irp       ...kqdKRFAFIRSDSGPTTSFESaacpg.WFLCTAMEADQPVSLTNMPD
+2irtA      nrkqd.KRFAFIRSDSGPTTSFES.aacpgWFLCTAMEADQPVSLTNMPD
+
+           151         165
+1irp       eg.VMVTKFYFQEDE
+2irtA      .egVMVTKFYFQEDE
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a8rA_1fb1D.msf MSF:  226 Type: P 11/12/19 CompCheck: 4128 ..
+
+  Name: 1a8rA      Len: 226  Check: 3936 Weight: 1.00
+  Name: 1fb1D      Len: 226  Check:  192 Weight: 1.00
+
+//
+
+           1                                               50
+1a8rA      pslskeaalvhealvargletplrppvhe...mDNETRKSLIAGHMTEIM
+1fb1D      ~~~~~~~~~~~~~~~~~~~~~~~gerp..rseeDNELNLPNLAAAYSSIL
+
+           51                                             100
+1a8rA      QLLNLDLADDSLMETPHRIAKMYVdEIFSGLDYAn..FPKITLIENkmKV
+1fb1D      SSLGENPQRQGLLKTPWRAASAMQ.FFTKGYQET.isDVLNDAIFD.eDH
+
+           101                                            150
+1a8rA      DEMVTVRDITLTSTCESHFVTIDGKATVAYIPKDSVIGLSKINRIVQFFA
+1fb1D      DEMVIVKDIDMFSMCEHHLVPFVGKVHIGYLPNKQVLGLSKLARIVEIYS
+
+           151                                            200
+1a8rA      QRPQVQERLTQQILIALQTLLGTNNVAVSIDAVHYCVKARGIRDATSATT
+1fb1D      RRLQVQERLTKQIAVAITEALRPAGVGVVVEATHMCMVMRGVQKMNSKTV
+
+           201                    226
+1a8rA      TTSLGGLFKSSQNTRHEFLRAVRHhn
+1fb1D      TSTMLGVFREDPKTREEFLTLIRS~~
+

@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qqp3_2mev1.msf MSF:  304 Type: P 11/12/19 CompCheck: 3717 ..
+
+  Name: 2mev1      Len: 304  Check: 5653 Weight: 1.00
+  Name: 1qqp3      Len: 304  Check: 8064 Weight: 1.00
+
+//
+
+           1                                               50
+2mev1      ve..........naekg.vtentdat.adfvaqpvy.......lpENQTK
+1qqp3      ~~ifpvacsdgygglvttdpkta...dpvygkv...fnpprnqlpGRFTN
+
+           51                                             100
+2mev1      VAFFYD.RSSPI......gAFAVKSGslesgfapfsnkacpnsvi.LTPG
+1qqp3      LLDVAEaCPTFLrfeggvpYVTTKTD...sdrv........laqfdMSLA
+
+           101                                            150
+2mev1      PQfdpaydqlrpqrlteiwgngneetsevfplktkqdy.SFCLF.sPFVY
+1qqp3      AK................................hmsntFLAGLaqYYTQ
+
+           151                                            200
+2mev1      YKCDLEVTLSPHTSG.AHGLLVRWCPTG.tptkpttqvlhevsslse.gr
+1qqp3      YSGTINLHFMFTGPTdAKARYMVAYAPPgmeppk.........tpeaaah
+
+           201                                            250
+2mev1      tp.QVYSAgpgTSNQISFVVPYNSPLSVLPAVWYnghkrfdntgdLGIAP
+1qqp3      cihAEWDTg..LNSKFTFSIPYLSAADYTYTASD...........VAETT
+
+           251                                            300
+2mev1      NSDFGTLFFAGT...KPDIKFTVYLRYK.NMRVFCPRPTVFfpwptsgdk
+1qqp3      NVQGWVCLFQIThgkADGDALVVLASAGkDFELRLPVDARAe~~~~~~~~
+
+           301
+2mev1      idmt
+1qqp3      ~~~~
+

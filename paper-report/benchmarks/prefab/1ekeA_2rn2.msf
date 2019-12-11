@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ekeA_2rn2.msf MSF:  265 Type: P 11/12/19 CompCheck:  145 ..
+
+  Name: 1ekeA      Len: 265  Check: 7198 Weight: 1.00
+  Name: 2rn2       Len: 265  Check: 2947 Weight: 1.00
+
+//
+
+           1                                               50
+1ekeA      ~~~XIIIGIDEAGrgPVLGPXVVCAFAIEkereeelkklgvkeltknkra
+2rn2       mlkQVEIFTDGSCl.GNPGPGGYGAILRYrgr..................
+
+           51                                             100
+1ekeA      ylkkllenlGYVEKRILEAeeinqlxnsinlndi..einafskvaknlie
+2rn2       .........EKTFSAGYTR...............ttnnrmelmaaivale
+
+           101                                            150
+1ekeA      klniRDDEIEIYIDAcstntkk..fedsfkd...................
+2rn2       alk.EHCEVILSTDS.......qyvrqg...itqwihnwkkrgwktadkk
+
+           151                                            200
+1ekeA      .........kiediikernlNIKIIAEHKad.AKYPVVSAASIIAKAERD
+2rn2       pvknvdlwqrldaalg..qhQIKWEWVKG..hAGHPENERCDELARAAAM
+
+           201                                            250
+1ekeA      EIidyykkiygdigsgypsdpktikfledyfkkhkklpdiart.......
+2rn2       NP.........................................tledtgy
+
+           251         265
+1ekeA      hwktckrildkskqt
+2rn2       qvev~~~~~~~~~~~
+

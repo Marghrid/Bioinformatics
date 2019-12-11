@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1arb_2hrvA.msf MSF:  279 Type: P 11/12/19 CompCheck: 2037 ..
+
+  Name: 2hrvA      Len: 279  Check: 7722 Weight: 1.00
+  Name: 1arb       Len: 279  Check: 4315 Weight: 1.00
+
+//
+
+           1                                               50
+2hrvA      ~~~~~~~~~~~~~~~~~~~~~gpsd..........MYVHV.......GNL
+1arb       vsgscnidvvcpegdgrrdiiravgaysksgtlacTGSLVnntandrKMY
+
+           51                                             100
+2hrvA      IYRNLHL.fnsemh....................................
+1arb       FLTAHHCgmgta..staasivvywnyqnstcrapntpasgangdgsmsqt
+
+           101                                            150
+2hrvA      ....ESILVSYSSDLIIYRTNTVg........DDYIP.scdct.QATYYC
+1arb       qsgsTVKATYATSDFTLLELNNA.anpafnlfWAGWDrrdqnypGAIAIH
+
+           151                                            200
+2hrvA      KH...knryfpi..tvtshdwyeiqeseyypkhiqy....NLLIGEG...
+1arb       HPnvaekrisnstsptsfvawgg.............gagtTHLNVQWqps
+
+           201                                            250
+2hrvA      ..PCEPGDCGGKLLCkh.GVIGIVTAGG........DNHVAFIDLRHFHC
+1arb       ggVTEPGSSGSPIYSpekRVLGQLHGGPsscsatgtNRSDQYGRVFTSWT
+
+           251                       279
+2hrvA      a~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1arb       .gggaaasrlsdwldpastgaqfidglds
+

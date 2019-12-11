@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qk3A_1gca.msf MSF:  400 Type: P 11/12/19 CompCheck: 5056 ..
+
+  Name: 1qk3A      Len: 400  Check: 6668 Weight: 1.00
+  Name: 1gca       Len: 400  Check: 8388 Weight: 1.00
+
+//
+
+           1                                               50
+1qk3A      maskpiedygkgkgriepmyi..................pdntfynadd.
+1gca       ~~~~~~~~~~~~~~~~~~~~~adtrigvtiykyddnfmsvvrk......a
+
+           51                                             100
+1qk3A      ..................................................
+1gca       iekdgksapdvqllmndsqndqskqndqidvllakgvkalainlvdpaaa
+
+           101                                            150
+1qk3A      ....................flvp..phckpyidkillpggLVKDRVEKL
+1gca       gtviekargqnvpvvffnkepsrkaldsydk.ayyvgt...DSKESGVIQ
+
+           151                                            200
+1qk3A      AYDIHRTYF.........gEELHIICILKgs.....rgffnllidylati
+1gca       GDLIAKHWQanqgwdlnkdGKIQYVLLKGepghpdaearttyvvkelndk
+
+           201                                            250
+1qk3A      qkysgressvp.PFFEHYV.........rlksyqndnstgqltvlsd...
+1gca       g..........iQTEQLALdtamwdtaqakdk...............mda
+
+           251                                            300
+1qk3A      ..DLSIFRdkhvlivedivdtg...ftltefgerlkavgpk..SMRIATL
+1gca       wlSGPNAN.kievviannd...amamgavealkahn.....ksSIPVFGV
+
+           301                                            350
+1qk3A      VEKRtdrs..nslk....gdfvgfsiedvwivgccydfnemfrdfdhvav
+1gca       DALP....ealalvksgamagtvlndann.....................
+
+           351                                            400
+1qk3A      l........sdaarkkf~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1gca       .qakatfdlaknlaegkgaadgtswkienkivrvpyvgvdkdnlseftqk
+

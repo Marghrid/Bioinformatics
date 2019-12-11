@@ -1,0 +1,77 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a0cA_1ubpC.msf MSF:  817 Type: P 11/12/19 CompCheck: 9730 ..
+
+  Name: 1a0cA      Len: 817  Check: 4171 Weight: 1.00
+  Name: 1ubpC      Len: 817  Check: 5559 Weight: 1.00
+
+//
+
+           1                                               50
+1a0cA      nkyfenvskikyegpksnnpysfkfynpeevidgktmeehlrfsi.....
+1ubpC      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~mkinr
+
+           51                                             100
+1a0cA      ..................................................
+1ubpC      qqyaesygptvgdevrladtdlwievekdyttygdevnfgggkvlregmg
+
+           101                                            150
+1a0cA      ..................................................
+1ubpC      engtytrtenvldllltnalildytgiykadigvkdgyivgigkggnpdi
+
+           151                                            200
+1a0cA      ................................AYWHTFtadgtdqfgkat
+1ubpC      mdgvtpnmivgtateviaaegkivtaggidthVHFINP............
+
+           201                                            250
+1a0cA      mqrpwnhytdpmdiakarveAAFEFFDKINAPYFCFHDRDiapegdtlre
+1ubpC      ....................DQVDVALANGITTLFGGGTG..........
+
+           251                                            300
+1a0cA      t.............NKNLDTIVAMIKDYlktskTKVlw.gtanlfsnprf
+1ubpC      .paegskattvtpgPWNIEKMLKSTEGL....pINV..gilgk.......
+
+           301                                            350
+1a0cA      vhgastscnadv....faysaaqvkkalEITKelggen.YVFWGGREgye
+1ubpC      ............ghgssiapimeqid..AGAA......gLXIHEDWG...
+
+           351                                            400
+1a0cA      tllntdmefe.ldnf.arflhmavdyakeigfegQFLIEPKPKeptkhqy
+1ubpC      ..........atpasidrsltvadead......vQVAIHSDTL.......
+
+           401                                            450
+1a0cA      df....dvanvlaflrkydlDKYFKVNI..eanhatlafhdfq...helr
+1ubpC      ..neagfledtlrain....GRVIHSFHvegaggg........hapdima
+
+           451                                            500
+1a0cA      yARING.VLGSIDANTg.............dmllgwdtdqfptdir....
+1ubpC      .MAGHPnVLPSSTNPT.rpftvntidehldmlmvch..........hlkq
+
+           501                                            550
+1a0cA      ................MTTLAMYEVIKMGGFdkgglnfdakvrrasfepe
+1ubpC      nipedvafadsrirpeTIAAEDILHDLGIIS...mmstd...........
+
+           551                                            600
+1a0cA      dlflghi........AGMDAFAKGFKVAYKLVKDRvfdkfieeryasykd
+1ubpC      .......alamgragEMVLRTWQTADKMKKQRGPL.aeek..........
+
+           601                                            650
+1a0cA      gigadivsgkadfrslekyalersqivnksgrqellesilnq........
+1ubpC      ..........................................ngsdnfrl
+
+           651                                            700
+1a0cA      ..................................................
+1ubpC      kryvskytinpaiaqgiahevgsieegkfadlvlwepkffgvkadrvikg
+
+           701                                            750
+1a0cA      ..................................................
+1ubpC      giiayaqigdpsasiptpqpvmgrrmygtvgdlihdtnitfmskssiqqg
+
+           751                                            800
+1a0cA      ..................................................
+1ubpC      vpaklglkrrigtvkncrnigkkdmkwndvttdidinpetyevkvdgevl
+
+           801           817
+1a0cA      ...ylfa~~~~~~~~~~
+1ubpC      tcepvkelpmaqryflf
+

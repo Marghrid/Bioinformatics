@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1bhgA_1qnoA.msf MSF:  611 Type: P 11/12/19 CompCheck: 2788 ..
+
+  Name: 1bhgA      Len: 611  Check: 7601 Weight: 1.00
+  Name: 1qnoA      Len: 611  Check: 5187 Weight: 1.00
+
+//
+
+           1                                               50
+1bhgA      GLQGGMLYPQESPSRECKELDGLWSFRADFSDNRRRGFEEQWYRRPLWES
+1qnoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1bhgA      GPTVDMPVPSSFNDISQDWRLRHFVGWVWYEREVILPERWTQDLRTRVVL
+1qnoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1bhgA      RIGSAHSYAIVWVNGVDTLEHEGGYLPFEADISNLVQVGPLPSRLRITIA
+1qnoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1bhgA      INNTLTPTTLPPGTIQYLTDTSKYPKGYFVQNTYFDFFNYAGLQRSVLLY
+1qnoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1bhgA      TTPTTYIDDITVTTSVEQDSGLVNYQISVKGSNLFKLEVRLLDAENKVVA
+1qnoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251                                            300
+1bhgA      NGTGTQGQLKVPGVSLWWPYLMHERPAYLYSLEVQLTAQTSLGPVSDFYT
+1qnoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301                                            350
+1bhgA      LPVGIRTVAVTKSQFLINGKPFYFHGVNkHEDADIRGKGFDWPLLVKDFN
+1qnoA      ~~~ASSFVTISGTQFNIDGKVGYFAGTNaYW......FLTNHADVDSTFS
+
+           351                                            400
+1bhgA      LLRWLGANAFRTSHYPYAEEVMQMCDRYGIVVIDECPGVGLALPQFFNNV
+1qnoA      HISSSGLKVVR.VWGFLDYVVQSAEQ.HNLKLIIPFVNNW..ATTWYTNT
+
+           401                                            450
+1bhgA      SLHHHMQVMEEVVRRDKNHPAVVMWSVANEPAsHLESAGYYLKMVIAHTK
+1qnoA      AQTQYRKYVQAVVSRYANSTAIFAWELGNEPRb.TDVIVQWATSVSQYVK
+
+           451                                            500
+1bhgA      SLDPSRPVTFVSNSNYAADKGAPYVDVICLNSYYSWYHDYGHLELIQLQL
+1qnoA      SLDSNHLVTLGDELGLSFAKNVQILDFGTFHLY.PDSWGT.NYTWGNGWI
+
+           501                                            550
+1bhgA      ATQFENwYKKYQKPiIQSEYGAETIAGFHQDPPLMFTEEYQkSLLEQYHL
+1qnoA      QTHAAAcL.AAGKPcVFEEYGAQQ...............NPdTNEAPWQT
+
+           551                                            600
+1bhgA      GLDQKRRKYVVGELIWNFADFMTEQSPTRVLGNKKGIFTRQRQPKSAAFl
+1qnoA      TSLTT..RGMGGDMFWQWGQSNS.........DPYTVW....YNSSNWQd
+
+           601     611
+1bhgA      LRERYWKIANE
+1qnoA      VKNHVDAIN~~
+

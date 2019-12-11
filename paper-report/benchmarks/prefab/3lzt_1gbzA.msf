@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/3lzt_1gbzA.msf MSF:  130 Type: P 11/12/19 CompCheck: 3431 ..
+
+  Name: 3lzt       Len: 130  Check: 1576 Weight: 1.00
+  Name: 1gbzA      Len: 130  Check: 1855 Weight: 1.00
+
+//
+
+           1                                               50
+3lzt       KVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESNFNTQATNRNT.DG
+1gbzA      KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAgDR
+
+           51                                             100
+3lzt       STDYGILQINSRWWCNDGRTPGSRNLCNIPCSALLSSDITASVNCAKKIV
+1gbzA      STDYGIFQINSRYWCNDGKTPGAVNACHLSCSALLQDNIADAVACAKRVV
+
+           101                        130
+3lzt       SDGNGMNAWVAWRNRCKGTDVQAWIRGCRL
+1gbzA      RDPQGIRAWFAWRNRCQNRDVRQYVQGCGV
+

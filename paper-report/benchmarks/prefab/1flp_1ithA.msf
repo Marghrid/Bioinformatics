@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1flp_1ithA.msf MSF:  142 Type: P 11/12/19 CompCheck: 4771 ..
+
+  Name: 1flp       Len: 142  Check: 3805 Weight: 1.00
+  Name: 1ithA      Len: 142  Check:  966 Weight: 1.00
+
+//
+
+           1                                               50
+1flp       SLEAAQKSNVTSSWAKASAAWGTAGPEFFMALFDAHDDVFAKFSGLFSGA
+1ithA      GLTAAQIKAIQDHWFNIKGCLQAAADSIFFKYLTAYPGDLAFF.HKFSSV
+
+           51                                             100
+1flp       AKGTVKNTPEMAAQAQSFKGLVSNWVDNLDNAGALEGQCKTFAANHKARG
+1ithA      PLYGLRSNPAYKAQTLTVINYLDKVVDALGG..NAGALMKAKVPSHDAMG
+
+           101                                    142
+1flp       ISAGQLEAAFKVLSGFMKSYGGDEGAWTAVAGALMGEIEPDM
+1ithA      ITPKHFGQLLKLVGGVFQEFSATVAAWGDAAGVLVAAMK~~~
+

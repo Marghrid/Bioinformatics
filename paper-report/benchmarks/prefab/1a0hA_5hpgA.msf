@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a0hA_5hpgA.msf MSF:  167 Type: P 11/12/19 CompCheck: 3319 ..
+
+  Name: 1a0hA      Len: 167  Check: 7388 Weight: 1.00
+  Name: 5hpgA      Len: 167  Check: 5931 Weight: 1.00
+
+//
+
+           1                                               50
+1a0hA      plletc..VPDRGREYRGRLAVTTHGSRCLAWSSEQaka..lskdq....
+5hpgA      ~~~~~~dcMFGNGKGYRGKRVTTVTGTPCQDWAAQE...phrhsi.ftpe
+
+           51                                             100
+1a0hA      dfnpaVPLAENFCRNPDGDEEGAWCYVADQPGDFEYCDLNYCEepvdgdl
+5hpgA      tnpr.AGLEKNYCRNPDGDVGGPWCYTTNPRKLYDYCDVPQCAa......
+
+           101                                            150
+1a0hA      gdrlgedpdpdaaiegrtsedhfqpffnektfgageadcglrplfekkqv
+5hpgA      ..................................................
+
+           151           167
+1a0hA      qdqtekelfesyiegr~
+5hpgA      ................p
+

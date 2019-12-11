@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ga3A_1rcb.msf MSF:  150 Type: P 11/12/19 CompCheck: 9008 ..
+
+  Name: 1rcb       Len: 150  Check:  427 Weight: 1.00
+  Name: 1ga3A      Len: 150  Check: 8581 Weight: 1.00
+
+//
+
+           1                                               50
+1rcb       kc.....ditlQEIIKTLNSLTEQKTLCT..ELTVTDIFaasknttek..
+1ga3A      ~~gpvppstalRELIEELVNITQNQKAPLcnGSMVWSIN.........lt
+
+           51                                             100
+1rcb       .ETFCRAATVLRQfyshhekdtrclgataqqfhrhkqliRFLKRLDRNLW
+1ga3A      aGMYCAALESLIN.vsgc.....................SAIEKTQRMLS
+
+           101                                            150
+1rcb       GLAglnscpv.........KEANQSTLENFLERLKTIMREK.yskcss~~
+1ga3A      GFC.phkv..sagqfsslhVRDTKIEVAQFVKDLLLHLKKLfregr..fn
+

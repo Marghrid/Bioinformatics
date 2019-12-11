@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1lpbA_1pcn.msf MSF:  96 Type: P 11/12/19 CompCheck: 9102 ..
+
+  Name: 1lpbA      Len: 96  Check: 6943 Weight: 1.00
+  Name: 1pcn       Len: 96  Check: 2159 Weight: 1.00
+
+//
+
+           1                                               50
+1lpbA      g.....iIINLDEGELCLNSAQCKSNCCQHDTILSLSRCALKARENSECS
+1pcn       ~pdprgiIINLDEGELCLNSAQCKSNCCQHDTILSLSRCALKARENSECS
+
+           51                                          96
+1lpbA      AFTLYGVYYKCPCERGLTCEG.dkslvgsi..TNTNFGICHNV~~~
+1pcn       AFTLYGVYYKCPCERGLTCEGdkslvg...siTNTNFGICHNVgrs
+

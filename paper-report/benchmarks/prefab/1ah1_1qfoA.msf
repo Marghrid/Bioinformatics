@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ah1_1qfoA.msf MSF:  139 Type: P 11/12/19 CompCheck: 4469 ..
+
+  Name: 1qfoA      Len: 139  Check: 8601 Weight: 1.00
+  Name: 1ah1       Len: 139  Check: 5868 Weight: 1.00
+
+//
+
+           1                                               50
+1qfoA      w.GVSSPKNVQGLSGSCLLIPCIFSYPAdvpvGITAIWYYDy.SGKRQVV
+1ah1       ~mHVAQPAVVLASSRGIASFVCEYASPG.katEVRVTVLRQ.aDSQVTEV
+
+           51                                             100
+1qfoA      IHSG.......dpklvdkrfrGRAELMGNmdHKVCNLLLKDLKPEDSGTY
+1ah1       CAATymmgneltfldd.....SICTGTSS..GNQVNLTIQGLRAMDTGLY
+
+           101                                 139
+1qfoA      NFRFEIS....SNRWLDvkGTTVTVTT~~~~~~~~~~~~
+1ah1       ICKVELMypppYYLGIG.nGTQIYVIDpepcpdsdqepk
+

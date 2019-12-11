@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a6m_1ewaA.msf MSF:  151 Type: P 11/12/19 CompCheck: 8711 ..
+
+  Name: 1a6m       Len: 151  Check: 7337 Weight: 1.00
+  Name: 1ewaA      Len: 151  Check: 1374 Weight: 1.00
+
+//
+
+           1                                               50
+1a6m       VLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRFKHLK
+1ewaA      ~~~~~~~~GFKQDIATIRGDLRTYAQDIFLAFLNKYPDERRYFKNYVGK.
+
+           51                                             100
+1a6m       TEAEMKASEDLKKHGVTVLTALGAILKKKGHHEAELKPLAQSHATKHKIP
+1ewaA      SDQELKSMAKFGDHTEKVFNLMMEVADRAT.LASDANTLVQM..KQHSLT
+
+           101                                            150
+1a6m       IKYLEFISEAIIHVLHSRHPGDFGADAQGAMNKALELFRKDIAAKYKELG
+1ewaA      TGNFEKLFVALVEYMRAS.GQSF...DSQSWDRFGKNLVSALSSAG~~~~
+
+           151 151
+1a6m       Y
+1ewaA      ~
+

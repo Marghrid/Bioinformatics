@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1t1dA_1buoA.msf MSF:  133 Type: P 11/12/19 CompCheck:  149 ..
+
+  Name: 1t1dA      Len: 133  Check: 6186 Weight: 1.00
+  Name: 1buoA      Len: 133  Check: 3963 Weight: 1.00
+
+//
+
+           1                                               50
+1t1dA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~eRVVINVSGLRFETQLKTLNQFp
+1buoA      gmiqlqnpshptgllckanqmrlagtlcDVVIMVDSQEFHAHRTVLACT.
+
+           51                                             100
+1t1dA      d.TLLGnpqkrnryydpl..rNEYFFDR.nrPSFDAILYFYQSggrlrrp
+1buoA      .sKMFE...ilfh.....rnsQHYTLDFlspKTFQQILEYAYT.atlqak
+
+           101                           133
+1t1dA      vnvpLDVFSEEIKFYELGeNAFERYREDEGF~~
+1buoA      aed.LDDLLYAAEILEIE.YLEEQCLKMLETiq
+

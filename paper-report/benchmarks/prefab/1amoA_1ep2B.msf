@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1amoA_1ep2B.msf MSF:  601 Type: P 11/12/19 CompCheck:  636 ..
+
+  Name: 1amoA      Len: 601  Check: 5869 Weight: 1.00
+  Name: 1ep2B      Len: 601  Check: 4767 Weight: 1.00
+
+//
+
+           1                                               50
+1amoA      VKESSFVEKMKKTGRNIIVFYGSQTGTAEEFANRLSKDAHRYGMRGMSAD
+1ep2B      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+1amoA      PEEYDLADLSSLPEIDKSLVVFCMATYGEGDPTDNAQDFYDWLQETDVDL
+1ep2B      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+1amoA      TGVKFAVFGLGNKTYEHFNAMGKYVDQRLEQLGAQRIFELGLGDDDGNLE
+1ep2B      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1amoA      EDFITWREQFWPAVCEFFGVEARQYELVVHEDMDVAKVYTGEMGRLKSYE
+1ep2B      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201                                            250
+1amoA      NQKPPFDAKNPFLAAVTANRKLNQGTERHLMHLELDISDSKIRYESGDHV
+1ep2B      ~~~~SQLQ...EMMTVVSQREVA....YNIFEMVLKGT.LVDEMLPGQFL
+
+           251                                            300
+1amoA      AVYPANDSALVNQIGEILGADLDVIMSLNNLDEESNKKHPFPCPTTYRTA
+1ep2B      HLAVPN............................................
+
+           301                                            350
+1amoA      LTYYLDITNPPRTNVLYELAQYASEPSEQEHLHKMASSSGEGKELYLSWV
+1ep2B      GAML..............................................
+
+           351                                            400
+1amoA      VEARRHILAILQDYPSLRPPIDHLCELLPRLQARYYSIASSSKVHPNSVH
+1ep2B      ...............................LRRPISISS...WDKRTCT
+
+           401                                            450
+1amoA      ICAVAVEYEAKSGRVNKGVATSWLRAKEPALVPMFVRKSQFRLPFKSTTP
+1ep2B      ILYRIGD........ETTG.TYKLSKLESAKVDVMGLGNGFPVAETSTDK
+
+           451                                            500
+1amoA      VIMVGPGTGIAPFMGFIQERAWLREQGKEVGETLLYYGCRRSDEDYLYRE
+1ep2B      ILIIGGGIGVPPLYELAKQLEKT......GCQMTILLGFASE.NVKILEN
+
+           501                                            550
+1amoA      ELARFHKDGALTQLNVAFSREQAHKVYVQHLLKRDREHLWKLIHEGGAHI
+1ep2B      EFSNL....KNVTLKIATDDGS..KGHVGMLMNEI....DFEV....DAL
+
+           551                                            600
+1amoA      YVCGDARNMAKDVQNTFYDIVAEFGPMEHTQAVDYVKKLMTKGRYSLDVW
+1ep2B      YTCGAP.AMLKAVAKKY..................DQLE....RLYISME
+
+           601 601
+1amoA      S
+1ep2B      S
+

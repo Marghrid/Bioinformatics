@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/2i1b_1iltA.msf MSF:  159 Type: P 11/12/19 CompCheck: 4650 ..
+
+  Name: 2i1b       Len: 159  Check: 5573 Weight: 1.00
+  Name: 1iltA      Len: 159  Check: 9077 Weight: 1.00
+
+//
+
+           1                                               50
+2i1b       apvrSLNCTLRDSQQKSLVMSGPyELKALHLQGQDMEQQVVFSMSFVQGe
+1iltA      ~~~~MQAFRIWDVNQKTFYLRNN.QLVAGYLQGPNVNLEEKIDVVPIEP.
+
+           51                                             100
+2i1b       esndkIPVALGLKEKNLYLSCVLKDDKPTLQLESVdpkn.YPKKKM....
+1iltA      .....HALFLGIHGGKMCLSCVKSGDETRLQLEAV....nITDLSEnrkq
+
+           101                                            150
+2i1b       EKRFVFNKIEINNKLEFESAQFPNWYISTSQAENMPVFLGGTKG.GQDIT
+1iltA      DKRFAFIRSDSGPTTSFESAACPGWFLCTAMEADQPVSLTNMPDeGVMVT
+
+           151   159
+2i1b       DFTMQFVss
+1iltA      KFYFQEDe~
+

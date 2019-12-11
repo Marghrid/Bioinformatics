@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1di6A_1ihcA.msf MSF:  202 Type: P 11/12/19 CompCheck:  967 ..
+
+  Name: 1di6A      Len: 202  Check: 1597 Weight: 1.00
+  Name: 1ihcA      Len: 202  Check: 9370 Weight: 1.00
+
+//
+
+           1                                               50
+1di6A      ATLRIGLVSISDR.......DKGIPALEEWLTS..ALTtpFELETRLIPD
+1ihcA      HQIRVGVLTVSDScfrnlaeDRSGINLKDLVQDpsLLGg.TISAYKIVPD
+
+           51                                             100
+1di6A      EQAIIEQTLCELVDEMSCHLVLTTGGTGPARRDVTPDATLAVADREMPGF
+1ihcA      EIEEIKETLIDWCDEKELNLILTTGGTGFAPRDVTPEATKEVIEREAPGM
+
+           101                                            150
+1di6A      GEQMRQISLHFVPTAILSRQVGVIRKQALILNLPGQPKSIKETLEgvkda
+1ihcA      ALAMLMGSLNVTPLGMLSRPVCGIRGKTLIINLPGSKKGSQECFQ.....
+
+           151                                            200
+1di6A      egnvvvhGIFASVPYCIQLLEgpyvetapevvaafrpksarr~~~~~~~~
+1ihcA      .......FILPALPHAIDLLRd....................aivkvkev
+
+           201 202
+1di6A      ~~
+1ihcA      hd
+

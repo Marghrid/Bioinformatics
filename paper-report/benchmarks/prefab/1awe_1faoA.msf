@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1awe_1faoA.msf MSF:  139 Type: P 11/12/19 CompCheck: 2337 ..
+
+  Name: 1faoA      Len: 139  Check: 7125 Weight: 1.00
+  Name: 1awe       Len: 139  Check: 5212 Weight: 1.00
+
+//
+
+           1                                               50
+1faoA      slg......................TKEGYLTKQgglvkTWKTRWFTLHR
+1awe       ~~~neiqknidgwegkdigqccnefIMEGTLTRVg....AKHERHIFLFD
+
+           51                                             100
+1faoA      NELKYFKDqm............spepirild.LTECsAVQFDYSQe.rvn
+1awe       GLMICCKS..nhgqprlpgasnaeyrlkekffMRKV.QINDKDDTneykh
+
+           101                                 139
+1faoA      cfclv.FPFRTFYLCAKTGVEADEWIKILRWKLSQI~~~
+1awe       afeiilKDENSVIFSAKSAEEKNNWMAALISLQYRStle
+

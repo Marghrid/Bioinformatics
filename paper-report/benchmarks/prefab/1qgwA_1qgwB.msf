@@ -1,0 +1,17 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qgwA_1qgwB.msf MSF:  75 Type: P 11/12/19 CompCheck: 2018 ..
+
+  Name: 1qgwA      Len: 75  Check: 7794 Weight: 1.00
+  Name: 1qgwB      Len: 75  Check: 4224 Weight: 1.00
+
+//
+
+           1                                               50
+1qgwA      MDXSAKAPQITIFDHRGCSRAPKESTGGKAGGQDDEMMVKVASTKVTVSE
+1qgwB      MDXSAKAPVITIFDHRGCSRAPKEYTGAKAGGKDDEMMVKAQSVKIEVST
+
+           51                     75
+1qgwA      SDAAKKLQEFITFEkgidgpftskn
+1qgwB      GTAEGVLATSLAKMtk~~~~~~~~~
+

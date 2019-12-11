@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1pty_2shpA.msf MSF:  522 Type: P 11/12/19 CompCheck: 1277 ..
+
+  Name: 1pty       Len: 522  Check: 6758 Weight: 1.00
+  Name: 2shpA      Len: 522  Check: 4519 Weight: 1.00
+
+//
+
+           1                                               50
+1pty       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2shpA      srrwfhpnitgveaenllltrgvdgsflarpsksnpgdltlsvrrngavt
+
+           51                                             100
+1pty       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2shpA      hikiqntgdyydlyggekfatlaelvqyymehhgqlkekngdvielkypl
+
+           101                                            150
+1pty       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2shpA      ncadptserwfhghlsgkeaeklltekgkhgsflvresqshpgdfvlsvr
+
+           151                                            200
+1pty       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2shpA      tgdndgkskvthvmircqelkydvgggerfdsltdlvehykknpmvetlg
+
+           201                                            250
+1pty       ~~~~~~~~~~~~~~~~~emekefeqidksgSWAAIYQDIRHEA..SDFPC
+2shpA      tvlqlkqplnttrinaaeiesrvrelsk..GFWEEFETLQQQEckLLYSR
+
+           251                                            300
+1pty       RVAKLPKNKNRNRYRDVSPFDHSRIKLHQedNDYINASLIKmeeaQRSYI
+2shpA      KEGQRQENKNKNRYKNILPFDHTRVVLHD..SDYINANIIMp...KKSYI
+
+           301                                            350
+1pty       LTQGPLPNTCGHFWEMVWEQKSRGVVMLNRVMEKGSLKCAQYWPQKEekE
+2shpA      ATQGCLQNTVNDFWRMVFQENSRVIVMTTKEVERGKSKCVKYWPDEY.aL
+
+           351                                            400
+1pty       MIFedtNLKLTLISEDIKSYYTVRQLELENLTTQ.ETREILHFHYTTWPD
+2shpA      KEY..gVMRVRNVKESAAHDYTLRELKLSKVGQGnTERTVWQYHFRTWPD
+
+           401                                            450
+1pty       FGVPESPASFLNFLFKVRESgslsp.EHGPVVVHSSAGIGRSGTFCLADT
+2shpA      HGVPSDPGGVLDFLEEVHHK.qesimDAGPVVVHCSAGIGRTGTFIVIDI
+
+           451                                            500
+1pty       CLLLMDKRKDPSSVDIKKVLLEMRKFRMGLIQTADQLRFSYLAVIEGAKF
+2shpA      LIDIIREKGVDCDIDVPKTIQMVRSQRSGMVQTEAQYRSIYMAVQHYIET
+
+           501                522
+1pty       imgdssvqdqwkelshedlxx~
+2shpA      l....................l
+

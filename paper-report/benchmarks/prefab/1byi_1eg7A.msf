@@ -1,0 +1,61 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1byi_1eg7A.msf MSF:  601 Type: P 11/12/19 CompCheck: 8423 ..
+
+  Name: 1eg7A      Len: 601  Check: 7259 Weight: 1.00
+  Name: 1byi       Len: 601  Check: 1164 Weight: 1.00
+
+//
+
+           1                                               50
+1eg7A      ieiaqaakmkpvmelarglgiqedevelygkykakisldvyrrlkdkpdG
+1byi       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~S
+
+           51                                             100
+1eg7A      KLILVTAITPtpaGEGKTTTSVGLTDALARLGKRVMVCL.REPSlgpsfg
+1byi       KRYFVTGTDT...EVGKTVASCALLQAAKAAGYRTAGYKpVASG......
+
+           101                                            150
+1eg7A      ikggaagggyaqvvpmedinlhf.TGDihavtyahnllaamvdnhlqqgn
+1byi       ...................sektpEGLrn.....................
+
+           151                                            200
+1eg7A      vlnidprtitwrrvidlneralrniviglggkangvpretgfdisvasev
+1byi       ..................................................
+
+           201                                            250
+1eg7A      maclclasdlmdlkerfsrkvvgytydgkpvtagdleaqgsmallmkdai
+1byi       ..................................................
+
+           251                                            300
+1eg7A      ..............kpnlvqtlentpaFIHGGP....faniahgcn....
+1byi       sdalalqrnsslqldyat.........VNPYTFaeptsphi.....isaq
+
+           301                                            350
+1eg7A      .........SIIATKTALKLADYVVTEAGFGADLgae......KFYDVkc
+1byi       egrpieslvMSAGLRALEQQADWVLVEGAGGWFT...plsdtfTFADW..
+
+           351                                            400
+1eg7A      rya..gfkpdATVIVATVRALkmhggvpksdlatenlealreGFANLEKH
+1byi       ...vtqeql.PVILVVGVKLG.....................CINHAMLT
+
+           401                                            450
+1eg7A      IENIGKFGVPA.VVAINAFPTDTeaelnllyelca..KAGA.evalsw..
+1byi       AQVIQHAGLTLaGWVANDVTPPGkrhaeymttltrmiPAPLlgeip..wl
+
+           451                                            500
+1eg7A      ......akggegglelarkvlqtlesrpsnfhvlynldlsikdkiakiat
+1byi       aenpenaatgkyin..lall~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           501                                            550
+1eg7A      eiygadgvnytaeadkaiqryeslgygnlpvvmaktqysfsddmtklgrp
+1byi       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           551                                            600
+1eg7A      rnftitvrevrlsaggrlivpitgaimtmpglpkrpaacnididadgvit
+1byi       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           601 601
+1eg7A      g
+1byi       ~
+

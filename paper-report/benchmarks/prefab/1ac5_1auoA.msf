@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1ac5_1auoA.msf MSF:  523 Type: P 11/12/19 CompCheck: 7599 ..
+
+  Name: 1ac5       Len: 523  Check: 8105 Weight: 1.00
+  Name: 1auoA      Len: 523  Check: 9494 Weight: 1.00
+
+//
+
+           1                                               50
+1ac5       lpsseeykvayellpglsevpdpsnipqmhaghiplrsedadeqdssdlE
+1auoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~M
+
+           51                                             100
+1ac5       YFFWKFTNNdsngNVDRPLIIWLNGgpGCSSMDGAlvESGPfrvnsdgkl
+1auoA      TEPLILQPA....KPADACVIWLHGl.GADRYDFM..PVAE.........
+
+           101                                            150
+1ac5       ylnegswisk...GDLLFIDQPTGtgfsveqnkdegkidknkfd......
+1auoA      .....alqeslltTRFVLPQAPTR....................pvting
+
+           151                                            200
+1ac5       .....................edledvtkhfmdflenyfkifpedlt.rK
+1auoA      gyempswydikamsparsisleelevsakmvtdlieaqkr..tgid.asR
+
+           201                                            250
+1ac5       IILSGESYAGQYIPFFA.nailnhnkfskidgdtydLKALLIGNGWIdpn
+1auoA      IFLAGFSQGGAVVFHTAfinwq............gpLGGVIALSTYA...
+
+           251                                            300
+1ac5       tqslsylpfamekklidesnpnfkhltnahencqnlinsastdeaahfsy
+1auoA      ..................................................
+
+           301                                            350
+1ac5       qecenilnlllsytressqkgtadclnmynfnlkdsypscgmnwpkdisf
+1auoA      ..................................................
+
+           351                                            400
+1ac5       vskffstpgvidslhldsdkidhwkectnsvgtklsnpiskpsihl..lp
+1auoA      .........................................ptfg.dele
+
+           401                                            450
+1ac5       gll..esgieivlfngdkdlicnnkgvldtidn.lkwggikgfsddavsf
+1auoA      ls.asqqripalclhgqyddvvqnamgrsafehlksrg............
+
+           451                                            500
+1ac5       dwihkskstddseefsgyvkydrnltfvsvynashmvpfdkslVSRGIVD
+1auoA      ......................vtvtwqey.pmghev...lpqEIHDIGA
+
+           501                 523
+1ac5       IYSNdvmiidnngknvmitt~~~
+1auoA      WLAA................rlg
+

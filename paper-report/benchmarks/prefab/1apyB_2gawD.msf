@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1apyB_2gawD.msf MSF:  148 Type: P 11/12/19 CompCheck: 5973 ..
+
+  Name: 1apyB      Len: 148  Check: 2303 Weight: 1.00
+  Name: 2gawD      Len: 148  Check: 3670 Weight: 1.00
+
+//
+
+           1                                               50
+1apyB      TIGMVVIHKTGHIAAGTSTNGIKFKIHGRVGDSPIPGAGAYADDTAGAAA
+2gawD      TIGMIALDAQGNLSGACTTSGMAYKMHGRVGDSPIIGAGLFVDNEIGAAT
+
+           51                                             100
+1apyB      ATGNGDILMRFLPSYQAVEYMRRGEDPTIACQKVISRIQKHFP.......
+2gawD      ATGHGEEVIRTVGTHLVVELMNQGRTPQQACKEAVERIVKIVNrrgknlk
+
+           101                                          148
+1apyB      EFFGAVICANVTGSYGAACNKlstfTQFSFMVYNSEKnqPTEEKVdci
+2gawD      DIQVGFIALNKKGEYGAYCIQ....DGFNFAVHDQKG..NRLETP~~~
+

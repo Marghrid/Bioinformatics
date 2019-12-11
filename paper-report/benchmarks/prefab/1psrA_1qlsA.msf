@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1psrA_1qlsA.msf MSF:  107 Type: P 11/12/19 CompCheck: 3709 ..
+
+  Name: 1psrA      Len: 107  Check: 8122 Weight: 1.00
+  Name: 1qlsA      Len: 107  Check: 5587 Weight: 1.00
+
+//
+
+           1                                               50
+1psrA      sNTQAERSIIGMIDMFHKYT..rrdd.KIDKPSLLTMMKENFPNFLSACD
+1qlsA      ~PTETERCIESLIAIFQKHAgrdgnntKISKTEFLIFMNTELAAFTQNQK
+
+           51                                             100
+1psrA      kkgtnYLADVFEKKDKNEDKKIDFSEFLSLLGDIATDYHKQSHgaapcsg
+1qlsA      ..dpgVLDRMMKKLDLDSDGQLDFQEFLNLIGGLAIACHDSFIk......
+
+           101 107
+1psrA      gsq~~~~
+1qlsA      ...stqk
+

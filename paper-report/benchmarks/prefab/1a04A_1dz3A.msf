@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1a04A_1dz3A.msf MSF:  205 Type: P 11/12/19 CompCheck: 7158 ..
+
+  Name: 1a04A      Len: 205  Check: 8475 Weight: 1.00
+  Name: 1dz3A      Len: 205  Check: 8683 Weight: 1.00
+
+//
+
+           1                                               50
+1a04A      EPATILLIDDHPMLRTGVKQLISMAPDITVVGEASNGEQGIELAESLDPD
+1dz3A      ~SIKVCIADDNRELVSLLDEYISSQPDMEVIGTAYNGQDCLQMLEEKRPD
+
+           51                                             100
+1a04A      LILLDLNMPGMNGLETLDKLREKSLSGRIVVFSVSNHEEDVVTALKRGAD
+1dz3A      ILLLDIIMPHLDGLAVLERIRGFEHQPNVIMLTAFGQEDVTKKAVELGA.
+
+           101                                            150
+1a04A      GYLLKDMEPEDLLKALHQAAAGEMVLSEALTPVLAASLERDVNQLTPRER
+1dz3A      SYFILKPFDME~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           151                                            200
+1a04A      DILKLIAQGLPNKMIARRLDITESTVKVHVKHMLKKMKLKSRVEAAVWVH
+1dz3A      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           201
+1a04A      QERIF
+1dz3A      ~~~~~
+

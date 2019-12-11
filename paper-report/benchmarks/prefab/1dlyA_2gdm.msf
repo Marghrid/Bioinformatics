@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1dlyA_2gdm.msf MSF:  167 Type: P 11/12/19 CompCheck: 5366 ..
+
+  Name: 1dlyA      Len: 167  Check: 8340 Weight: 1.00
+  Name: 2gdm       Len: 167  Check: 7026 Weight: 1.00
+
+//
+
+           1                                               50
+1dlyA      ~~~~~~~~slfaklggr.EAVE....aavdkfynkiva.dPTVSTYFSNt
+2gdm       galtesqaalvkss...wEEFNanipkhthrffilvleiaPAAKDLFSFl
+
+           51                                             100
+1dlyA      ...........DMKVQRSKQFAFLAYALGgasewkgk.............
+2gdm       kgtsevpqnnpELQAHAGKVFKLVYEAAI........qlevtgvvvtdat
+
+           101                                            150
+1dlyA      ..DMRTAHKDLVphlsdvHFQAVARHLSDTLTELG...VPPEDITDAMAV
+2gdm       lkNLGSVHVSKG.vada.HFPVVKEAILKTIKEVVgakWSEELNSAWTIA
+
+           151           167
+1dlyA      VASTRTEVL..nmpqq~
+2gdm       YDELAIVIKkemdda.a
+

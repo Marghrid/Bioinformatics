@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  msf_ref/ref/1qfoA_2fcbA.msf MSF:  207 Type: P 11/12/19 CompCheck: 7923 ..
+
+  Name: 2fcbA      Len: 207  Check: 1882 Weight: 1.00
+  Name: 1qfoA      Len: 207  Check: 6041 Weight: 1.00
+
+//
+
+           1                                               50
+2fcbA      ppkavlklepqwinvlqedsvtltcrgthspesdsiqwfhngnlipthtq
+1qfoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+2fcbA      psyrfkannndsgeytcqtgqtslsdpvhltvlsewlvlQTPHLEFQEGE
+1qfoA      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~twgvs.SPKNVQGLSGS
+
+           101                                            150
+2fcbA      TIVLRCHSWKdkpl.......VKVTFFQNg....KSKKFSRsd.......
+1qfoA      CLLIPCIFSY....padvpvgITAIWYYDysgkrQVVIHSG..dpklvdk
+
+           151                                            200
+2fcbA      ................PNFSIPQANHSHSGDYHCTGNIgYTLYSSK.pvt
+1qfoA      rfrgraelmgnmdhkvCNLLLKDLKPEDSGTYNFRFEIsSNRWLDVkgtt
+
+           201 207
+2fcbA      itvqapa
+1qfoA      vtvtt~~
+
