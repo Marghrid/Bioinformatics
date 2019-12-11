@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/71.msf MSF:  222 Type: P 11/12/19 CompCheck: 3441 ..
+
+  Name: B          Len: 222  Check: 8845 Weight: 1.00
+  Name: A          Len: 222  Check: 9099 Weight: 1.00
+  Name: C          Len: 222  Check: 5497 Weight: 1.00
+
+//
+
+           1                                               50
+B          ~~~XKLIVGXTGATGAPLGVALLQALREXPNV.ETHLVXSKWAKTTIELE
+A          RK.PRVLLAASGSVAAIKFGNLCHCFTEW..A.EVRAVVTKSSLHFL...
+C          M.YGKLLICATASINVININHYIVELKQH..FDEVNILFSPSSKNFI...
+
+           51                                             100
+B          TPYSARDVAALA.....DFSHNPAD..QA.........ATISSG.SFRTD
+A          .......DKLSLPQE..VTLYT.DED.EWSSWNKIGDPV.LHIELRRWAD
+C          .......NTDVLKL.FCDNLYD.EIKDPL.........L.NHINIVENHE
+
+           101                                            150
+B          GXIVIPCSXKTLAGIRAGYADGLVGRAADVVLKEG.RKLVLVPREXPL..
+A          VLVIAPLSANTLGKIAGGLCDNLLTCIIRAW..DYTKPLFVAPAMNTLMW
+C          YILVLPASANTINKIANGICDNLLTTVCLTG..YQ..KLFIFPNMNIRMW
+
+           151                                            200
+B          .STIHLENXLALSRXGVAXVPPXPAFYNHPETVDDI.............V
+A          NNPFTERHLLSLDELGITLIPPIK............KRLACGDYGNGAMA
+C          GNPFLQKNIDLLKNNDVKVYSPDM............NNNITM.......P
+
+           201                222
+B          HHVVARVLDQFGLE~~~~~~~~
+A          ..EPSLIYSTVR..LFWESQAH
+C          ..NIENVLNFVL..N~~~~~~~
+

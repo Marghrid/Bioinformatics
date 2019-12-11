@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/347.msf MSF:  266 Type: P 11/12/19 CompCheck: 5736 ..
+
+  Name: A          Len: 266  Check: 8311 Weight: 1.00
+  Name: D          Len: 266  Check: 9563 Weight: 1.00
+  Name: C          Len: 266  Check: 7862 Weight: 1.00
+
+//
+
+           1                                               50
+A          SGRFSIKA............................KNYFLTYPKCD...
+D          ~~~~~~~~MA..........................TFYEVIV.RVPFDV
+C          ~~~ATVFK..LGLFKSLFLCSFHDITRLFKNDKTTNQQWVLAVFGLAE..
+
+           51                                             100
+A          ..........................................LTKENALS
+D          EEHLPGISDSFVDWVTGQIWELPPESDLNLTLVEQPQLTVADRIRRVFLY
+C          ..........................................VFFEASFE
+
+           101                                            150
+A          QITNLQTPTN..KLFIKICRELHENGEPHLHILIQFEG.KYNCTN.QRFF
+D          EWNKF.S...KQESKFFVQFEKGSEY.FHLHTLVETS..GISSMVLGRYV
+C          LLKKQ.......CSFLQMQKRSHEGG.TCAVYLICFN.TAKSRETVRNLM
+
+           151                                            200
+A          D.LVS....PTR.S.AH.....F...HPN........IQGAKSSSDV...
+D          SQIRAQLVKVVFQGIE.PQINDW...VAITKVKKGGANKVV..D......
+C          ANMLN.................VREECLM........LQPP.KI.R.GLS
+
+           201                                            250
+A          .KSYID..KDG...........DVLEWGTFQIDGR~~~~~~~~~~~~~~~
+D          .SGYIPAYLL.PKVQPELQ...WAWTNLD......EYKLAALNLEERKRL
+C          AALFWF..KSS........LSPATLKHGALPE...W..............
+
+           251          266
+A          ~~~~~~~~~~~~~~~~
+D          VAQFLAES~~~~~~~~
+C          ........IRAQTTLN
+

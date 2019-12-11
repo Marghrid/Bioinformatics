@@ -1,0 +1,26 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/239.msf MSF:  80 Type: P 11/12/19 CompCheck: 6874 ..
+
+  Name: A          Len: 80  Check: 4190 Weight: 1.00
+  Name: A          Len: 80  Check: 9683 Weight: 1.00
+  Name: I          Len: 80  Check: 5663 Weight: 1.00
+  Name: F          Len: 80  Check:  513 Weight: 1.00
+  Name: A          Len: 80  Check: 6825 Weight: 1.00
+
+//
+
+           1                                               50
+A          KVEYSEEELK....THISK.GT.LGKFTVPMLKEACRAYG.LKSG.....
+A          ~~~~~~~~~~IHPNF.VGDKSKEFSRLGKEEMMAEMLQRGFEYNES....
+I          ~~~~~~~~~~~~~~~~~~~~DN.YADLSDTELTTLLRRYN.IPHGPVVG.
+F          ~~~~~~~~~~~~~~~M..N.LTELKNTPVSELITLGENMG.LENLA...R
+A          ~~~~~PE.F......L....ED.PSVLTKDKLKSELVANN.VTLPAG...
+
+           51                          80
+A          .LKKQELLEALTKHFQD~~~~~~~~~~~~~
+A          .DTKTQLIASFKKQLRKS.LK~~~~~~~~~
+I          .STRRLYEKKIFEYETQRRR~~~~~~~~~~
+F          .MRKQDIIFAILKQHAKSG..E~~~~~~~~
+A          EQRKDVYVQLYLQHLTA.R..NRPPLPAGT
+

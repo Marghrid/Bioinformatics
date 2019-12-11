@@ -1,0 +1,20 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/567.msf MSF:  77 Type: P 11/12/19 CompCheck: 1515 ..
+
+  Name: B          Len: 77  Check: 1470 Weight: 1.00
+  Name: A          Len: 77  Check: 9655 Weight: 1.00
+  Name: A          Len: 77  Check:  390 Weight: 1.00
+
+//
+
+           1                                               50
+B          VD...............NK..FNKELSVAGREIVTLPNLNDPQKKAFIFS
+A          ~~N..............GTQNLNNAKQAAITAINGASDLNQKQKDALKAQ
+A          ~~MKAIFVLNAQHDEAVDANSLAEAKVLANRELDKY..GVS...DYYKNL
+
+           51                       77
+B          LWDD..PSQSANLLAEAKKLNDAQAPK
+A          ANGAQRVSNAQDVQHNATELNT~~~~~
+A          INNAKTVEGVKALIDEILAALP~~~~~
+

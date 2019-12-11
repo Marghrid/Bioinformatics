@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/68.msf MSF:  246 Type: P 11/12/19 CompCheck: 3837 ..
+
+  Name: A          Len: 246  Check: 5445 Weight: 1.00
+  Name: A          Len: 246  Check: 1425 Weight: 1.00
+  Name: A          Len: 246  Check: 6967 Weight: 1.00
+
+//
+
+           1                                               50
+A          IFXDYYENRKVXAEAQNIYEKS..PX..EEQSQDGEVRKQFKALQQI...
+A          ~~~~~~QERANYEKLQQKFQMLMSKHQAHV.......RPQFESLEKI...
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~K............PQI
+
+           51                                             100
+A          ...NQEIVGWITXDDTQINYPIVQAKDNDYYLFRNYKGEDXRAGSIFXD.
+A          ...NKDIVGWIKLSGTSLNYPVLQGKTNHDYLNLDFEREHRRKGSIFMD.
+A          PKDKSKVAGYIEIPDADIKEPVYPGP....ATPEQ......LNRGVSFAE
+
+           101                                            150
+A          YRNDVKSQNRNTILYGH.RXKDG.SXFGSLKKXLDEEFFXSHRKLYYDTL
+A          FRNELKNLNHNTILYGH.HVGDN.TMFDVLEDYLKQSFYEKHKIIEFDNK
+A          ENESL..DDQNISIAGHTFIDRPNYQFTNLKAA.....KKG.SMVYFKVG
+
+           151                                            200
+A          FEGYDLEVF.SVYTTTTDFY...YI.ETDFSSDTEYTSFLEKIQEKSLYK
+A          YGKYQLQVF.SAYKT.TTKD...NYIRTDFENDQDYQQFLDETKRKSVIN
+A          NETRKYKMTSIRDVK....PTDVGV.LDEQ....................
+
+           201                                        246
+A          TDTTVTAGDQIVTLSTXD.Y...........AGRLVVHAKLVKR~~
+A          SDVNVTVKDKIMTLSTCE.DAYSET......TKRIVVVAKIIKVS~
+A          .....KGKDKQLTLITCDDYN....EKTGVWEKRKIFVATEV...K
+

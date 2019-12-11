@@ -1,0 +1,32 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/185.msf MSF:  73 Type: P 11/12/19 CompCheck: 5932 ..
+
+  Name: A          Len: 73  Check:  556 Weight: 1.00
+  Name: C          Len: 73  Check: 8630 Weight: 1.00
+  Name: A          Len: 73  Check: 7984 Weight: 1.00
+  Name: A          Len: 73  Check: 4066 Weight: 1.00
+  Name: R          Len: 73  Check: 2360 Weight: 1.00
+  Name: A          Len: 73  Check: 5917 Weight: 1.00
+  Name: A          Len: 73  Check: 6419 Weight: 1.00
+
+//
+
+           1                                               50
+A          PTL..SPEQQEMLQAFSTQSG.MNLEWSQKCLQDNNWDYTRSAQAFTHLK
+C          ~~~~~S..QMELIKKLREATG.AGMMDVKRALEDAGWDEEKAVQLLRERG
+A          ~~VS.SPEYTKKIENLCAM.G.FDRNAVIVALSSKSWDVETATELLL~~~
+A          ~~~~~GSEYETMLTEIMSM.G.YERERVVAALRASYNNPHRAVEYLL.T~
+R          ~PE.ER..YEHQLRQLNDM.GFFDFDRNVAALRRSGGSVQGALDSLLNG~
+A          ~~~~~S..SKELLMKLRRKTG.YSFVNCKKALETCGGDLKQAEIWLHKEA
+A          ~~~~~TPQEKEAIERLKAL.G.FPESLVIQAYFACEKNENLAANFLLSQN
+
+           51                   73
+A          AKGEIPEVAFMK~~~~~~~~~~~
+C          .A.MK.......AAKKADR~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~
+R          ~~~~~~~~~~~~~~~~~~~~~~~
+A          .Q.KE.G.....W......SKAA
+A          F~~~~~~~~~~~~~~~~~~~~~~
+

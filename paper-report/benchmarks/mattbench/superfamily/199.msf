@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/199.msf MSF:  155 Type: P 11/12/19 CompCheck: 4373 ..
+
+  Name: A          Len: 155  Check: 4599 Weight: 1.00
+  Name: A          Len: 155  Check: 9942 Weight: 1.00
+  Name: A          Len: 155  Check: 4810 Weight: 1.00
+  Name: A          Len: 155  Check: 5022 Weight: 1.00
+
+//
+
+           1                                               50
+A          NFSIGINVLKRFLSELVKVLE.DWDVEIVETHHRFKKD............
+A          ~~~VGVNVMLKLLEKAAKVMGDYTDIEIIEAHHRHKVD............
+A          ~~AIGAVLSMHFAKQAARFF...DSAEVIELHHPHKAD............
+A          ~~~~~AIGGLDVLSSIKDFV...KNVRIETIKPPKSLGLDLKGKTVVFEG
+
+           51                                             100
+A          .......APSGTAILLESALGKS...........................
+A          .......APSGTALAMGEAIAHALDKDLKDCAVYSREGHTGERVPGT...
+A          .......APSGTAARTAKLIAEARK.GL...................PPN
+A          SVEEASKLFPRNIN.VASTIGLIV.GFEK.....................
+
+           101                                            150
+A          ..................VPIHSLRVGG.VPGDHVVVFGNIG.ETIEIKH
+A          ..................IGFATVRAGD.IVGEHTAMFADIG.ERLEITH
+A          PDATSTSLPGARGADVDGIPVHAVRLAG.LVAHQEVLFGTEG.ETLTIRH
+A          ..................VKVTIVADPAXDHNIHIVRISSA.IGNYEFKI
+
+           151
+A          RAI~~
+A          KASSR
+A          DSLDR
+A          ENI~~
+

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/272.msf MSF:  113 Type: P 11/12/19 CompCheck: 6233 ..
+
+  Name: E          Len: 113  Check:  453 Weight: 1.00
+  Name: B          Len: 113  Check: 9176 Weight: 1.00
+  Name: B          Len: 113  Check: 1544 Weight: 1.00
+  Name: A          Len: 113  Check: 5060 Weight: 1.00
+
+//
+
+           1                                               50
+E          EDDP.L.....YDEAVRFV.TES..........RRASISAVQRKLKIGYN
+B          ~~~~~~~~~~~QQ.IATEIETYIEEHQLQQGD.KLPVLETLXAQFEVSKS
+B          LG..LEKR...DREILEVL.ILRFG.......GGPVGLATLATALSEDPG
+A          ~~~MNT..LKKAFEILDFI.VKNP.........GDVSVSEIAEKFNMSVS
+
+           51                                             100
+E          RA.ARMIEAMEMAGVVTPMNTNGSREVI..APA.PVR~~~~~~~~~~~~~
+B          TI.TKSLELLEQKGAI.FQVRGSGIFVR..KH.....KRKGYISLLSNQ~
+B          TLEEVHEPYLIRQGLL.KRTPR.GRVAT..ELAYR..H...........L
+A          NA.YKYMVVLEEKGFV.LRKKDKRYVPGYKLI.E....YG..........
+
+           101       113
+E          ~~~~~~~~~~~~~
+B          ~~~~~~~~~~~~~
+B          GYPPPV~~~~~~~
+A          ......SFVLRRF
+

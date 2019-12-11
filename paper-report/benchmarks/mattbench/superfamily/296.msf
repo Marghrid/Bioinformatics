@@ -1,0 +1,30 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/296.msf MSF:  162 Type: P 11/12/19 CompCheck: 5543 ..
+
+  Name: D          Len: 162  Check: 9805 Weight: 1.00
+  Name: C          Len: 162  Check: 2401 Weight: 1.00
+  Name: L          Len: 162  Check: 3337 Weight: 1.00
+
+//
+
+           1                                               50
+D          ~GCAVTEVEIDGVLHEYSTKEGVQEDILEILLNLKGLAVRVQG.......
+C          PTLAIDSVEVE.......TNT.TVLADEFIAHRLGLIPLQSMDIEQLEYS
+L          ~GTAVTSVYIEDVLHEFSTIPGVKEDVVEIILNLKELVVRFLNPS.....
+
+           51                                             100
+D          ..........KDEVILTLNKSG....IGPVTAADITHD..G....DVEIV
+C          RDCFCEDHCDKCSVVLTLQAFGESESTTNVYSKDLVIVSNLMGRNIGHPI
+L          ..........LQTVTLLLKAEG....PKEVKARDFLPV..A....DVEIM
+
+           101                                            150
+D          K.....PQHVICHLTDENASISMRIKVQRGR.GYVPASTRIHERPIGRLL
+C          IQDKEGNGVLICKLR.KGQELKLTCVAKKGIAKEH...............
+L          N.....PDLHIATLE.EGGRLNMEVRVDRGV.GYVPAEKH.....GIKDR
+
+           151      162
+D          VD.....ACYS~
+C          .......AKWGP
+L          INAIPVDAVFS~
+

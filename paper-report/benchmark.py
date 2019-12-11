@@ -5,6 +5,7 @@ import subprocess
 import re
 import csv
 import threading
+import sys
 
 
 def output(file, aligner):
@@ -17,25 +18,29 @@ def solution(file):
     return filename + '.msf'
 
 
-results = []
+def eprint(*args, **kwargs):
+    print(*args, file=sys.stderr, **kwargs)
 
 
 def run_aligner(aligner, inflag, outflag, extraflags):
-    print('Running', aligner, '...')
+    eprint('Running', aligner, '...')
 
     counter = 0
     for name, benchmark in instances.items():
         for instance in benchmark:
-            p = subprocess.Popen(['timeout', '600', '/usr/bin/time', '-f', '%e %M', aligner, inflag, instance, outflag, output(instance, aligner)]
-                                 + extraflags, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
+            counter += 1
+            p = subprocess.Popen(['timeout', '600', 'militime', aligner, inflag, instance, outflag, output(instance, aligner)]
+                                 + extraflags, stdout=subprocess.PIPE)
             p.wait()
 
             if p.returncode != 124:
-                out = p.stderr.read().split()
+                out = p.stdout.read().split()
                 try:
                     time = float(out[0])
-                    ram = float(out[0])
+                    ram = float(out[1])
                 except:
+                    eprint("Error while parsing time and ram.")
+                    eprint(out)
                     time = -1
                     ram = -1
 
@@ -53,40 +58,43 @@ def run_aligner(aligner, inflag, outflag, extraflags):
                 except:
                     TC = -1
 
-                counter += 1
-                results.append((aligner, instance, time, ram, SP, TC))
-                print('\t', aligner, '(' + str(counter) + '/' + str(total) + ')')
+                eprint('\t', aligner, '(' + str(counter) + '/' + str(total) + ')')
+                print(aligner, instance, time, ram, SP, TC, sep=',')
 
             else:
-                results.append((aligner, instance, -1, -1, -1, -1))
-                print('\tInstance', instance, 'on', aligner, 'timed out.')
+                eprint('\tInstance', instance, 'on', aligner, 'timed out.')
+                print(aligner, instance, -1, -1, -1, -1, sep=',')
 
 
 SP_regex = re.compile("SP score= (.*)")
 TC_regex = re.compile("TC score= (.*)")
 
-print("Looking for benchmarks...")
+eprint("Looking for benchmarks...")
 benchmarks = os.listdir('benchmarks')
 
-print("Found", list(benchmarks))
-print()
+eprint("Found", list(benchmarks))
+eprint()
 
 instances = {}
 for bench in benchmarks:
-    print("Looking for instances in benchmarks/", bench, sep="")
-    files = glob.glob('benchmarks/' + bench + '/**/*.tfa', recursive=True)
-    print("\tFound", len(files), "instances.")
-    if len(files) != 0:
-        instances[bench] = files
+    eprint("Looking for instances in benchmarks/", bench, sep="")
+    if bench[0] == 'm':
+        files = glob.glob('benchmarks/' + bench + '/**/*.tfa', recursive=True)
+        eprint("\tFound", len(files), "instances.")
+        if len(files) != 0:
+            instances[bench] = files
 
-print()
+eprint()
 total = sum(map(len, instances.values()))
-print('Found', total, 'instances in total.')
-print()
+eprint('Found', total, 'instances in total.')
+eprint()
+
+print('aligner', 'instance', 'time', 'ram', 'SP', 'TC', sep=',')
 
 threads = []
 for aligner in [
     ('kalign', '-i', '-o', ['--format', 'msf']),
+    ('kalign2', '-i', '-o', ['--format', 'msf', '--quiet']),
     ('clustalo', '-i', '-o', ['--outfmt', 'msf', '--threads', '8', '--MAC-RAM', '48000', '--iterations', '2', '--force']),
     ('muscle', '-in', '-out', ['-msf', '-maxiters', '2', '-quiet'])
 ]:
@@ -97,9 +105,3 @@ for aligner in [
 for t in threads:
     t.join()
 
-with open('results.csv', 'w') as out_file:
-    csv_out = csv.writer(out_file)
-    csv_out.writerow(['aligner', 'instance', 'time', 'ram', 'SP', 'TC'])
-
-    for row in results:
-        csv_out.writerow(row)

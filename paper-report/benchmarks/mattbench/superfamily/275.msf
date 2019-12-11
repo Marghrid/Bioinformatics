@@ -1,0 +1,47 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/275.msf MSF:  285 Type: P 11/12/19 CompCheck: 8428 ..
+
+  Name: A          Len: 285  Check: 7330 Weight: 1.00
+  Name: A          Len: 285  Check: 6738 Weight: 1.00
+  Name: A          Len: 285  Check: 6474 Weight: 1.00
+  Name: A          Len: 285  Check: 7886 Weight: 1.00
+
+//
+
+           1                                               50
+A          TPDSPFDLYLKGDDKAL.................................
+A          ~~~~~~~~~~~~~~~~~DVTNAEKLVYKYTNIAHSANPMYE.........
+A          ~~~~~~~~~~~~~~~~~DNLMERA.................NSMFEPIPK
+A          TPGSKFDKWLEGDKNAL.................................
+
+           51                                             100
+A          ...........DAQQKKGLKAFMD............SGCSACHNGI..NL
+A          ...........APSITDGKIFFNRKFKTPSGKE...AACASCHTNNP.AN
+A          YPPVIDGNELTQAKVELGKMEFFEPRLSS....SHLISCNTCHNVG.LGG
+A          ...........NQDELEGYNLFKG............SGCVQCHNGP..AV
+
+           101                                            150
+A          GGQAYFPFGLVKKPDADKGRFAVTKTQSDE....................
+A          VG.KNIV...........................................
+A          DDELPTSI..............GH.G....WQK.................
+A          GGSSYQKM..............GV...FKP...YETKNPAAGRMDVTGNE
+
+           151                                            200
+A          ...YVFRAAPLRN.VALTAPYFHSGQ........VWE...LKDAVAIMGN
+A          ...TGKEIPPLAPRVNTKRF..............TDIDK.VEDEFTKHCN
+A          ...GPRNSPTVFN.AVFNAAQFWD.GRAADLAEQAKG..PVQAGV..EMS
+A          ADRNVFKVPTLRN.IELTYPYFHDGG........AAT...LEQAVETMGR
+
+           201                                            250
+A          AQLGKQL...............................APDDVENIVAFL
+A          D.IL.GADC.............................SPSEKANFIAYL
+A          S....TP..DRVVATLKSMPEYIERFEDAFPGQENPVTFDNMAVAIEAYE
+A          IQLN.REF..............................NKDEVSKIVAFL
+
+           251                             285
+A          HSLSGKQPRVEYPLLPASTETTPRPAE~~~~~~~~
+A          LTETKP.....................TK~~~~~~
+A          ATLITP~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          KTLTGDQPDFKLPILPPSNN.D.TP....RSQPYE
+

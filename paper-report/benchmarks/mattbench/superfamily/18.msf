@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/18.msf MSF:  187 Type: P 11/12/19 CompCheck:  616 ..
+
+  Name: C          Len: 187  Check: 7218 Weight: 1.00
+  Name: A          Len: 187  Check: 6633 Weight: 1.00
+  Name: F          Len: 187  Check: 8939 Weight: 1.00
+  Name: E          Len: 187  Check: 7826 Weight: 1.00
+
+//
+
+           1                                               50
+C          KLSQD...EIDDLKDVFELFDFWDGRDGAVDAFKLGDVCRCLGINPRNED
+A          ~~~~~~~~ATRANKDIFTLFDK..KGQGAIAKDSLGDYLRAIGYNPTNQL
+F          ~FSEE...QTAEFKEAFQLFDR..TGDGKILYSQCGDVMRALGQNPTNAE
+E          ~~~~~TEEQIAEFKEAFSLFDK..DGDGTITTKELGTVMRSLGQNPTEAE
+
+           51                                             100
+C          VFAVGGT.HKMGE.............K.......S.LPFEEFLPAYEGLM
+A          VQDII..N.....ADSSLRDA.....S.......S.LTLDQITGLIEVNE
+F          VMKVL..GNPKS.........DEMNLK.......T.LKFEQFLPMMQTIA
+E          LQDMI.....................NEVDADGNGTIDFPEFLTMMARKM
+
+           101                                            150
+C          DC...E.QGTFADYMEAFKTFDREGQ..GFISGAELRHVLTALG.ERLSD
+A          KELDATTKAKTEDFVKAFQVFDKEST..GKVSVGDLRYMLTGLG.EKLTD
+F          KNK..D.QGCFEDYVEGLRVFDKEGN..GTVMGAEIRHVLVTLG.EKMTE
+E          KD...T.DSEEE.IREAFRVFDKD..GNGYISAAELRHVMTNL.GEKLTD
+
+           151                               187
+C          EDVDEIIKLTDLQE..DLEGNVKYEDFVKKVMAGPYP
+A          AEVDELLKGV.EV...DSNGEIDYKKFIEDVLRQ~~~
+F          EEVEQLVAGH..E...DSNGCINYEELVRMVLSG~~~
+E          EEVDEMIREA....DIDGDGQVN.YEEFVQMMTA~~~
+

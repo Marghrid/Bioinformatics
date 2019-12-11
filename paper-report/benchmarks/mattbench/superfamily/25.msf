@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/25.msf MSF:  105 Type: P 11/12/19 CompCheck:  186 ..
+
+  Name: A          Len: 105  Check: 2021 Weight: 1.00
+  Name: H          Len: 105  Check: 1502 Weight: 1.00
+  Name: B          Len: 105  Check: 4891 Weight: 1.00
+  Name: A          Len: 105  Check: 1772 Weight: 1.00
+
+//
+
+           1                                               50
+A          PEIRTMKLEGG...ND.VSLKAGQTFTFTTDKSVI..GNSEMVAVTYEGF
+H          PEIRTGLIKG.SGTAE.VELKKGATLKITLDNAYMEKCDENILWLDYKNI
+B          ~EIRTGQFVG....GD.AVMERGATCYVTTDPAFADKGTKDKFYIDYQNL
+A          PEIRTGTTTND...VDYPIPPN.HEMIFTTDDKYAKACDDKIMYVDYKNI
+
+           51                                             100
+A          TTDLSVGNTVLVDDGLIGMEVTAIEGN.KVICKVLNNGDLGENKGVNLPG
+H          CKVVDVGSKVYVDDGLISLQVKQKGD..FLVTEVENGGFLGSKKGVNLPG
+B          SKVVRPGNYIYIDDGILILQVQSHEDEQTLECTVTNSHTISDRRGVNLPG
+A          TKVISAGRIIYVDDGVLSFQVLEVVD..TLKVKALNAGKICSHKGVNLPG
+
+           101
+A          VSIAL
+H          AAVDL
+B          CDVDL
+A          TDVDL
+

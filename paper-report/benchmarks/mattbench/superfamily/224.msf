@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/224.msf MSF:  223 Type: P 11/12/19 CompCheck: 1817 ..
+
+  Name: A          Len: 223  Check: 9743 Weight: 1.00
+  Name: A          Len: 223  Check: 3388 Weight: 1.00
+  Name: L          Len: 223  Check: 5079 Weight: 1.00
+  Name: A          Len: 223  Check: 3607 Weight: 1.00
+
+//
+
+           1                                               50
+A          PTSTGVYAPSARHMNDN..................QE....LMEWFRAV.
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~EEERQ.FRKLF...V
+L          ~~~~~~~~~~~~~~~~~EIEANLEEFDISEDDIDDGVRR.LFAQLA....
+A          ~~~~~~~~~~~~~~~~~M.................DP....LYGYF...A
+
+           51                                             100
+A          DTDG..SG....AISVPELNAALS.......SA...GVPFSLATTEKLLH
+A          ....Q.LAGDDMEVSATELMNILNKVVTR..HPDLKTDGFGIDTCRSMVA
+L          ......GE.DA.EISAFELQTILRRVLA...KRK..SDGFSIETCKIMVD
+A          S....VAGQDG.QIDADELQRCLTQSG..IAGG...YKPFNLETCRLMVS
+
+           101                                            150
+A          MYDKNHSGEITFDEFKDLHHFILSMREGFRKRDSSGDGRLDSNEVRAALL
+A          VMDSDTTGKLGFEEFKYLWNNIKKWQGIYKRFDTDRSGTIGSNELPGAFE
+L          MLDSDGSGKLGLKEFYILWTKIQKYQKIYREIDVDRSGTMNSYEMRKALE
+A          MLDRDMSGTMGFNEFKELWAVLNGWRQHFISFDSDRSGTVDPQELQKALT
+
+           151                                            200
+A          SSGYQVSEQTFQALMRKFDRQRR.GSLGFDDYVELSIFVCRVRNVFAFYD
+A          AAGFHLNQHIYSMIIRRYS..DETGNMDFDNFISCLVRLDAMFRAFRSLD
+L          EAGFKMPCQLHQVIVARFA..DDQLIIDFDNFVRCLVRLETLFKIFKQLD
+A          TMGFRLNPQTVNSIAKRYS..TS.GKITFDDYIACCVKLRALTDSFRRRD
+
+           201                 223
+A          RERTGQVTFTFDTFIGGSVSI.L
+A          KNGTGQIQVNIQEWLQLTM..YS
+L          PENTGTIELDLISWLCFSV...L
+A          SAQQGMVNFSYDDFIQCVM..TV
+

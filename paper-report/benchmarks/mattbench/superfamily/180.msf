@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/180.msf MSF:  125 Type: P 11/12/19 CompCheck: 7245 ..
+
+  Name: B          Len: 125  Check: 6837 Weight: 1.00
+  Name: A          Len: 125  Check: 7956 Weight: 1.00
+  Name: A          Len: 125  Check: 9219 Weight: 1.00
+  Name: A          Len: 125  Check: 3614 Weight: 1.00
+  Name: A          Len: 125  Check: 9619 Weight: 1.00
+
+//
+
+           1                                               50
+B          TI....PEIIIKVRGTQVVGSDMTVTVEFTNPLKETLRNVWVHLDGPG..
+A          ~~~SN.VDMDFEVE.NAVLGKDFKLSITFRNNSHNRYTIT.AYLSANITF
+A          ~~EETGMAMRIRVGQSMNMGSDFDVFAHITNNTAEEYVCR.LLLCARTVS
+A          ~~~~~~PTLTLEVLNEARVRKPVNVQMLFSNPLDEPVRDCVLMVEGSG..
+A          ~~EPS.IIGKLKVAGMLAVGKEVNLVLLLKNLSRDTKTVT.VNMTAWTII
+
+           51                                             100
+B          ........VTRPMKKMFREIRPNSTVQWEEVC...RPWV.S.GHRKLIAS
+A          YTGVPKA.EFKKETFD.VTLEPLSFKKEAVLIQAGEYMGQLLEQASLHFF
+A          YNGILGP.ECGTKYLLNLTLEPFSEKSVPLCILYEKYRDCLTESNLIKVR
+A          .......LLLGNLKIDVPTLGPKERSRVRFDI...LPSR.S.GTKQLLAD
+A          YNGTLVH.EVWKDSAT.MSLDPEEEAEHPIKISYAQYERYLKSDNMIRIT
+
+           101                   125
+B          MSS...DSL.RHVY.GELDVQIQRR
+A          VTARINETRDVLAKQKSTVL~~~~~
+A          ALLVEPVINSYLLAERDLYL.E~~~
+A          FSC...NKF.PAIK.AMLSIDVAE~
+A          AVCKV.PDESEVVVERDIIL.DN~~
+

@@ -1,0 +1,30 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/123.msf MSF:  176 Type: P 11/12/19 CompCheck: 8630 ..
+
+  Name: B          Len: 176  Check: 9567 Weight: 1.00
+  Name: A          Len: 176  Check: 1223 Weight: 1.00
+  Name: K          Len: 176  Check: 7840 Weight: 1.00
+
+//
+
+           1                                               50
+B          PLPP.DITFDSLALIKMHSQ..N....MKRI.LEVTLAK.FTVNLSIVTV
+A          ~~~~~MILLDTNVISEPLR.PQPNERVV..AWL.DS.LILEDVYLSAITV
+K          ~~~AVEYLVDASALYALAA........HY....DKWIKHREKLAILHLTI
+
+           51                                             100
+B          YRYLTARAYLKK.......NIEAEFEILK....DIYN..IVPLLDDIAIK
+A          AEMRLGVALLL.NGK....KKNVLHERMEQSILPLFAGRILPFDEPVAAI
+K          YEAGNALWKEA.R..LGRVDWAAASRHLKKVL.SSFK..VLED..PPLDE
+
+           101                                            150
+B          AAQIEANLIKKE..ITLDMEDIITATTAIYTNSLLVTD.D..PKRYEPIR
+A          YAQIRSYAK.T.HGKEIAAADGYIAATAKQHSMTVATR.D..TGSFFAAD
+K          VLRVAVER.......GLTFYDASYAYVAESSGLVLVTQDRELLAKT....
+
+           151                    176
+B          RFGLDTMPLDKFIKEVELMVEKEL~~
+A          ...VAVFNPWH~~~~~~~~~~~~~~~
+K          ...KGAIDVETLLVRL..A.....AQ
+

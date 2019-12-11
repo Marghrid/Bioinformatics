@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/181.msf MSF:  276 Type: P 11/12/19 CompCheck: 5777 ..
+
+  Name: A          Len: 276  Check: 7896 Weight: 1.00
+  Name: Y          Len: 276  Check: 3575 Weight: 1.00
+  Name: 8          Len: 276  Check: 4306 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~IDEALFDAEEKMEKAVAVARDDLSTIRTG.RANPGMF..SRITIDYYG
+Y          MTLKELYAETRSHMQKSLEVLEHNLAGLRTGRANPAL.LLHL........
+8          M.ISDIRKDAEVRMDKCVEAFKTQISKIRTG...................
+
+           51                                             100
+A          AATPI........TQL..AS.INVPEARLVVI.K.....PYEANQ.LRAI
+Y          ...KVEYYGAHVPL..NQIATVTAPDPRTLVVQSWDQNAL..K.AIE..K
+8          ..................................................
+
+           101                                            150
+A          ETA...IRNSDLG......................V.NPTNDGA.LIRVA
+Y          ..AI..R.DSDLG......................L.NPSNK.GDALYIN
+8          ....RAS..PSL.LDGIVVEYYGTPTPLRQLASVTVED............
+
+           151                                            200
+A          VP..........................................QLTEER
+Y          IP..........................................PLTEER
+8          ..SRTLKINVFDRSMSPAVEKAIMASDLGLNPNSAGSDIRVPLPPLTEER
+
+           201                                            250
+A          RRELVKQAKHKGEEAKVSVRNIRRKAMEELHRIRKEGEAGEDEVGRAEKD
+Y          RKDLVRAVRQYAEEGRVAIRNIRREALDKLKKLAKELHLSEDETKRAEAE
+8          RKDLTKIVRGEAEQARVAVRNVRRDANDKVKALLKDKEISEDDDRRSQDD
+
+           251                    276
+A          LDKTTHQYVTQIDELVKHKEGELLE~
+Y          IQKITDEFIAKADQLAEKKEQEILG~
+8          VQKLTDAAIKKIEAALADKEAELMQF
+

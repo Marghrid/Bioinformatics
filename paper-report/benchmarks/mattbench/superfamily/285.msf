@@ -1,0 +1,86 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/285.msf MSF:  365 Type: P 11/12/19 CompCheck: 3892 ..
+
+  Name: A          Len: 365  Check: 1990 Weight: 1.00
+  Name: A          Len: 365  Check: 5435 Weight: 1.00
+  Name: C          Len: 365  Check: 7794 Weight: 1.00
+  Name: D          Len: 365  Check: 6698 Weight: 1.00
+  Name: A          Len: 365  Check: 8351 Weight: 1.00
+  Name: B          Len: 365  Check: 3164 Weight: 1.00
+  Name: A          Len: 365  Check:  460 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~QSTLVIAEHAN......................D.......SLAP.
+A          P...TKVXVAVNASTIK.............D......YP......NPSI.
+C          ~~~~MKILVAVKQTAA.LEEDFEIREDGMDVDEDFMMY.......DLNE.
+D          ~~~~SKILVIAEHRR......................N.......DLRP.
+A          ~VMYKKILYPT..................................DFSE.
+B          ~~~~LRVLVAVKRVI.DYAVKIRVKPDRTGV......V.TDGVKHSMNP.
+A          ~~~~~AVLLLGEVTN......................G.......ALNRD
+
+           51                                             100
+A          ITLNTITAAT.RLG.........GEVSCLVAG..................
+A          SCKRAFEWTLEKIVRSN..TSD.FKILLLHVQVSIYASPEDFRDXRQS..
+C          WDDFSLEEAM.KIKESS.DTD..VEVVVVSVG..................
+D          VSLELIGAAN.GLK...KSGE..DKVVVAVIG..................
+A          TAEIALKHVK.AFK..T.LKA..EEVILLHVIDER.............EI
+B          FCEIAVEEAV.RLKEKKL....VKEVIAVSCG..................
+A          ATAKAVAAVK..AL.........GDVTVLCAG..................
+
+           101                                            150
+A          ............TK..CDKVAQDLCKV....AGIA.KVLVAQHDVYK.G.
+A          ............NKAKGLHLLEFFVNKCHEIGVGC.EAWIKTG.......
+C          ............PD.RVDESLRKCLA.....KGAD.RAVRVWDDA.A..E
+D          ............SQ..ADAFVPALSV.....NGVD.ELVVVKG.S.SID.
+A          KVEEFENELKNKLTEEAKNKMENIKKELED.VGFKVKDIIVVG.......
+B          ............PA.QCQETIRTALA.....MGAD.RGIHVEVPP.AE.A
+A          ............AS..AKAAAEEAAKI....AGVA.KVLVAEDALYG.H.
+
+           151                                            200
+A          LLPE...ELTPLILATQKQFNYTHICAGASAF.........GKNLLPRVA
+A          .......DPKDVICQEVKRVRPDFLVVGSRG..........LGTVSAFCV
+C          GSDAI..VVGRILTEVIKKEAPDMVFAGVQS.SDQA.....YASTGISVA
+D          FDPD...VFEASVSALIAAHNPSVVLLPHSVD.........SLGYASSLA
+A          .......IPHEEIVKIAEDEGVDIIIMGSHG.K.TNLKEILLGSVTENVI
+B          ERLG.PLQVARVLAKLAEKEKVDLVLLGKQA.IDDD.....CNQTGQMTA
+A          RLAE...PTAALIVGLA..GDYSHIAAPATTD.........AKNVMPRVA
+
+           201                                            250
+A          AKLEVAPISDIIAIKSP....DTFVRTIYA.GNALCTVKCDE....KVKV
+A          KHA...........................................ECPV
+C          SYLNWPHAAVVADLQYK.PGDNKAVIRR.ELEG.GMLQEVE.IN..CPAV
+D          SKTGYGFATDVYIVEY.QG.DELVATRGGY.NQKVNVEVDFP..GKSTVV
+A          KKS...........................................NKPV
+B          GFLDWPQGTFASQVTL.EGDKLKVEREI.DGG..LETLRLK.....LPAV
+A          ALLDVMVLSDVSAILDA....DTFERPIYA.GNAIQVVKSKD....AKKV
+
+           251                                            300
+A          FSVRGTSFDAAATSGGSASSEKASS.....TSPVEIS.EWL..DQKLT~~
+A          XTIKRNA..................D......................ET
+C          LTIQLGINKPRY.....ASKPIEEV.SLADIGLSANDVG.AAQS......
+D          LTIRPSVFKPLE.GAGSPVVSNVDA.....PSVQSRS.QNK..DYV.E..
+A          LVVKRKN..................S~~~~~~~~~~~~~~~~~~~~~~~~
+B          VTADLRLNEPRYATL.PNIMKAKKK.KIEVI.KPGDLGV.DLTS......
+A          FTIRTASFDAAGEGGTAPVTETAAA.....A.DPGLS.SWV..ADEVA..
+
+           301                                            350
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          PSDPADD~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C          .......MSRVRRMYIPEKGRATMIEGTISEQAAKIIQIINEF~~~~~~~
+D          ........V..G~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          .......KLSVISVEDPPQRT......................AGVKVET
+A          ..................................................
+
+           351         365
+A          ~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~
+C          ~~~~~~~~~~~~~~~
+D          ~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~
+B          TEDLVAKLKEIGRI~
+A          ..............E
+

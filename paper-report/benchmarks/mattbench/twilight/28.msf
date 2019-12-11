@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/28.msf MSF:  149 Type: P 11/12/19 CompCheck: 4320 ..
+
+  Name: A          Len: 149  Check: 9210 Weight: 1.00
+  Name: A          Len: 149  Check: 9999 Weight: 1.00
+  Name: A          Len: 149  Check: 5111 Weight: 1.00
+
+//
+
+           1                                               50
+A          AEVPVLWNIRIKYNLLERVVGAKEMLKVDPIRAKETLMLSVGSSTTLGIV
+A          ~~~~~CASFNATVIVLNH.........PGQISAGYSPVLDCHTAHIACRF
+A          ~KLQTVDKIVAKIKISDI........FKYNLTPKMKVHLNVGMLIVPAVA
+
+           51                                             100
+A          TSVKK..................................DEIEVELRRPV
+A          DELLEKNDRRSGKKLEDHPKFLKSGDA............ALVKFVPSKPM
+A          .VPFKKVTFGKTEE.............NIILNEVISGNEXYXAFELEEKV
+
+           101                                           149
+A          AVWSNN......IRTVISRQIAGR....WRMIGWGLVEI~~~~~~~~~~
+A          C.VEAFSEYPPLGRFAVRDM........RQTVAVGVIKSVDK~~~~~~~
+A          L.AEVG......DRVLITRL..DLPPTTLRIXGHGLIEEFK.PIKDLNI
+

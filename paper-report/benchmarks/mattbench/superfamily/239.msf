@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/239.msf MSF:  128 Type: P 11/12/19 CompCheck: 1958 ..
+
+  Name: A          Len: 128  Check: 6528 Weight: 1.00
+  Name: B          Len: 128  Check:  542 Weight: 1.00
+  Name: A          Len: 128  Check: 3810 Weight: 1.00
+  Name: A          Len: 128  Check: 1078 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~~AVIA.FGKFKLN.LGTREMFREDEPMPLT.SGEFAVLKALVS
+B          STATSSS.ETITVG.PLEVD.IPGRRARVNGVDVDLT.KREFDLLAVLAE
+A          AV.....EEVIEMQ.GLSLD.PTSHRVMAGEEPLEMG.PTEFKLLHFFMT
+A          ~~~~~~~~~~~~~~~RLDFGLLGPLQMTIDGTPVPSGTPKQRAVLAMLVI
+
+           51                                             100
+A          HPREPLSRDKLMNLARGREYSAME............RSIDVQISRLRRMV
+B          HKTAVLSRAQLLELVWG.......YDF..AADT...NVVDVFIGYLRRKL
+A          HPERVYSREQLLNHVWG.......TNVYV.E..D..RTVDVHIRRLRKAL
+A          NRNRPVGVDALITALWE.......E..WPPS..GARASIHSYVSNLRKLL
+
+           101                      128
+A          EE.DPA..HPR.YIQTVWGLGYVFVPD~
+B          EAGG....PR..LLHTVRGVGFVLRM.Q
+A          EPGG..H.DR..MVQTVRGTGYRFSTRF
+A          GGAG...IDPRVVLAAA.PPGYRLS~~~
+

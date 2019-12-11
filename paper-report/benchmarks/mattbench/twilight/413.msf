@@ -1,0 +1,30 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/413.msf MSF:  197 Type: P 11/12/19 CompCheck: 9438 ..
+
+  Name: A          Len: 197  Check: 6813 Weight: 1.00
+  Name: A          Len: 197  Check: 3769 Weight: 1.00
+  Name: A          Len: 197  Check: 8856 Weight: 1.00
+
+//
+
+           1                                               50
+A          MAYSEKVIDHYENPRN..................................
+A          ~~~~~~~~~~~~~~~~LLPDKEKLLRNFLRCANWEEKYLYIIELGQRLPE
+A          ~~~~~~~~~~~~~~~~Q.................................
+
+           51                                             100
+A          .VGSLDKKDSNVGT.......GMVGAPACGDVMQLQIKVDD.NGIIEDAK
+A          .LR...........DEDRSPQNSIQGC..QSQVWIVXRQN.AQGIIE.LQ
+A          APAFS......H.L.......LDERFT..WGGVELHFDVE..KGHITRAQ
+
+           101                                            150
+A          FKTYGCGSAIASSSLITEWVKGKS...LE..EAGAI..KNSQIAEEL.EL
+A          GDSDAAI.VKGLIAVVFILYDQXTPQDIV..N.FDV..R..PWFEKXALT
+A          VFTDSLN..PAPLEALAGRLQGCL...YRADX.LQQECE..ALLVD..FP
+
+           151                                         197
+A          PPV.K.VHCSILAEDAIKAAIADY..KAKQG....LE....HHHHHH
+A          Q..HLTPSRSQGLEAXIRAIRA.KAAA....LSLEH.HHHHH~~~~~
+A          E...Q.EKELRELSAWXAGAVR~~~~~~~~~~~~~~~~~~~~~~~~~
+

@@ -1,0 +1,55 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/263.msf MSF:  191 Type: P 11/12/19 CompCheck: 5128 ..
+
+  Name: A          Len: 191  Check: 1521 Weight: 1.00
+  Name: A          Len: 191  Check: 1107 Weight: 1.00
+  Name: A          Len: 191  Check: 1881 Weight: 1.00
+  Name: A          Len: 191  Check: 9190 Weight: 1.00
+  Name: A          Len: 191  Check: 5371 Weight: 1.00
+  Name: A          Len: 191  Check: 3721 Weight: 1.00
+  Name: D          Len: 191  Check:  959 Weight: 1.00
+  Name: A          Len: 191  Check: 1378 Weight: 1.00
+
+//
+
+           1                                               50
+A          AQEFVNCKIQPG.K........VVVFIKP....TCPYCRRAQEILSQLP.
+A          ~~~~~~~~~~~~MQ........TVIFGRS....GCPYCVRAKDLAEKLSN
+A          ~~~~~~~~~~~~~~~~~~~~~~MDFYYLP....GSAPCRAVQMTAAAVG.
+A          ~~~~~~~~~~~~LQ........LTLYQYK....TCPFCSKVRAFLDFHA.
+A          ~~~~~~~~~~~~~M........FKVYGYDSNIHKCVYCDNAKRLLTVKK.
+A          ~~~~~~~~~~~~~G........IKVFGHP....ASIATRRVLIALHEKN.
+D          Y.SRITKFFQEQ.PLEG.....YTLFSHR....SAPNGFKVAIVLSELG.
+A          ~~~~~~~~~~~X.E...DGXNTFDLYYWP....VPFRGQLIRGILAHCG.
+
+           51                                             100
+A          ....IKQGLLEFVDITATN.HTNEIQ....DY..LQ.QLT......GART
+A          ERDDF...QYQYVDIRAE.....GIT....KE.DL..QQKAGK...PVET
+A          ....V...ELNLKLTNL..MA..GEH....MKPEF..LKI..N...PQHC
+A          ....L...PYQVVEVNP..V...LRA....EI.....KFS......SYRK
+A          ....Q...PFEFINIMP.EKG..VFDDEK.IA.EL..LTKLG.RDTQIGL
+A          ....L...DFELVHVEL..KD..GEH...KKE.PF..LSR..N...PFGQ
+D          ....F...HYNTIFLDF..NL..GEH....RAPEF..VSV..N...PNAR
+A          ....C...SWDEHDVDA....I.EGL...XDCG..AEKQPV.....AFXG
+
+           101                                            150
+A          V.PRVFI.G.....KDCIGGCSDLVSLQQSGELL..TRLKQIGALQ~~~~
+A          V.PQIFV.D.....QQHIGGYTDFAAWVK.EN.LDA~~~~~~~~~~~~~~
+A          I.PTLVD.N.....GFALWESRAICTYLA.EK.YG...........KDDK
+A          V.PILVA.QE.GESSQQLNDSSVIISALK.TY.LVSGQ............
+A          TMPQVFAPD.....GSHIGGFDQLREYFK~~~~~~~~~~~~~~~~~~~~~
+A          V.PAFED.G.....DLKLFESRAITQYIA.HR.YE...........NQGT
+D          V.PALID.HGMD..NLSIWESGAILLHLV.NK.YYKE.........TG..
+A          P.PVLID.RER...NFAISQXPAIAIYLG.ER.LD............I~~
+
+           151                                   191
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          LYP~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ...PLEEIITYYPAMKAVNDQGKEVTEFGNKYWLM~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ...................................NLL~~~
+D          ......................................NPL
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

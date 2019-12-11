@@ -1,0 +1,23 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/81.msf MSF:  98 Type: P 11/12/19 CompCheck: 6683 ..
+
+  Name: B          Len: 98  Check: 1730 Weight: 1.00
+  Name: C          Len: 98  Check:  937 Weight: 1.00
+  Name: A          Len: 98  Check:  224 Weight: 1.00
+  Name: A          Len: 98  Check: 3792 Weight: 1.00
+
+//
+
+           1                                               50
+B          K.GTPEDVAGNLRWVETGNKLKVENPTPFYMNLASVTVG..GK..PITGL
+C          ~LP.PDQAAEKLRFRRSANSLTLINPTPYYLTVTELNAG..TR..VLEN.
+A          K.GTPIQFAENLSWKVDGGKLIAENPSPFYMNIGELTFG..GK..SIPS.
+A          ~~~~NEVWQDQLILNKVSGGYRIENPTPYYVTVIGLGGSEKQAEEGEFET
+
+           51                                            98
+B          EYVPPFADKTLNH.....GDIEWRVITDFGGESHPFHYVL~~~~~~~~
+C          ALVPPMGESTVKLPSDAGSNITYRTINDYGALTPKMTGVME~~~~~~~
+A          HYIPPKSTWAFDL.....PNVSWRIINDQGGLDRLYSKNV~~~~~~~~
+A          VMLSPRSEQTVKSANY..NTPYLSYINDYGGR.PVLSFICNGSRCSVK
+

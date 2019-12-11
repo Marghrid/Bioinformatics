@@ -1,0 +1,124 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/319.msf MSF:  794 Type: P 11/12/19 CompCheck: 3065 ..
+
+  Name: A          Len: 794  Check:   92 Weight: 1.00
+  Name: A          Len: 794  Check: 2926 Weight: 1.00
+  Name: A          Len: 794  Check: 9397 Weight: 1.00
+  Name: A          Len: 794  Check: 5700 Weight: 1.00
+  Name: A          Len: 794  Check: 4950 Weight: 1.00
+
+//
+
+           1                                               50
+A          QSLTKKVWNLATTLAGQGIGFTDYITQLTYLLFLKXDAENVEXFGEESAI
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+A          PTGYQWADLIAFDGLDLVKQYEETLKLLSELDNLIGTIYTKAQNKIDKPV
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           101                                            150
+A          YLKKVITXIDEEQWLIXDGDVKGAIYESILEKNGQDKKSGAG........
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~S.......
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~NDLVAKL
+
+           151                                            200
+A          ..................................................
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ..................................................
+A          WKLCDNLRDGGVSYQNYVNELASLLFLKXCKETGQEAEYLPEGYRWDDLK
+
+           201                                            250
+A          ..................................................
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ..................................................
+A          SRIGQEQLQFYRKXLVHLGEDDKKLVQAVFHNVSTTITEPKQITALVSNX
+
+           251                                            300
+A          .....QYFT.PRPLIQAXVDCINPQXGETVCDPACGTGGFLLTAYDYXKG
+A          ~~~~~QHILKNPLIINSIIDKAALRPTDVVLEVGPGTGNMTVKLLEKA..
+A          ~~~~~QNFLNDQFVIDSIVSAINPQKGQAMVEIGPGLAALTEPVGERL..
+A          .....QNFITSKHNIDKIMTNIRLNEHDNIFEIGSGKGHFTLELVQRC..
+A          DSLDWQYFT.PRPLIKTIIHLLKPQPREVVQDPAAGTAGFLIEADRYVKS
+
+           301                                            350
+A          QSSKEKRDFLRD......KALHGVDNTPLVVTLASXNLYLHGI.GTDR..
+A          ..................KKVVACELDPRLVAELHKRVQGTPVASK....
+A          ..................DQLTVIELDRDLAARLQTH...PFLGPK....
+A          ..................NFVTAIEIDHKLCKTTENKL..VDH.DN....
+A          QTNDLDDLDGDTQDFQIHRAFIGLELVPGTRRLALXNCL.LHD.IE.GNL
+
+           351                                            400
+A          ...SPIVCEDSLE..KEPS..T.....LVDVILANPPFGTRPAGSVDINR
+A          ...LQVLVGDVL...KTDL..P.....FFDTCVANLPYQ...........
+A          ...LTIYQQDAM...TFNFGELAEKMGQPLRVFGNLPYN...........
+A          ...FQVLNKDIL...QFKF..PKN...QSYKIFGNIPYN...........
+A          DHGGAIRLGNTLGSDGENL..P.....KAHIVATNPPFGSAA..GTNITR
+
+           401                                            450
+A          PDFYVETKN.NQLNFLQHXXLXL...KTGGRAAVVLPDNVLFEAGAG...
+A          ..........ISSPFVFKLLLH.RP.FFR.CAILMFQREFALR....LVA
+A          ..........ISTPLMFHLFSY..TDAIA.DMHFMLQKEVVNR....LVA
+A          ..........ISTDIIRKIVFD.S..IAD.EIYLIVEYGFAKR....LLN
+A          ..TFVHPTSNKQLCFXQHIIETL...HPGGRAAVVVPDNVLFEGGKG...
+
+           451                                            500
+A          .......ETIRKRLLQDFNLHTILRLPTGIFYA.QGVKANVLFFSKGQ..
+A          KPGDKLYCRLSINTQLLARVDHLMKVGKNNFRPPPKVESSVVRIEPKNP.
+A          GPNSKAYGRLSVMAQYYCNVIPVLEVPPSAFTPPPKVDSAVVRLVPHAT.
+A          .T....KRSLALFLMAEVDISILSMVPREYFHPKPKVNSSLIRLNRKK..
+A          .......TDIRRDLXDKCHLHTILRLPTGIFYA.QGVKTNVLFFTKGTVA
+
+           501                                            550
+A          ...P.TKEIWFYDYRTDIKHTLATNKLERHHLDDFVSCYNNRVEIYDAEN
+A          ...PP.............................................
+A          ...MP.............................................
+A          ...SR.............................................
+A          NPNQDKNCTDDVWVYDLRTNX.PSFGKRTPFTDEHLQPFE.RVYG..EDP
+
+           551                                            600
+A          NPQGRWRKYPVDEI....................................
+A          ..............PI.NFQEWDGLVRITFVRKNKT.LSAAFKSSAV...
+A          ..............HPVKDVRVLSRITTEAFNQRRKTIRNSLGNLFSVEV
+A          ..............ISHK..DKQKYNYFVM.K...WVNKE.YKKIFTKNQ
+A          HGLSPRTEGEWSFN....................................
+
+           601                                            650
+A          ..................................................
+A          QQLLEKNYRIHCSVHNIIIPEDFSIADKIQQILTSTGFSDKRA.......
+A          LTGM.......................................GIDPAMR
+A          ..................................................
+A          ..................................................
+
+           651                                            700
+A          ..............................................IARD
+A          ..............................................RS..
+A          A.............................................EN..
+A          .FNNSLKHAGIDDL................................NN..
+A          ..............AEETEVADSEENKNTDQHLATSRWRKFSREWIRTAK
+
+           701                                            750
+A          KTSLDITWIKPG~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ............MDIDDFIRLLHGFNAEGIHFS~~~~~~~~~~~~~~~~~
+A          ............ISVAQYCQMAN.YLAE.....NA~~~~~~~~~~~~~~~
+A          .............ISFE.QFL.SL..F........NSYKLFNK~~~~~~~
+A          .SDSLDISWLK................................DKDPEPD
+
+           751                                      794
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          VLAAEAXGELVQALSELDALXRELGASDEADLQRQLLEEAFGGV
+

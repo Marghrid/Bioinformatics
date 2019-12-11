@@ -1,0 +1,60 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/118.msf MSF:  163 Type: P 11/12/19 CompCheck: 5038 ..
+
+  Name: A          Len: 163  Check:  977 Weight: 1.00
+  Name: A          Len: 163  Check: 9290 Weight: 1.00
+  Name: B          Len: 163  Check: 2435 Weight: 1.00
+  Name: A          Len: 163  Check: 9548 Weight: 1.00
+  Name: K          Len: 163  Check: 6971 Weight: 1.00
+  Name: A          Len: 163  Check: 2672 Weight: 1.00
+  Name: E          Len: 163  Check:  520 Weight: 1.00
+  Name: A          Len: 163  Check:  165 Weight: 1.00
+  Name: B          Len: 163  Check: 2460 Weight: 1.00
+
+//
+
+           1                                               50
+A          PWAVKP.............EDKAKYDAIFDSLS..P...VNGFLSGDKVK
+A          ~~~~~~A..CPLE......KALDVMVSTFHKYS..GKEGDKFKLNKSELK
+B          ~~~~~~~~ACPLD......QAIGLLVAIFHKYS..GREGDKHTLSKKELK
+A          ~~~~~~S.NTQAE......RSIIGMIDMFHKYT..R...RDDKIDKPSLL
+K          ~~~~~~~~~TKLE......EHLEGIVNIFHQYS..VRKGHFDTLSKGELK
+A          ~~~~~~~~~~~MTELE...AAMGMIIDVFSRYSGSE.G.STQTLTKGELK
+E          ~~~~~~~KMSQLE......RNIETIINTFHQYS..VKLGHPDTLNQGEFK
+A          ~~~~~~~MLTELE......KALNSIIDVYHKYS..LIKGNFHAVYRDDLK
+B          ~~~~~~~~~~~~~~~~TFRITKADAAEFWRKAF..G...EKTIVPWKSFR
+
+           51                                             100
+A          PVLLNSK.........L..........PVDILGRVWELSDIDHDGMLDRD
+A          ELLTRELPS.F.....LG.KRT.....DEAAFQKLMSNLDSNRDNEVDFQ
+B          ELIQKELTI..GSK..L..........QDAEIARLMEDLDRNKDQEVNFQ
+A          TMMKENFPN.F.....LSAC..DKK..GTNYLADVFEKKDKNEDKKIDFS
+K          QLLTKELANTI...KNI....K.....DKAVIDEIFQGLDANQDEQVDFQ
+A          VLMEKELPG.F.....L..QSG...K.DKDAVDKLLKDLDANGDAQVDFS
+E          ELVRKDLQNFLK..KEN....K.....NEKVIEHIMEDLDTNADKQLSFE
+A          KLLETEC.P.......Q.Y.......IRKKGADVWFKELDINTDGAVNFQ
+B          QALHEVHP........I....S.....SGLEAMALKSTIDLTCNDYISVF
+
+           101                                            150
+A          EFAVAMFLVYC.AL...EK..E......PVPMSLPPALVPPSKR~~~~~~
+A          EYCVFLSC..IA..MM.C.NE.FFEG..................FP~~~~
+B          EYVTFLGA..LA..LI.Y.NE.ALKG~~~~~~~~~~~~~~~~~~~~~~~~
+A          EFLSLLGD..IA..TD.Y.HKQS..HGAA.................PCS~
+K          EFISLVAI..AL..KA.A.H..Y..........................H
+A          EFIVFVAA..IT..SASHK..YFE.K........................
+E          EFIMLMAR..L~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          EFLILVIK..MG..VA.A.HKKS..HE.......................
+B          EFDIFTRL..FQPW.S...........SLLR...................
+
+           151       163
+A          ~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~
+B          ~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~
+K          ~~~~~~~~~~~~~
+A          TGLK~~~~~~~~~
+E          ~~~~~~~~~~~~~
+A          ....ES~~~~~~~
+B          ......NWNSLAV
+

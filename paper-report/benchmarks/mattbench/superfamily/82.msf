@@ -1,0 +1,50 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/82.msf MSF:  168 Type: P 11/12/19 CompCheck: 7241 ..
+
+  Name: A          Len: 168  Check: 8518 Weight: 1.00
+  Name: A          Len: 168  Check: 7404 Weight: 1.00
+  Name: A          Len: 168  Check: 7787 Weight: 1.00
+  Name: A          Len: 168  Check: 8454 Weight: 1.00
+  Name: A          Len: 168  Check: 5083 Weight: 1.00
+  Name: A          Len: 168  Check: 7173 Weight: 1.00
+  Name: F          Len: 168  Check: 2822 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~E................RY.....QAWWQAVTRALEEFHS.RYPLRPG.
+A          RR................N.AWGN.QSYAELISQAIESA...PE...KR.
+A          ~~DSKP............P......YSYAQLIVQAITMA...PD...KQ.
+A          ~A....LSGSS.......GY....KFGVLAKIVNYMKTRHQRGD...THP
+A          K..E.......EAS....S......KSYRELIIEGLTALK...E..RKG.
+A          ~~~~~~~~~~~~~~KYELTL.....QRSLPFIEGMLTNL........GA.
+F          ~~VRP.............P......FTYATLIRQAIMES...SD...RQ.
+
+           51                                             100
+A          LAREELRSRYFS.......................RLPARVYQ.ALLEEW
+A          LTLAQIYEWMVRTVPY..FKDKGDSNSS.......AGWKNSIR.HNLSLH
+A          LTLNGIYTHITKNYPY..YRTA.......D.....KGWQNSIR.HNLSLN
+A          LTLDEILDETQH.......L........DIG....LKQKQWLMTEALVNN
+A          SSRPALKKFIKENY.PIVGS........A......SNFDLYFN.NAIKKG
+A          MKLHKIHSFLKITV.PKDW............GYN.RITLQQLE.GYLNTL
+F          LTLNEIYSWFTRTFAY..FR........RN....AATWKNAVR.HNLSLH
+
+           101                                            150
+A          SREGRLQLA...........ANTVALAGFTPS~~~~~~~~~~~~~~~~~~
+A          S...KFIKVHNEATGK....SSWWMLN~~~~~~~~~~~~~~~~~~~~~~~
+A          R...YFIKVPRSQEEPGK..GSFWRIDP....ASESKLIEQAFRKRRPR~
+A          P...KIEVI...........DGKYAFKP....KYN..............V
+A          VEAGDFEQPK........GPAGAVKLAK....K.................
+A          ADEGRLKYIA..........NGSYEIV~~~~~~~~~~~~~~~~~~~~~~~
+F          K...CFVRVENVK.......GAVWTVDE.....V.E..............
+
+           151            168
+A          ~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~
+A          R~~~~~~~~~~~~~~~~~
+A          .KSPEVKKEKEVS~~~~~
+A          ~~~~~~~~~~~~~~~~~~
+F          .............YQKRR
+

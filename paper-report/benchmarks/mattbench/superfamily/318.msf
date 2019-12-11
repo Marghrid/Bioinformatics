@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/318.msf MSF:  122 Type: P 11/12/19 CompCheck: 2504 ..
+
+  Name: B          Len: 122  Check: 8730 Weight: 1.00
+  Name: E          Len: 122  Check: 6207 Weight: 1.00
+  Name: A          Len: 122  Check: 8493 Weight: 1.00
+  Name: A          Len: 122  Check: 3059 Weight: 1.00
+  Name: A          Len: 122  Check: 5214 Weight: 1.00
+  Name: A          Len: 122  Check: 9349 Weight: 1.00
+  Name: A          Len: 122  Check: 5626 Weight: 1.00
+  Name: B          Len: 122  Check: 5005 Weight: 1.00
+  Name: A          Len: 122  Check:   20 Weight: 1.00
+  Name: A          Len: 122  Check:  801 Weight: 1.00
+
+//
+
+           1                                               50
+B          ~~~~~~~~~~~~~~~~EQ.RILKF....LEEL.GE.G..KATTAHDLSGK
+E          ~~~~~~~~~~~~~~~~EDDPLYDEAVRFVTES.......RRASISAVQRK
+A          MKA...LTAR......QQ.EVFDL....IRDH.I.SQTGMPPTRAEIAQR
+A          ~~~FSETQK.KL....LK.DLEDK....YRVS.R..W..QPPSFKEVAGS
+A          ~~~D..NTV.......PL.KLIAL....LANG.......EFHSGEQLGET
+A          ~~~~~~~Q....A...LG.EAREV....IKNLAS.T...GPFGLAEARDA
+A          ~~~C.TVND....AEIFS.LVKKE....VLSL.NT.N..DYTTAISLSNR
+B          LGL...EKR.......DR.EILEV....LILRFGG....GPVGLATLATA
+A          ~~~MNTLKK.......AF.EILDF....IVKN.P.....GDVSVSEIAEK
+A          ~~~~~~~~~~~~~~~~LT.SDQTKILE.ICSI...L...GYSSISLLKAN
+
+           51                                             100
+B          LGT.PKKEIN.RVLYSLAKKG.KLQKEA.GTPP...LWKIAV~~~~~~~~
+E          LKI.GYNRAA.RMIEAMEMAG.VVTPMNTNG.....SREVIA...P..AP
+A          LGFRSPNAAE.EHLKALARKG.VIEIVS.GAS.R..GIRLL.QE...E~~
+A          FNL.DPSELE.ELLHYLVREG.VLVKI..NDE....FYWHR~~~~~~~~~
+A          LGM.SRAAIN.KHIQTLRDWGVDVFTV..PG..K..GYSLPE...P~~~~
+A          LGS.SRKYVL.PLLEYLDQVK.FTRRV..GD.....KRVVVG~~~~~~~~
+A          LKI.NKKKIN.QQLYKLQKED.TVKMVP.SNPP...KWFKNY..NC~~~~
+B          LSE.DPGTLEEVHEPYLIRQG.LLKRT..PR.....GRVATELA..YRH.
+A          FNM.SVSNAY.KYMVVLEEKG.FVLRKK.DK.....RYVPGYKLI.E...
+A          LGW.EAVRSK.SALDEMVANG.LLWIDY.QGGA.EALYWDP....S....
+
+           101                122
+B          ~~~~~~~~~~~~~~~~~~~~~~
+E          VR~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~
+B          ..LGYPPPV~~~~~~~~~~~~~
+A          .........YGSFVLRRF~~~~
+A          ..W...............ITRQ
+

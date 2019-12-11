@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/121.msf MSF:  170 Type: P 11/12/19 CompCheck:  644 ..
+
+  Name: A          Len: 170  Check: 3066 Weight: 1.00
+  Name: A          Len: 170  Check: 4143 Weight: 1.00
+  Name: B          Len: 170  Check: 8699 Weight: 1.00
+  Name: A          Len: 170  Check: 3018 Weight: 1.00
+  Name: A          Len: 170  Check: 1718 Weight: 1.00
+
+//
+
+           1                                               50
+A          AAE.................IS.......GHIVRSP..............
+A          ~~~DIPKDRFYTKTHEWALPE.GDT....V.LVGITDYAQDAL.......
+B          ~~~~~~~~~~~~~~~~~~~~~~~SYPPH.M.QVLLP..A..LSPTM....
+A          ~~~SNVLDGLKYAPSHEWVKH.EGS...VA.TIGITDHAQDHL.......
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~A.FEFKLP...D.I...GEGI
+
+           51                                             100
+A          MVGTFYRTPSPDAKAFIEV.GQKVNVGDTLCIVEAMKMMNQIEADKSGTV
+A          GDVVYV........ELPEV.GRVVEKGEAVAVVESVKTASDIYAPVAGEI
+B          TMGTVQR.......WEKKV.GEKLSEGDLLAEIETDKATIGFEVQEEGYL
+A          GEVVFV........ELPEP.GVSVTKGKGFGAVESVKATSDVNSPISGEV
+A          HEGEIV........KWFVKPGDEVNEDDVLCEVQNDKAVVEIPSPVKGKV
+
+           101                                            150
+A          KAIL.VES.G.QPVE...F.DE.PLVVIE~~~~~~~~~~~~~~~~~~~~~
+A          VEVNLALE.KTPELVNQDPYGEGWIFRLKPRDMGDLDELLDAGGYQEVLE
+B          AKIL.VPEGT.RDVP...L.GT.PLCIIVE..K.................
+A          IEVNTGLT.GKPGLINSSPYEDGWMIKIKPTSPDELESLLGAKEYTKFCE
+A          LEIL.VPEGT.VATV.....GQ.TLITLDA..PG.Y~~~~~~~~~~~~~~
+
+           151              170
+A          ~~~~~~~~~~~~~~~~~~~~
+A          SEA~~~~~~~~~~~~~~~~~
+B          ...EADISAFADYTDLK~~~
+A          EED..............AAH
+A          ~~~~~~~~~~~~~~~~~~~~
+

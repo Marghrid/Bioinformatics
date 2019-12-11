@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/178.msf MSF:  319 Type: P 11/12/19 CompCheck: 5630 ..
+
+  Name: A          Len: 319  Check: 7966 Weight: 1.00
+  Name: E          Len: 319  Check: 9525 Weight: 1.00
+  Name: A          Len: 319  Check: 5039 Weight: 1.00
+  Name: A          Len: 319  Check: 3100 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~ENL..L.LP...DLWLDFLQLSPI..FQ...RK.............
+E          LDWTTFRRVFLID...DAWRPLMEP.....ELAN.PL.............
+A          ~~~~~~~~~~~~~E..SPADSFLKV...ELEL..NLKLSNLVFQDPVQYV
+A          ~~~~~~~~~~MEF.FGESWKKHLSG.....EFGK.PY.............
+
+           51                                             100
+A          ...LAAVIACVRRLRTQATVYPEEDMC....MAWARFCDPSDIKVVILGQ
+E          ...TAHLLAEYNRRCQTEEVLPPREDV....FSWTRYCTPDEVRVVIIGQ
+A          YNPLVYAW................APHENYVQTYCK....SKKEVLFLGM
+A          ...FIKLMGFVAEERKHYTVYPPPHQV....FTWTQMCDIKDVKVVILGQ
+
+           101                                            150
+A          DPYHGG..QANGLAFSVA............................YGFP
+E          DPYHHPG.QAHGLAFSVR............................ANVP
+A          NPGPFG.MAQTGVPFGEVNHVRDWLQIEGPVSKPEVEHPKRRIRGFECPQ
+A          DPYHGPN.QAHGLCFSVQ............................RPVP
+
+           151                                            200
+A          VPPSLRNIYAELHRSLPEFSPPDHGCLDAWASQGVLLLNTILTVQ....K
+E          PPPSLRNVLAAVKNCYPEARMSGHGCLEKWARDGVLLLNTTLTVK....R
+A          SEVSGARFWSLFKSLCGQP.........ETFFKHCFVHNHCPLIFMNHSG
+A          PPPSLENIYKELSTDIEDFVHPGHGDLSGWAKQGVLLLNAVLTVR....A
+
+           201                                            250
+A          GKPGSH......ADI.GWAWFTDHVISLLSERLKACVFMLWGAKAGD.KA
+E          GAAASH......SRI.GWDRFVGGVIRRLAARRPGLVFMLWGTHAQN.AI
+A          KNLT.PTDLPKAQR.DTLLEICDEALCQAVRVLGVKLVIGVGRFSEQRAR
+A          HQANSH......KER.GWEQFTDAVVSWLNQNSNGLVFLLWGSYAQK.KG
+
+           251                                            300
+A          SLI...NSKKHLVLTSQHPSPLA..QNSTRKSAQQ..KFLGN..NHFVL.
+E          RP....DPRVHCVLKFSHPSPLS..KV..........PFGTC..QHFLV.
+A          KALMAEGID.VTVKGIMHPSPRNP.QA........NKGWEGIVRGQLLEL
+A          SAI...DRKRHHVLQTAHPSPLS.VYR..........GFFGC..RHFSK.
+
+           301             319
+A          .ANNFLREKGLGEIDWRL~
+E          .ANRYLETRSISPIDWSV~
+A          GVLSL........LT~~~~
+A          .TNELLQKSGKKPIDWKEL
+

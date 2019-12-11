@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/587.msf MSF:  223 Type: P 11/12/19 CompCheck: 5880 ..
+
+  Name: A          Len: 223  Check: 1362 Weight: 1.00
+  Name: A          Len: 223  Check: 3703 Weight: 1.00
+  Name: A          Len: 223  Check:  815 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~SXSEHSAIVTWKRKDSEAFTDNQY.
+A          TTVVNGVNVDQLXATIEQIKAKPEIAQFKFRATNQWXG............
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~MTIHKKGQAHWEG........D.IK
+
+           51                                             100
+A          .SRAHTWEF............DGG..SKILAS..ASPHV..VPVPLSVEA
+A          .GTHNQATIKDFYGAXAEDDTRKP..XVFDL...DEP..PVLL...GENR
+A          RGK.GTVST............ESGVLNQQPYGFNTRF.........EGEK
+
+           101                                            150
+A          NVDPEEAFVAALSSCHXLVFLSIAAKQRYLVESYTDNAVGILGKNSK...
+A          GANPVEYLLVALSGCLTTSLVAHAAARGIALRGVKSRYEGDIDL...RGF
+A          GTNPEELIGAAHAACFSMALSLMLGEAGFTPTSIDTTADVSLDK...V..
+
+           151                                            200
+A          ....G...KTSVTKVVLRPQVVFSGTSKPTLQQLEKXHHLAHENCFIANS
+A          LGLSEEV.PVGYREIRVFFSIDA....DLTDGQKEELIRXAQKYSPVYNT
+A          ....D..AGFAITKIALKSEVAVP...GIDASTFDGIIQKAKAGCPVSQV
+
+           201                 223
+A          VETEVVTEII~~~~~~~~~~~~~
+A          VAK.......PVPVAVLLDR~~~
+A          LKAEITLDYQ..........LKS
+

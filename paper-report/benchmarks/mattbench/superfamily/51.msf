@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/51.msf MSF:  234 Type: P 11/12/19 CompCheck: 1549 ..
+
+  Name: A          Len: 234  Check: 8074 Weight: 1.00
+  Name: A          Len: 234  Check: 1813 Weight: 1.00
+  Name: A          Len: 234  Check: 8003 Weight: 1.00
+  Name: A          Len: 234  Check: 3659 Weight: 1.00
+
+//
+
+           1                                               50
+A          PVDLSKWSGPLSLQEVDERP..QHPLQVKYGG.AEVDELGKVLTPTQV..
+A          ~~~~~~~~~~~~~~~~~~~~~~EFQVTS.....NEIK.TGEQL.TTSHVF
+A          ~~~~~~~~~~~~~~~~~~~~~~AXKLIS.....NDLR.DGDKL.PHRHVF
+A          ~~~~~~GR...VIGDVVDHFTSTVKMSVIYNSIKHVY.NGHELFPSAV..
+
+           51                                             100
+A          ........KNRPTSITWDGLDP...GKLYTLVLTDPDAPSRKDPKYR.EW
+A          SGFGCEGGNTSPS.LTWSGVP.EG.TKSFAVTVYDPDA......PTGSGW
+A          NGXGYDGDNISPH.LAWDDVP.AG.TKSFVVTCYDPDA......PTGSGW
+A          ........TSTPR.VEVHGGD...MRSFFTLIMTDPDVPGPSDPYLR.EH
+
+           101                                            150
+A          HHFLVVNMK..GNNI.............SS..GTVLS......DYVGSGP
+A          WHWTVVNIPATVTYLPVDAGRRDGTK..LPTGAVQGRNDFGYAGFGGACP
+A          WHWVVVNLPADTRVLPQGFGSGL...VAXPDGVLQTRTDFGKTGYDGAAP
+A          LHWIVTDIP.GTTDS.............SF..GKEVV......SYEMPRP
+
+           151                                            200
+A          PKGTGLHRYVWLVYEQEGPL.KCDE..PILSNRSGDHRGKFKVAS..FRK
+A          PKGDKPHHYQFKVWALKTEKIPV..DSNSS..........GA...LVGYX
+A          PK.GETHRYIFTVHALDIERIDV..DEGAS..........GA...XVGFN
+A          N..IGIHRFVFLLFKQKKRG.......VVC.......RDGFNTRK..FTQ
+
+           201                            234
+A          KYELGAPVAGTCYQAEWDDYVPKLYEQLSG~~~~
+A          LNANKIATAEITPVYEI.............KLE~
+A          VHFHSLASASITAXFS~~~~~~~~~~~~~~~~~~
+A          ENELGLPVAAVFFNCQRE...............T
+

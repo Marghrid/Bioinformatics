@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/72.msf MSF:  111 Type: P 11/12/19 CompCheck: 4485 ..
+
+  Name: A          Len: 111  Check: 9743 Weight: 1.00
+  Name: B          Len: 111  Check: 8673 Weight: 1.00
+  Name: A          Len: 111  Check: 8329 Weight: 1.00
+  Name: A          Len: 111  Check: 7740 Weight: 1.00
+
+//
+
+           1                                               50
+A          DSETLP..ES..EK..Y....NP.GPQDFLLKMPGVNAKNCRSLMHHVKN
+B          ~~~~~~PADLLMEKLEQD...FVSRVTECLTTVKSVNKTDSQTLLTTFGS
+A          ~~~~~~~~~~~~~~~~~~DAENR.DLFLALLSVSGVGPRLAMATLAVHDA
+A          ~~~~~~~~~~~~~~~~~~NKQER.TLFKELIKTNGVGPKLALAILSGMSA
+
+           51                                             100
+A          IAELAAL....SQDELTSI.LGNAANAKQLYDFIHTS...FAEVVSKGKG
+B          LEQLIAA....SREDLALCPGLGPQKARRLFDVLHEP...FL..KV~~~~
+A          .AALRQALADSDVASLTRVPGIGRRGAERIVLELAD.KVGP.........
+A          .QQFVNAVEREEVGALVKLPGIGKKTAERLIVEMKD.RF.K.........
+
+           101     111
+A          KK~~~~~~~~~
+B          ~~~~~~~~~~~
+A          ..V~~~~~~~~
+A          ..GLHGDLFTP
+

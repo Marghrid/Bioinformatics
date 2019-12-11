@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/252.msf MSF:  189 Type: P 11/12/19 CompCheck: 6142 ..
+
+  Name: A          Len: 189  Check: 7471 Weight: 1.00
+  Name: A          Len: 189  Check: 4373 Weight: 1.00
+  Name: A          Len: 189  Check: 5970 Weight: 1.00
+  Name: A          Len: 189  Check: 1878 Weight: 1.00
+  Name: A          Len: 189  Check: 6450 Weight: 1.00
+
+//
+
+           1                                               50
+A          MEHVAFGSEDIEN...........................TLAK......
+A          ~~~~~~~~~~~~~~DPLPFFPPLYLGGPEITTENCEREPIH.........
+A          ~~~~~~~~~~~~~GSHML..........................ETEDVV
+A          ~~~~~~~~~~~~~~~~GI................................
+A          ~~~~~~~~~~~~~T....ECDREPI...............H.........
+
+           51                                             100
+A          ..MDD...GQLDGLAFGAIQLDGD.GNILQYNAAEGDITGRDPKQVIGKN
+A          ..I.....PGSIQPHGALLTADGHSGEVLQMSLNAATFLGQEPTVLRGQT
+A          RARDAHLRSILDTVPDATVVSATD.GTIVSFNAAAVRQFGYAEEEVIGQN
+A          ..FF....PALEQNMMGAVLINEN.DEVMFFNPAAEKLWGYKREEVIGNN
+A          ..I.....PGAIQPHGYLFVVSETDLRIASVSANVEDLLRQPPASLLNVP
+
+           101                                            150
+A          FFKDVAPC.TDS..PEFYGKFKEGVASGN...L..NTM.....F...EYT
+A          LA..ALL.......PEQWPALQAALPPGCPDAL..QYR.....A...TLD
+A          LR..ILMPEPY.R.HEHDGYLQRYMAT.G....E.KRIIGID.RV..VSG
+A          ID..MLIPRDL..RPAHPEYIRHNREGGKA..R..VEG.....MSRELQL
+A          IA..HYL..T....AASAARLTHALHG.......AINP....IR...LDV
+
+           151                                 189
+A          FDY.QMT.PTKVKVHMKKALS..G.DSYWVFVKRV~~~~
+A          W....PA.AGHLSLTVH.RVG....ELLILEFEPTE~~~
+A          QR.KDGS.TFPMKLAVG.EMRSGGERFFTGFIRDLT~~~
+A          EK.KDGS.KIWTRFALSKVSAEGK.VYYLALVRDA~~~~
+A          VT...PDGERAFNGILH.RHD....SIVILELEPR.DES
+

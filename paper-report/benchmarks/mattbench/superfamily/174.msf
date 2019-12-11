@@ -1,0 +1,20 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/174.msf MSF:  83 Type: P 11/12/19 CompCheck: 7248 ..
+
+  Name: A          Len: 83  Check: 3717 Weight: 1.00
+  Name: A          Len: 83  Check: 2131 Weight: 1.00
+  Name: A          Len: 83  Check: 1400 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~~~~~~YSNERVEKIIQDLLDVLVKEEVTPDLALMCLGNAVTNI
+A          MPITSK......YTDEQVEKILAEVALVLEKHAASPELTLMIAGNIATNV
+A          ~~~~~~MAQHSKYSDAQLSAIVNDMIAVLEKHKAPVDLSLIALGNMASNL
+
+           51                             83
+A          IA.QVPESKRVAVVDNFTKALKQSV~~~~~~~~
+A          LNQRVAASQRKLIAEKFAQALMSSLETPKTH~~
+A          LTTSVPQTQCEALAQAFSNSLINAVK.....TR
+

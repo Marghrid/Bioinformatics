@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/150.msf MSF:  213 Type: P 11/12/19 CompCheck: 8727 ..
+
+  Name: F          Len: 213  Check: 9712 Weight: 1.00
+  Name: A          Len: 213  Check: 1240 Weight: 1.00
+  Name: A          Len: 213  Check: 1789 Weight: 1.00
+  Name: A          Len: 213  Check: 1102 Weight: 1.00
+  Name: A          Len: 213  Check: 6051 Weight: 1.00
+  Name: A          Len: 213  Check: 8833 Weight: 1.00
+
+//
+
+           1                                               50
+F          MIGKKIL..............GERYVT................VSEAAE.
+A          ~~~~~~~EEDASQLIFPKEFETAETLL................NSEVHML
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~QPVISAQ.........EQE....
+A          ~~~~~~~~~~~~~~~~~~~~~ELIALN................LSEARLV
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~NY.....
+A          ~~~~~~~~~~~~~~~~~~~~~~~KESP.......WKILMYQYNIPP....
+
+           51                                             100
+F          IMY.NR..AQIG.......ELSYEQ.GCALDYLQKFAK............
+A          L.EHRKQQ..N.ESAEDEQELSE.VFMKTLNYTARFSR............
+A          ..................................................
+A          I.KEA.LVERRRA......FKRS.QTREKELESIDVLLEQTTGGNNKDLK
+A          ..................................................
+A          ..................................................
+
+           101                                            150
+F          ...........LDK.E.EAKKLVEELIS.L..............GIDEKT
+A          ...........FK.NRETIASVRSLLLQ.K..............KLHKFE
+A          ...........T......QIVLYGKLVEARQKHANKMDV.PPAILATNKI
+A          NTMQYLTNFSRFR.DQETVGAVIQLLKS.T..............GLHPFE
+A          ..................DRKLFAKLRKLRKSIADESNVPPYV.VFNDAT
+A          ...........E......REVLVRELYQWRDLIARRDDESPRF.VMPNQL
+
+           151                                            200
+F          AVKIADILPEDLDDLRAIY.YKRE..L.PEN..AEEILEIVRKYI~~~~~
+A          LACLANLCPETAEESKALI.PSLE.GR.FEDEELQQILDDIQTKR..SFQ
+A          LVDMAKMRPTTVENVKRI..DGVSEGK.AAM..LAPLLEVIKHFCQTNS.
+A          VAQLGSLACDTADEAKTLI.PSLN.NK.ISDDELERILKELSNLE..TLY
+A          LIEXAEQXPITASEXLSV..NGVGXRKLERF..GKPFXALIRAHVDG...
+A          LAALVAYTPTDVIGVVSLTNGVTE..HVRQN..AKLLANLIRDALRNIK.
+
+           201       213
+F          ~~~~~~~~~~~~~
+A          Y~~~~~~~~~~~~
+A          .VQTDLFSS~~~~
+A          ~~~~~~~~~~~~~
+A          .........D~~~
+A          ..........NTN
+

@@ -1,0 +1,83 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/153.msf MSF:  236 Type: P 11/12/19 CompCheck: 8076 ..
+
+  Name: G          Len: 236  Check: 9943 Weight: 1.00
+  Name: A          Len: 236  Check: 8577 Weight: 1.00
+  Name: E          Len: 236  Check: 6529 Weight: 1.00
+  Name: A          Len: 236  Check: 4997 Weight: 1.00
+  Name: A          Len: 236  Check: 6128 Weight: 1.00
+  Name: B          Len: 236  Check: 7044 Weight: 1.00
+  Name: A          Len: 236  Check: 7046 Weight: 1.00
+  Name: A          Len: 236  Check: 1242 Weight: 1.00
+  Name: A          Len: 236  Check: 1883 Weight: 1.00
+  Name: A          Len: 236  Check: 3623 Weight: 1.00
+  Name: B          Len: 236  Check: 1064 Weight: 1.00
+
+//
+
+           1                                               50
+G          KIEELQYDSTLSL...PSSEFSKIVRD.L....SQLS.........D..S
+A          ~PE.LELPAKIVM...DAGEFKKAIAA.A....DKIS.........D..Q
+E          GIPEQEYSCVVKM...PSGEFARICRD.L....SHIG.........D..A
+A          ~PQ.GTPDVQLRL...TRPQLTKVLNA......TGAD.SA......T..P
+A          ~~~~~~~~AHIVYD..DVRDLKAIIQA.L....LKLV.........D..E
+B          ~~~~~~~~MKFTV...EREHLLKPLQQ.V....SGPLGGRPTLPILG..N
+A          ~~~~~~~MLEAKFE..EASLFKRIIDG.F....KDCV.........Q..L
+A          ~~~~~P..PTLAL...RLKPYKTAIQQLRSV..IRAL............K
+A          ~~~~~A.PCQVVLQGAELNGILQAFAPL.....RTSL..........L.D
+A          ~~~~~VASAVTEI...KAEDLQQLLRV.S..RGLQID............T
+B          ~~~~Q.SEVEFTL...PQATMKRLIEA.T....QFSMAHQDVRYY.L.NG
+
+           51                                             100
+G          ..INIXITKE.TIKFVADG.D..IG..........SGS.VIIKP......
+A          ..VIFRSDKE.GFRIEAKG.D..VD..........SIV.FHMTET.....
+E          ..VVISCAKD.GVKFSASG.E..LG..........NGN.IKLSQ......
+A          ..TTFELGVN.GKFSVFTT................STC.VTFAAREEGNA
+A          ..ALFDIKPE.GIQLVAID.KAHIS..........LIK.IELPKE.....
+B          ..LLLQVADG.TLSLTGTDLE...M..........EMV.ARVAL......
+A          ..VNFQCKED.GIIAQAVD.DSRVL..........LVS.LEIGV......
+A          ENTTVTFLPTPSLILQTVRS..H..C.........VSK.ITFNS......
+A          ..SLLVMGDR.GILIHNTI.F...G.E........QVF.LPLEH......
+A          ..IAITVKEG.KIVINGFN.K......VEDSALTRVKYSLTLGD......
+B          ..MLFETEGE.ELRTVATDGH...R..........LAV.CSMPI......
+
+           101                                            150
+G          .FVDXEHPETS..I.K..LEXD.Q.PVDLTFGA.....KYLL.DI...IK
+A          .E...........LIE..FNG..G.EARSMFSV.....DYLK.EF...CK
+E          .TSN...VEEEA.V.T..IEMN.E.PVQLTFAL.....RYLN.FF...TK
+A          KT...........V.Y..GENTHR.TFSVVVDD.....CSMRAVL...RR
+A          .M...........FKE..YDVP.E.EFKFGFNT.....QYMS.KL...LK
+B          .V.............Q..PHE....PGATTVPA.....RKFF.DI...CR
+A          .E..........AFQE..YRCD.H.PVTLGMDL.....TSLS.KI...LR
+A          .S..........CLYITDKSF..Q.PKTINNSTPLLG.NFMY.LTS..SK
+A          .S..........QFSR..YRWR.GPTAAFLSLVDQK.RSLLS..VFRANQ
+A          ..................YDGE.N.TFNFIINM.....ANMK......MQ
+B          .G................QSL..P.SHSVIVPR.....KGVI.EL...MR
+
+           151                                            200
+G          GSSL...SD.RVGIRL.S.S.....EAPALFQFD.....LKS.G......
+A          VAG.SG.D..LLTIHL.G.T.....NYPVRLVFELVG..GR..A......
+E          ATPL...SS.TVTLSM.S.A.....DVPLVVEYK....IADM.G......
+A          LQV....G..GGTLKF.F.LT.TP.VPSLCVTAT.....GP..N......
+A          AAK.RK.E..EIIIDA.D.S.....PEVVKLTLS.....G..AL......
+B          GLP.EG.A..EIAVQL.E.......GERMLVRSG................
+A          CGN.NT.D..TLTLIA.DNT.....PDSIILLFE.....DTK.KDR....
+A          DL.....T..KFYVQDIS.......DLSAKISMCAP.D........F...
+A          YPD...LR..RVELAI.TG.QA..PFRTLVQRIWTT.TS.D..G...EAV
+A          PG........NYKLLL.W.AKGK..QGAAKFEGE................
+B          MLD.GG.D.NPLRVQI.G.......SNNIRAHVG................
+
+           201                              236
+G          ...FLQFFLAPKF...N~~~~~~~~~~~~~~~~~~~
+A          ...KVEYILAPRI...ESE~~~~~~~~~~~~~~~~~
+E          ...HLKYYLAPK....I~~~~~~~~~~~~~~~~~~~
+A          ...AVSAVFLLKP...Q..K~~~~~~~~~~~~~~~~
+A          ...NRVFNVNNI....E...VLP.P~~~~~~~~~~~
+B          ...RSRFSLSTLP.AAD....FP.NLDDW~~~~~~~
+A          ...IAEYSLKLM....D...IDA.D....FL~~~~~
+A          ...NMEFSSACV.HG.Q......D.....I~~~~~~
+A          ELASETLMKREL.TS.F......VV....LV~~~~~
+A          ...HANYVVALEA...D..............STHDF
+B          ...DFIFTSKLVD...G....RF.P....DY~~~~~
+

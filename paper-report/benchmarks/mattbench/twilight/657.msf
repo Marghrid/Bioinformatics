@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/657.msf MSF:  254 Type: P 11/12/19 CompCheck:  154 ..
+
+  Name: A          Len: 254  Check: 4728 Weight: 1.00
+  Name: A          Len: 254  Check: 2124 Weight: 1.00
+  Name: A          Len: 254  Check: 3302 Weight: 1.00
+
+//
+
+           1                                               50
+A          NSNDFIDNRNFDA.....................................
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~H..PKMTELYQSLADLNNVRFSAYRTAMKLRRLQKALCLDLL
+
+           51                                             100
+A          ..ETFQTSLDVVAGK.........THFDYADMNEIRLQRESLSNELDFPG
+A          ~~HLEDKYRYLFK..QVASST...GFCDQRRLGLLLHDSIQIPRQL....
+A          SLSAACDALDQHNLK......QNDQPMDILQIINCLTTIYDRLEQEH...
+
+           101                                            150
+A          WFT....ESK...PIQNVESGFIFALVSDFNLPD.NDENPLVRIDWWKYW
+A          GEVASFGGSNI..EPSVRSCFQFAN..........NKPEI..EAALFLDW
+A          NNLV...NVPLCVDMCLNWLLNVYD.........TGRTGR.IRVLSFKTG
+
+           151                                            200
+A          FTNESFPYHLGWHPPSPAREIEFVTSASSAVLAASVTSTPSSLPSGAIGP
+A          MR.L..............................................
+A          II.S..............................................
+
+           201                                            250
+A          GAEAVPLSFASTMTPFLLATNAPYYAQDPTLGPND~~~~~~~~~~~~~~~
+A          ...................................EPQSMVWLPVLHRVA
+A          ...................................LCKA~~~~~~~~~~~
+
+           251
+A          ~~~~
+A          AAET
+A          ~~~~
+

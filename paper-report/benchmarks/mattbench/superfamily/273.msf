@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/273.msf MSF:  139 Type: P 11/12/19 CompCheck: 3274 ..
+
+  Name: A          Len: 139  Check: 3925 Weight: 1.00
+  Name: A          Len: 139  Check: 1576 Weight: 1.00
+  Name: A          Len: 139  Check: 7773 Weight: 1.00
+
+//
+
+           1                                               50
+A          LGPKWPE........PVFGRLASPGFPGEYANDQERRWTLTAPPGYRLRL
+A          ~~~~~~~CSGQVFT.GRSGFLSSPEYPQPYPKLSSCAYNIRLEEGFSITL
+A          ~~~~~~~E......PTMYGEILSPNYPQAYPSEVEKSWDIEVPEGYGIHL
+
+           51                                             100
+A          YFT.HFDLELSHLCEYDFVKLSSGAKVLATLCGQESTDTERAP.......
+A          DFVESFDVEMHC....DSLKIQTDKREYGPFCGKT...............
+A          YFT.HLDIELSENCAYDSVQIIS...EEGRLCGQR........SSNNPHS
+
+           101                                 139
+A          .GKDTFYSLGSSLDITFRSDYSNEKPFTGFEAFYAAED~
+A          .LPPRIETDSNKVTITFTTD.ESGN.HTGWKIHYTSTA~
+A          PIVEEFQVPYNKLQVIFKSDFSNEERFTGFAAYYVATDI
+

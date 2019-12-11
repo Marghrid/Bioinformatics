@@ -1,0 +1,101 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/161.msf MSF:  334 Type: P 11/12/19 CompCheck: 9809 ..
+
+  Name: A          Len: 334  Check: 9034 Weight: 1.00
+  Name: A          Len: 334  Check: 9568 Weight: 1.00
+  Name: A          Len: 334  Check: 2405 Weight: 1.00
+  Name: A          Len: 334  Check: 7296 Weight: 1.00
+  Name: A          Len: 334  Check: 6339 Weight: 1.00
+  Name: A          Len: 334  Check:  478 Weight: 1.00
+  Name: A          Len: 334  Check:  212 Weight: 1.00
+  Name: B          Len: 334  Check: 9817 Weight: 1.00
+  Name: A          Len: 334  Check: 6948 Weight: 1.00
+  Name: A          Len: 334  Check: 7712 Weight: 1.00
+
+//
+
+           1                                               50
+A          LES....PLGS...DLAR...LVRI..WRA....................
+A          ~~~KQ.............P.......F...ERILREICFMVK........
+A          ~~~~~RDL..GR..LLKI...ASNQ..XST....................
+A          ~~~~~~TDI.LR..EIGM...IARA..LDS....................
+A          ~~~~~~X....DA....L.EI...FKT...............LFSL....
+A          ~~~~~~~~~~~~~S....ADQ....LX...................SDIQ
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          ~YD..V.KE.AL..VFTQ...KXAQ..LSK....................
+A          ~~~AI.T.....KIN..D.CFE..L.LS.M....................
+A          ~D...T.A..AL...LER....IRS..DWA....................
+
+           51                                             100
+A          ..................................................
+A          ..................................................
+A          ..................................................
+A          ..................................................
+A          ..................................................
+A          LSLQALFQKI........................................
+A          ~~~~~~~~~~S.......................................
+B          ...........ALWKSIEK...............................
+A          ...................VTYAD..........................
+A          ........................RLNHGPSAGPMLTLLLLERLHAALGR
+
+           101                                            150
+A          L..I..DHRLK..PL...ELTQTHWVTLHNIHQLPPD....QSQIQLAKA
+A          V.E.G.RKVLR..DF...GITPAQFDILQKIYF.EGP....KRPGELSVL
+A          R..F..DIFAK..KY...DLTGTQXTIIDYLSR.NKN.KE.VLQRDLESE
+A          I..S..NIEFK..EL...SLTRGQYLYLVRVCE.NPG....IIQEKIAEL
+A          VXR..FSSYLPS.NEEISDXKTTELYAFLYVAL.FGP....KKXKEIAEF
+A          QPEX..LESXE..KQ...GVTPAQLFVLASLKK.HGS....LKVSEIAER
+A          K.....VTYIIK.ASND.VLNEKTATILITIAK.KDF....ITAAEVREV
+B          D..W..QQWLK..PY...DLNINEHHILWIAYQ.LNG....ASISEIAKF
+A          K..L..KSLIK.KEF...SISFEEFAVLTYISE.NKEKE..YYLKDIINH
+A          E..I..ERTYA..AS...GLNAAGWDLLLTLYR.SAPPE.GLRPTELSAL
+
+           151                                            200
+A          IGI.EQPSLVRTLDQLEDKGLISRQK.....................RIK
+A          LGV.AKSTVTGLVKRLEADGYLTRTPDP.ADRRAY............FLV
+A          FSI.KSSTATVLLQRXEIKKLLYRKVSGKDSR.QK............CLK
+A          IKV.DRTTAARAIKRLEEQGFIYRQEDA..SNKKIK...........RIY
+A          LST.TKSNVTNVVDSLEKRGLVVREX.D.P....V.DRRTY......RVV
+A          XEV.KPSAVTLXADRLEQKNLIARTHNT.KDRRVI............DLS
+A          HPDLGNAVVNSNIGVLIKKGLVEKSG........D............GLI
+B          GVX.HVSTAFNFSKKLEERGYLRFSKRLNDK..RN......T.....YVQ
+A          LNY.KQPQVVKAVKILSQEDYFDKKR......NEH.......DERTVLIL
+A          AAI.SGPSTSNRIVRLLEKGLIERRE........A............SIR
+
+           201                                            250
+A          L....TEKAEPLIAEMEEVIH...KTRG....E.............ILA.
+A          I....TRKGEEVIEKVIERR.EN.F....IE..KITSDLG.KEK......
+A          L....TKKANKLETIILSYXD...SDQS....Q.............XTS.
+A          A....TEKGKNVYPIIVRENQ...HSNQ....V.............ALQ.
+A          L....TEKGKEIFGEILSNF.ES.L...LKSV.LEKFS.EE...D.....
+A          L....TDEGDIKFEEVLAGR.KAIX....ARY.LSFLTEEEX.LQ.....
+A          I....TGEAQDIISNAATLY.AQ.E...NA...P........E.......
+B          L....TEEGTEVFWSLLEEF....D..P...TR............NAVFK
+A          VNAQQRKKIESLLSRVNKRI....T~~~~~~~~~~~~~~~~~~~~~~~~~
+A          L....TPQGRALVTHLLPAHL...ATTQ....R............VLA.P
+
+           251                                            300
+A          .GI..S.S.EEIE.LLIKL..IAKL.EHNI..MEL~~~~~~~~~~~~~~~
+A          ...SS...K....I.....................LDYLKELKGVMERNF
+A          .GL..N.K.EEVV.FLE.KILK..RXI..ES~~~~~~~~~~~~~~~~~~~
+A          .GL..SEV.EISQ.LADYL.VRM.R.K..N.VS.E...............
+A          .FK..VVS.EGFN.RXVEA....L..........................
+A          ..AAHI.TAK.LAQA.AE....T...........................
+A          ...L..............................................
+B          GSQ..P.L..Y...HL..FGKF.PE.VAEX..X.................
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          LS....A...QE..QRT.LEEL..AGR..MLAG.L...............
+
+           301                            334
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          DWEFVKKG~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ........SRE~~~~~~~~~~~~~~~~~~~~~~~
+A          ...........D~~~~~~~~~~~~~~~~~~~~~~
+A          ............LK~~~~~~~~~~~~~~~~~~~~
+B          ..............CXIRHIYGDDFXEIFETS~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ................................EQ
+

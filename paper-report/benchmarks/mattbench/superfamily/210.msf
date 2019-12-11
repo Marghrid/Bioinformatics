@@ -1,0 +1,95 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/210.msf MSF:  660 Type: P 11/12/19 CompCheck:  928 ..
+
+  Name: A          Len: 660  Check: 6594 Weight: 1.00
+  Name: B          Len: 660  Check:  356 Weight: 1.00
+  Name: A          Len: 660  Check:  762 Weight: 1.00
+  Name: A          Len: 660  Check: 3216 Weight: 1.00
+
+//
+
+           1                                               50
+A          XIALDGAQGE.............................GGGQILRSALS
+B          ~~~~~~~~~~MKLKTNIRHLHGIIRVP............GDKSISHRSII
+A          ~~~~~~~~~~MESLTLQPIARVDGTINLP..........GSKSVSNRALL
+A          ~~~~~~~~~~M.DK..FRVQG....P...TRLQGEVTISGAKNAALPILF
+
+           51                                             100
+A          LSXITGQPFTITSIRAGRAKPGLLRQHLTAVKAATEICGATVEGA.ELG.
+B          FGSLAEGETKVYDI.......LRGEDVLSTMQVFRDL.GVEIEDKD....
+A          LAALAHGKTVLTNL.......LDSDDVRHMLNALTAL.GVSYTLSAD..R
+A          AALLAEEPVEIQNV.......PKLKDIDTTMKLLTQL.GTKVERN.....
+
+           101                                            150
+A          SQRLLFRPGTVR...GG...DYRF..AIGSAGSCTLVLQTVLPALWFADG
+B          G.VITVQGVGMAGLKAPQ..NALN..MG....NSGTSIRLISGVLAGADF
+A          T.RCEIIGNGGPLH.AE.GALELF..LG....NAGTAMRPLAAALCLGSN
+A          G.SVWIDASNVN...NF...SAPYDLVK....TMRAS.IWALGPLVARFG
+
+           151                                            200
+A          PSRVEVSGGT.......DNPSAPPADFIRRVLEPLLAKIGIHQQTT....
+B          EVEMFGDDSLSK.....R.....PMDRV....TLPLKKMGVSISGQTERD
+A          DIVLTGEPRMKE.....R.....PIGHL....VDALRLGGAKITYLEQE.
+A          QGQVSLPGG...CAIGAR.....PVDLH....IFGLEKLGAEIKLE....
+
+           201                                            250
+A          .LLRHGFYPAGGGVVATEVSPVASFNTLQLGAVGE...YLADQLVLPXAL
+B          .LP............PLRLKGTKNLRPIHYELPIASA.QVKSALMFAALQ
+A          NYP............PLRLQGGF..TGGNVDVDGSVSSQFLTALLMTAPL
+A          .EG............YVKASVNGRLKGAHIVMDKVSV.GATVTIMSAATL
+
+           251                                            300
+A          AG.AGEFTV...AHP....SCHL.LTNIAVVERFLPVRFSL.IETDGV.T
+B          AKGESVIIEK..E......YTR..NHTEDMLQQFG.GHLSV.DG.....K
+A          APEDTVIRIKGDL..VS..KPYI.DITLNLMKTFG.VEIEN.QH....YQ
+A          AEGTTIIEN........AAREPEIVDTANFLVALG.AKISGQGT.....D
+
+           301                                            350
+A          RVSIE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          KITVQGPQKLTGQKVVVPGDISSAAFWLVAGLIAP.NSRLVL..QNVGIN
+A          QFVVKGGQSYQSPGTYLVEGDASSASYFLAAAAIKGGTVKVTGIG.RNSM
+A          RITIEGVERLGGG.VYRV.LPD.RI..E..TG..TF...LV.AA.AI.S.
+
+           351                                            400
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          ETRTGIIDVIRAMGGKLEI.TEIDPVAKSATLIVESSDLKGTEICG.ALI
+A          QGDIRFADVLE.KMGATICWGDDYISCTRGELNAIDMDMNHIPDAAMTIA
+A          G.G.K.I....VCR.....NA.Q.PDTLDAVLA.KL..R..E.AG.ADIE
+
+           401                                            450
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          PRLIDELPIIALLATQAQGVTVIKDAEELKVKETDRIQVVADALNSMGAD
+A          TAALFAKGTTTLRNIYNWRVKETDRLFAMATELRKVGAEVEEGHDYIRIT
+A          TG..E.......D......W....I.............SL..........
+
+           451                                            500
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          ITPTADGMIIKGK.SA.LHGARVNTFGDHRIGMMTAIAALLVADGEVELD
+A          PPEKLNFAEIATYNDHRMAMCFSLVALSDTPVTILDPKC...........
+A          ..D.MH..G.K..R..P..KA.V..TV.R...TA.PH.P...........
+
+           501                                            550
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          RAEAINTSYPSFFDDLESLIHG~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ......................TAKTFPDYFEQLARISQAA~~~~~~~~~
+A          .........................................AFPTDMQAQ
+
+           551                                            600
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          FTLLNLVAEGTGVITETIFENRFMHVPELIRMGAHAEIESNTVICHGVEK
+
+           601                                            650
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          LSGAQVMATDLRASASLVLAGCIAEGTTVVDRIYHIDRGYERIEDKLRAL
+
+           651    660
+A          ~~~~~~~~~~
+B          ~~~~~~~~~~
+A          ~~~~~~~~~~
+A          GANIERVKGE
+

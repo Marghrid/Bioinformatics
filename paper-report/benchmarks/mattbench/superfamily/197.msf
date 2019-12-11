@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/197.msf MSF:  236 Type: P 11/12/19 CompCheck:  387 ..
+
+  Name: A          Len: 236  Check:  561 Weight: 1.00
+  Name: A          Len: 236  Check: 5838 Weight: 1.00
+  Name: B          Len: 236  Check: 6350 Weight: 1.00
+  Name: A          Len: 236  Check: 7638 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~V............GIXNTHVDLNA.TF.ITV.AKK...GNVAFISQSG
+A          NCP............GVINP..GECKIGIMPGHIHKK...GRIGIVSRSG
+B          ~~~EPIENEAAKYDLKYIGL................D...GNIACFVNGA
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PRGNKVAIXTNAG
+
+           51                                             100
+A          ALGAGIVYKTIKEDIGFS.....................KFISVGNX..A
+A          TLTYEAVHQTTQVGLGQS.....................LCVGIGGDPFN
+B          GLAMATCDIIFLNGGKPA.....................NFLDLGGG..V
+A          GPGVLTADELDKRGLKLATLEEKTIEELRSFLPPXAAVKNPVDXIAS..A
+
+           101                                            150
+A          DV..DFAELXEYLADTEEDKAIALYIEGV.........R....NGKKFXE
+A          GT..DFTDCLEIFLNDPATEGIILIGEIG.G.......NAEENAAEFLKQ
+B          K.ESQVYQAFKLLTADPKVEAILVNIFGGIVNCA....I....IANGITK
+A          R.GEDYYRTAKLLLQDPNVDXLIAICVVPTFAG.XTLTE....HAEGIIR
+
+           151                                            200
+A          VAK..RVT.KKKPIIALKAGS......................WKIYEAA
+A          HNS..G..PKSKPVVSFIAGLTAPPGRRMGXAGAIIAGGKGG.AKEKITA
+B          ACRELE...LKVPLVVRLEGTN.....................VHEAQNI
+A          AVKEVN...NEKPVLAXFXAGY....................VSEKAKEL
+
+           201                              236
+A          FKQ..SGVLVANTIDEXLSXARAFSQ..PL~~~~~~
+A          LQS..AGVVVSMSPAQLGTTIYKEFEKRK.ML~~~~
+B          LTNSGLPITSAVDLEDAAKKAVASVT~~~~~~~~~~
+A          LEK..NGIPTYERPEDVASAAYALVEQ.A.K.NVGI
+

@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/436.msf MSF:  165 Type: P 11/12/19 CompCheck:  188 ..
+
+  Name: A          Len: 165  Check: 9722 Weight: 1.00
+  Name: A          Len: 165  Check: 3133 Weight: 1.00
+  Name: G          Len: 165  Check: 7360 Weight: 1.00
+  Name: A          Len: 165  Check:  865 Weight: 1.00
+  Name: A          Len: 165  Check: 9108 Weight: 1.00
+
+//
+
+           1                                               50
+A          AEWSGEYISPYAEHGKKSE...............................
+A          ~~~~~~~~~~~~~~~~~~~MSLEKAHTSVKKMTFGENRDLERVVTAPVSS
+G          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~M..............................
+
+           51                                             100
+A          .QVKKITVS.IPLKVLKILTDERTRRQVNNLRHATNSELLCEAFLHAFTG
+A          GKIKRVNVN.FDEEKHTRFKAACARKGT......SITDVVNQLVDNWLKE
+G          ~~~ASVVIRNLSEATHNAIKFRARAAGR......STEAEIRLILDNIAKA
+A          ~~TTTMGVM.LDDATRERIKSAATRIDR......TPHWLIKQAIFSYLEQ
+A          .ELIRFSIS.IPSKLLEKFDQIIEEIGY.....ENRSEAIRDLIRDFIIR
+
+           101                                            150
+A          QPLPDDADLRKERSDEIPEAAKEIMREMGINPETWEY~~~~~~~~~~~~~
+A          N....................................E~~~~~~~~~~~~
+G          Q....................................QTVRLGSMLASIG
+A          L....................................E~~~~~~~~~~~~
+A          H....................................EW...........
+
+           151         165
+A          ~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~
+G          QEIGGVELEDVR~~~
+A          ~~~~~~~~~~~~~~~
+A          ............EVG
+

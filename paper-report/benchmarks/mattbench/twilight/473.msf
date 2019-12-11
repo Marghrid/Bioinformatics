@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/473.msf MSF:  108 Type: P 11/12/19 CompCheck: 8408 ..
+
+  Name: A          Len: 108  Check: 5308 Weight: 1.00
+  Name: A          Len: 108  Check:  537 Weight: 1.00
+  Name: A          Len: 108  Check: 8450 Weight: 1.00
+  Name: A          Len: 108  Check: 4113 Weight: 1.00
+
+//
+
+           1                                               50
+A          LPRVVVHQESTK.MILNG..SQIHLEMLKEW.....DGFKKGEVVRVFNE
+A          KGVVLVDKGAAI.ALAKG..AHLXIPGVVGVE....GSFTRGDVVAALYH
+A          ~YKVWIKPGAEQ.SFLYG..NHVLKSGLGRIT....ENTSQYQGVVVYSX
+A          ~QRYFI..ELTKQQIEEAPTFSITGE.EVHH.IVNVXRXNEGDQIICCSQ
+
+           51                                             100
+A          E.GRLLALAE.AERNSSFL.ETL..RKHE.R.QRRVLTLRKVFQT~~~~~
+A          ETRTPVXVGV.AEVDSSALEK.LYRE...KA.RGRAVRRVHRLG.DALWE
+A          A.DIPLGFGV.AAKSTQDC.RKV.......DPXAIVVFHQADIG~~~~~~
+A          D..GFEAKCELQSVS..KD..............KVSCLVIEWTN......
+
+           101  108
+A          ~~~~~~~~
+A          LAQEVGK~
+A          ~~~~~~~~
+A          .......E
+

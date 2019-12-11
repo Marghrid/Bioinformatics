@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/96.msf MSF:  253 Type: P 11/12/19 CompCheck: 1520 ..
+
+  Name: A          Len: 253  Check: 4038 Weight: 1.00
+  Name: A          Len: 253  Check: 8941 Weight: 1.00
+  Name: A          Len: 253  Check: 8541 Weight: 1.00
+
+//
+
+           1                                               50
+A          IRLRTHAPTHPDHKAYLRRFFHEEIFPLLYPX.........LLLPSKVRT
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AVADLAL..IPD......
+A          IFLI.NERQLS.VNQQNWLRHYFKQYLRQHIT.......PILIN.PDTDL
+
+           51                                             100
+A          F.....IRSGRVYLAVRLKEKETD....EAYSYALLNVPTDGLPRFVELP
+A          .VDI..DSDGVF.KYVLIRV..H.SAPESKEIVR.GYKW...........
+A          V...QFLKDDYTYLAVEIIR..G.....DTIRYALLEIPSDKVPRFVNLP
+
+           101                                            150
+A          RLQTDTFYYYSFL...EDIIKEHLDVVFP........GYEVXDSYSIKVS
+A          ................AEY.HADIYDKVSGDXQKQGCDCECLGGGRISHQ
+A          PE..A.PRRRKPMILLDNILRYCLDDIFKGFF.....DYDALNAYSMKMT
+
+           151                                            200
+A          RDADLLLDA............................PTRFXYDGR....
+A          SQ...................................DKKIHVYGYSXAY
+A          RD.......AEYDLVHEMEASLMELMSSSLKQRLTAEPVRFVYQRD....
+
+           201                                            250
+A          ...XPDEVLRYICSSCDIDPE...EAIRSGNYVNLQDLAXLPNPFAPRLE
+A          GPAQHAISTEKIKAKYPDY.....EVTWA~~~~~~~~~~~~~~~~~~~~~
+A          ...MPNALVEVLREKLTIS..RYDSIVPGGRYHNFKDFINFPNVGK.ANL
+
+           251 253
+A          T~~
+A          ~~~
+A          VNK
+

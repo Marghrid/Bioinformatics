@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/22.msf MSF:  159 Type: P 11/12/19 CompCheck: 9419 ..
+
+  Name: D          Len: 159  Check: 8814 Weight: 1.00
+  Name: D          Len: 159  Check: 8659 Weight: 1.00
+  Name: B          Len: 159  Check: 6448 Weight: 1.00
+  Name: A          Len: 159  Check: 8683 Weight: 1.00
+  Name: A          Len: 159  Check: 4684 Weight: 1.00
+  Name: A          Len: 159  Check: 2131 Weight: 1.00
+
+//
+
+           1                                               50
+D          P......VK.S..QESI.NQKLA.........LVIKS.G.KYTLGYKSTV
+D          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~HXS.....EXIYGIHAVQ
+B          ~PSYVKFEVPKELA..EKALQAVE........IARDT.G.KIRKGTNETT
+A          ~~~~~~~~~~~~~~~GS.VDFAF.ELR.....KAQDT.G.KIVMGARKSI
+A          ~SAPNPKAFPLADA..ALTQQIL....DVVQ.QAANLR..QLKKGANEAT
+A          ~~~~~~~~~~SKE...IXVXDEF........LLHLNKDDDKAWYGEKEVV
+
+           51                                             100
+D          KSLR.Q.GKSKLIIIAANTP.......VLRKSELEYYAMLSKTKVYYFQG
+D          ALLERAPERFQEVFILKGRE.......DKRLLPLIHALESQGVVIQLANR
+B          KAVE.R.GQAKLVIIAEDVDP......EEIVAHLPPLCEEKEIPYIYVPS
+A          QYAK.M.GGAKLIIVARNAR.......PDIKEDIEYYARLSGIPVYEFEG
+A          KTLN.R.GISEFIIMAADCEP......IEILLHLPLLCEDKNVPYVFVPS
+A          KAAE.Y.GAISYLLLTDKVLHSDNIAQREEYLKLXDSVESNGGKALVLST
+
+           101                                            150
+D          GNN....ELGTAVGKLFRVG.VVSIL.EAGDS...DILTTLA~~~~~~~~
+D          Q......YLDEKSD.GAVHQGIIARV.KP...G~~~~~~~~~~~~~~~~~
+B          K.K....ELGAAAGIEVAAA.SVAII.EPGKA.RDL.VEE.IAMKVRELM
+A          TSV....ELGTLLGRPHTVS.ALAVV.DPGES...RIL.A.LGG...K..
+A          R.V....ALGRACGVSRPVI.AASIT.TNDAS.AIK.TQI.YAVKDKIET
+A          L.HSLGEELDQ......LTG.IACILKYP...L.................
+
+           151   159
+D          ~~~~~~~~~
+D          ~~~~~~~~~
+B          K~~~~~~~~
+A          .E~~~~~~~
+A          L.LI~~~~~
+A          ....PDLDE
+

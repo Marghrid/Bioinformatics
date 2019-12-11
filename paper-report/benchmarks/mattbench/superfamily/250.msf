@@ -1,0 +1,125 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/250.msf MSF:  426 Type: P 11/12/19 CompCheck: 5007 ..
+
+  Name: A          Len: 426  Check:  320 Weight: 1.00
+  Name: R          Len: 426  Check: 9995 Weight: 1.00
+  Name: A          Len: 426  Check: 9141 Weight: 1.00
+  Name: A          Len: 426  Check: 4866 Weight: 1.00
+  Name: A          Len: 426  Check: 2488 Weight: 1.00
+  Name: B          Len: 426  Check: 5946 Weight: 1.00
+  Name: A          Len: 426  Check: 4396 Weight: 1.00
+  Name: J          Len: 426  Check: 1420 Weight: 1.00
+  Name: A          Len: 426  Check: 7672 Weight: 1.00
+  Name: A          Len: 426  Check: 8763 Weight: 1.00
+
+//
+
+           1                                               50
+A          LQYP.EL...............................PLESPL.IDAEL
+R          ~~~~S.................................LINTKI.KPFKN
+A          ~~~~~~~TGDPACRAAVATAQKIAPLAHGEVAALTM..ASAPLKLPDLAF
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~KENDLI.PNVKV
+A          ~~~~~~L...............................LLGDVA.PNFEA
+B          ~~~~~~Y...............................HLGATF.PNFTA
+A          ~~~~XSG.............................NARIGKPA.PDFKA
+J          ~~~S.IP...............................LIGERF.PEMEV
+A          ~~~P.LL...............................TIGDQF.PAYQL
+A          ~~MA.PI...............................AVGDVL.PDGKL
+
+           51                                             100
+A          PDPR.........G...........GRYRL.SQFH..EPLLAVVFXCN.H
+R          QAFK.NG..E...F...........IEVTE.KDTE..GRWSVFFFYPADF
+A          EDAD.........G...........KPKKL.SDFR..GKTLLVNLWAT.W
+A          MIDVRN.MN.NNDF...........TSIDTHELFN..NKKILLISLPGAF
+A          NTTV.....................GRIRFHDFLG..DSWGILFSHPRDF
+B          KASG.....I...D...........GDFELYKYIE..NSWAILFSHPNDF
+A          TAVV.DG..A...F...........KEVKL.SDYK..GKYVVLFFYPLDF
+J          TTDH.....................GVIKLPDHYVSQGKWFVLFSHPADF
+A          TALI.GGDLS...KVDAKQPGDYF.TTITS.DEHP..GKWRVVFFWPKDF
+A          AYFDE..QD....Q..........LQEVSVHSLVA..GKKVILFGVPGAF
+
+           101                                            150
+A          CPYVK.GSIGELVALAERYRG...KVA.FVGINANDYEKYPEDAPEKXAA
+R          TFVSP.TELGDVADHYEELQKL..GVD.VYSVSTDT........HFTHKA
+A          CVPCR.KEMPALDELQGKLSG.P.NFE.VVAINIDTR......DPEKPKT
+A          TPTXSTKMIPGYEEEYDYFIKE.NNFDDIYCITNND........IYVLKS
+A          TPVXT.TELGRAAKLAPEFAKR..NVK.LIALSIDS........VEDHLA
+B          TPVCT.TELAELGKMHEDFLKL..NCK.LIGFSCNS........KESHDK
+A          TFVXP.TEIIAFSNRAEDFRKL..GCE.VLGVSVDS........QFTHLA
+J          TPVXT.TEFVSFARRYEDFQRL..GVD.LIGLSVDS........VFSHIK
+A          TFVCP.TEIAAFSKLNDEFEDR..DAQ.ILGVSIDS........EFAHFQ
+A          TPTCSLKHVPGFIEKAGELKSK..GVTEILCISVND........PFVMKA
+
+           151                                            200
+A          FAEE........H...........GIF.FPYLLDETQEVAKAY....RAL
+R          WHSSSETI....A...........KIK.YAMIGDPTGALTRNF....DNM
+A          FLKE...A....N...........LTR.LGYFNDQKAKVFQDLKAIGRAL
+A          WFKS...M....D...........IKK.IKYISDGNSSFTDSM....NML
+A          WSKD...I....NAYNSEEPTE..KLP.FPIIDDRNRELAILL....GML
+B          WIED...I....KYYGKL....N.KWE.IPIVCDESRELANKL....KIM
+A          WINTPR.KEGGLG...........PLN.IPLLADVTRRLSEDY....GVL
+J          WKEW...I....ERH.IG.....VRIP.FPIIADPQGTVARRL....GLL
+A          WRAQHNDL....K...........TLP.FPXLSDIKRELSQAA....GVL
+A          WAKS........Y.....P.....ENKHVKFLADGSATYTHAL....GLE
+
+           201                                            250
+A          R...........................TPEVFLFDERRLLRYHGRVND.
+R          R...EDE......GLA............DRATFVVDPQGIIQAIEVT...
+A          G...........................MPTSVLVDPQGCEIATIAG...
+A          V...D.KSNFFMGMRP............WRFVAIVEN.NILVKMFQE..K
+A          D.....P....A..E.KDEKGMPVT...ARVVFVFGPDKKLKLSILY...
+B          DEQE..K....DITGL.........PLTCRCLFFISPEKKIKATVLY...
+A          K...TDE......GIA............YRGLFIIDGKGVLRQITVN...
+J          HAESA........THT............VRGVFIVDARGVIRTMLYY...
+A          N...A.D......GVA............DRVTFIVDPNNEIQFVSAT...
+A          L...D.LQEKGLGTRS............RRFALLVDD.LKVKAANIE..G
+
+           251                                            300
+A          ............NPKDPSKV..QSHD..LEAAIE..AL.LRG.......E
+R          AEGI........GR........DASD..LLRKIK..AA.QYVAAHPGEVC
+A          ............PA........EWASEDALKLIR..AATG~~~~~~~~~~
+A          ..DKQHNIQTDPYD......ISTVNN..VKEFL.KNN~~~~~~~~~~~~~
+A          PATT........GR........NFDE..ILRVVI..SL.QLTAEKRVA.T
+B          PATT........GR........NAHE..ILRVLK..SL.QLTYTTPVA.T
+A          DLPV........GR........SVDE..ALRLVQ..AF.QYTDEHGEV.C
+J          PMEL........GR........LVDE..ILRIVK..AL.KLGDSLKRA.V
+A          AGSV........GR........NVDE..VLRVLD..AL.QS~~~~~~~~~
+A          GG.E........FT......VSSAED..ILKDL~~~~~~~~~~~~~~~~~
+
+           301                                            350
+A          EPPLKEAPAIGCTIKWRPGNEPEVRIG~~~~~~~~~~~~~~~~~~~~~~~
+R          ...........................PAKWKEG.EATLAPS...LD...
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ...........................PVDWKDG.DSVMVLPTIP.E.EE
+B          ...........................PVNWNEGDKCCVIPT.L..QDDE
+A          ...........................PAGWKPG.SDTIKPN...VD...
+J          ...........................PADWP..NNEIIGEGL.IVPPP.
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           351                                            400
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+R          .L................VG.KI~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          A.KKLFPKGVFTKELPSGKKYL.RYTPQP~~~~~~~~~~~~~~~~~~~~~
+B          ..ISKHFKN.E.ITKVEMPSKK.KYLRF.VNL~~~~~~~~~~~~~~~~~~
+A          DS.........K...........EY.......FSKHN~~~~~~~~~~~~~
+J          ..T......TEDQ......AR..ARMESG........QYRSLDWWFCWDT
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           401                    426
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~
+R          ~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          ~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~
+J          PASRDDVEEARRYLRRAAEKPAKLLY
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~
+

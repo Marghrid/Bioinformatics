@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/47.msf MSF:  143 Type: P 11/12/19 CompCheck: 1034 ..
+
+  Name: A          Len: 143  Check: 6185 Weight: 1.00
+  Name: D          Len: 143  Check: 1366 Weight: 1.00
+  Name: A          Len: 143  Check:  351 Weight: 1.00
+  Name: A          Len: 143  Check: 9994 Weight: 1.00
+  Name: A          Len: 143  Check: 6756 Weight: 1.00
+  Name: A          Len: 143  Check: 6382 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~~KIQNIVG........SCDVKFPI......RLEGLAFSHGT.F
+D          ~~~~~~~~~~~~~~~~~~~~~~~MYTLNWQPPYDWSWMLGFLAARAVSSV
+A          ~Q.LTGKPKIQIQNIVA......SANLHVIV......NLDKAAFLLEN..
+A          DEI.PYKAVVNIENI..VA....TVTLDQTL......DLYAMERSVPN..
+A          ~~KHPSGIVPTLQNI....VS..TVNLDCKL......DLKAIALQARN..
+A          MV.DMSKVKLRIENI......VASVDLFAQL......DLEKVLDLCPN..
+
+           51                                             100
+A          SSYEPELFPGLIYRMV..KPKIVLLIFVS.....GKIVLTGAKQREEIYQ
+D          ETVAD...SYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGL....EP.
+A          NMYEPEQFPGLIYRMD..EPRVVLLIFSS.....GKMVITGAKREDEVHK
+A          VEYDPDQFPGLIFRLE..SPKITSLIFKS.....GKMVVTGAKSTDELIK
+A          AEYNPKRFAAVIMRIR..EPKTTALIFAS.....GKMVCTGAKSEDFSKM
+A          SKYNPEEFPGIICHLD..DPKVALLIFSS.....GKLVVTGAKSVQDIER
+
+           101                                     143
+A          AFEAIYPVLS..EFRK...M~~~~~~~~~~~~~~~~~~~~~~~
+D          VAAECLAKMSR.LFDLQCNPQIVNGALGRLG~~~~~~~~~~~~
+A          AVKKIFDKLVELDCVKP...VEE........EELE~~~~~~~~
+A          AVKRIIKTLKK.YGM~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          AARKYARIVQK.LGF.P..................AKFKDFKI
+A          AVAKLAQKLKS.IGV~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

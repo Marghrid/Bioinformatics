@@ -1,0 +1,30 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/1.msf MSF:  169 Type: P 11/12/19 CompCheck: 1993 ..
+
+  Name: C          Len: 169  Check: 1729 Weight: 1.00
+  Name: A          Len: 169  Check: 3393 Weight: 1.00
+  Name: H          Len: 169  Check: 6871 Weight: 1.00
+
+//
+
+           1                                               50
+C          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          MKWMFKEDHSLEHRCVESAKIRAKY.........................
+H          ~~~~~~~~~~~~~~~~~~~~~~~~~GQKLGSTAPPAQQAENEAKASSSIL
+
+           51                                             100
+C          ~~~~EESFFVQVHDV.....SPEQ.PR.TVIKAPRVSTAQDVIQQTLCKA
+A          ....PDRVPVIVEKVSGSQIVD...IDKRKYLVPSDITVAQFMWIIRKRI
+H          INEAEPTTNIQIRLA.....DG..GRL.VQKFNH.SHRISDIRLFIVDAR
+
+           101                                            150
+C          KYSLSILSNPNP.SDYVLLEEVVKDKSSQRVLL.DQECVFQAQ.SKWKG.
+A          ......Q.LPS.EKAIFLFVD.......KTVPQ.SSLTMGQLY.EKE..K
+H          ......PAMAA..TSFVLMTT.....FPNKELADENQTLKEANLL.....
+
+           151             169
+C          A....GKFILKLKEQV~~~
+A          DEDGFLYVAYSG.EN.TFG
+H          .N...AVIVQRL.T~~~~~
+

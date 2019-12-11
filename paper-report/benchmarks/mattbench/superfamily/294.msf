@@ -1,0 +1,47 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/294.msf MSF:  250 Type: P 11/12/19 CompCheck: 5528 ..
+
+  Name: A          Len: 250  Check: 3043 Weight: 1.00
+  Name: A          Len: 250  Check:  688 Weight: 1.00
+  Name: A          Len: 250  Check: 6043 Weight: 1.00
+  Name: A          Len: 250  Check: 8778 Weight: 1.00
+  Name: B          Len: 250  Check: 6976 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~ADRIELRG..LTVHG.R.HGV......................
+A          AQP....AAIIRIKN..LRLRT.F.IGI......................
+A          G.KGI..DIKSSLSG..LTVLKSTNSQFWG....FLRDEYTTLK......
+A          ~NS....SAEVSVESPSFSFNC.A.HFIAYNGFR................
+B          ~~L..RRRARLSRL...VSFSA.S.HRLHSPSLSAEE.......NLKVFG
+
+           51                                             100
+A          ..YD...HERVAGQRFVIDVTVWI.DL.A..EAANS.DDL.AD.T...YD
+A          ..KE...EEINNRQDIVINVTIHY.PA.D..K.ARTSED.IN.DA...LN
+A          ..ETW..DRI...LSTDVDATWQWKNFSGLQE.VRSHV.P....K...FD
+A          ..ET...LHG...HNYNVSLKVRG.YV......RDD.G.......YV.ID
+B          KCNN.PNGHG...HNYKVVVTIHG.EI......DPV.T.......GMVMN
+
+           101                                            150
+A          ..YVRLASRAAEIV.AGP....PR..........................
+A          ..YRTVTKNIIQHV.ENN....RF..........................
+A          ATWATAREVTLKTF.AED....NS..........................
+A          ..FSILKEKVKKVC.NKLDHHFILPIYSDVLKFENVKNNIKIICEDNSEY
+B          ..LTDLKEYMEEAIMKPLDHKNLDLDVPYFA...................
+
+           151                                            200
+A          .................KLIETVGAEIADHVM...DDQ.R....VHAVEV
+A          .................SLLEKLTQDVLDIAR...EHH.W....VTYAEV
+A          .................ASVQATMYKMAEQILA..RQQ.L....IETVEY
+A          SFPERDCIKLPIKH...SSTEEIGQYILNQLIEEXDVSLLKSRHIHYIEI
+B          ..............DVVSTTENVAVYIWENLQRL.LPV......GALYKV
+
+           201                                            250
+A          AVHKPQAPIPQ.........................TFDDVAVVIRRSR~
+A          EIDKLHA.LR..........................YADSVSMTLSWQR~
+A          SLPNKH.Y...FEIDLSWHKGLQNTGKNAEVFAPQSDP.NGLIKCTVGRS
+A          SVSESP.................................TQKAIVHKYI~
+B          KVYETD.................................NNIVVYKGE~~
+

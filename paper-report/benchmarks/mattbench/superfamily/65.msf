@@ -1,0 +1,85 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/65.msf MSF:  313 Type: P 11/12/19 CompCheck: 8125 ..
+
+  Name: A          Len: 313  Check: 9796 Weight: 1.00
+  Name: B          Len: 313  Check: 4788 Weight: 1.00
+  Name: A          Len: 313  Check: 5907 Weight: 1.00
+  Name: A          Len: 313  Check: 3444 Weight: 1.00
+  Name: B          Len: 313  Check:  316 Weight: 1.00
+  Name: A          Len: 313  Check: 3965 Weight: 1.00
+  Name: A          Len: 313  Check: 7936 Weight: 1.00
+  Name: C          Len: 313  Check: 1973 Weight: 1.00
+
+//
+
+           1                                               50
+A          QTPIDMS...........LK.PNDAES.EKE.....VIDTILVL......
+B          ~~~~~~~~~~~~~~~~~~A.Q.I....PAED.....AIARAADL......
+A          ~~~~~~~YASANSYQTPLL.P.E....PDVQ.....AVTRLTQT......
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~SDR...
+B          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PMEISGTHTEINL...DNA
+A          ~~~~~~~~~~~~~~~~~~~~PKP....PEDS.....HLEQIVRL......
+A          ~~~~~~~~~~~~~~~~~~~~V..A..DGW.Q.....KAADQAAA......
+C          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~SVKAGSAEDAAFI......
+
+           51                                             100
+A          ....IK..DAKNPVILADACCSRHDV..KAETKKLIDL...TQFPA..FV
+B          ....IK..NAKRPVIMLGKGAAYAQC..DDEIRALVEE...TGIPF..LP
+A          ....LL..AAERPLIYYGIGA..RKA..GKELEQLSKT...LKIPL..MS
+A          ....P.ELTSARRVVSGGRGL..GSKESFAIIEELADK...LGAAV..GA
+B          IDM.IR..EANSIIITPGYGLCAAKA..QYPIADLVKMLTEQGKKVRFGI
+A          ....IS..ESKKPVLYVGGGC..LNS..SDELGRFVEL...TGIPV..AS
+A          ...LLA..EAKHPVLVVGAAAIRSGA..VPAIRALAER...LNIPV..IT
+C          ....MK..NASKVIIVPGYGMAVAQA..QHALREMADVLKKEGVEVSYAI
+
+           101                                            150
+A          TPM.........GKGSI.....DEQHPRYGGVYVGTLS.KPE.......V
+B          MGM.........AKGLL.....PDNHPQSAAAT................R
+A          TYP.........AKGIV.....ADRYPAYLGSA.N.RVAQ.KP......A
+A          SRA.....AVD.SGYA......PN.....DWQVGQ..............T
+B          HPVAGRMPG..QLNVLLAEAGVPY..D.IVLEM....D.E.........I
+A          TLM.........GLGSY.....PXDDELSLHMLGM.HGTV.Y.......A
+A          TYI.........AKGVL.....PVGHELNYGAVTG.YM..D..GILNFPA
+C          HPVAGRMPG..HMNVLLAEANVPY..D.EVFEL....E.E.........I
+
+           151                                            200
+A          KEA.VESADLILSVGALLS..D.F.........NTGSFS.YSY.......
+B          AFA.LAQCDVCVLIGARLN....W................LMQ..HGKG.
+A          NEA.LAQADVVLFVGNNYP.....................FAEVS..KA.
+A          GK..VVAPELYVAVGISGA....I................QHL.....AG
+B          NHD.FPDTDLVLVIGANDTVNSAAQEDPNSIIAGM...P.VLE......V
+A          NYA.VEHSDLLLAFGVRFD....D................RVTGKLEAF.
+A          LQTMFAPVDLVLTVGYDYA....................EDLR..P.SMW
+C          NSS.FQTADVAFVIGANDVTNPAAKTDPSSPIYGM...P.ILD......V
+
+           201                                            250
+A          .......KTKNIVEFHSDH..........M.....KIR...NATFPGVQM
+B          KTWGD..ELKKYVQIDIQANEMD......SN....QPI...AAPVV.GDI
+A          F.K....NTRYFLQIDIDPAKLG......KR....HKT...DIAVL.ADA
+A          M....K.DSKVIVAINKDEEA........P.IF..QIA...DYGLV.GDL
+B          W......KSKQVIVMKRSLGV..GYAAVDNP....IFYKPNTAMLL.GDA
+A          A......SRAKIVHIDIDSAEIG......KN....KTP...HVSVC.GDV
+A          QK....GIEKKTVRISPTVNP........IP..RVYRP...DVDVV.TDV
+C          E......KAGTVLFIKRSMAS..GYAGVENE....LFFRNNTMMLF.GDA
+
+           251                                            300
+A          KFVLQKLLTAIA.DAA.KGY.KP..VA.V....PA..R..T..PA.N..A
+B          KSAVSLLRKALK.GA..PKA.DAEWTGALKAK.VDGNK..AKLA..GKMT
+A          QKTLAAILAQV..S..ERE.ST.PWWQANLA.NVKNWRA.Y..LASL.E.
+A          FSVVPELTGKL~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          KKTCDALQAKVRES~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          KLALQGMNKVLENRA..EEL.KLDFGVWRNEL.N.VQ..K..Q....K..
+A          LAFVEHFETATA.SF..GAK.Q..RH.DI.EP.L.RA..RIAEF..LA..
+C          KKMTEQIVQAMN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           301       313
+A          A.VP~~~~~~~~~
+B          .AE~~~~~~~~~~
+A          ....D~~~~~~~~
+A          ~~~~~~~~~~~~~
+B          ~~~~~~~~~~~~~
+A          .FP..LSFKTFG~
+A          ............D
+C          ~~~~~~~~~~~~~
+

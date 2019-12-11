@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/168.msf MSF:  135 Type: P 11/12/19 CompCheck: 9109 ..
+
+  Name: A          Len: 135  Check: 4826 Weight: 1.00
+  Name: A          Len: 135  Check:  216 Weight: 1.00
+  Name: A          Len: 135  Check: 5280 Weight: 1.00
+  Name: A          Len: 135  Check: 2458 Weight: 1.00
+  Name: A          Len: 135  Check:  965 Weight: 1.00
+  Name: A          Len: 135  Check: 5364 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~~~RA..........IISLIGNVQH...SSLILERAFHVLYTKG
+A          ~~~~~~~~~~~~~~~~~~~~~VVGISCPN.....VPGALAKVLGFLSAEG
+A          ~~~~~~~~~LA..........LVALIGNDL.SK.ACGVGKEVFGVLE..P
+A          ~~~~~~~~~XVAK........QLSIFLEN.....KSGRLTEVTEVLAKEN
+A          KSILTSIVLKR..NVT.....MLDIASTRM.L.GQVGFLAKVFSIFEELG
+A          MSDSIVKAIST.....IKNVALINIFGAGMVG..VSGTAARIFKALGEEE
+
+           51                                             100
+A          VNVQMISQGASK...VNISFIVNEA...........EAEGCVQALHKSFF
+A          VFIEYXYS.FANNNVANVVIRPS.............NXDKCIEVLKEKKV
+A          FNIRMICYGASS...HNLCFLVPGE...........DAEQVVQKLHSNLF
+A          INLSALCI.AENADFGILRGIVS.............DPDKAYKALKDNHF
+A          ISVDVVAT.SEV....SISLTLD.PSKLWSRELIQQELDHVVEELEKIAV
+A          VNVILISQ.GSS..ETNISLVVSEE...........DVDKALKALKREFG
+
+           101                             135
+A          ESGDLSELLIQ~~~~~~~~~~~~~~~~~~~~~~~~
+A          ...........DLL.AASDLYKL~~~~~~~~~~~~
+A          E~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ...........AVNIT.......D~~~~~~~~~~~
+A          ............VNL........LKG~~~~~~~~~
+A          ...........DFLN........NNLIRDVSVDKD
+

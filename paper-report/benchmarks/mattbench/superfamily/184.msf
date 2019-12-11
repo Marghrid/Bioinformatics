@@ -1,0 +1,23 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/184.msf MSF:  72 Type: P 11/12/19 CompCheck: 3291 ..
+
+  Name: C          Len: 72  Check: 8272 Weight: 1.00
+  Name: A          Len: 72  Check: 6472 Weight: 1.00
+  Name: A          Len: 72  Check: 5240 Weight: 1.00
+  Name: A          Len: 72  Check: 3307 Weight: 1.00
+
+//
+
+           1                                               50
+C          G.............RPRAINKHEQEQISRLLEKGHPRQQLAIIFGIGVST
+A          ~G............RK.RKID..RDAVLNMWQQGLGASHISKTMNIARST
+A          ~~PR..........GS.ALSDTERAQLDVMKLLNVSLHEMSRKISRSRHC
+A          ~~G.VNQLGGVFVNGR.PLPDVVRQRIVELAHQGVRPCDISRQLRVSHGC
+
+           51                  72
+C          LYRYFPASSI~~~~~~~~~~~~
+A          VYKVI.NESN~~~~~~~~~~~~
+A          IRVYL.KDP.VSYGTSKR~~~~
+A          VSKIL.GRYYETGS....IKPG
+

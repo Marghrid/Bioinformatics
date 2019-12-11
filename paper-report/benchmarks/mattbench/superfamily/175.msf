@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/175.msf MSF:  124 Type: P 11/12/19 CompCheck:  749 ..
+
+  Name: A          Len: 124  Check: 8412 Weight: 1.00
+  Name: A          Len: 124  Check: 1220 Weight: 1.00
+  Name: X          Len: 124  Check: 1117 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~~~~~~~~~~AFVQEPLPFDPGALEPYGMSAKTLEFHYGKHHKG
+A          SIGFIDRQLGTN....PAELPPLPYGYDALE.KAIDAETMKLHHDKHHAA
+X          S...........VTTKRYTLPPLPYAYNALE.PYISAEIXQLHHQKHHQG
+
+           51                                             100
+A          YVDNLNKLTQDTE.LADKSLEDVIRTTYGD.............AA..KVG
+A          YVNNLNNALKKHPELQNSSVEALLRDL..NSVP..........EDI.RTT
+X          YVNGANAALEKLE....................KFRKGEAQIDIRAVLRD
+
+           101                  124
+A          IFNNAAQVWNHTFFWNSLKP~~~~
+A          VRNNGGGHLNHTIFWQIMSP~~~~
+X          LSFHLNGHILHSIFWPNXAPPGKG
+

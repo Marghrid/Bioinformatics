@@ -1,0 +1,47 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/264.msf MSF:  201 Type: P 11/12/19 CompCheck: 1497 ..
+
+  Name: A          Len: 201  Check: 4771 Weight: 1.00
+  Name: A          Len: 201  Check: 2272 Weight: 1.00
+  Name: A          Len: 201  Check: 1315 Weight: 1.00
+  Name: A          Len: 201  Check: 4513 Weight: 1.00
+  Name: A          Len: 201  Check: 8626 Weight: 1.00
+
+//
+
+           1                                               50
+A          M............ANITVFYNEDFQGKQVDLPPGNYTRAQ.LAALG.IEN
+A          T............FRMRIYERDDFRGQMSEIT.DDCPSL..QD.RF.HLT
+A          E............HKIILYENPNFTGKKMEIVDDDVPSF..HA.HG.YQE
+A          ~~~~~~~~~~~~~GKITFYEDRGFQGRHYECS.TDHSNL..QP....YFS
+A          MSVCKGVSGNPAKGEVFLYKHVNFQGDSWKVT.GNVYDF.RSV..SGLND
+
+           51                                             100
+A          NTISSVKVPPGVKAILY.QNDGFAGDQIEV..VANAEELG.....PLNNN
+A          E.VHSLNVLEG.SWVLY.EMPSYRGRQYLLR.PGEYRRYLDWGA.MNAKV
+A          K.VSSVRVQSG.TWVGY.QYPGYRGLQYLLE.KGDYKDNSDFGA.PHPQV
+A          R.CNSVRVDSG.CWMLY.EQPNFTGCQYFLR.RGDYPDYQQWMG.FSDSV
+A          V.VSSVKVGPNTKAFIFKDDRF.NGNFIRLEESSQVTDLT..TRNLNDAI
+
+           101                                            150
+A          VSSIRVISVPVQ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          .GSLRRVMDF...Y~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          .QSVRRIRDM..QGNPKIIIFEQENFQGHSHELSGPCPNLKETGMEKAGS
+A          .RSCRLIPHS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          .SSIIVATFE..S.....................................
+
+           151                                            200
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          VLVQAGPWVGYEQANCKGEQFVFEKGEYPRWDSWTSSRRTDSLSSLRPIK
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ..................................................
+
+           201 201
+A          ~
+A          ~
+A          ~
+A          ~
+A          A
+

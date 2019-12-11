@@ -1,0 +1,20 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/704.msf MSF:  87 Type: P 11/12/19 CompCheck: 4061 ..
+
+  Name: A          Len: 87  Check: 4987 Weight: 1.00
+  Name: A          Len: 87  Check: 4959 Weight: 1.00
+  Name: A          Len: 87  Check: 4115 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~~~DLPPNLYIRNNGYYCY.R.DPRTG.KEFGL..GRDRR....
+A          EKRRDNRGRILKTGESQRKDGRYLYKY.IDSFG.EPQFVY.SWKLVATDR
+A          ~~~~~~~~~KHYRGVRQRPWGKFAAEIRDPAKNGARVWLGTFETAE....
+
+           51                                 87
+A          .........IAITEAIQANIELFSGH~~~~~~~~~~~
+A          VPAGKRDCISLREKIAELQKDIHD~~~~~~~~~~~~~
+A          .........DAALAYDRAAFRMRG..SRALLNFPLRV
+

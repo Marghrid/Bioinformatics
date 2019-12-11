@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/568.msf MSF:  105 Type: P 11/12/19 CompCheck: 2191 ..
+
+  Name: A          Len: 105  Check: 8075 Weight: 1.00
+  Name: C          Len: 105  Check: 6226 Weight: 1.00
+  Name: A          Len: 105  Check: 8954 Weight: 1.00
+  Name: A          Len: 105  Check: 6653 Weight: 1.00
+  Name: A          Len: 105  Check: 2283 Weight: 1.00
+
+//
+
+           1                                               50
+A          P.SK........LALIQELPDRIQTAVEAAMGM.SYQDAPNNV.......
+C          ~EKE........LFEXLDEDVRELLSLIHEIKIDRITG............
+A          ~~~~~~~~~~~~MFEKIRKILADIEDSQNEIEMLLKLA.NL.SLGDFIEI
+A          ~SQTVRVDIEK.LDNLMDLMGELVIARSRILETLKKYN............
+A          ~MTK.......QEKTALNMARFIRSQTLTLLEKLNELD............
+
+           51                                             100
+A          ...............RRDLDNLHACLNKAKLTVSRMVTSLLEKPSVVAYL
+C          ...............N..XDKQKLGKAYFQVQKIEAELYQLI.K..V...
+A          KRGSMDMPKGVNEA.FFTQLSEEVERLKELINALNKIKKGLL.V......
+A          ...............IKELDESLSHLSRITLDLQNVVMKIR~~~~~~~~~
+A          ..............AD.EQADICESLHDHADELYRSCLARF~~~~~~~~~
+
+           101
+A          EG~~~
+C          ..SH~
+A          ....F
+A          ~~~~~
+A          ~~~~~
+

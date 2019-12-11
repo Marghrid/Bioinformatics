@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/639.msf MSF:  211 Type: P 11/12/19 CompCheck: 1030 ..
+
+  Name: A          Len: 211  Check:  354 Weight: 1.00
+  Name: A          Len: 211  Check: 4112 Weight: 1.00
+  Name: B          Len: 211  Check: 6564 Weight: 1.00
+
+//
+
+           1                                               50
+A          R.SIRL........PE.TIDLGALYLSMKDTEKG................
+A          ~PKQ..........YDGSTDAQIALSTIGR....................
+B          ~~~~IRTFGWVQNPGK.FENLKRVVQVFDR..N.SKVHNEVKNIKIPTLV
+
+           51                                             100
+A          ............IKELNLEKDKKIFN.HCFTGNCVI........DWLVS.
+A          ............VN.............QRFGXGYVV........EVIRGA
+B          KESKIQKELVAIMN............QLIYTYKELVGTGTAPCDAIIQA.
+
+           101                                            150
+A          ................NQSV........RNRQEGLMIASSLLNEGYLQPA
+A          NNQRIRDYGHDKLKVYGXGRD.......KSHEHWVSVIRQLIHLGLVTQN
+B          .................TIADQGNKKGYIDNWSSDGFLRWAHALGFIEYI
+
+           151                                            200
+A          GDMSKSAVDGTAENPFLDNP.DAFYYFPDSGFFCEENS~~~~~~~~~~~~
+A          IA..................QHSALQLTE.........AARPVLRGESSL
+B          NK...................SDSFVITD.........VGLAYSK.....
+
+           201     211
+A          ~~~~~~~~~~~
+A          QLAVPRIV~~~
+B          ........SAD
+

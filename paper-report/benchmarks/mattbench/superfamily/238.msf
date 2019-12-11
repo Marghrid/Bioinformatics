@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/238.msf MSF:  86 Type: P 11/12/19 CompCheck: 6514 ..
+
+  Name: A          Len: 86  Check:  260 Weight: 1.00
+  Name: A          Len: 86  Check: 6195 Weight: 1.00
+  Name: 1          Len: 86  Check: 5052 Weight: 1.00
+  Name: A          Len: 86  Check:  994 Weight: 1.00
+  Name: A          Len: 86  Check: 5000 Weight: 1.00
+  Name: B          Len: 86  Check: 9013 Weight: 1.00
+
+//
+
+           1                                               50
+A          HM...K...RTARLIGKVDFVEALGTDTILHVKFG.DELVK..VKLPGH.
+A          ~~~RLS...ARNILTGTVKTIETGAVNAEVTLALQGGTEIT..SMVTKEA
+1          V...R.VP.GENLVRAVVEIVENLGSERIVRLRVG.GVTFV..GSFRSE.
+A          ~~MKIS...ARNVFKGTVSALKEGAVNAEVDILLGGGDKLA..AVVTLES
+A          ~~~~~~~~PEMNILEVSVGDG.........YLEGR.GFRIELPQMDL...
+B          ~~SIS....ARNQLKGKVVGLKKGVVTAEVVLEIAGGNKIT..SIISLDS
+
+           51                                86
+A          I...PIEPGREVKVIMDLDMIHVFDKDTEKAIV~~~
+A          VAELGLKPGASASAVIKASNVILGV.P~~~~~~~~~
+1          S...RVREGVEVDVVFDMKKIHIFDKTTGKAIF~~~
+A          ARSLQLAAGKEVVAVVKAPWVLLMT..DS....SGY
+A          L...KDYVGKTVLFGIRPEHMTVEG......V~~~~
+B          VEELGVKEGAELTAVVKSTDVMILA~~~~~~~~~~~
+

@@ -1,0 +1,47 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/212.msf MSF:  240 Type: P 11/12/19 CompCheck: 7258 ..
+
+  Name: A          Len: 240  Check: 2026 Weight: 1.00
+  Name: C          Len: 240  Check: 7217 Weight: 1.00
+  Name: A          Len: 240  Check: 5802 Weight: 1.00
+  Name: A          Len: 240  Check:  756 Weight: 1.00
+  Name: A          Len: 240  Check: 1457 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~QGLAKSVCKATTEE.C
+C          DHDTEVIV..........................KDFNSILEEL.....T
+A          ~~~~~~~~MSTSSLRRQMKNIVHNY.........SEAEIKVREATSND.P
+A          ~~~~~~~~S................DFLLGNPFSSPVGQRIEKATDGSLQ
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ESLESWLNKATNPSNR
+
+           51                                             100
+A          IGPKKKHLDYLVHCANEP.NVSIPHLANLLIERSQN..ANWVVVYKSLIT
+C          FN.SRPIITTLTKLAEENISCAQ.YFVDAIESRIEK..CMPKQKLYAFYA
+A          WGPSSSLMSEIADLTYNV.VAFS.EIMSMIWKRLNDHGKNWRHVYKAMTL
+A          SE.DWALNMEICDIINET.EEGPKDALRAVKKRIVGN.KNFHEVMLALTV
+A          QE.DWEYIIGFCDQINKE.LEGPQIAVRLLAHKIQS..PQEWEALQALTV
+
+           101                                            150
+A          THHLMAYGNERFMQYLASSN..STF...NLSS..F...LDKGTGGMGVPG
+C          LDSICKNVGSPYTIYFSRN...LFNLYKRTYL......L...........
+A          MEYLIKTGSERVSQQCKEN...MYA.VQTLKD..F...QYVDR.......
+A          LETCVKNCGHRFHVLVASQ.DFVESVLVRTILPKN...N...........
+A          LEACXKNCGRRFHNEVGKF.RFLNE.LIKVVSPKYLGDR...........
+
+           151                                            200
+A          GRMGYD.MSPFIRRYAKYLNEKSLS.....YRAMAF.D............
+C          .......VDNTTRTKLINMFKLWLNPNDTGLP....L.FEGSALEKIEQF
+A          DG..K.DQGVNVREKAKQLVALLRD.....ED....RL............
+A          .......PPTIVHDKVLNLIQSWADA....FR.SS...PDLTGVVTIYED
+A          .......VSEKVKTKVIELLYSWTXA....LP..E...EAKIKDAYHXLK
+
+           201                                  240
+A          .........FCKV~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C          ..LI.K.......ASAA~~~~~~~~~~~~~~~~~~~~~~~
+A          .........REE.....RAHALKTKEKLAQTA~~~~~~~~
+A          LRR.KGLEF.......................PM~~~~~~
+A          RQGIVQSDPPI.P.....................VDRTLI
+

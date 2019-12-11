@@ -1,0 +1,54 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/145.msf MSF:  262 Type: P 11/12/19 CompCheck: 3731 ..
+
+  Name: A          Len: 262  Check: 2006 Weight: 1.00
+  Name: A          Len: 262  Check: 5037 Weight: 1.00
+  Name: A          Len: 262  Check: 5901 Weight: 1.00
+  Name: I          Len: 262  Check: 3340 Weight: 1.00
+  Name: A          Len: 262  Check: 7447 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~N.H.FDVISAFIKSIRGSDPDATLYWLANMVEAGEDPNFIFRRLLIS
+A          GD.R.F.YDLISALHKSVRGSAPDAALYWYARILTAGGDPLYVARRLLAI
+A          ~~DA.H.YDVISAFQKSIRGSDVDAALHYLARLVEAG.DLASICRRLMVI
+I          ~~~~TLDDDQALSLVEAMVEANGERVMALINEAAARGIEWEALLVEMLGL
+A          ~~~~~~~F.TPFHWVDALLMGKSKRALHILQQLRLEGSEPVILLRTLQRE
+
+           51                                             100
+A          ACEDI.............................................
+A          ASEDV.............................................
+A          GYEDI.............................................
+I          LHRIAMVQLSPAALGNDMAAIELRMRELARTIP.................
+A          LLLLVNLKRQSAHTPLRALFDKH..........RVWQNRRGMMGEALNRL
+
+           101                                            150
+A          .GLADPNAIVVVQSCCDAFD.RVGFP.EGLFFLSQASLYLAI.SPKSNST
+A          .GNADPRAMQVALAAWDCFTRVGA.Y.EGERAIAQAIIYLSV.APKSNAV
+A          .GLGNPAAAARTVNAVLAAE.KLGLP.EARIPLADVVVDLCL.SPKSNSA
+I          .PTDIQLYYQTLLIGRKELP.YA...PDRRMGVEMTLLRALAFHPR....
+A          SQTQLRQAVQLLTRTELTLKQDY....GQS..VWAELEGLSL.LLC....
+
+           151                                            200
+A          K.SIFKAMEAI.K.....L.VPNHL.KNNA..SNYLNPHNYLQ.......
+A          YTAFNTAKQQAKDLPDY.D.VPPHL.RNAPTN...........LAG....
+A          YMALDAALADIREGKA.GDVP....DHL..RDS.H.Y.NRG.....VGYQ
+I          ..................................................
+A          ..................................................
+
+           201                                            250
+A          ..........QEY.L.PTD..L.IKFWKPK..G.WEKNKY~~~~~~~~~~
+A          ..........ENY.F.PPEL.KDTQYYFPTNRG.MEIQIKEKLERLR~~~
+A          YPHHFDQAWVNQQYLPD.KLKN.AQYYQPKDTGKYEQALGQQYYRIKEWK
+I          ..................................................
+A          ..................................................
+
+           251      262
+A          ~~~~~~~~~~~~
+A          ~~~~~~~~~~~~
+A          E~~~~~~~~~~~
+I          .MPLPEP~~~~~
+A          .H.....KPLAD
+

@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/400.msf MSF:  283 Type: P 11/12/19 CompCheck: 5044 ..
+
+  Name: A          Len: 283  Check: 2172 Weight: 1.00
+  Name: B          Len: 283  Check:  465 Weight: 1.00
+  Name: A          Len: 283  Check: 2407 Weight: 1.00
+
+//
+
+           1                                               50
+A          VEKTPWELV.IDFHGHTCPD...................IALGYRIAQLA
+B          ~~~~~~~~~ESL.VT.....CGRLFMDAVKQSKAQLLP.VDSEHNAIFQS
+A          ~~~~~~~~~~~~~~~~~~SS..................HTVGPXLAANAF
+
+           51                                             100
+A          QREXGI.................RPAPDSECLVKAY..TQ..........
+B          L...PQPIQHNLGYADLE.....QN...GVVSILLT..GSGGPFRETPLR
+A          LQL.LE............QKNLFDKT..QRVKVELYGSLAL.........
+
+           101                                            150
+A          ...............................S....CALDAIQVLN....
+B          DLATMTPDQACRHPNWSMGRKISVDSATMMNKG...LEYIEARWLF....
+A          ...............................TGKGHGTDKAILNGLENKA
+
+           151                                            200
+A          .....................K.........ATIGRHALIIEE.TH....
+B          .....................N.........AS..ASQMEVLI.HP....
+A          PETVDPASXIPRXHEILDSNLLNLAGKKEIPFHE.ATDFLFLQKELLPKH
+
+           201                                            250
+A          RY..XYQFHFTGT....QDIHQFTVSPAVLDHLETLRHPDLSPRERQNKV
+B          QSVIHSMVRYQD.....GSVLAQLGEP~~~~~~~~~~~~~~~~~~~~~~~
+A          SN..GXRFSAFDGNANLLIEQVYYSIG.......................
+
+           251                           283
+A          LEGVQYVLTLEESAFCHYDKIPGQLSKI~~~~~
+B          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          .....GG.......FITTE.........EDFDK
+

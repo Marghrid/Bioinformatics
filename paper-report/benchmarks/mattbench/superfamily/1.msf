@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/1.msf MSF:  132 Type: P 11/12/19 CompCheck: 8553 ..
+
+  Name: K          Len: 132  Check: 6344 Weight: 1.00
+  Name: A          Len: 132  Check: 1506 Weight: 1.00
+  Name: A          Len: 132  Check: 9338 Weight: 1.00
+  Name: A          Len: 132  Check: 8178 Weight: 1.00
+  Name: B          Len: 132  Check: 8107 Weight: 1.00
+  Name: B          Len: 132  Check: 5080 Weight: 1.00
+
+//
+
+           1                                               50
+K          X..........TNWLRVYYYEDTISTI.KDIAVEEDLSST.PLLKDLLEL
+A          ~~~~~~~~~~~QVRVKAYY....RGDI.MITHF....EPS.ISFEGLCNE
+A          ~MEP.......QVTLNVTF....KNEI.QSFLV..S.DPENTTWADIEAM
+A          ~MALGPFPAMQVLVIRIKI....PNSGAVDWTV....HSQ.LLFRDVLDV
+B          ~~QS.......DVRIKFEH....NGER.RIIAF....SRP.VKYEDVEHK
+B          ~~~~~~~~~~~AYTLKVH.....YKYT.VVXKT....QPG.LPYSQVRDX
+
+           51                                             100
+K          TRREFQR...EDI.ALNYRD.AEGDLVRLLSDEDVALXVRQA.RGLP.SQ
+A          VRDMCSFDNEQLF.TMKWID.EEGDPCTVSSQLELEEAFRLYELNK.DS.
+A          VKVSFDL...NTI.QIKYLD.EENEEVSINSQGEYEEALKMAVKQG....
+A          IGQVLPE...ATTTAFEYED.EDGDRITVRSDEEMKAMLSYYYSTVM.E.
+B          VTTVFG....QPL.DLHYM..NNELSILLKNQDDLDKAIDILDRSSSMK.
+B          VSKKLELRL.EHT.KLSYRPRDSNELVPL.SEDSXKDAWGQV.KNY....
+
+           101                          132
+K          KRLF.........PWKLHITQKDNYRVYNTXP
+A          .............ELLIHVFP~~~~~~~~~~~
+A          ...N.........QLQMQVHEG~~~~~~~~~~
+A          ....QQVNGQLIEPLQIFPR.A~~~~~~~~~~
+B          .............SLRILLLSQ~~~~~~~~~~
+B          .............CLTLWCE~~~~~~~~~~~~
+

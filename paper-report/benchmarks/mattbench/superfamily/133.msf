@@ -1,0 +1,65 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/133.msf MSF:  239 Type: P 11/12/19 CompCheck: 2441 ..
+
+  Name: A          Len: 239  Check: 8151 Weight: 1.00
+  Name: A          Len: 239  Check:  822 Weight: 1.00
+  Name: A          Len: 239  Check: 8086 Weight: 1.00
+  Name: A          Len: 239  Check:  732 Weight: 1.00
+  Name: N          Len: 239  Check: 2014 Weight: 1.00
+  Name: A          Len: 239  Check: 6063 Weight: 1.00
+  Name: B          Len: 239  Check: 9630 Weight: 1.00
+  Name: A          Len: 239  Check: 6943 Weight: 1.00
+
+//
+
+           1                                               50
+A          MIQ..KVITV........................................
+A          ~~M..KTIII........................................
+A          ~~~~~SKVVYVSH..DG.................................
+A          ~~~~~PKIVILP.HQ..DLCP.............................
+N          AEMKNLKIEVVR.YNP.....EVDTAP.......................
+A          ~~~~~PTVEYLNYE.TLD.........DQGWDMDDDDLFEKAADAGLDGE
+B          ~DK..ITVHFINRD.G..................................
+A          ~~~~~AKIIFIEH..NG.................................
+
+           51                                             100
+A          NGIEQNLFVDAE.ALLSDVLRQ...QLGLT.G..VKVG....CEQ.G...
+A          NGVQFNTD.ED..TTILKFAR....DNNID....ISALCFLNNCNNDIN.
+A          TRRELDVA.DG..VSLMQAAV....SNGIY..D.IVGDCG..GSA.....
+A          DGAVLEAN.SG..ETILDAAL....RNGIE....IEHACE..KSC.....
+N          HSAFYEVP.YDATTSLLDALGYIKDNLAPDLS..YRWSC...RMAI....
+A          DYGTMEVA.EG..EYILEAAE....AQGYD....WPFS....CRAG...A
+B          ETLTTKGK.IG..DSLLDVVV....QNNLDID.GFGAC.E..GTL.....
+A          TRHEVEAK.PG..LTVMEAAR....DNGVP.G..IDADCG..GAC.....
+
+           101                                            150
+A          QCGACSVILDG.....................................KV
+A          KCEICTVEVEG..T..................................GL
+A          SCATCHVYVNEAFTDKVPAANEREIGMLECVTAELKP...........NS
+A          ACTTCHCIVRE.GFDSLPESSEQEDDMLDKAWGLEP............ES
+N          CGSC.GMMVNN.....................................VP
+A          CANC.ASIVKE.GE..ID..MDM.Q.........Q..ILSDEEVEEK.DV
+B          ACSTCHLIFEQHIFEKLEAITDEENDMLDLAYGLTD............RS
+A          ACSTCHAYVDPAWVDKLPKALPTETDMIDFAYEPNP...........ATS
+
+           151                                            200
+A          VRACVTKMKRV...ADGAQITT....IEG....VG~~~~~~~~~~~~~~~
+A          VTACDTLIE.....DG.MIINTNSDAVN.....E.K.IKSRISQLLDIHE
+A          RLCCQIIMT..PE.LDGIVVDV....PD.....R...Q..W~~~~~~~~~
+A          RLSCQARVT...D.ED.LVVEI....PR.....Y...T..IN.HARE~~~
+N          KLACKTFLRD....YT.DGMKV.E..AL.ANFPI..ERD...........
+A          RLTCIGSPA.....ADEVKIVYN...AK.....H.L..DY..L....Q..
+B          RLGCQICLT...KAMDNMTVRV....PD.....A..V~~~~~~~~~~~~~
+A          RLTCQIKVT..SL.LDGLVVHL....PE.....K...Q..I~~~~~~~~~
+
+           201                                 239
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          FKCGPCNRRENCEFLKLVIKYKARASKPFLP~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+N          ...............................LVVD~~~~
+A          ...................................NRVI
+B          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

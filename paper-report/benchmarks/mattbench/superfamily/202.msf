@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/202.msf MSF:  215 Type: P 11/12/19 CompCheck: 5716 ..
+
+  Name: A          Len: 215  Check: 1002 Weight: 1.00
+  Name: A          Len: 215  Check: 9524 Weight: 1.00
+  Name: A          Len: 215  Check: 1456 Weight: 1.00
+  Name: A          Len: 215  Check: 3734 Weight: 1.00
+
+//
+
+           1                                               50
+A          MIEETAKKVKELGFK.KAGLL......ATT..GTIVSGVYEKEFSKYG..
+A          ~~~~~~~~~~~~~~NKKIGVIG.TP.ATVKSGAYQRK..LEEGG......
+A          ~~~~~~~~~~~~~MK.TIGILGGMGPLATA..ELFRR..IVIKT.P.AKR
+A          ~~~~~~~~~~~~~~M.KIGIFDS.GV.GGL..TVLKA..IRNRYR..K..
+
+           51                                             100
+A          ....VEIMTPTEDEQKDVM.RGIY.EGVKAG......NL...KLG.....
+A          ....ADVFAK....AC.........PLF.APLA....EEGL.L..EGEIT
+A          DQEHPKVIIF....NNP..Q.I...PDRTAYI.LGKGED...P.......
+A          ....VDIVYL....GDT..AR...VPYG.IR......SK..DT.I.....
+
+           101                                            150
+A          RELLLKTAKILEERGAECIIAGCT.EVS..VVL..KQDDLK.VPLID...
+A          RKVVEHYLKEFKGK.IDTLILGC..TH.YPLLKKEIKKFLGDAEVVD...
+A          RPQLIWTAKRLEECGADFIIMPCNTAH...AFVEDIRKAIK.IPIIS...
+A          IRYSLECAGFLKDKGVDIIVVACNTASA..YALERLKKEIN.VPVFGVIE
+
+           151                                            200
+A          P~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          SS.EALSLSLHNFIKDDGSSSLELFFTDLSPNLQFLIKLILGRDYPVKLA
+A          MIEET.AKK.........................................
+A          PGV..KE...........................................
+
+           201         215
+A          ~~~~~~~~~~~~~~~
+A          EGVF~~~~~~~~~~~
+A          ....VKELG~~~~~~
+A          .........ALKKSR
+

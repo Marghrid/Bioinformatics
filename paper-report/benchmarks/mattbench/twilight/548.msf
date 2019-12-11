@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/548.msf MSF:  135 Type: P 11/12/19 CompCheck: 1802 ..
+
+  Name: A          Len: 135  Check: 2016 Weight: 1.00
+  Name: A          Len: 135  Check: 4048 Weight: 1.00
+  Name: A          Len: 135  Check: 5738 Weight: 1.00
+
+//
+
+           1                                               50
+A          YQHDVSQLKLARSLDAVVEDCVNAVGVD.................VNTAS
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~KKISQYACQRRTTLNN.YNQLF
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~E...............TLNGGI
+
+           51                                             100
+A          AALLARISG................LNSTLAQNIVAHRDANGAFRTRDEL
+A          TDALDIL..AENDELRENEGSCL..AFMRASSVLKS.LP..FPITSMKDT
+A          TDMLTEL..ANFEKNVSQAIHK.YNAYRKAASVIAK.YP..HKIKSGAEA
+
+           101                             135
+A          KKVSRLGEKTFEQAAGFLRVMNG~~~~~~~~~~~~
+A          EGIPCLGDKVKSIIEGIIED...GESSEAKAVLN~
+A          KKLPGVGTKIAEKIDEFLAT...GKLRKLEKIRQD
+

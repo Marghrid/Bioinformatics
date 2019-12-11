@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/241.msf MSF:  296 Type: P 11/12/19 CompCheck: 8903 ..
+
+  Name: A          Len: 296  Check: 4175 Weight: 1.00
+  Name: A          Len: 296  Check: 2925 Weight: 1.00
+  Name: A          Len: 296  Check: 1803 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~MIYYGTMFDHKVRFSIVRMREVVEEARNRHALSYLATVVLGRALIGAA
+A          MDYLVKALAYDGKVRAYAARTTDMVNEGQRRHGTWPTASAALGRTMTASL
+A          HDQLHRYLFENFAVRGELVTVSETLQQILENHDYPQPVKNVLAELLVATS
+
+           51                                             100
+A          LVTPWLAEKERWTLDIEGNGPIRRVVAQSTSEFTVRGYVANPK.VELPLN
+A          MLGAMLKGDDKLTVKIEGGGPIGAIVADANAKGEVRAYVSNPQ.VHFDLN
+A          LLTATLKFDGDITVQLQGDGPMNLAVINGNNNQQMRGVARVQ.GEIPEN.
+
+           101                                            150
+A          EKGKFDVAGAIG.QGVLRVVRDLGLKTPFVSQVPLVSGEIAEDLAYYFAV
+A          AAGKLDVRRAVGTNGTLSVVKDLGLREFFTGQVEIVSGELGDDFTYYLVS
+A          ....ADLKTLVG.NGYVVITITPSEGERYQGVVGLEGDTLAACLEDYFMR
+
+           151                                            200
+A          SEQIPSAFSIGVLVD.SD..GVKIAGGFAVQIIDRTLEQEKVEMIEKNIK
+A          SEQVPSSVGVGVLVNPD.N.TILAAGGFIIQLMP.GTDDETITKIEQRLS
+A          SEQLPTRLFIRTGDV....DGKPAAGGMLLQVMP................
+
+           201                                            250
+A          NLPSISKLFQEA.EP.LDVLERIFGEKVGFV.ETAEIKYK~~~~~~~~~~
+A          QVEPISKLIQK.GLTPEEILEEVLGEKP.EILETMPVRF~~~~~~~~~~~
+A          ........................................AQNAQQDDFD
+
+           251                                        296
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          HLATLTETIKTEELLTLPANEVLWRLYHEEEVTVYDPQDVEFKCTC
+

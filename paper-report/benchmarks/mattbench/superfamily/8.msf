@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/8.msf MSF:  141 Type: P 11/12/19 CompCheck: 3281 ..
+
+  Name: A          Len: 141  Check: 9128 Weight: 1.00
+  Name: A          Len: 141  Check:  728 Weight: 1.00
+  Name: A          Len: 141  Check: 3897 Weight: 1.00
+  Name: A          Len: 141  Check: 4699 Weight: 1.00
+  Name: A          Len: 141  Check: 3582 Weight: 1.00
+  Name: A          Len: 141  Check: 6432 Weight: 1.00
+  Name: A          Len: 141  Check: 4062 Weight: 1.00
+  Name: A          Len: 141  Check: 3574 Weight: 1.00
+  Name: A          Len: 141  Check: 2361 Weight: 1.00
+  Name: B          Len: 141  Check: 4818 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~X...........................RHIISLL..XENEA..GA
+A          G....QETSYIEDNSNQNG.............AISLIFS..LKEEV..GA
+A          Q..TH..............AY...........TVEVYVE..SDDKL..GL
+A          ~NEEV...........................AGTITIV..YNHD.EGDV
+A          ~~SLT................Q..........HLVITAV..GTDRP..GI
+A          ~~~~X...........................KAIITVV..GKDKS..GI
+A          ~~~~~~~~~~~~~~~~~~~~~~AQ........GINLIIHY.VDR.P..GA
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~SLXFLITPXHDK.P..GL
+A          ~~~~~~~~~~~~~~~~~~~~~~FPEVSLPLHGGRRLMHI..HENRP..GV
+B          ~GTQG...........................FAVLSYV..YEH....RD
+
+           51                                             100
+A          LSRVAGLFSARG.YNIESLSVAPTE.DPTLSRXTLVTN...GPDEI..VE
+A          LAKVLRLFEEND.INLTHIESRPSRLNKDEYEFFTYLDKR.TKP.V..LG
+A          TEKFTQFFAQRQ.IGMASLSAQTIS...NQFHIAISAR...VDSG.CNLM
+A          VKALLDLQHEYL.DEIISSLHVHMD..EHNCLEVIVVK...GEAKK..IK
+A          CNEVVRLVTQAG.CNIIDSRIAMFG...KEFTLLMLIS...GSPSN..IT
+A          VAGVSGKIAELG.LNIDDISQTVLD...EYFTXXAVVSS.DEKQD...FT
+A          LGKIGTLLGTAG.VNIQAAQLSEDAEG.PGATILLRLD...QDV....PD
+A          LASVLNTFALFN.INLSWIESRPLKTQLGXYRFFVQADS..AITTD..IK
+A          LTALNKIFAEQG.VNIAAQYLQTSA...QMGYVVIDIE...ADEDV..AE
+B          LASRIVSTQHHHHDLSVATLHVHIN..HDDCLEIAVLK...GDMGD..VQ
+
+           101                                   141
+A          QITKQLNK.L.I..EVV..KLIDL....S~~~~~~~~~~~~
+A          SIIKSLRNDI.G....A..TVHEL....SRDKEK~~~~~~~
+A          QLQEEFDA.LCTALDVQG.SLNFI....K.....N~~~~~~
+A          MIADKLLS.L.K..GVK..HGKLVM...T.S~~~~~~~~~~
+A          RVETTLPL.LGQQHDLIT.MMKRT....S.....PHDH~~~
+A          YLRNEFEAFG.QTLNVKI.NIQSA....AI........FE~
+A          DVRTAIAA.A....VDA.YKLEVV....DL....S~~~~~~
+A          KVIAILET.L.........DFKVE.XIGA.....FN~~~~~
+A          KALQAMKA.I...PGTI..RARLL....Y~~~~~~~~~~~~
+B          HFADDVIA.Q.R..GVR..HGHLQC...L.P.........K
+

@@ -1,0 +1,30 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/15.msf MSF:  179 Type: P 11/12/19 CompCheck: 5089 ..
+
+  Name: A          Len: 179  Check: 6841 Weight: 1.00
+  Name: C          Len: 179  Check: 5125 Weight: 1.00
+  Name: A          Len: 179  Check: 3123 Weight: 1.00
+
+//
+
+           1                                               50
+A          S..........SIIRKVIST...............SKAPAAIGAYSQAVL
+C          ~QSTSLYKKAGLXYIEVVKT...............NKAPEAIGPYSQAIV
+A          ~~~~~~~~~~~~~~~~~~~~XNTPESRLVAAGLELPEVAAALGNYEPYSI
+
+           51                                             100
+A          VDRTIYVSGQIGMDPSSGQLVPG...........GVAEEAKQALKNLGEI
+C          TGSFVYTSGQIPINPQTGEVVDG...........GIEEQAKQVLENLKNV
+A          VGSQLXTSGQFPYL..QGKLLY.QGQLGADYTVSEGYAACRLATLNAIAQ
+
+           101                                            150
+A          LKAAG.CD..FTNVVKTTVLLAD....IN...DFGTVNEIYKTYFQG.NL
+C          LEAAG.SS..LNKVVKTTVFIKD....XD...SFAKVNEVYAKYFSE.PY
+A          LKQACGELSRIKQIYRLEGVLNVHQSCIEHPKALDGASDLLLEIFGEAGR
+
+           151                       179
+A          PARAAYQVAALPKGSRIEIEAIAVQGPFT
+C          PARSCVEVSKLPKGVLIEIEAVAIK~~~~
+A          HSRXIWTNPVXPLNSLCLVYLFAEL~~~~
+

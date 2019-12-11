@@ -1,0 +1,55 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/256.msf MSF:  169 Type: P 11/12/19 CompCheck: 2356 ..
+
+  Name: G          Len: 169  Check: 1097 Weight: 1.00
+  Name: F          Len: 169  Check: 7004 Weight: 1.00
+  Name: D          Len: 169  Check:  462 Weight: 1.00
+  Name: R          Len: 169  Check: 8956 Weight: 1.00
+  Name: K          Len: 169  Check: 6101 Weight: 1.00
+  Name: A          Len: 169  Check: 5042 Weight: 1.00
+  Name: A          Len: 169  Check: 5366 Weight: 1.00
+  Name: 1          Len: 169  Check: 8328 Weight: 1.00
+
+//
+
+           1                                               50
+G          I..GV..P.....IKVLHEAE..GHIVTCETNT.GEVYRGKLIEAEDNMN
+F          ~~S.L..Q.....DPYLNTLRKERVPVSIYLVN.GIKLQGQIESFDQF.V
+D          ~T...VGK.....SSKMLQHI..DYRMRCILQD.GRIFIGTFKAFDKHMN
+R          ~~N.I..Q.....DKALENFKANQTEVTVFFLN.GFQMKGVIEEYDKY.V
+K          ~~~~~~~~~~~~~F..LKGLV..NHRVGVKLKFNSTEYRGTLVSTDNYFN
+A          G..NI..ILP...LALIDKCI..GNRIYVVMKG.DKEFSGVLRGFDEYVN
+A          ~MNFL..A..ETAHKVLAESL..NNLVLVKLKG.NKEVRGMLRSYDQHMN
+1          ~~~~~~~F.....VAELNNLL..GREVQVVLSN.GEVYKGVLHAVDNQLN
+
+           51                                             100
+G          CQMSNITVTYRDG..RVA.............QLEQVYIRGCKIRFLILP.
+F          ILLK...........................NTVSQMVYKHAISTVVPSR
+D          LILCDCDEFR..K.IKPKNSKQAEREEKR..VLGLVLLRGENLVSMTVEG
+R          VSLN.S.........................QGKQHLIYKHAISTYTVE~
+K          LQLNEAEEFV..AGVSHG.............TLGEIFIRSNNVLYIRELP
+A          MVLDDVQEYG..FRVMVN.............RLETILLSGNNVAMLVPG.
+A          LVLSDSEEIQ..S.D.GS...........GKKLGTIVIRGDNVILISPL~
+1          IVLANASNK......AGE.............KFNRVFIXYRYIVHIDSTE
+
+           101                                            150
+G          .D~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+F          .PVR~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D          ....PPP~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+R          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+K          N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          .......GDP~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1          RR........IDXREFAKQAEKIFPGXVKYIEETNVVLIGDKVRVSEIGV
+
+           151             169
+G          ~~~~~~~~~~~~~~~~~~~
+F          ~~~~~~~~~~~~~~~~~~~
+D          ~~~~~~~~~~~~~~~~~~~
+R          ~~~~~~~~~~~~~~~~~~~
+K          ~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~
+1          EGVGPVAERAKRLFEEFLK
+

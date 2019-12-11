@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/217.msf MSF:  198 Type: P 11/12/19 CompCheck: 7263 ..
+
+  Name: B          Len: 198  Check: 1435 Weight: 1.00
+  Name: A          Len: 198  Check: 6201 Weight: 1.00
+  Name: G          Len: 198  Check: 4216 Weight: 1.00
+  Name: B          Len: 198  Check: 5411 Weight: 1.00
+
+//
+
+           1                                               50
+B          AAALRDQLTALLSSMFSQ....GLVDEQ.FQQLQ......MLQDPGFVSE
+A          ~~~~~~~~~~~~~~~~~~~~~~GAVD...FAYLEGFA...AGD.FAVVDE
+G          ~~~~~~~~~~~~~~~~~STIPSEIINWTILNEII......SMD..DFSKG
+B          ~~~~~~~~~~~~~KSE......ALL....DIPMLEQ.YLELVG.PKLITD
+
+           51                                             100
+B          VVTLFCDDADRIINEI.ATLLEQPVVNF.DKVDAYVHQLKGSSASVGAQK
+A          VLALFREQAALWAPXLDPTH.........PGWKDAVHTVKGAARGVGAFN
+G          LIIQFIDQAQTTFAQM.QRQLDG.EKNL.TELDNLGHFLKGSSAALGLQR
+B          GLAVFEKMMPGYVSVL.ESNLT...AQDKKGIVEEGHKIKGAAGSVGLRH
+
+           101                                            150
+B          VKFTCMQFRQFCQD.....KSRDGCL........................
+A          LGEVCERCEAG....Q..................................
+G          IAWVCERIQNLGRKMEHFFPNKTELVNTLSDKSIINGINIDEDDEEIKDE
+B          LQQLGQQIQSP...DLPAW....ED.........................
+
+           151                                          198
+B          ............MALAVVRNDFYDLRNKFQTMLQLEQQIQ~~~~~~~~
+A          ............ESLEGVRTALDAALLDIAAYAHEQALRSLK~~~~~~
+G          NSIYLILIA...KALNQSRLEFKLARIELSKYYN........TNL~~~
+B          .........NVGEWIEEMKEEWRHDVEVLKAWVA...........KAT
+

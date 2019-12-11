@@ -1,0 +1,54 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/191.msf MSF:  266 Type: P 11/12/19 CompCheck: 8229 ..
+
+  Name: A          Len: 266  Check: 2286 Weight: 1.00
+  Name: A          Len: 266  Check: 9689 Weight: 1.00
+  Name: A          Len: 266  Check: 8103 Weight: 1.00
+  Name: B          Len: 266  Check:  773 Weight: 1.00
+  Name: A          Len: 266  Check: 7378 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~~~~I.EQCSDGWSFDATTLDDNGTMLFFKDEFVWKSH......
+A          TPTLGPVT..P.EICKQDIVFDGIAQIRGE.IFFFKDRFIWRTVTPRD..
+A          ~~~H....GHESTRCDPDLVLSAMVSDNHGATYVFSGSHYWRLD.T..NR
+B          GPQT......P.KACDSKLTFDAITTIRGE.VMFFKDRFYMRTN....PF
+A          ~~~~~~~~~~D.DACNV.NIFDAIAEIGNQ.LYLFKDGKYWRFSE...G.
+
+           51                                             100
+A          ......RGI.RELISERWKNFIGPVDAAFRH.GH.TSVYLIKGDKVWVYT
+A          ......KPMGPLLVATFWPELPEKIDAVYEAPQ.EEKAVFFAGNEYWIYS
+A          D.....GWH.SWPIAHQWPQGPSTVDAAFSW.E..DKLYLIQDTKVYVFL
+B          .YP...EVE.LNFISVFWPQLPNGLEAAYEFAD.RDEVRFFKGNKYWAVQ
+A          ...RGSRPQGPFLIADKWPALPRKLDSVFEEPL.SKKLFFFSGRQVWVYT
+
+           101                                            150
+A          ...SEKNEKVY...PKSLQDEFPG.....IPFPLDAAVECHRGECQDEGI
+A          ...AS...TLERGYPKPLT.SLGLPP...DVQRVDAAFNWS..K..NKKT
+A          TKGGY...TLVNGYPKRLEKELGSP.PVISLEAVDAAFVCPG....SSRL
+B          ...GQ...NVLHGYPKDIYSSFGFPR...TVKHIDAALSEEN....TGKT
+A          ...GA...SVL..GPRRLD.KLGLGA...DVAQVTGALRSG.....RGKM
+
+           151                                            200
+A          LFFQGNRKWFWDLT.T...GTK...KERSWP.....AVGNCTSALRW...
+A          YIFAGDKFWRYNEVKK...KMDPG.FPKLIADAWNAIPDNLDAVVDLQG.
+A          HIMAGRRLWWLDLK.SGAQATW...TELPW......PHEKVDGALCMEKP
+B          YFFVANKYWRYDEYKR...SMDPG.YPKMIAHDFPGIGHKVDAVFMK...
+A          LLFSGRRLWRFDVK.AQ..MVD.PRSASEVDRMFPGVPLDTHDVFQF...
+
+           201                                            250
+A          .........LGRYYCFQGNQFLRFNPV..SG.EVPP......GYPLDVRD
+A          .........GGHSYFFKGAYYLKLEN.QS...LKS.......VKFGSIKS
+A          LGPNSCSTSGPNLYLIHGPNLYCYRHV.....DKL.NAAKNLPQPQRVSR
+B          .........DGFFYFFHGTRQYKFDP.KT...KRI.......LTLQKANS
+A          .........REKAYFCQDRFYWRVSS.RSE.LNQV.......DQVGYVTY
+
+           251          266
+A          YFLSCPGRGHRSSHR~
+A          DWLGC~~~~~~~~~~~
+A          .LLGCT.H~~~~~~~~
+B          .WFN~~~~~~~~~~~~
+A          DILQCP.E.......D
+

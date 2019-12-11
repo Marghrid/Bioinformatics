@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/91.msf MSF:  345 Type: P 11/12/19 CompCheck: 3733 ..
+
+  Name: A          Len: 345  Check: 6733 Weight: 1.00
+  Name: A          Len: 345  Check: 3774 Weight: 1.00
+  Name: B          Len: 345  Check: 6832 Weight: 1.00
+  Name: A          Len: 345  Check: 6394 Weight: 1.00
+
+//
+
+           1                                               50
+A          MLGLKTS.II.........GRRVIY.FQEI....TS.TNEFAKTSYL...
+A          ~~~~~~~ST..........LRLLISDSYDPWF..NLAVEECIFRQXPA..
+B          ~~~~~~M.E..........GRLLLL.ETPGNTRMSLAYDEAIYRSFQYG.
+A          IQLLN.....AKQILGQLDGGSVAV.LPVI....DS.TNQYLLDRIG..E
+
+           51                                             100
+A          .EEGTVIVADKQ.....................................T
+A          .TQRVLFLWRNADTVVIGRAQNPWKECNTRRXEEDNVRL..........A
+B          .DKPILRFYRHDRSVIIGYFQVAEEEVDL..........DYMKKNGIMLA
+A          LKSGDACIAEYQ.....................................Q
+
+           101                                            150
+A          MGHGR..LNRKWESP.EGGLWLSIVLSPKVP..QKDL.P.KIVFLGAVGV
+A          RR...SSGGGAVFHD.LGNTCFTFXAGKP....E......YDKTISTSIV
+B          RR...YTGGGAVYHD.LGDLNFSVVRSSD....D..MDITSMFRTMNEAV
+A          AGRGR..RGRKWFSPFGANLYLSMFWRLE.QGPA..AAI.GLSLVIGIVM
+
+           151                                            200
+A          VETLKEFSI.DGRIK..........WPNDVLV....NYKKIAGVLVEGKG
+A          LNALNALGV.SAEAS..........GRNDLVVKTVEGDRKVSGSAYRETK
+B          VNSLRILGL.DARPGELNDVSIPVNKKTDIMA....GEKKIMGAAGAMRK
+A          AEVLRKLGADKVRVK..........WPNDLYL....QDRKLAGILVELTG
+
+           201                                            250
+A          D.....KIVLGIGLNVNNKV...P.N....................GATS
+A          D.....RGFHHGTLLLNADLSRL.A.NYLNPDKKKLAAKG......RVTN
+B          G.....AKLWHAAMLVHTDLDMLSAV..............LKSTRERVAN
+A          KTGDAAQIVIGAGINM.AMQ..........................GWIT
+
+           251                                            300
+A          MKL.ELGSEVPLLSVFRSLITNLDRLYLNFLKNPMDILNLVRDNMIL~~~
+A          LTE.LLP.GITHEQVCEAITEAFFAHYG...................ERV
+B          VTD.FVD..VSIDEVRNALIRGFSETLH...................IDF
+A          LQEAGIN..LDRNTLAAMLIRELRAALELFEQEGLAP.YLSRWEKL....
+
+           301                                       345
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          EAEIISPNKTPDLPNFAETFARQSSWEWNFG~~~~~~~~~~~~~~
+B          REDTITEKEESLARELFDK............KYSTEEWNMGLL~~
+A          ...........................................DN
+

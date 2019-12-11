@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/165.msf MSF:  241 Type: P 11/12/19 CompCheck: 1630 ..
+
+  Name: A          Len: 241  Check: 4442 Weight: 1.00
+  Name: A          Len: 241  Check: 9804 Weight: 1.00
+  Name: A          Len: 241  Check: 1445 Weight: 1.00
+  Name: A          Len: 241  Check: 5939 Weight: 1.00
+
+//
+
+           1                                               50
+A          SHPDLNKLLELWPHIQEYQDLALKHGINDIFQD..N.GGKLLQVLLIT..
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~G.KNAERELVSILRG
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~X.TLEDDLNATNEYYR.
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~M..YR.KG.AQAERELIKLLEK
+
+           51                                             100
+A          ......GLTVLPG........................REGNDAVDN...A
+A          EGF...NAVRIPT........................NPLPDIFATKGNT
+A          .ERGIAVIHKKPTPVQIVRVDYPKRSAAVITEAYFRQASTTDYNGVYRGK
+A          HGF...AVVRSAG........................SKKVDLVAGNGKK
+
+           101                                            150
+A          GQEYELKSINIDLTK.GFSTHHHMNPV..IIA.KYR..............
+A          LLSIECKSTW...EN.KVKVK........EH..QVRKLLDFLSMFTMKG.
+A          YIDFEAKETK...NKTAFPLK......NFHA.HQIRHXEQ.VV...AH.G
+A          YLCIEVKVTK...KD.HLYVG........KR..DMGRLIEFSRRFG.G..
+
+           151                                            200
+A          .QVPWIFAIYRGIAIE.AIYRLEPKD..LEFYYDKWERKWYSDGHKDINN
+A          .VPLIAIKFK....QVHEWRVLVPE...KA.ED.................
+A          GICFAILRFSL...LN.ETYLLDASHL.IA.WWNKQEAG...........
+A          .IPVLAVKFL....NV.GWRFIEVS..PKI.EK.................
+
+           201                                   241
+A          P..KIPVKYVMEHGTKI............Y~~~~~~~~~~~
+A          ...IIVT..ID.NSIPI............EDLFKILEKRIE
+A          GRKSIPKQEIERHGHSIPLGYQPRLDYISV.VDNVYF~~~~
+A          ...FVFT..PS.SGVSL............EVLLG~~~~~~~
+

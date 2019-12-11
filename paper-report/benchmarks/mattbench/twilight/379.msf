@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/379.msf MSF:  156 Type: P 11/12/19 CompCheck: 2980 ..
+
+  Name: A          Len: 156  Check: 1193 Weight: 1.00
+  Name: A          Len: 156  Check: 1380 Weight: 1.00
+  Name: A          Len: 156  Check: 2505 Weight: 1.00
+  Name: A          Len: 156  Check: 7902 Weight: 1.00
+
+//
+
+           1                                               50
+A          T....................RKVD............TYEAFKEAVQ..E
+A          ~~S..................NVVLIGKKPVMN....YVLAALTLLNQGV
+A          ~KK..................NRIQVSNTKKPLFF..YVNLAKRYXQQ.Y
+A          ~T.TLSTKQKQFLKGLAHHLNPVVMLGGN.GLT..EGVLAEIENALNH.H
+
+           51                                             100
+A          GFALAFHC...GD.....KACERLIQEETT...ATTRCVPFEAEPEEGFC
+A          SEIVIKARGRAISKA...VDTVEIVRNRFLPDKIEIKEIR..........
+A          NDVELSALGXAIATV...VTVTEILKNNGF...AVEKKIX..........
+A          ELIKVKVAG..AD.RETKQLIINAIVRETK...AAQVQTI..........
+
+           101                                            150
+A          VRCGRPSA.................YGKRVVFAKAY~~~~~~~~~~~~~~
+A          ........VGSQVVTSQDGRQSRVSTIE.IAIRKK~~~~~~~~~~~~~~~
+A          ........TSIVDIKPVQKA.....KIE.ITLVKS.EKFDELXAAA~~~~
+A          .........................GHI.LVLYRP...........SEEA
+
+           151
+A          ~~~~~~
+A          ~~~~~~
+A          ~~~~~~
+A          KIQLPR
+

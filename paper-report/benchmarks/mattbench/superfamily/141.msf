@@ -1,0 +1,53 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/141.msf MSF:  243 Type: P 11/12/19 CompCheck: 6640 ..
+
+  Name: A          Len: 243  Check: 3104 Weight: 1.00
+  Name: A          Len: 243  Check: 4431 Weight: 1.00
+  Name: C          Len: 243  Check: 5359 Weight: 1.00
+  Name: A          Len: 243  Check: 4510 Weight: 1.00
+  Name: B          Len: 243  Check: 8276 Weight: 1.00
+  Name: A          Len: 243  Check:  960 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~MEIFK.....................YME....................
+A          S.....KYVDRVIAEVEKKYADEPE..F..VQTVEEVLSS.LGPVVDAHP
+C          ~~~~~~DP.................NFF..KMVEGFFDRGASIVEDKLVE
+A          Q.....DP...................F..EIAVKQLERAAQYMD..I..
+B          SID........................S......................
+A          T.....GF...................L..EYVLNYVKKGVELGG..F..
+
+           51                                             100
+A          ...........................KYDYEQLVFCQDEAS.......G
+A          EYEEVALLER.................MVIPERVIEFRVPWEDDNGKVHV
+C          D.LRTRE...SEEQKRNRVRGILRI..IKPCNHVLSLSFPIRRDDGSWEV
+A          SEEALEF....................LKRPQRIVEVSIPVEMDDGSVKV
+B          .........................ALNWDGEMTVTRFDKMT.......G
+A          PEDFYKI....................LSRPRRVLIVNIPVRLDGGGFEV
+
+           101                                            150
+A          LKAVIAIHDTTLGPALGGARMWTYNAEEEAIEDALRLARGMTYKNAAAGL
+A          NTGYRVQFNGAIGPYKGGLRFAP....SVNLSIMKFLGFEQAFKDSLTTL
+C          IEGYRAQHSHQRTPCKGGIRYST....DVSVDEVKALASLMTYKCAVVDV
+A          FTGFRVQYNWARGPTKGGIRWHP....EETLSTVKALAAWMTWKTAVMDL
+B          AHFVIRLDSTQLGPAAGGTRAAQYSQLADALTDAGKLAGAMTLKMAVSNL
+A          FEGYRVQHCDVLGPYKGGVRFHP....EVTLADDVALAILMTLKNSLAGL
+
+           151                                            200
+A          NLGGGKTVIIG..DPFADK...NEDMFRALGRFIQGL....NGRYITAED
+A          PMGGAKGGSDF..DPNGKSDREVMRFCQAFMTELYRHIG..PDIDVPAGD
+C          PFGGAKAGVKI..NPKNYTDNELEKITRRFTMELAKKGFIGPGIDVPAPD
+A          PYGGGKGGVIC..NPKEMSDREKERLARGYVRAIYDVIS..PYTDIPAPD
+B          PMGGGKSVIALPAPRHSIDPSTWARILRIHAENIDKL....SGNYWTGPD
+A          PYGGAKGAVRV..DPKKLSQRELEELSRGYARAIAPLIG..DVVDIPAPD
+
+           201                                     243
+A          VGTTVDDMDLIHQET.............DYVT~~~~~~~~~~~
+A          LGVGAREIGYMYGQYRKIVGGF...YN.GVLTG~~~~~~~~~~
+C          MSTGEREMSWIADTYASTIGH.YDINAHACVTGKPISQGGI~~
+A          VYTNPQIMAWMMDEYETISRR.KDPSF.GVITGKPPSV~~~~~
+B          VNTNSADMDTLNDTT.............EFVFGRSLERGGAGS
+A          VGTNAQIMAWMVDEYSKIKGYN...VP.GVFTSKPPEL~~~~~
+

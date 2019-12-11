@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/300.msf MSF:  123 Type: P 11/12/19 CompCheck: 4406 ..
+
+  Name: A          Len: 123  Check:  248 Weight: 1.00
+  Name: A          Len: 123  Check: 4854 Weight: 1.00
+  Name: B          Len: 123  Check: 5336 Weight: 1.00
+  Name: A          Len: 123  Check:  985 Weight: 1.00
+  Name: A          Len: 123  Check: 2983 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~MNKTELIKAIAQDT.ELTQVSVSKMLASFEKITTETVAKGDKVQLTGF
+A          ALTKAEM.SEYLFDKL.GLSKRDAKELVELFFEEIRRALENGEQVKLSGF
+B          M.TKSEL.IERLATQQSHIPAKTVEDAVKEMLEHMASTLAQGERIEIRGF
+A          M.NKTEL.INAVAETS.GLSKKDATKAVDAVFDSITEALRKGDKVQLIGF
+A          M.NKGEL.VDAVAEKA.SVTKKQADAVLTAALETIIEAVSSGDKVTLVGF
+
+           51                                             100
+A          LNIKPVARQA................RKGFNPQTQEALEIAPSVGVSVKP
+A          GNFDLRDKNQRPGRNPKTGEDIP...I.............TARRVVTFRP
+B          GSFSLHYRAPRTGRNPKTGD.KVE..L.............EGKYVPHFKP
+A          GNFEVRERAARM..........E...I.............PASKVPAFKP
+A          GSFESRERKAREGRNP.K.TNEK.MEI.............PATRVPAFSA
+
+           101                 123
+A          GESLKKAAEGLKYEDFAK~~~~~
+A          GQKLKSRVE...N.....ASPK~
+B          GKELRDRAN...IY........G
+A          GKALKDAVK~~~~~~~~~~~~~~
+A          GKLFREKVA...P.........P
+

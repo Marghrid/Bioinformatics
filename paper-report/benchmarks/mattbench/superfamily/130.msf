@@ -1,0 +1,95 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/130.msf MSF:  397 Type: P 11/12/19 CompCheck: 9090 ..
+
+  Name: A          Len: 397  Check:  536 Weight: 1.00
+  Name: B          Len: 397  Check: 5193 Weight: 1.00
+  Name: G          Len: 397  Check: 1494 Weight: 1.00
+  Name: A          Len: 397  Check: 5680 Weight: 1.00
+  Name: A          Len: 397  Check: 6880 Weight: 1.00
+  Name: A          Len: 397  Check: 7506 Weight: 1.00
+  Name: A          Len: 397  Check: 3867 Weight: 1.00
+  Name: A          Len: 397  Check: 7934 Weight: 1.00
+
+//
+
+           1                                               50
+A          RQSK..............................................
+B          ~~~~QS...................................Y.P.VER..
+G          ~~~~NP..................................IYFE....SI
+A          EHQ.....KTMPS.............APAPDGLPSETQIA......Q...
+A          ~~~~~~XPA..R......EQXISAYS..ELVGLDPVS.......L.G...
+A          ~~~~~~~~~~~~~VKMMS............LLE....EMKGIYS......
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~PTFEN.SPSGTVLTSPPDGSAVDRATDAARR.......VV....
+
+           51                                             100
+A          ..................................................
+B          ..................................................
+G          QIG...............................................
+A          ...SLAHLLPPVLKDKFICDRPLEVRPVEFHNPLKGHVAE..........
+A          ........................................D.........
+A          .........................................KKGGKVKPF
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ..................................................
+
+           101                                            150
+A          ..................................................
+B          ..................................................
+G          ..................................................
+A          ..................................................
+A          ..................................................
+A          EKFEGELKEG........................................
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ..........DALLRTDRGNANLERVAEELNSIAGHLEEHAPAVAERLID
+
+           151                                            200
+A          ...............................GVL.LLRTL.AMPSDTN..
+B          ...............................SRT.IQTRL.VLPPDTN..
+G          ...............................EKIEGLPRT.VTETDIWTF
+A          ...............................PHR.QVWIRANGSVPDD..
+A          ...............................GVA.EVRLP.XAAHLRN..
+A          ...............................YRF.EYEKK.LCEIDVAMF
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~MES.VTRIK.VRYAETD..
+A          XWNGEGVTRHDPVTGPENALAPPVVLEGLSDGSV.RGTVT.LTIPYQG..
+
+           201                                            250
+A          ......A....N............G.DIFGGWIMSQMDMGGAILAK.EIA
+B          ...........H............LGTIFGGKVLAYIDEIAALTAX.KHA
+G          AYLTADFFPLHTDVEFAKKTIFGKP.IAQGXLVLSIALGXVDQV.IL...
+A          ........................L.RVHQYLLGYASDLNFLPVA...L.
+A          ........RG..............G.VXHGGALFSLXDVTXGLACS.SSH
+A          GLISGDLNPVHFDEDFASKTRFGGR.VVHGMLTTSLVSAAVARL......
+A          ........QM..............G.VVHHSVYAVYLEAARVDF.LER..
+A          .........P..............PGHVHGGVSALLLDHVLGVANA.WG.
+
+           251                                            300
+A          ...........HGR......VVTVAVESMNFIKPISVGDVVCCYGQCLKV
+B          ...........NSA......VVTASIDSVDFKSSATVGDALELEGFVTHT
+G          S.NY.......DVS...SV.IAFFGIKDVRFLRPVFIGDTIAASAEVVEK
+A          .Q..PHG....IGFLEPGIQIATIDHS.MWFHRPFNLNEWLLYSVESTSA
+A          .GF........DRQ......SVTLECK.INYIRAVAD.GEVRCVARVLHA
+A          ...........PGT......VVLLEQS.FRYTSPVRIGDVVRVEGVVSGV
+A          A.G....LPYHRVEARGVF.FPVVELG.LTFRAPARFGEVVEVRTRLAEL
+A          ...........GKA......GXTAQLS.TRYHRPTPLFEPLTLTGKLXSV
+
+           301                                            350
+A          GR.....SSIKIKVEVWVKKVASEP.IGERYCVTDAVFTFVAVDNNGRSR
+B          GR.....TSXEVYVRVHSNNL....LTGERTLTTESFLTXVAVDESGKPK
+G          QDFDEKSGVVTYKLEVKNQ.........RGELVLTALYSALI.......R
+A          SS.....ARGFVRGEFYTQ.........DGVLVASTVQEGVM.......R
+A          GR.....RSLVVEAEVRQ..........GDKLVAKGQGTFAQL~~~~~~~
+A          EK.....NRYTIDVKCYT..........GDKVVAEGVVKVLIW~~~~~~~
+A          SS.....RALLFRYRVER..........EGVLLAEGFTRHLCQV.GERAA
+A          DG.....RKITTAGDIRTA.........DGQVCVSVEGLFVD~~~~~~~~
+
+           351                                         397
+A          TIP.RENNQEL.EKALALISE....Q~~~~~~~~~~~~~~~~~~~~~
+B          P..VP......Q...VE.P.QTEEEKRLYETAPARKENRKKR~~~~~
+G          K.T.......................................P~~~~
+A          .N........................................HN~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          RIPED....IYRA.LS..VL........................HLK
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

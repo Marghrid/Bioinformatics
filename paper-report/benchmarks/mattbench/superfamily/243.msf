@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/243.msf MSF:  165 Type: P 11/12/19 CompCheck: 3125 ..
+
+  Name: A          Len: 165  Check: 7788 Weight: 1.00
+  Name: A          Len: 165  Check: 3600 Weight: 1.00
+  Name: B          Len: 165  Check: 9144 Weight: 1.00
+  Name: A          Len: 165  Check: 6835 Weight: 1.00
+  Name: A          Len: 165  Check: 3791 Weight: 1.00
+  Name: A          Len: 165  Check: 1967 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~AVSLDR.TRAVFDG...SEKSMTLDISNDNKQLPYLAQAWIEN
+A          ~SVPPG.DINTQPSQKIVFNAPYDDKHTYHIKITNAG.GRRIGWAIKT..
+B          ATKL..FSVKLGA.TRVIYHA...GTAGATLSVSNPQ.NYPILVQSSVKA
+A          SKEY...GVTIGE.SRIIYPL...DAAGVMVSVKNTQ.DYPVLIQSRIYD
+A          ~~~~~~~~LTADP.PACTVPA...AGVSSTHKLVNGG.AEKIVFKIKS..
+A          ~~~~~~~GVALGA.TRVIYPA...GQKQVQLAVTNNDENSTYLIQSWVEN
+
+           51                                             100
+A          ENQEKIITGPVIATPPVQRLEPGAKSMVRLSTTPDISKLPQDRE...SLF
+A          ....TNM.RRLSVDPPCGVLDPKEKVLMAVSCDTFNA..A....TEDLNN
+B          ADKSSPA..PFLVMPPLFRLEANQQSQLRIVRTGGDM..PTDRE...TLQ
+A          ENK.EKP...FVVTPPLFRLDAKQQNSLRIAQAGGVF..PRDKE...SLK
+A          ....SNN.NEYRIAPVFGFVDPSGSKDVVITRTAGAP..........KED
+A          ADGVKDG..RFIVTPPLFAMKGKKENTLRILDATNNQ.LPQDRE...SLF
+
+           101                                            150
+A          .YFNLREIPPRSEKANVL.........................QIALQTK
+A          DRITIEWTNTP.......DGAAKQFRREWFQGD..........GMVRRKN
+B          .WVCIKAVPPE.....TL...............DL........NLSINAC
+A          .WLCVKGIPP.....DVG.................VFV.....QFAINNC
+A          .KLVVHFASAP.......ADATDAQAAFV.........AV...APAGTVT
+A          .WMNVKAIPSMDKSKLTE......................NTLQLAIISR
+
+           151         165
+A          IKLFYRPAAIKTRP~
+A          LPIEYNL~~~~~~~~
+B          DKLIFRPDAV~~~~~
+A          IKLLVRPNEL~~~~~
+A          IPMSATA~~~~~~~~
+A          IKLYYRPAKL....A
+

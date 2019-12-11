@@ -1,0 +1,54 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/173.msf MSF:  270 Type: P 11/12/19 CompCheck: 5534 ..
+
+  Name: A          Len: 270  Check: 5662 Weight: 1.00
+  Name: B          Len: 270  Check: 9766 Weight: 1.00
+  Name: C          Len: 270  Check: 7919 Weight: 1.00
+  Name: A          Len: 270  Check: 4280 Weight: 1.00
+  Name: C          Len: 270  Check: 7907 Weight: 1.00
+
+//
+
+           1                                               50
+A          PRRYKIFMD....KKKRIALIAHDRRKRDLLEWVSFNLGTLS...KHELY
+B          ~~~~~~~~~STMKKHGRALLSVREGDKERVVDLA....AKLLKQ.GFELD
+C          ~~~~~~~~~~~~~~GQLALFSVS..DKTGLVEFA....RNLTAL.GLNLV
+A          ~~~~~~~~~~~~~~MKRILVSLY..EKEKYLDIL....RELHE.KGWEIW
+C          ~~~~~~~~~~~~~~MKALALIAHDAKKDEMVAFCLRH.KDVLA..RYPLL
+
+           51                                             100
+A          ATGTTGALLQEKLGLKVHRLK......SG....PL.GGD....QQIGAMI
+B          ATHGTAIVLGE.AGINPRLV................NKVHEGRPHIQDRI
+C          ASGGTAKALRD.AGLAVRDVSELTGFPE.MLGGRV.KTLH...PAVHAGI
+A          ASSGTAKFLKS.NGIEANDVSTITGFE..NLLGGLVKTLH...PEIFAGI
+C          ATGTTGARIQEATGLAVERVL......SG....PL.GGD....LQIGARV
+
+           101                                            150
+A          AEG................KIDVLIFFWDPLEPQ...............A
+B          KNG................EYTYIINTTSGR..................R
+C          LARNIPEDNADMARLDFN.LIRVVACNLYPFV..KTVASPGVTVEEAVEQ
+A          LGPE..............PRWDVVFVDLYPPP.................D
+C          AEG................KVLAVVFLQDPLTA................K
+
+           151                                            200
+A          HD.VDVKALIRIATVY..NIPVAITRSTADFLISSPLMN...DVYEKIQI
+B          AI.EDSRVIRRSALQY..KVHYDTTLNGGFATAMA..L.NAD........
+C          ID.IGGVTLLRAAAKNHARVTVVCEPEDYVVVSTE..M.QSSE.......
+A          ID.IGGVALLRAAAKNWKKVKPAFDMETLKLAIEI..D............
+C          PHEPDVQALMRVCNVH..GVPLATNLVAAEALIAW..I.RK.G~~~~~~~
+
+           201                                            250
+A          DYEEELERRIRKVVE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          ...............ATEKVISVQEMHAQIK~~~~~~~~~~~~~~~~~~~
+C          ...............................SKDTSLETRRQLALKAFTH
+A          ...............................DEETRKYLAGMTFAFTSVY
+C          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251              270
+A          ~~~~~~~~~~~~~~~~~~~~
+B          ~~~~~~~~~~~~~~~~~~~~
+C          TAQYDEAISDYFRKQYSKG~
+A          DSIRANQFVE.........G
+C          ~~~~~~~~~~~~~~~~~~~~
+

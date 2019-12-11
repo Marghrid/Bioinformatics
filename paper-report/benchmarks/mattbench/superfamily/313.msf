@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/313.msf MSF:  144 Type: P 11/12/19 CompCheck: 8353 ..
+
+  Name: A          Len: 144  Check: 7314 Weight: 1.00
+  Name: A          Len: 144  Check: 6142 Weight: 1.00
+  Name: A          Len: 144  Check: 9413 Weight: 1.00
+  Name: A          Len: 144  Check: 5484 Weight: 1.00
+
+//
+
+           1                                               50
+A          MGHHHHH..HLEEFTAEQLSQYNGTDESK.PIYVAIKGRVFDVTTGKS..
+A          ~~~~~~~SKAVKYYTLEEIQKHNN...SK.STWLILHYKVYDLTKFLEEH
+A          ~~~~~~~~~~~~KISPAEVAKHNK...PD.DCWVVINGYVYDLTRFLPNH
+A          ~~~~~~~~~SYPEYTREEVGRHRS...PEERVWVTHGTDVFDVTDFVELH
+
+           51                                             100
+A          ..FYGSGGDYSMFAGKDASRALGKMSKNEEDVSPSLEGLTEKEINTLN.D
+A          PGGE...EVLREQAGGDATENFE......................DVG..
+A          PGGQ...DVIKFNAGKDVTAIFE......................PLHAP
+A          PGGP...DKILLAAGGALEPFWA......................LYAVH
+
+           101                                      144
+A          .WETKFE.AKY.PVVGRVVS~~~~~~~~~~~~~~~~~~~~~~~~
+A          .HSTDARELSKTFIIGELHPDDRSKIT~~~~~~~~~~~~~~~~~
+A          NVIDKY..IAPEKKLGPLQG.S.....MPPELVCPPY~~~~~~~
+A          .GEPHVLELLQQYKVGELSPD................EAPAPDA
+

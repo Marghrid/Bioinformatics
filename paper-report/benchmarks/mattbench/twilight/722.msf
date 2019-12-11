@@ -1,0 +1,25 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/722.msf MSF:  145 Type: P 11/12/19 CompCheck: 7796 ..
+
+  Name: B          Len: 145  Check: 5241 Weight: 1.00
+  Name: A          Len: 145  Check:  117 Weight: 1.00
+  Name: A          Len: 145  Check: 2438 Weight: 1.00
+
+//
+
+           1                                               50
+B          ~~~~~XSNIYDSANELSRGLRGLPEYKAVKAAKDAIAADAEASKIFTDYL
+A          TLYSKK.DIVQQARNLAKXISETEEVDFFKRAEAQINENDKVSTIVNQIK
+A          ~~~~~E.PLHALARQLEQAIRASEPFQQLKRAYEDVRRDETAYRXFANVR
+
+           51                                             100
+B          AFQEEIQKLAQTGQXPD.................ASFQAKXEGFGKQIQG
+A          AL...QKQAV.......NLKHYEKHEAL......KQVEAKIDALQEELEE
+A          DI...QLRLHEKQ...X...........RGAAILPDEIEQAQKAXALAQQ
+
+           101                                       145
+B          NSLLSEFFTKQQQLAIYLSDIEKIVF....EPVSELL~~~~~~~~
+A          IPVIQEFRDSQXEVNDLLQLVAHTISNQVTNEIIT..STGGD~~~
+A          NEKLARLXALEQQXSITIAEVQQIAX....KPLEE..LH...RSF
+

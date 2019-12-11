@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/788.msf MSF:  255 Type: P 11/12/19 CompCheck: 2328 ..
+
+  Name: A          Len: 255  Check: 2370 Weight: 1.00
+  Name: A          Len: 255  Check: 2551 Weight: 1.00
+  Name: A          Len: 255  Check: 7407 Weight: 1.00
+
+//
+
+           1                                               50
+A          M.................................VDFFTIFSKGGLVLWC
+A          ~MSG..............................SFYFVIVGHHDNPVFE
+A          M...NKSQQVQTITLAAAQQMAAAVEKKATEINVAVVFSVVDRGGNTLLI
+
+           51                                             100
+A          FQGVSDSC...........T.......GPVNALIRSVLLQETHE......
+A          MEFL....PPGKAESKDDHRHL.....NQ...............FIAHAA
+A          QRMD....E.............AFVSSCD.....................
+
+           101                                            150
+A          .......................ALTL.......................
+A          LDLVDENMWLSNNMYLKTVDKFNEWFV.......................
+A          .........................ISLNKAWSACSLKQGTHEITSAVQP
+
+           151                                            200
+A          ...................KYKLDNQF...ELVFVVGFQKILTLTYVDKL
+A          ...................SAFVT.AG...HMRFIMLHDVR.QEDGIKNF
+A          GQSLYGLQLTNQQRIIIFGGGLPV.IFNEQVIGAVGVSGG..TVEQDQLL
+
+           201                                            250
+A          IDDVHRLFRDKYRT..EIQQQSALS.LLNGTF.D..FQNDFLRLLREA.E
+A          FTDVYDLYIKFAMNPFY.......EPNS..PIRSSAFDRKVQFLGKKHLL
+A          AQCALDCFSAL~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           251
+A          ESSK~
+A          ....S
+A          ~~~~~
+

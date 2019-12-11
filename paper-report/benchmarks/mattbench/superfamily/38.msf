@@ -1,0 +1,45 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/38.msf MSF:  329 Type: P 11/12/19 CompCheck: 8069 ..
+
+  Name: A          Len: 329  Check: 3871 Weight: 1.00
+  Name: A          Len: 329  Check: 2523 Weight: 1.00
+  Name: A          Len: 329  Check: 1675 Weight: 1.00
+
+//
+
+           1                                               50
+A          EAPPLMDYLGDAAWYLEPMFKHSGG..LELVGPPGKVVIKANWKAPAENF
+A          ~ADSLEDYLGDLKFYLDIVLD.RSDAGLQVVGAPQRWVIDANWKLGADNF
+A          ~APDLDTYLGEAKFYMDHMLD.RTEAGTEAIPGIQKWVIPCNWKFAAEQF
+
+           51                                             100
+A          VGDAYHV.GWTHASSLRSGESIFSSLAGNAALPPE..GAGLQMTS.KYGS
+A          VGDAYHT.MMTHRSMVELGL..APPD....PQF..A.LYGEHIHT.GHGH
+A          CSDMYHAGTTSHLSGILAGL................PTEGIQYRATWGGH
+
+           101                                            150
+A          GMGVLWD.GYSGVHSADLVPEL............MAFG.GA.KQERLNKE
+A          GLGIIGPP..............PGMPLPEF....MGL..PENIVEELERR
+A          GSGFYIGDP..NLLL...A.IM........GPKVTEYWTQGPAAEKASER
+
+           151                                            200
+A          IGDVRARIYR..SHLNCTVFPNNSMLT............CSGVFKVWNPI
+A          LTPEQVEIFRPTAFIHGTVFPNLSIGNFLMGKDHLSAPTAFLTLRLWHPL
+A          LGS..TERGQQLMAQHMTIFPTCSFLP............GINTIRAWHPR
+
+           201                                            250
+A          DANTTEVWTYAIVEKDMPEDLKRRLADSVQRTFGPAGFWESDDNDNMETA
+A          GPDKMEVMSFFLVEKDAPDWFKDESYKSYLRTFGISGGFEQDDAENWRSI
+A          GPNEIEVWAFTVVDADAPEEMKEEYRQQTLRTFSAGGVFEQDDGENWVEI
+
+           251                                            300
+A          SQNGKKYQSRDSDLLSNLGFGED.VYG.DAVYPGVVGKSAIGETSYRGFY
+A          TRVMGGQFAKTGELNYQMGRGVLEPD.PNWTGPGEAYPLDYAEANQRNFL
+A          QQVLRGHKARSRPFNAEMGLGQT.DSD.NPDYPGTIS.YVYSEEAARGLY
+
+           301                       329
+A          RAYQAHVSSSNWAEFEHASSTWHTELTKT
+A          EYWMQLMLAES..PL~~~~~~~~~~~~~~
+A          TQWVRMMTSPDWAALDA.TR~~~~~~~~~
+

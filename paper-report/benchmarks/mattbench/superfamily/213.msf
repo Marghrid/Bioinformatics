@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/213.msf MSF:  131 Type: P 11/12/19 CompCheck:  739 ..
+
+  Name: H          Len: 131  Check: 5785 Weight: 1.00
+  Name: A          Len: 131  Check: 1452 Weight: 1.00
+  Name: A          Len: 131  Check: 4006 Weight: 1.00
+  Name: A          Len: 131  Check: 6925 Weight: 1.00
+  Name: A          Len: 131  Check: 3092 Weight: 1.00
+  Name: A          Len: 131  Check: 6602 Weight: 1.00
+  Name: A          Len: 131  Check: 2877 Weight: 1.00
+
+//
+
+           1                                               50
+H          RSPHR.PILQA.GLPA.....NASTVVGGDVEFVCKVYSD.AQP.HIQWI
+A          ~~~~~~PMP...FISAKS...SPVIPLDGSVKIQCQAIR..EAY.LTQLM
+A          ~~~GV.PTL...KVQVP....NASVDVGDDVLLRCQVEGR.GLE.QAGWI
+A          ~~~YG.PRLDERDCPG.....NWTWPENSQQTPMCQAWGN.PLP.ELKCL
+A          ~~~~V.PFFT..VEPK.....DLAVPPNAPFQLSCEAVGPPEPV.TIVWW
+A          ~~~~~~FKI...ETTP..ES.RYLAQIGDSVSLTCSTTGC.ESP.FFSWR
+A          ~~~~~VKPL...QVEP..PEPVVAVALGASRQLTCRLACA.DRGASVQWR
+
+           51                                             100
+H          KHV.PYLKV......LKAAGVNTT...DKE...I.....EVLYIRNVTFE
+A          IIKNSTYREI.....GR.......RL...K..F.WNETDPEFVIDHMDAN
+A          L.....TEL.EQSATVM.......KSGG..LPS......LGLTLANVTSD
+A          K.D...GTFP.....LP......................IGESV.TVTRD
+A          RG....TTK......IGGP.......AP...SP......SVLNV.TGVT.
+A          TQI...DSPLN..G.KV.......T.NE..GTT......STLTMNPVSFG
+A          ......GLD.TSLG.AV.......Q.SD.T..GR.....SVLTVRNASLS
+
+           101                         131
+H          DAG.EYTCLAGNSI.GISFH.SAWLTVLPAP
+A          KAG.RYQCQYRIGHYRFRYSDTLELVVTG~~
+A          LNRKNVTCWAENDV.GRAEV.SVQVNVS~~~
+A          LEG.TYLCRARSTQ.GEVTR.EVTVNVLSP~
+A          QST.XFSCEAHNLK.GLASSRTATVHLQ~~~
+A          NEH.SYLCTATCES.RKLEK.GIQVEIYS~~
+A          AAG.TRVCVGSCGG.RTFQH.TVQLLVY~~~
+

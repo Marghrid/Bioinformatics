@@ -1,0 +1,30 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/443.msf MSF:  188 Type: P 11/12/19 CompCheck: 9366 ..
+
+  Name: A          Len: 188  Check: 2046 Weight: 1.00
+  Name: A          Len: 188  Check: 1774 Weight: 1.00
+  Name: A          Len: 188  Check: 5546 Weight: 1.00
+
+//
+
+           1                                               50
+A          D...FAPLAAIKEYIRLKLEVSRDY..PQASRLFCMEMLAGAPL.LM.DE
+A          ~~~~GEWYSDLLAFXENYYDLYQQF..PCAVAIEIQT........V.PAY
+A          APDRDAIRELILLACKNMIMLLTQEDTVNLSKFISREQLS.PTSAY..QL
+
+           51                                             100
+A          LT.G.DLKALIDEKSALIAGWVKSGKLAPI.....D.PQHLIFMIWASTQ
+A          ...P.QRLRHLNQXXGILREAG......F.SP...EXTHLAVTSLQHLLF
+A          V.HEQVIDPLHTHLTRLVAAYTG.....C.DANDTR.MILHTHALLGEVL
+
+           101                                            150
+A          HYADFA.PQVEAVT....................................
+A          GXIXDATEE.K...QLVSQVLNGDDYLKEQVLHXKQYVSDNELTYXEESI
+A          AFRLGK.ETILLRT....................................
+
+           151                                188
+A          .GATLRDE...VFFNQTVENVQRIIIEGIRPR~~~~~~
+A          QFH.....SI.HQKSAFIQAVKTYLDGLQAD.NTSSSK
+A          .GWPQF.D..EEKAELIYQTVTCHIDLILHG.LTQ~~~
+

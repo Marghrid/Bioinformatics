@@ -1,0 +1,57 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/172.msf MSF:  130 Type: P 11/12/19 CompCheck: 3379 ..
+
+  Name: A          Len: 130  Check: 3552 Weight: 1.00
+  Name: A          Len: 130  Check: 5442 Weight: 1.00
+  Name: A          Len: 130  Check: 2389 Weight: 1.00
+  Name: A          Len: 130  Check: 3042 Weight: 1.00
+  Name: A          Len: 130  Check: 3250 Weight: 1.00
+  Name: A          Len: 130  Check: 6025 Weight: 1.00
+  Name: A          Len: 130  Check: 7423 Weight: 1.00
+  Name: A          Len: 130  Check: 1745 Weight: 1.00
+  Name: A          Len: 130  Check:   19 Weight: 1.00
+  Name: D          Len: 130  Check:  290 Weight: 1.00
+  Name: B          Len: 130  Check:  202 Weight: 1.00
+
+//
+
+           1                                               50
+A          VVIP.........S..............................PCCMFF
+A          T......RGSDISK..............................TCCFQY
+A          ~~~~~~~~~~~~~~~A.PMGSDPPT...................ACCFSY
+A          ~~~~QPVG.................INTST..............TCCYRF
+A          ~~~~L...........GAS...........WHRPD.........KCCLGY
+A          ~~~~~~~~~~~~~~~D.L.................Q........CLCVKT
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~DCCLGY
+A          ~~~~~~~~~~~~~~~~~~V.................TKCN....ITCSKM
+A          ~~~~KPV.......SLSY.................R........CPCRFF
+D          ~~~~~~~~~~~~~~G...R.........................ECCLEY
+B          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~A....KELRCQCIKT
+
+           51                                             100
+A          VSKRIPENRVVSYQLS....SRST.CLKAGVIFTTK.KGQQSCGDPKQEW
+A          SHKPLPWTWVRSYEFT....SNS..CSQRAVIFTTK.RGKKVCTHPRKKW
+A          TARKLPRNFVVDYYET....SSL..CSQPAVVFQTK.RSKQVCADPSESW
+A          INKKIPKQRLESYRRT....TSSH.CPREAVIFKTK.LDKEICADPTQKW
+A          QKRPLPQVLLSSWYPT....SQL..CSKPGVIFLTK.RGRQVCADKSKDW
+A          TSQ.VRPRHITSLEVI....KAGPHCPTAQLIATLK.NGRKICLDLQAPL
+A          TDRILHPKFIVGFTRQLAN.EGC...DINAIIFHTK.KKLSVCANPKQTW
+A          TSK.IPVALLIHYQQN....QAS..CGKRAIILETR.QHRLFCADPKEQW
+A          ESH.VARANVKHLKIL...NTPN...CALQIVARLKNNNRQVCIDPKLKW
+D          FKGAIPLRKLKTWYQT....SED..CSRDAIVFVTV.QGRAICSDPNNKR
+B          YSKPFHPKFIKELRVI....ESGPHCANTEIIVKLS.DGRELCLDPKENW
+
+           101                        130
+A          VQRYMKNLDA.KQ.KKASPR~~~~~~~~~~
+A          VQKYISLLKT...PK.....QL~~~~~~~~
+A          VQEYVYDLELN~~~~~~~~~~~~~~~~~~~
+A          VQDFMKHLDK.K..T.QTP...KL~~~~~~
+A          VKKLMQQLPV..............TAR~~~
+A          YKKIIKKLLES~~~~~~~~~~~~~~~~~~~
+A          VKYIVRLLSK~~~~~~~~~~~~~~~~~~~~
+A          VKDAMQHLDRQ~~~~~~~~~~~~~~~~~~~
+A          IQEYLEKALN~~~~~~~~~~~~~~~~~~~~
+D          VKNAVKYLQSLE~~~~~~~~~~~~~~~~~~
+B          VQRVVEKFLKRA...............ENS
+

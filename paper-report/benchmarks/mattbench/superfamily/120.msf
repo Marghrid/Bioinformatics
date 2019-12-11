@@ -1,0 +1,37 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/120.msf MSF:  145 Type: P 11/12/19 CompCheck:  486 ..
+
+  Name: A          Len: 145  Check: 6433 Weight: 1.00
+  Name: A          Len: 145  Check:  351 Weight: 1.00
+  Name: A          Len: 145  Check: 2972 Weight: 1.00
+  Name: B          Len: 145  Check: 5626 Weight: 1.00
+  Name: A          Len: 145  Check: 4647 Weight: 1.00
+  Name: D          Len: 145  Check:  457 Weight: 1.00
+
+//
+
+           1                                               50
+A          ESQPDPTPDELH..KSSEFTG...TMGNMKYLYD.D..HYVSATKVMSVD
+A          ~~~~~~~KD.LR..KKSEL.QGT.ALGNLKQIYYYN..EKAKTENKESHD
+A          ~~~~~~~~~~~~SENIK...D...VKLQLNYAYE.I..IPVDYTNCNIDY
+B          ~~QQDPDPSQLH..RSSLV.K...NLQNIYFLYE.G..DPVTHENVKSVD
+A          ~~~~~~~~~~~~~~NSY...NT.TNRHNLESLYK.HDSNLIEADSIKNSP
+D          ~~~~~~~D..LH..DKSEL.TDL.ALANAYGQYN....HPFIKENIKSDE
+
+           51                                             100
+A          K..FLAHDLIY.NISD.KKL.KN....YDKVKTELLNEDLAKKY.KDEVV
+A          Q..FLQHTILFKGFF.TD..HSW....YNDLLVDFDSKDIVDKY.KGKKV
+A          ...LTTHDFYI.DIS.S......YKKKNFSVDSEVESY.ITTKFTKNQKV
+B          Q..LLSHDLIY.NVSG.....PN....YDKLKTELKNQEMATLF.KDKNV
+A          .DIVTSHMLKY.SVK............DKNLSVFFEKDWISQEF.KDKEV
+D          I..SGEKDLIFRNQGD.....S.....GNDLRVKFATADLAQKF.KNKNV
+
+           101                                       145
+A          DVYGSNYYVNCYFSSKDN......GGKTCMYGGITKHEG~~~~~~
+A          DLYGAYYGYQCAGG....TP....NKTACMYGGVTLHDNNRLT~~
+A          NIFGLPYIF.T.........R...YDVYYIYGGVTPSVNS...NS
+B          DIYGVEYYHLCYLC..E.N..A..ERSACIYGGVTNHE~~~~~~~
+A          DIYALSAQE.V........CE.CPGKRYEAFGGITLTNS~~~~~~
+D          DIYGASFYYKCEKI....S..E..NISECLYGGTTLNS~~~~~~~
+

@@ -1,0 +1,30 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/46.msf MSF:  180 Type: P 11/12/19 CompCheck: 6777 ..
+
+  Name: D          Len: 180  Check: 3405 Weight: 1.00
+  Name: B          Len: 180  Check: 8623 Weight: 1.00
+  Name: X          Len: 180  Check: 4749 Weight: 1.00
+
+//
+
+           1                                               50
+D          ~~~~~~MYTLNWQ..PPY..DWSWMLGFLAAR.A....VSS.........
+B          RNFF..TRYDY..EEVE.AEGATKMMKDLEALMFDRSFV..GKQFSANDK
+X          PSDISTPEINI..T.VT.EDSKFAIIEALQRD.........AQW......
+
+           51                                             100
+D          ........VETVA............DSYYARSLAVGE.YRGVVTAIPD..
+B          VYTVE...KADNFEYHDPVDGSVSKNQGLRLIF....ADGSRIIFRLSGT
+X          .....GEGNITTL.............DGVRVDY.....PKGWGLVRASN.
+
+           101                                            150
+D          ......IARHTLHINLSAGLEP............V..AAECLAKMSRLFD
+B          GSAG..ATI...RLYID..SYEKDNAKINQDPQVM..LAPLISIALKVSQ
+X          ....TTPVL...VLRFE..ADT............EEELERIKTVFRNQLK
+
+           151                        180
+D          L...QC..NPQIVNGALGRLG~~~~~~~~~
+B          L...QERTG............RTAPTVIT~
+X          .AVDSS..L............PVP.....F
+

@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/26.msf MSF:  160 Type: P 11/12/19 CompCheck: 9537 ..
+
+  Name: A          Len: 160  Check: 9781 Weight: 1.00
+  Name: A          Len: 160  Check:  593 Weight: 1.00
+  Name: C          Len: 160  Check: 8820 Weight: 1.00
+  Name: A          Len: 160  Check: 2479 Weight: 1.00
+  Name: C          Len: 160  Check: 7864 Weight: 1.00
+
+//
+
+           1                                               50
+A          DYITDR...............................SQRF.MA...SEI
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~DDP...KQL
+C          ~~~~~~GNKIHPIGFRLGITRDWESRWYAGKKQYRHLLL...EDQRIRGL
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~TH...PNL
+C          ~~~~~~GQKVHPNGIRLGIVKPWNSTWFANTKEFADNLD...SDFKVRQY
+
+           51                                             100
+A          IREKLMRFLGAE....LPYSVTVEIERFVSNERGGYDINGLILVEREG..
+A          IANALA..........PATVIEVEILDK.......ENKAARVLVPP.T..
+C          LEKELY..........SAGLARVDI.ERAA.....DNVAVTVHVA.....
+A          VRKLFSLEVP.EIADGSVEIVAVAR.E........AGHRSKIAVR..SNV
+C          LTKELA..........KASVSRIVI.ERPA.....KSIRVTIHTA.....
+
+           101                                            150
+A          ....QKKMVIGNKGAKIKTIGIEARKDMQEMFEAPVHLELWVKVKS.GWA
+A          ....QLSLAIGKGGQNARLAAKLT............GWKIDIKPIXNL~~
+C          ....KPGVVIGRGGERIRVLREELAKLTG......KNVALNVQEV~~~~~
+A          AGLNAKGACIGPMGQRVRNVMSELS...........GEKIDIIDYD....
+C          ....RPGIVIGKKGEDVEKLRKVVADIAG......VPAQINIAEV~~~~~
+
+           151    160
+A          DDERALRSL~
+A          ~~~~~~~~~~
+C          ~~~~~~~~~~
+A          .........D
+C          ~~~~~~~~~~
+

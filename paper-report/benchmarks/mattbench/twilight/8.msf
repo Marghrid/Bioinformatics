@@ -1,0 +1,40 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/8.msf MSF:  289 Type: P 11/12/19 CompCheck: 8828 ..
+
+  Name: A          Len: 289  Check: 2146 Weight: 1.00
+  Name: B          Len: 289  Check: 6791 Weight: 1.00
+  Name: H          Len: 289  Check: 9891 Weight: 1.00
+
+//
+
+           1                                               50
+A          KGGWFGKHRGQGGSNPKFENIAEGLRALLARSHVERTTDEGTWVAGVFVY
+B          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+H          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+           51                                             100
+A          GGSKTSLYNLRRGTALAIPQCRLTPLSRLPFGMAPGPGPQPGPLRES...
+B          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AEV
+H          ~~G...............................................
+
+           101                                            150
+A          ......I..VCYFMVFL...QTHIFAEVLKDAIKDLVMTKPAPTC.....
+B          NDPRVGF..VAVVTFPV...DGPATQHKLVELATGGVQEWI...REVPGF
+H          .......LHRLIYLSCATDGLSYPDLRDIMAKSEVNNLRDG...I.....
+
+           151                                            200
+A          .NIRVTVCSFDD.GVDLP~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          LSATYHASTD..GT....AVVNYAQWESEQAYRVNFGADPRSAELREALS
+H          .TGMLC.YGN...G....MFLQTLEGDRQKVSETYARILKDPRHH.....
+
+           201                                            250
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          SLPGLMGPPKAVFMTPRGAILPS~~~~~~~~~~~~~~~~~~~~~~~~~~~
+H          .......................SAEIVEFKAIEERTFINWSMRLVQLGE
+
+           251                                 289
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+H          MDSDTIRRLRLKYSPAATFQPRSMTAEQCFRFLKELYDM
+

@@ -1,0 +1,50 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/twilight/553.msf MSF:  378 Type: P 11/12/19 CompCheck: 3459 ..
+
+  Name: A          Len: 378  Check: 7724 Weight: 1.00
+  Name: A          Len: 378  Check: 5558 Weight: 1.00
+  Name: A          Len: 378  Check:  177 Weight: 1.00
+
+//
+
+           1                                               50
+A          SQKVFGITGPVSTVGATAAENKLNDSLIQELKKEGSF....ETEQ.ETAN
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~V....NRPE
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~XT..LEWEEFLD...PYIQA
+
+           51                                             100
+A          RVQVLKILQELAQ.......RFVYEVSKKKNMSDGMARDAGGKIFTYGSY
+A          AEAVSMLVKEAVV.......TFL..............P..DALVTMTGGF
+A          VGELKIKLRGIRKQYRKQNKHSP.................IEFVTGRVKP
+
+           101                                            150
+A          RLGV.HGPG.....................SDIDTLVVVPKH...VTRED
+A          RRGKMTG.......................HDVDFLITSPEATEDEEQ.Q
+A          ...I....ESIKEKXARRGITYATLEHDLQDIAGLRVXVQ.....FVD.D
+
+           151                                            200
+A          FFTVFDSLLRERKELDEIAPVP...DA..................FVP.I
+A          LLHKVTDFWKQQGLLLYCDILE...STFEKFKQPSRKVDALD...HFQ.K
+A          V.KEVVDILHKRQDXRIIQERDYITHRK..............ASGYRSYH
+
+           201                                            250
+A          IKIKFS.....................GISIDLICARLDQPQVPLSLTLS
+A          CFLILKLDHGRVHSEKSEGKGWK....AIRVDLVMCPYD...........
+A          VVVEYTVDTI.............NGAKTILAEIQIRTLA...........
+
+           251                                            300
+A          DKNL..LRNLDEKD..LRAL..NG.T........................
+A          ......R.......RAFAL...LGWTGSRQFERDLRRYATHERKMMLDNH
+A          ....XNF.........WAT.IEHS..LNYKYQGDFP..............
+
+           301                                            350
+A          ...............RVTD............EILELV~~~~~~~~~~~~~
+A          ALYDRTKRVFLEAESE...EEIFAHLGLDYIEPW...ERNA~~~~~~~~~
+A          .........................................DEIKKRLEI
+
+           351                      378
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          TARIAHQLDEEXGEIRDDIQEAQALFDP
+

@@ -1,0 +1,86 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/279.msf MSF:  369 Type: P 11/12/19 CompCheck: 7999 ..
+
+  Name: A          Len: 369  Check: 8381 Weight: 1.00
+  Name: A          Len: 369  Check: 1333 Weight: 1.00
+  Name: A          Len: 369  Check: 5904 Weight: 1.00
+  Name: A          Len: 369  Check: 9039 Weight: 1.00
+  Name: A          Len: 369  Check: 1233 Weight: 1.00
+  Name: A          Len: 369  Check: 4041 Weight: 1.00
+  Name: H          Len: 369  Check: 8068 Weight: 1.00
+
+//
+
+           1                                               50
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~KKVLL
+A          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~XKVLF
+A          ~~X..........................................TRIAI
+A          ~~S..........................................ASALV
+A          VKG..........................................RVVAI
+A          ~~AS.........................................KRALV
+H          TSK.NPQVDIAEDNAFFPSEYSLSQYTSPVSDLDGVDYPKPYRGKHKILV
+
+           51                                             100
+A          ALTSYNDVFYSDGAKTG.......VFVVEALHPFNTFR.KEGFEVDFVS.
+A          LTANE...................FEDVELIYPYHRLK.EEGHEVYIAS.
+A          ALAQD...................FADWEPALLAAAARSYLGVEIVHAT.
+A          CLAPG...................SEETEAVTTIDLLV.RGGIKVTTASV
+A          LLNDE...................VRSADLLAILKALK.AKGVHAKLLY.
+A          ILAKG...................AEEXETVIPVDVXR.RAGIKVTVAGL
+H          IAADERYLP.....TDNGKLFSTGNHPIETLLPLYHLH.AAGFEFEVAT.
+
+           101                                            150
+A          ..ETGKFGWDEHSLAKDFLNGQDETDFKNKDSDFNK...TLAKIKTPKEV
+A          ..FERGTITGKHGY.........................SVKVDLTFDKV
+A          ..PDGXPVTSXGGL.........................KVTPDTSYDAL
+A          ASDGNLAITCSRGV.........................KLLADAPLVEV
+A          ..SRMGEVTADDGT.........................VLPIAATFAGA
+A          ..AGKDPVQCSRDV.........................VICPDASLEDA
+H          ..ISGLMTKFEYWA...MPHKDE.KVM....PFFEQHKSLFRNPKKLADV
+
+           151                                            200
+A          ..NADD...YQIFFASAGH.GTLF...DYPKAKDLQDIASEIYANGGVVA
+A          ..NPEE...FDALVLPGGR.APE....RVRLNEKAVSIARKXFSEGKPVA
+A          ..DPVD...IDALVIPGGL..SWEKGTAADL....GGLVKRFRDRDRLVA
+A          A.DGE....YDVIVLPGGIKGAE....CFRDSTLLVETVKQFHRSGRIVA
+A          ..PSLT...VDAVIVPCGN..IA....DIADNGDANYYLMEAYKHLKPIA
+A          KKEGP....YDVVVLPGGNLGAQ....NLSESAAVKEILKEQENRKGLIA
+H          VASLNADSEYAAIFVPGGH.GALI...GLPESQDVAAALQWAIKNDRFVI
+
+           201                                            250
+A          AVXHGP.AIFD..GLTDKKTGRP....LIEGKSITGFTDVGETILGVDSI
+A          SICHGP.QILI..SA.......G....VLRGRKGTSYPG...........
+A          GICAAASALGG..T........G....VLNDVAHTGNA............
+A          AICAAPATVLVP.H........D....IFPIGNMTGFPT...........
+A          LAGDAR.KFKA..T.............IKIA.DQ................
+A          AICAGP.TALLA.H........E....IGFGSKVTTHPL...........
+H          SLCHGP.AAFL.AL......R.HGDNPLNGY.SICAFPDAADK.QTP.EI
+
+           251                                            300
+A          LKAKNLATVE.DVAK..K.YGA..KYLAPVGPW.DDYSI........TDG
+A          ........IKDD.XI..N.AGV..EWVD.....A..EVV........VDG
+A          .........LAS.HKAYPAYRGEAHYRD.....QP.RAV........SDG
+A          ........LKDK.IP.......AEQWLD.....K..RVV........WDA
+A          ...............................................GEE
+A          ........AKDK.XXN.G..GH..YTYS.....E..NRVE.......KDG
+H          G...YMPGH..LTWY..F.GEE..LKKMG..M..NIIND.DITGRVHKDR
+
+           301                                            350
+A          R..LVTGVNPASAHSTAVRSIDALK...N~~~~~~~~~~~~~~~~~~~~~
+A          N..WVSSRVPADLYAWXREFVKLLK~~~~~~~~~~~~~~~~~~~~~~~~~
+A          G..VVTAAG.SAPVSFAVEILKSLGL...FG..PEAEAE.LQIFAAEHR~
+A          RVKLLTSQGPGTAIDFGLKIIDLLVG...REKAHEVASQLVMAA.....G
+A          G..IVEAD..SADGSFMDELLTLMA.AHR.....................
+A          L..ILTSRGPGTSFEFALAIVEALNG...KEVAAQVKAPLVLK~~~~~~~
+H          K..LLTGDSPFAANALGKLAAQEMLAAY~~~~~~~~~~~~~~~~~~~~~~
+
+           351             369
+A          ~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~
+A          ~~~~~~~~~~~~~~~~~~~
+A          IYNYYE~~~~~~~~~~~~~
+A          ......VWSRIPKIDKIPA
+A          ~~~~~~~~~~~~~~~~~~~
+H          ~~~~~~~~~~~~~~~~~~~
+

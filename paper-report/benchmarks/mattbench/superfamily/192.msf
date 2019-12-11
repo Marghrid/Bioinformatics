@@ -1,0 +1,41 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  mattbench/mattbench/superfamily/192.msf MSF:  141 Type: P 11/12/19 CompCheck: 4587 ..
+
+  Name: A          Len: 141  Check: 2716 Weight: 1.00
+  Name: A          Len: 141  Check: 6950 Weight: 1.00
+  Name: B          Len: 141  Check: 8618 Weight: 1.00
+  Name: A          Len: 141  Check: 8551 Weight: 1.00
+  Name: A          Len: 141  Check: 5616 Weight: 1.00
+  Name: A          Len: 141  Check: 3506 Weight: 1.00
+  Name: A          Len: 141  Check: 8630 Weight: 1.00
+
+//
+
+           1                                               50
+A          ELI..K..............GPWTKEEDQRVIKLVQKYGPK.....RWSV
+A          ~~~LGK..............TRWTREEDEKLKKLVEQNGTD.....DWKV
+B          IQK...CN............ARWTTEEQLLAVQAIRKYGR......DFQA
+A          ~~~~~~~~EDSTTNITKK..QKWTVEESEWVKAGVQKYGEG.....NWAA
+A          ~~~~~~~~~~~~~~~~~~~~RPFSVAEVEALVEAVEHLGTG.....RWRD
+A          ~~~~~K..............ASFTDEEDEFILDVVRKNPTRRTTHTLYDE
+A          ~~~~~~~~V.........KKTSWTEEEDRIIYQAHKRLGN......RWAE
+
+           51                                             100
+A          IAKHL....KG.RIGKQCRERWHNHLN......................P
+A          IANYL....PN.RTDVQCQHRWQKVLN......................P
+B          ISDVI....GN.KSVVQVKNFF.VNYR..RR..................F
+A          ISKNYPF..VN.RTAVMIKDRW.RTMKRLG...................M
+A          VKMRAF.DNADHRTYVDLKDKW.KTLVHTASIAPQQRRGEPVPQDLLDRV
+A          ISHYV....PN.HTGNSIRHRFRVYLS..K...................R
+A          IAKLL....PG.RTDNAIKNHWNSTMR......................R
+
+           101                                   141
+A          EVK~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          E~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B          N..IDEVLQEWEAE~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A          L..AAHA.......YWSQ~~~~~~~~~~~~~~~~~~~~~~~
+A          L..EY..VYE....VD..KFGKLVRDDDGNLIKTKVLPPSI
+A          K..V~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
