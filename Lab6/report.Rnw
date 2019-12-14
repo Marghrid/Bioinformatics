@@ -1,4 +1,4 @@
-\documentclass[12pt]{article}
+\documentclass[10pt,twocolumn]{article}
 \usepackage[british]{babel}
 %\usepackage[utf8]{inputenc}
 \usepackage[top=2.5cm, bottom=2.5cm, left=2.75cm, right=2.75cm]{geometry}
@@ -11,6 +11,7 @@
 \usepackage[ruled,vlined]{algorithm2e}
 \usepackage{setspace}
 \usepackage{verbatim}
+\usepackage{booktabs}
 
 %argmin, argmax
 \usepackage{amsmath}
@@ -46,6 +47,8 @@
 \usepackage{amsmath}
 \DeclareMathOperator{\score}{score}
 
+\setlength{\columnsep}{2em}
+
 \title{Report for LAB6: Omics Applications \\
 \Large{Bioinformatics}}
 \author{\normalsize Ricardo Brancas    \\\normalsize 83557
@@ -66,7 +69,9 @@ library(stringr)
 library(ggpubr)
 library(survival)
 library(ggfortify)
+library(knitr)
 opts_chunk$set(echo=FALSE)
+options(digits=4)
 @
 
 <<echo=FALSE,cache=TRUE,cache.lazy=FALSE>>=
@@ -146,7 +151,7 @@ Analysing the figure we can see that, in general, samples from normal tissues ha
 groups = as.numeric(substr(colnames(read_counts), nchar(colnames(read_counts))-1, nchar(colnames(read_counts))-1))
 colors <- brewer.pal(3, "Dark2")
 
-sample_n =1
+sample_n = 8
 increment = 32000
 
 list = c()
@@ -174,7 +179,7 @@ for (person in colnames(read_counts)) {
 To normalise the data, we used the Trimmed Mean of M (TMM) method. To analyse our data after normalisation we produced a plot where the distance between samples correponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. The result can be seen in figure~\ref{fig:mds}. There is a clear separation between the samples of normal tissues (presented in red) and the samples taken from tumors (in blue). It also appears that there are two distinct groups of samples from tumors.
 
 <<mds, fig.pos="ht", fig.width=5, fig.height=5, fig.align='center', fig.cap="Hello", cache=TRUE>>=
-dge <- DGEList(counts=data.matrix(read_counts), group = Tissue)
+dge <- DGEList(counts=data.matrix(read_counts))
 
 keep <- filterByExpr(dge)
 dge <- dge[keep, , keep.lib.sizes=FALSE]
@@ -209,6 +214,24 @@ data = data.frame(Patient, Status, PAM50, DaysToDeath)
 
 km_fit <- survfit(Surv(time, !is.na(DaysToDeath)) ~ PAM50, data=data)
 autoplot(km_fit, conf.int.alpha=0.2, ylab="survival")+ scale_color_brewer(palette="Dark2") + scale_fill_brewer(palette="Dark2") + theme_classic()
+@
+
+\subsection{}
+
+<<fig.pos="ht", fig.align='center', fig.cap="Hello">>=
+dge <- DGEList(counts=data.matrix(read_counts))
+keep <- filterByExpr(dge)
+dge <- dge[keep, , keep.lib.sizes=FALSE]
+dge <- calcNormFactors(dge)
+
+design <- model.matrix(~ addNA(PAM50))
+
+v <- voom(dge,design,plot=TRUE)
+linearfit = lmFit(v$E,design)
+eBfit = eBayes(linearfit)
+volcanoplot(eBfit,coef=2,style="B-statistic")
+
+kable(topTable(eBfit,coef=2), format = "latex", booktabs = TRUE)
 @
 
 \section{}
