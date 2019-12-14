@@ -1,0 +1,216 @@
+\documentclass[12pt]{article}
+\usepackage[british]{babel}
+%\usepackage[utf8]{inputenc}
+\usepackage[top=2.5cm, bottom=2.5cm, left=2.75cm, right=2.75cm]{geometry}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage[ruled,vlined]{algorithm2e}
+\usepackage{setspace}
+\usepackage{verbatim}
+
+%argmin, argmax
+\usepackage{amsmath}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\diag}{diag}
+
+\newcommand{\mmatrix}[1]{\boldsymbol{#1}}
+\newcommand{\mvec}[1]{\boldsymbol{#1}}
+
+\graphicspath{ {./images/} }
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.16}
+
+\usepackage{titlesec}
+\titleformat{\section}
+{\normalfont\Large\bfseries}{Group~\thesection.}{1em}{}
+\renewcommand\thesubsection{\alph{subsection})}
+\renewcommand{\thesection}{\Roman{section}}
+
+\newcommand{\footurl}[1]{\footnote{\url{#1}}}
+\usepackage[en-GB]{datetime2}   % for pretty date
+\DTMlangsetup[en-GB]{ord=raise} % for pretty date
+
+\usepackage{tikz}
+\usepackage{tikz-qtree}
+\usetikzlibrary{matrix}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{arrows,automata}
+\colorlet{pinkyred}{pink!50!red}
+
+\usepackage{amsmath}
+\DeclareMathOperator{\score}{score}
+
+\title{Report for LAB6: Omics Applications \\
+\Large{Bioinformatics}}
+\author{\normalsize Ricardo Brancas    \\\normalsize 83557
+    \and\normalsize Margarida Ferreira \\\normalsize 80832
+    \and\normalsize Felipe Gorostiaga  \\\normalsize 95383
+    \and\normalsize Benedict Schubert  \\\normalsize 95034}
+
+\date{\today}
+
+\begin{document}
+\maketitle
+
+<<include=FALSE,cache=FALSE>>=
+library(ggplot2)
+library(RColorBrewer)
+library(edgeR)
+library(stringr)
+library(ggpubr)
+library(survival)
+library(ggfortify)
+opts_chunk$set(echo=FALSE)
+@
+
+<<echo=FALSE,cache=TRUE,cache.lazy=FALSE>>=
+read_counts = read.csv('TCGA_BRCA_Gene_ReadCounts.txt', sep='\t', header=TRUE, row.names = 1)
+counts_histogram = data.frame(counts=colSums(read_counts))
+counts_comparison = read.csv('outputs/counts_comparison.csv', sep=',', header=TRUE)
+annotations = read.delim('TCGA_BRCA_ClinicalAnnotation.txt', header=TRUE, row.names=1)
+rownames(annotations) = str_replace(str_replace(rownames(annotations), '-', '.'), '-', '.')
+
+ESR1 = t(read_counts[c("ESR1"),])
+ESR2 = t(read_counts[c("ESR2"),])
+PGR = t(read_counts[c("PGR"),])
+ERBB2 = t(read_counts[c("ERBB2"),])
+
+groups = as.numeric(substr(colnames(read_counts), nchar(colnames(read_counts))-1, nchar(colnames(read_counts))-1))
+
+Tissue <- factor(groups)
+Patient <- factor(substr(colnames(read_counts), 0, 12))
+Estrogen <- addNA(annotations$Estrogen.Receptor[Patient])
+Progesterone <- addNA(annotations$Progesterone.Receptor[Patient])
+HER2 <- addNA(annotations$HER2[Patient])
+Status <- annotations$Vital.status[Patient]
+PAM50 <- annotations$PAM50[Patient]
+LastFollowUp <- annotations$Days.to.last.follow.up[Patient]
+DaysToDeath <- annotations$Days.to.death[Patient]
+
+data_g3 <- data.frame(ESR1, ESR2, PGR, ERBB2, Estrogen, Progesterone, HER2)
+
+@
+
+
+%paired end read -> reason why we have 2 FASTQ files.
+\section{}
+
+\subsection{}
+In figure~\ref{fig:sequence-quality} we present the per base sequence quality graphs obtained using the tool \textsc{FastQC}. The sequences have reasonably good quality scores, although there is some disparity between them. In particular the first sequence has slightly better quality than the second one, which is something one should be aware of.
+
+\begin{figure}[ht]
+     \centering
+     \begin{subfigure}[b]{0.49\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{outputs/quality1.png}
+         \caption{Quality graph for raw sequence 1.}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.49\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{outputs/quality2.png}
+         \caption{Quality graph for raw sequence 2.}
+     \end{subfigure}
+        \caption{Quality graphs for the raw sequences, as obtained in \textsc{FastQC}.}
+        \label{fig:sequence-quality}
+\end{figure}
+
+\subsection{}
+We chose to use \textsc{Kallisto}, together with the annotated human transcriptome from Ensembl \footurl{ftp://ftp.ensembl.org/pub/release-98/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz}.
+We chose the cDNA sequences, as advised in the Kallisto FAQ \footurl{https://pachterlab.github.io/kallisto/faq}.
+
+To compare the transcript expression with the gene expression counts given, we had to transfer a mapping from the Ensembl transcript identifiers to gene names. We used  Ensembl Biomart \footurl{http://www.ensembl.org/biomart/martview/a797838aa8255de1efa6fb6d11322eb5} to get this mapping. We then took the transcript count estimates and the mapping and created a summarised table containing the total estimated number of reads for each gene. Finally, comparing this table with the read count table we were given, results in the graph in figure~\ref{fig:count-comparison}. Analysing this graph, we can see that most genes are linearly correlated. Most outliers are from read counts of 0 which most likely represents a mismatch between the transcript identifiers and the gene names.
+
+<<count-comparison, fig.pos='ht', fig.width=5, fig.height=5, fig.align='center', fig.cap="Count comparison.">>=
+plot(counts_comparison$est, counts_comparison$target, xlab="Estimated Counts", ylab="Provided Counts")
+@
+
+\section{}
+
+\subsection{Read coverage and library complexity}
+To analyse the read coverage, we created the histogram in figure~\ref{fig:read-coverage}. We can see that most samples have more than \(6 \times 10^7\) reads, although a very small number has only around \(4 \times 10^7\). This might mean that in these samples lowly expressed genes are below the detection threshold.
+
+<<read-coverage, fig.pos="ht", fig.asp=1/2, fig.align='center', fig.cap="Hello">>=
+ggplot(counts_histogram, aes(x=counts)) + geom_histogram(color="black", fill="white", bins=20) + theme_classic()
+@
+
+To compute library complexity, we used a sampling-based approach. For each patient, we sampled the genes with probability proportional to the read count of each gene for that patient. In figure~\ref{fig:library-complexity} we plot the library complexities for all samples.
+Analysing the figure we can see that, in general, samples from normal tissues has a
+<<library-complexity, fig.pos="ht", fig.asp=2/3, fig.align='center', fig.cap="Hello", cahce=TRUE>>=
+groups = as.numeric(substr(colnames(read_counts), nchar(colnames(read_counts))-1, nchar(colnames(read_counts))-1))
+colors <- brewer.pal(3, "Dark2")
+
+sample_n =1
+increment = 32000
+
+list = c()
+for (i in 1:sample_n) {
+  list = append(list, c(length(unique(sample(rownames(read_counts), size=i*increment, prob=read_counts$TCGA.A1.A0SB.01, replace=TRUE))) / nrow(read_counts)))
+}
+
+plot(1:length(list) * increment, unlist(list), type="l", col=alpha(colors[groups[which(colnames(read_counts) == "TCGA.A1.A0SB.01")] + 1], 0.2), ylim=c(0,0.7), xlab="Number of Samples", ylab="Gene Coverage")
+
+first = TRUE
+for (person in colnames(read_counts)) {
+  if (first) {
+    first = FALSE
+    next
+  }
+  list = c()
+  for (i in 1:sample_n) {
+    list = append(list, c(length(unique(sample(rownames(read_counts), size=i*increment, prob=read_counts[[person]], replace=TRUE))) / nrow(read_counts)))
+  }
+  lines(1:length(list) * increment, unlist(list), col=alpha(colors[groups[which(colnames(read_counts) == person)] + 1], 0.2), xlab="Number of Samples", ylab="Gene Coverage")
+}
+@
+
+\subsection{}
+To normalise the data, we used the Trimmed Mean of M (TMM) method. To analyse our data after normalisation we produced a plot where the distance between samples correponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. The result can be seen in figure~\ref{fig:mds}. There is a clear separation between the samples of normal tissues (presented in red) and the samples taken from tumors (in blue). It also appears that there are two distinct groups of samples from tumors.
+
+<<mds, fig.pos="ht", fig.width=5, fig.height=5, fig.align='center', fig.cap="Hello", cache=TRUE>>=
+dge <- DGEList(counts=data.matrix(read_counts), group = Tissue)
+
+keep <- filterByExpr(dge)
+dge <- dge[keep, , keep.lib.sizes=FALSE]
+
+dge <- calcNormFactors(dge)
+
+plotMDS(dge, pch=20, col = brewer.pal(3, "Dark2")[Tissue], gene.selection = "common")
+@
+
+\section{}
+
+\subsection{}
+We need to show how the gene expression for those genes is related to the binary classification for the same tests in the patient data.
+
+<<3a, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Count comparison.", fig.subcap=c('a', 'b', 'c'), warning=FALSE>>=
+ggplot(data_g3, aes(x=ESR1, y=ESR2, color=Estrogen)) + scale_color_brewer(palette="Dark2") + scale_y_log10() + scale_x_log10() + geom_point() + annotation_logticks() + theme_classic()
+gghistogram(data_g3, x = "ERBB2", bins = 20,
+            add = "mean", rug = TRUE,
+            color = "HER2", fill = "HER2", xscale="log10", palette="Dark2")
+gghistogram(data_g3, x = "PGR", bins = 20,
+            add = "mean", rug = TRUE,
+            color = "Progesterone", fill = "Progesterone", xscale="log10", palette="Dark2")
+@
+
+\subsection{}
+Just do the survival analysis according to the PAM50 groups.
+
+<<survival, fig.pos="ht", fig.asp=1/2, fig.align='center', fig.cap="Hello">>=
+time <- ifelse(is.na(DaysToDeath), LastFollowUp, DaysToDeath)
+
+data = data.frame(Patient, Status, PAM50, DaysToDeath)
+
+km_fit <- survfit(Surv(time, !is.na(DaysToDeath)) ~ PAM50, data=data)
+autoplot(km_fit, conf.int.alpha=0.2, ylab="survival")+ scale_color_brewer(palette="Dark2") + scale_fill_brewer(palette="Dark2") + theme_classic()
+@
+
+\section{}
+\section{One more question}
+\end{document}
