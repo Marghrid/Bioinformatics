@@ -110,7 +110,7 @@ data_g3 <- data.frame(ESR1, ESR2, PGR, ERBB2, Estrogen, Progesterone, HER2)
 %paired end read -> reason why we have 2 FASTQ files.
 \section{}
 
-\subsection{}
+\subsection{Quality assessment of FASTQ}
 In figure~\ref{fig:sequence-quality} we present the per base sequence quality graphs obtained using the tool \textsc{FastQC}. The sequences have reasonably good quality scores, although there is some disparity between them. In particular the first sequence has slightly better quality than the second one, which is something one should be aware of.
 
 \begin{figure}[ht]
@@ -130,7 +130,7 @@ In figure~\ref{fig:sequence-quality} we present the per base sequence quality gr
         \label{fig:sequence-quality}
 \end{figure}
 
-\subsection{}
+\subsection{Estimated gene expression vs. provided read counts}
 We chose to use the aligner \textsc{Kallisto}, together with the annotated human transcriptome from Ensembl \footurl{ftp://ftp.ensembl.org/pub/release-98/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz}.
 We chose the cDNA sequences, as advised in the Kallisto FAQ \footurl{https://pachterlab.github.io/kallisto/faq}.
 
@@ -152,8 +152,8 @@ To analyse the read coverage, we created the histogram in figure~\ref{fig:read-c
 ggplot(counts_histogram, aes(x=counts)) + ylab("Absolute Frequency") + xlab("#reads") + geom_histogram(color="black", fill="white", bins=20) + theme_classic()
 @
 
-To compute library complexity, we used a sampling-based approach. For each patient, we sampled the genes with probability proportional to the read count of each gene for that patient. In figure~\ref{fig:library-complexity} we plot the library complexities for all samples.
-Analysing the figure we can see that, in general, samples from normal tissues has a
+Library complexity refers to the number of unique DNA fragments present in a given library. To compute library complexity, we used a sampling-based approach. For each patient, we sampled the genes with probability proportional to the read count of each gene for that patient. In figure~\ref{fig:library-complexity} we plot the library complexities for all samples.
+Analysing the figure we can see that, in general, samples from normal tissues have a higher/lower library complexity than sample from diseased tissues, i.e.,
 <<library-complexity, fig.pos="ht", fig.asp=2/3, fig.align='center', fig.cap="Library complexity plot.", cache=TRUE>>=
 # ggplot(data_g1, aes(x = value, group=key, color=tissue)) + stat_ecdf(geom="line") + scale_x_log10() + coord_cartesian(xlim=c(0,2000))
 
@@ -185,7 +185,7 @@ for (person in colnames(read_counts)) {
 legend("bottomright", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
 @
 
-\subsection{}
+\subsection{Normalisation of the data}
 To normalise the data, we used the Trimmed Mean of M (TMM) method. To analyse our data after normalisation we produced a plot where the distance between samples correponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. The result can be seen in figure~\ref{fig:mds}. There is a clear separation between the samples of normal tissues and the samples taken from tumors. It also appears that there are two distinct groups of samples from tumors.
 
 <<mds, fig.pos="ht", fig.width=5, fig.height=5, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing.", cache=TRUE>>=
