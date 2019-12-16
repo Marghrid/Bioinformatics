@@ -148,13 +148,15 @@ ggplot(new_counts, aes(x=est, y=target)) + geom_point() + scale_x_log10() + scal
 \subsection{Read coverage and library complexity}
 To analyse the read coverage, we created the histogram in figure~\ref{fig:read-coverage}. We can see that most samples have more than \(6 \times 10^7\) reads, although a very small number has only around \(4 \times 10^7\). This might mean that in these samples lowly expressed genes are below the detection threshold.
 
-<<read-coverage, fig.pos="ht", fig.width=5, fig.asp=1/2, fig.align='center', fig.cap="Hello">>=
-ggplot(counts_histogram, aes(x=counts)) + geom_histogram(color="black", fill="white", bins=20) + theme_classic()
+<<read-coverage, fig.pos="ht", fig.width=5, fig.asp=1/2, fig.align='center', fig.cap="Read counts histogram.">>=
+ggplot(counts_histogram, aes(x=counts)) + ylab("Absolute Frequency") + xlab("#reads") + geom_histogram(color="black", fill="white", bins=20) + theme_classic()
 @
 
 To compute library complexity, we used a sampling-based approach. For each patient, we sampled the genes with probability proportional to the read count of each gene for that patient. In figure~\ref{fig:library-complexity} we plot the library complexities for all samples.
 Analysing the figure we can see that, in general, samples from normal tissues has a
-<<library-complexity, fig.pos="ht", fig.asp=2/3, fig.align='center', fig.cap="Hello", cache=TRUE>>=
+<<library-complexity, fig.pos="ht", fig.asp=2/3, fig.align='center', fig.cap="Library complexity plot.", cache=TRUE>>=
+# ggplot(data_g1, aes(x = value, group=key, color=tissue)) + stat_ecdf(geom="line") + scale_x_log10() + coord_cartesian(xlim=c(0,2000))
+
 groups = as.numeric(substr(colnames(read_counts), nchar(colnames(read_counts))-1, nchar(colnames(read_counts))-1))
 colors <- brewer.pal(3, "Dark2")
 
@@ -186,7 +188,7 @@ legend("bottomright", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(
 \subsection{}
 To normalise the data, we used the Trimmed Mean of M (TMM) method. To analyse our data after normalisation we produced a plot where the distance between samples correponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. The result can be seen in figure~\ref{fig:mds}. There is a clear separation between the samples of normal tissues and the samples taken from tumors. It also appears that there are two distinct groups of samples from tumors.
 
-<<mds, fig.pos="ht", fig.width=5, fig.height=5, fig.align='center', fig.cap="Hello", cache=TRUE>>=
+<<mds, fig.pos="ht", fig.width=5, fig.height=5, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing.", cache=TRUE>>=
 dge <- DGEList(counts=data.matrix(read_counts))
 
 keep <- filterByExpr(dge)
@@ -203,7 +205,7 @@ legend("topleft", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "
 \subsection{}
 We need to show how the gene expression for those genes is related to the binary classification for the same tests in the patient data.
 
-<<3a, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Count comparison.", fig.subcap=c('a', 'b', 'c'), warning=FALSE>>=
+<<3a, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Relation between the cognate genes and the immunohistochemistry-based tests.", fig.subcap=c('a', 'b', 'c'), warning=FALSE>>=
 ggplot(data_g3, aes(x=ESR1, y=ESR2, color=Estrogen)) + scale_color_brewer(palette="Dark2") + scale_y_log10() + scale_x_log10() + geom_point() + annotation_logticks() + theme_classic()
 gghistogram(data_g3, x = "ERBB2", bins = 20,
             add = "mean", rug = TRUE,
