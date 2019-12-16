@@ -70,6 +70,7 @@ library(ggpubr)
 library(survival)
 library(ggfortify)
 library(knitr)
+library(tidyr)
 opts_chunk$set(echo=FALSE)
 options(digits=4)
 @
@@ -97,6 +98,9 @@ Status <- annotations$Vital.status[Patient]
 PAM50 <- annotations$PAM50[Patient]
 LastFollowUp <- annotations$Days.to.last.follow.up[Patient]
 DaysToDeath <- annotations$Days.to.death[Patient]
+
+data_g1 <- read_counts %>% gather() %>% extract(key, c("tissue"), regex="([01]).$", remove=FALSE, convert=TRUE)
+data_g1$tissue = factor(data_g1$tissue)
 
 data_g3 <- data.frame(ESR1, ESR2, PGR, ERBB2, Estrogen, Progesterone, HER2)
 
@@ -127,13 +131,16 @@ In figure~\ref{fig:sequence-quality} we present the per base sequence quality gr
 \end{figure}
 
 \subsection{}
-We chose to use \textsc{Kallisto}, together with the annotated human transcriptome from Ensembl \footurl{ftp://ftp.ensembl.org/pub/release-98/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz}.
+We chose to use the aligner \textsc{Kallisto}, together with the annotated human transcriptome from Ensembl \footurl{ftp://ftp.ensembl.org/pub/release-98/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz}.
 We chose the cDNA sequences, as advised in the Kallisto FAQ \footurl{https://pachterlab.github.io/kallisto/faq}.
 
-To compare the transcript expression with the gene expression counts given, we had to transfer a mapping from the Ensembl transcript identifiers to gene names. We used  Ensembl Biomart \footurl{http://www.ensembl.org/biomart/martview/a797838aa8255de1efa6fb6d11322eb5} to get this mapping. We then took the transcript count estimates and the mapping and created a summarised table containing the total estimated number of reads for each gene. Finally, comparing this table with the read count table we were given, results in the graph in figure~\ref{fig:count-comparison}. Analysing this graph, we can see that most genes are linearly correlated. Most outliers are from read counts of 0 which most likely represents a mismatch between the transcript identifiers and the gene names.
+To compare the transcript expression with the gene expression counts given, we had to download a mapping from the Ensembl transcript identifiers to gene names. We used  Ensembl Biomart \footurl{http://www.ensembl.org/biomart/martview/a797838aa8255de1efa6fb6d11322eb5} to get this mapping. We then took the transcript count estimates and the mapping and created a summarised table containing the total estimated number of reads for each gene. Finally, comparing this table with the read count table we were given, results in the graph in figure~\ref{fig:count-comparison}. Analysing this graph, we can see that most genes are linearly correlated. Most outliers are from read counts of 0 which most likely represents a mismatch between the transcript identifiers and the gene names.
 
-<<count-comparison, fig.pos='ht', fig.width=5, fig.height=5, fig.align='center', fig.cap="Count comparison.">>=
-plot(counts_comparison$est, counts_comparison$target, xlab="Estimated Counts", ylab="Provided Counts")
+<<count-comparison, fig.pos='ht', fig.width=5, fig.height=4, fig.ncol=1, fig.align='center', fig.cap="Comparison between the estimated counts and the provided values.", fig.subcap=c("", "Log-log plot after removing 0 values.")>>=
+ggplot(counts_comparison, aes(x=est, y=target)) + geom_point() + theme_classic()
+new_counts <- counts_comparison[which(counts_comparison[c("est")] >= 1), ]
+new_counts <- new_counts[which(new_counts[c("target")] >= 1), ]
+ggplot(new_counts, aes(x=est, y=target)) + geom_point() + scale_x_log10() + scale_y_log10() + theme_classic()
 @
 
 \section{}
@@ -141,18 +148,18 @@ plot(counts_comparison$est, counts_comparison$target, xlab="Estimated Counts", y
 \subsection{Read coverage and library complexity}
 To analyse the read coverage, we created the histogram in figure~\ref{fig:read-coverage}. We can see that most samples have more than \(6 \times 10^7\) reads, although a very small number has only around \(4 \times 10^7\). This might mean that in these samples lowly expressed genes are below the detection threshold.
 
-<<read-coverage, fig.pos="ht", fig.asp=1/2, fig.align='center', fig.cap="Hello">>=
+<<read-coverage, fig.pos="ht", fig.width=5, fig.asp=1/2, fig.align='center', fig.cap="Hello">>=
 ggplot(counts_histogram, aes(x=counts)) + geom_histogram(color="black", fill="white", bins=20) + theme_classic()
 @
 
 To compute library complexity, we used a sampling-based approach. For each patient, we sampled the genes with probability proportional to the read count of each gene for that patient. In figure~\ref{fig:library-complexity} we plot the library complexities for all samples.
 Analysing the figure we can see that, in general, samples from normal tissues has a
-<<library-complexity, fig.pos="ht", fig.asp=2/3, fig.align='center', fig.cap="Hello", cahce=TRUE>>=
+<<library-complexity, fig.pos="ht", fig.asp=2/3, fig.align='center', fig.cap="Hello", cache=TRUE>>=
 groups = as.numeric(substr(colnames(read_counts), nchar(colnames(read_counts))-1, nchar(colnames(read_counts))-1))
 colors <- brewer.pal(3, "Dark2")
 
-sample_n = 8
-increment = 32000
+sample_n = 16
+increment = 16000
 
 list = c()
 for (i in 1:sample_n) {
@@ -173,10 +180,11 @@ for (person in colnames(read_counts)) {
   }
   lines(1:length(list) * increment, unlist(list), col=alpha(colors[groups[which(colnames(read_counts) == person)] + 1], 0.2), xlab="Number of Samples", ylab="Gene Coverage")
 }
+legend("bottomright", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
 @
 
 \subsection{}
-To normalise the data, we used the Trimmed Mean of M (TMM) method. To analyse our data after normalisation we produced a plot where the distance between samples correponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. The result can be seen in figure~\ref{fig:mds}. There is a clear separation between the samples of normal tissues (presented in red) and the samples taken from tumors (in blue). It also appears that there are two distinct groups of samples from tumors.
+To normalise the data, we used the Trimmed Mean of M (TMM) method. To analyse our data after normalisation we produced a plot where the distance between samples correponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. The result can be seen in figure~\ref{fig:mds}. There is a clear separation between the samples of normal tissues and the samples taken from tumors. It also appears that there are two distinct groups of samples from tumors.
 
 <<mds, fig.pos="ht", fig.width=5, fig.height=5, fig.align='center', fig.cap="Hello", cache=TRUE>>=
 dge <- DGEList(counts=data.matrix(read_counts))
@@ -187,6 +195,7 @@ dge <- dge[keep, , keep.lib.sizes=FALSE]
 dge <- calcNormFactors(dge)
 
 plotMDS(dge, pch=20, col = brewer.pal(3, "Dark2")[Tissue], gene.selection = "common")
+legend("topleft", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
 @
 
 \section{}
