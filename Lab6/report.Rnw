@@ -1,7 +1,7 @@
 \documentclass[10pt,twocolumn]{article}
 \usepackage[british]{babel}
 %\usepackage[utf8]{inputenc}
-\usepackage[top=2.5cm, bottom=2.5cm, left=2.75cm, right=2.75cm]{geometry}
+\usepackage[margin=2.25cm]{geometry}
 \usepackage{graphicx}
 \usepackage{listings}
 \usepackage{subcaption}
@@ -12,6 +12,7 @@
 \usepackage{setspace}
 \usepackage{verbatim}
 \usepackage{booktabs}
+\usepackage{titlesec}
 
 %argmin, argmax
 \usepackage{amsmath}
@@ -30,10 +31,16 @@
 \usepackage{titlesec}
 \titleformat{\section}
 {\normalfont\Large\bfseries}{Group~\thesection.}{1em}{}
-\renewcommand\thesubsection{\alph{subsection})}
+
+%\titleformat*{\subsection}{\normalsize\bfseries} % make subsection title smaller
+\titleformat{\subsection}
+{\normalfont\normalsize\bfseries}{\thesubsection}{.5em}{}
+
+\renewcommand\thesubsection{\Roman{section}. \alph{subsection})}
 \renewcommand{\thesection}{\Roman{section}}
 
 \newcommand{\footurl}[1]{\footnote{\url{#1}}}
+\newcommand{\todo}[1]{\textcolor{blue}{[\textbf{TODO: #1}]} } 
 \usepackage[en-GB]{datetime2}   % for pretty date
 \DTMlangsetup[en-GB]{ord=raise} % for pretty date
 
@@ -51,10 +58,10 @@
 
 \title{Report for LAB6: Omics Applications \\
 \Large{Bioinformatics}}
-\author{\normalsize Ricardo Brancas    \\\normalsize 83557
-    \and\normalsize Margarida Ferreira \\\normalsize 80832
-    \and\normalsize Felipe Gorostiaga  \\\normalsize 95383
-    \and\normalsize Benedict Schubert  \\\normalsize 95034}
+\author{ Ricardo Brancas    \\ 83557
+    \and Margarida Ferreira \\ 80832
+    \and Felipe Gorostiaga  \\ 95383
+    \and Benedict Schubert  \\ 95034}
 
 \date{\today}
 
@@ -115,13 +122,13 @@ In figure~\ref{fig:sequence-quality} we present the per base sequence quality gr
 
 \begin{figure}[ht]
      \centering
-     \begin{subfigure}[b]{0.49\textwidth}
+     \begin{subfigure}[b]{0.9\columnwidth}
          \centering
          \includegraphics[width=\textwidth]{outputs/quality1.png}
          \caption{Quality graph for raw sequence 1.}
      \end{subfigure}
      \hfill
-     \begin{subfigure}[b]{0.49\textwidth}
+     \begin{subfigure}[b]{0.9\columnwidth}
          \centering
          \includegraphics[width=\textwidth]{outputs/quality2.png}
          \caption{Quality graph for raw sequence 2.}
@@ -134,7 +141,10 @@ In figure~\ref{fig:sequence-quality} we present the per base sequence quality gr
 We chose to use the aligner \textsc{Kallisto}, together with the annotated human transcriptome from Ensembl \footurl{ftp://ftp.ensembl.org/pub/release-98/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz}.
 We chose the cDNA sequences, as advised in the Kallisto FAQ \footurl{https://pachterlab.github.io/kallisto/faq}.
 
-To compare the transcript expression with the gene expression counts given, we had to download a mapping from the Ensembl transcript identifiers to gene names. We used  Ensembl Biomart \footurl{http://www.ensembl.org/biomart/martview/a797838aa8255de1efa6fb6d11322eb5} to get this mapping. We then took the transcript count estimates and the mapping and created a summarised table containing the total estimated number of reads for each gene. Finally, comparing this table with the read count table we were given, results in the graph in figure~\ref{fig:count-comparison}. Analysing this graph, we can see that most genes are linearly correlated. Most outliers are from read counts of 0 which most likely represents a mismatch between the transcript identifiers and the gene names.
+To compare the transcript expression with the gene expression counts given, we downloaded a mapping from the Ensembl transcript identifiers to gene names. We used  Ensembl Biomart \footurl{http://www.ensembl.org/biomart/martview/a797838aa8255de1efa6fb6d11322eb5} to get this mapping. We then took the transcript count estimates and the mapping and created a summarised table containing the total estimated number of reads for each gene. Finally, comparing this table with the read count table we were given, results in the graph in figure~\ref{fig:count-comparison}. Figure~\ref{fig:count-comparison}a shows all the estimated and provided read counts plotted against each other: each black mark represents a gene, the value on the y-axis is the provided read count, while the value on the x axis is the estimated read count; therefore, the closer a mark is to the \(y=x\) line, the better the estimation. Analysing this graph, we can see that most genes are correctly estimated, as most marks lie within the \(y=x\) line. Most outliers are from read counts of 0 which most likely represents a mismatch between the transcript identifiers and the gene names. In Figure~\ref{fig:count-comparison}b we show the same data, this time plotted in logarithmic scale so the values are more easily seen. Note that, in order to plot in a logarithmic scale, all the zero-valued read counts must be removed. In this plot we can again see that most of the estimates are accurate, even though there are a few outliers. We can also see that it appears that the higher the read count the better the estimation. This however is no true: what we are seeing is a result of the logarithmic scale: the errors are of the same order of magnitude, but since the scale is much larger, they seem smaller when compared to the actual read count values.
+
+%TODO MACF: Add y=x line to the plots?
+\todo{MACF: Add y=x line to the plots?}
 
 <<count-comparison, fig.pos='ht', fig.width=5, fig.height=4, fig.ncol=1, fig.align='center', fig.cap="Comparison between the estimated counts and the provided values.", fig.subcap=c("", "Log-log plot after removing 0 values.")>>=
 ggplot(counts_comparison, aes(x=est, y=target)) + geom_point() + theme_classic()
@@ -146,14 +156,18 @@ ggplot(new_counts, aes(x=est, y=target)) + geom_point() + scale_x_log10() + scal
 \section{}
 
 \subsection{Read coverage and library complexity}
-To analyse the read coverage, we created the histogram in figure~\ref{fig:read-coverage}. We can see that most samples have more than \(6 \times 10^7\) reads, although a very small number has only around \(4 \times 10^7\). This might mean that in these samples lowly expressed genes are below the detection threshold.
+To analyse the read coverage, we created the histogram in figure~\ref{fig:read-coverage}. We can see that the count values range from roughly 40 million to 180 million.
+We can also see that most samples have more than 60 million reads, although a very small number has only around 40 million.
+This might mean that in these samples lowly expressed genes are below the detection threshold. We can also see that there are a lot more genes with read counts in the 60 to 100 million range than in the rest of the domain, which indicates that we will probably need some kind of normalisation of the data.
 
 <<read-coverage, fig.pos="ht", fig.width=5, fig.asp=1/2, fig.align='center', fig.cap="Read counts histogram.">>=
 ggplot(counts_histogram, aes(x=counts)) + ylab("Absolute Frequency") + xlab("#reads") + geom_histogram(color="black", fill="white", bins=20) + theme_classic()
 @
 
-Library complexity refers to the number of unique DNA fragments present in a given library. To compute library complexity, we used a sampling-based approach. For each patient, we sampled the genes with probability proportional to the read count of each gene for that patient. In figure~\ref{fig:library-complexity} we plot the library complexities for all samples.
-Analysing the figure we can see that, in general, samples from normal tissues have a higher/lower library complexity than sample from diseased tissues, i.e.,
+Library complexity refers to the number of unique DNA fragments present in a given library. To compute library complexity, we used a sampling-based approach. For tissue sample, we sampled the genes with probability proportional to the read count of each gene for that patient. In figure~\ref{fig:library-complexity} we plot the library complexities for all samples.
+Analysing the figure we can see that, in general, in samples from normal tissues we hit more genes with fewer samples, which means that the genes are more uniformly represented. On the other hand, in deseased tissues, we get a lower percentage of all the detected genes with the same number of samples, showing that the read counts for the genes in deseased tissues is farther from a uniform distribution: there are a few genes with a much higher read count than the others.
+
+
 <<library-complexity, fig.pos="ht", fig.asp=2/3, fig.align='center', fig.cap="Library complexity plot.", cache=TRUE>>=
 # ggplot(data_g1, aes(x = value, group=key, color=tissue)) + stat_ecdf(geom="line") + scale_x_log10() + coord_cartesian(xlim=c(0,2000))
 
@@ -182,11 +196,23 @@ for (person in colnames(read_counts)) {
   }
   lines(1:length(list) * increment, unlist(list), col=alpha(colors[groups[which(colnames(read_counts) == person)] + 1], 0.2), xlab="Number of Samples", ylab="Gene Coverage")
 }
-legend("bottomright", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
+legend("bottomright", legend=c("Timor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
 @
 
 \subsection{Normalisation of the data}
-To normalise the data, we used the Trimmed Mean of M (TMM) method. To analyse our data after normalisation we produced a plot where the distance between samples correponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. The result can be seen in figure~\ref{fig:mds}. There is a clear separation between the samples of normal tissues and the samples taken from tumors. It also appears that there are two distinct groups of samples from tumors.
+To normalise the data, we used the Trimmed Mean of M (TMM) method. In order to evaluate our normalisation, we produced a series of plots which help us visualise how the data changed after the normalisation.
+
+First, we plotted the histogram of the normalised read counts. When compared with the histogram resulting of the raw read counts (in figure~\ref{fig:read-coverage}), we can se that .....
+% TODO MACF plot histogram of the normalised read counts (hopefully it is flatter)
+\todo{MACF: plot histogram of the normalised read counts (hopefully it is flatter)}
+
+
+We produced a plot where the distance between samples corresponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. The result can be seen in figure~\ref{fig:mds}. There is a clear separation between the samples of normal tissues and the samples taken from tumours. It also appears that there are two distinct groups of samples from tumours.
+
+Finally, we wanted to ensure that after normalisation there was no difference between the highly expressed and lowly expressed genes. To so so, we coloured the marks according to their read count.........
+
+% TODO MACF different colours for 2 groups of genes with varying number read counts: produce histogram with the columns on the right in one color and the columns on the left another column (separate by mode/median=?). Then plotMDS using the same colours for the respetive marks.
+\todo{MACF: different colours for 2 groups of genes with varying number read counts: produce histogram with the columns on the right in one color and the columns on the left another column (separate by mode/median=?). Then plotMDS using the same colours for the respetive marks.}
 
 <<mds, fig.pos="ht", fig.width=5, fig.height=5, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing.", cache=TRUE>>=
 dge <- DGEList(counts=data.matrix(read_counts))
@@ -197,15 +223,24 @@ dge <- dge[keep, , keep.lib.sizes=FALSE]
 dge <- calcNormFactors(dge)
 
 plotMDS(dge, pch=20, col = brewer.pal(3, "Dark2")[Tissue], gene.selection = "common")
-legend("topleft", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
+legend("topleft", legend=c("Timor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
 @
 
-\section{}
+\subsection{Phenotypic traits and genes that dominate variance} % 2c)
+  
+% TODO MACF try to identify what separates the 2 groups of tumours in the MDS plot.
+\todo{MACF: try to identify what separates the 2 groups of tumours in the MDS plot.}
+\subsection{} % 2d)
 
-\subsection{}
-We need to show how the gene expression for those genes is related to the binary classification for the same tests in the patient data.
+\section{} % Group 3
 
-<<3a, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Relation between the cognate genes and the immunohistochemistry-based tests.", fig.subcap=c('a', 'b', 'c'), warning=FALSE>>=
+\subsection{} %3a)
+
+We want to show how the gene expression for some genes relates to the binary classification for the related immunohistochemistry-based tests in the patient data. To do so, we will produce 3 plots.
+
+First, in figure~\ref{fig:3a1} we have a scatter tissue sample the read count of ESR1 on the x-axis and the read count of ERS2 on the y-axis. Each mark is colored according to the presence of estrogen receptors in the respective tissue sample. We can see by this graph that the expression of ESR1 is highly related to the presence of estrogen receptors: to be continued.....
+
+<<3a, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Relation between the cognate genes and the immunohistochemistry-based tests.", fig.subcap=c('Relation between ESR1/ESR2 expression and the presence of estrogen receptors', 'Relation between PGR expression and the presence of progesterone receptors', 'Relation between ERBB2 expression and the presence of HER2 protein'), warning=FALSE>>=
 ggplot(data_g3, aes(x=ESR1, y=ESR2, color=Estrogen)) + scale_color_brewer(palette="Dark2") + scale_y_log10() + scale_x_log10() + geom_point() + annotation_logticks() + theme_classic()
 gghistogram(data_g3, x = "ERBB2", bins = 20,
             add = "mean", rug = TRUE,
@@ -215,6 +250,7 @@ gghistogram(data_g3, x = "PGR", bins = 20,
             color = "Progesterone", fill = "Progesterone", xscale="log10", palette="Dark2")
 @
 
+\todo{MACF: try to add ROC curves to these plots, or alternatively create another plot with ROC curves.}
 \subsection{}
 Just do the survival analysis according to the PAM50 groups.
 
@@ -227,7 +263,7 @@ km_fit <- survfit(Surv(time, !is.na(DaysToDeath)) ~ PAM50, data=data)
 autoplot(km_fit, conf.int.alpha=0.2, ylab="survival")+ scale_color_brewer(palette="Dark2") + scale_fill_brewer(palette="Dark2") + theme_classic()
 @
 
-\subsection{}
+\subsection{} %3c)
 
 <<fig.pos="ht", fig.align='center', fig.cap="Hello">>=
 dge <- DGEList(counts=data.matrix(read_counts))
@@ -245,6 +281,4 @@ volcanoplot(eBfit,coef=2,style="B-statistic")
 kable(topTable(eBfit,coef=2), format = "latex", booktabs = TRUE)
 @
 
-\section{}
-\section{One more question}
 \end{document}
