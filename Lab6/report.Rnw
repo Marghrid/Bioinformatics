@@ -105,6 +105,8 @@ Status <- annotations$Vital.status[Patient]
 PAM50 <- annotations$PAM50[Patient]
 LastFollowUp <- annotations$Days.to.last.follow.up[Patient]
 DaysToDeath <- annotations$Days.to.death[Patient]
+Menopause <- annotations$Menopausal.status[Patient]
+Ethnicity <- annotations$Ethnicity[Patient]
 
 data_g1 <- read_counts %>% gather() %>% extract(key, c("tissue"), regex="([01]).$", remove=FALSE, convert=TRUE)
 data_g1$tissue = factor(data_g1$tissue)
@@ -143,14 +145,11 @@ We chose the cDNA sequences, as advised in the Kallisto FAQ \footurl{https://pac
 
 To compare the transcript expression with the gene expression counts given, we downloaded a mapping from the Ensembl transcript identifiers to gene names. We used  Ensembl Biomart \footurl{http://www.ensembl.org/biomart/martview/a797838aa8255de1efa6fb6d11322eb5} to get this mapping. We then took the transcript count estimates and the mapping and created a summarised table containing the total estimated number of reads for each gene. Finally, comparing this table with the read count table we were given, results in the graph in figure~\ref{fig:count-comparison}. Figure~\ref{fig:count-comparison}a shows all the estimated and provided read counts plotted against each other: each black mark represents a gene, the value on the y-axis is the provided read count, while the value on the x axis is the estimated read count; therefore, the closer a mark is to the \(y=x\) line, the better the estimation. Analysing this graph, we can see that most genes are correctly estimated, as most marks lie within the \(y=x\) line. Most outliers are from read counts of 0 which most likely represents a mismatch between the transcript identifiers and the gene names. In Figure~\ref{fig:count-comparison}b we show the same data, this time plotted in logarithmic scale so the values are more easily seen. Note that, in order to plot in a logarithmic scale, all the zero-valued read counts must be removed. In this plot we can again see that most of the estimates are accurate, even though there are a few outliers. We can also see that it appears that the higher the read count the better the estimation. This however is no true: what we are seeing is a result of the logarithmic scale: the errors are of the same order of magnitude, but since the scale is much larger, they seem smaller when compared to the actual read count values.
 
-%TODO MACF: Add y=x line to the plots?
-\todo{MACF: Add y=x line to the plots?}
-
 <<count-comparison, fig.pos='ht', fig.width=5, fig.height=4, fig.ncol=1, fig.align='center', fig.cap="Comparison between the estimated counts and the provided values.", fig.subcap=c("", "Log-log plot after removing 0 values.")>>=
-ggplot(counts_comparison, aes(x=est, y=target)) + geom_point() + theme_classic()
+ggplot(counts_comparison, aes(x=est, y=target)) + geom_point(color=brewer.pal(3, "Dark2")[1]) + geom_abline(color=brewer.pal(3, "Dark2")[2]) + theme_classic()
 new_counts <- counts_comparison[which(counts_comparison[c("est")] >= 1), ]
 new_counts <- new_counts[which(new_counts[c("target")] >= 1), ]
-ggplot(new_counts, aes(x=est, y=target)) + geom_point() + scale_x_log10() + scale_y_log10() + theme_classic()
+ggplot(new_counts, aes(x=est, y=target)) + geom_point(color=brewer.pal(3, "Dark2")[1]) + scale_x_log10() + geom_abline(color=brewer.pal(3, "Dark2")[2]) + scale_y_log10() + theme_classic()
 @
 
 \section{}
@@ -196,7 +195,7 @@ for (person in colnames(read_counts)) {
   }
   lines(1:length(list) * increment, unlist(list), col=alpha(colors[groups[which(colnames(read_counts) == person)] + 1], 0.2), xlab="Number of Samples", ylab="Gene Coverage")
 }
-legend("bottomright", legend=c("Timor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
+legend("bottomright", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
 @
 
 \subsection{Normalisation of the data}
@@ -206,6 +205,16 @@ First, we plotted the histogram of the normalised read counts. When compared wit
 % TODO MACF plot histogram of the normalised read counts (hopefully it is flatter)
 \todo{MACF: plot histogram of the normalised read counts (hopefully it is flatter)}
 
+<<norm-read-coverage, fig.pos="ht", fig.width=5, fig.asp=1/2, fig.align='center', fig.cap="Read counts histogram.">>=
+dge <- DGEList(counts=data.matrix(read_counts))
+
+keep <- filterByExpr(dge)
+dge <- dge[keep, , keep.lib.sizes=FALSE]
+
+dge <- calcNormFactors(dge)
+
+ggplot(counts_histogram, aes(x=counts * dge$samples$norm.factors)) + ylab("Absolute Frequency") + xlab("Normalized #reads") + geom_histogram(color="black", fill="white", position="dodge", bins=20, alpha=.5) + theme_classic()
+@
 
 We produced a plot where the distance between samples corresponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. The result can be seen in figure~\ref{fig:mds}. There is a clear separation between the samples of normal tissues and the samples taken from tumours. It also appears that there are two distinct groups of samples from tumours.
 
@@ -214,16 +223,18 @@ Finally, we wanted to ensure that after normalisation there was no difference be
 % TODO MACF different colours for 2 groups of genes with varying number read counts: produce histogram with the columns on the right in one color and the columns on the left another column (separate by mode/median=?). Then plotMDS using the same colours for the respetive marks.
 \todo{MACF: different colours for 2 groups of genes with varying number read counts: produce histogram with the columns on the right in one color and the columns on the left another column (separate by mode/median=?). Then plotMDS using the same colours for the respetive marks.}
 
-<<mds, fig.pos="ht", fig.width=5, fig.height=5, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing.", cache=TRUE>>=
-dge <- DGEList(counts=data.matrix(read_counts))
+<<mds, fig.pos="ht", fig.width=5, fig.height=5, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing.", fig.ncol=1, fig.subcap=c("a", "b", "c"), cache=TRUE>>=
+normalized = colSums(read_counts) * dge$samples$norm.factors
 
-keep <- filterByExpr(dge)
-dge <- dge[keep, , keep.lib.sizes=FALSE]
-
-dge <- calcNormFactors(dge)
+plotMDS(dge, pch=20, col = brewer.pal(3, "Dark2")[as.numeric(normalized > median(normalized))+1], gene.selection = "common")
+legend("topleft", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
 
 plotMDS(dge, pch=20, col = brewer.pal(3, "Dark2")[Tissue], gene.selection = "common")
-legend("topleft", legend=c("Timor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
+legend("topleft", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
+
+plotMDS(dge, pch=20, col = brewer.pal(5, "Dark2")[PAM50], gene.selection = "common")
+legend("topleft", legend=levels(PAM50), col=brewer.pal(5, "Dark2"), fill=brewer.pal(5, "Dark2"), cex=0.8)
+
 @
 
 \subsection{Phenotypic traits and genes that dominate variance} % 2c)

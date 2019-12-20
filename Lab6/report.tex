@@ -152,9 +152,6 @@ We chose the cDNA sequences, as advised in the Kallisto FAQ \footurl{https://pac
 
 To compare the transcript expression with the gene expression counts given, we downloaded a mapping from the Ensembl transcript identifiers to gene names. We used  Ensembl Biomart \footurl{http://www.ensembl.org/biomart/martview/a797838aa8255de1efa6fb6d11322eb5} to get this mapping. We then took the transcript count estimates and the mapping and created a summarised table containing the total estimated number of reads for each gene. Finally, comparing this table with the read count table we were given, results in the graph in figure~\ref{fig:count-comparison}. Figure~\ref{fig:count-comparison}a shows all the estimated and provided read counts plotted against each other: each black mark represents a gene, the value on the y-axis is the provided read count, while the value on the x axis is the estimated read count; therefore, the closer a mark is to the \(y=x\) line, the better the estimation. Analysing this graph, we can see that most genes are correctly estimated, as most marks lie within the \(y=x\) line. Most outliers are from read counts of 0 which most likely represents a mismatch between the transcript identifiers and the gene names. In Figure~\ref{fig:count-comparison}b we show the same data, this time plotted in logarithmic scale so the values are more easily seen. Note that, in order to plot in a logarithmic scale, all the zero-valued read counts must be removed. In this plot we can again see that most of the estimates are accurate, even though there are a few outliers. We can also see that it appears that the higher the read count the better the estimation. This however is no true: what we are seeing is a result of the logarithmic scale: the errors are of the same order of magnitude, but since the scale is much larger, they seem smaller when compared to the actual read count values.
 
-%TODO MACF: Add y=x line to the plots?
-\todo{MACF: Add y=x line to the plots?}
-
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{figure}[ht]
 
@@ -213,6 +210,18 @@ First, we plotted the histogram of the normalised read counts. When compared wit
 % TODO MACF plot histogram of the normalised read counts (hopefully it is flatter)
 \todo{MACF: plot histogram of the normalised read counts (hopefully it is flatter)}
 
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{figure}[ht]
+
+{\centering \includegraphics[width=\maxwidth]{figure/norm-read-coverage-1} 
+
+}
+
+\caption[Read counts histogram]{Read counts histogram.}\label{fig:norm-read-coverage}
+\end{figure}
+
+
+\end{knitrout}
 
 We produced a plot where the distance between samples corresponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. The result can be seen in figure~\ref{fig:mds}. There is a clear separation between the samples of normal tissues and the samples taken from tumours. It also appears that there are two distinct groups of samples from tumours.
 
@@ -224,7 +233,9 @@ Finally, we wanted to ensure that after normalisation there was no difference be
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{figure}[ht]
 
-{\centering \includegraphics[width=\maxwidth]{figure/mds-1} 
+{\centering \subfloat[a\label{fig:mds1}]{\includegraphics[width=\maxwidth]{figure/mds-1} }\newline
+\subfloat[b\label{fig:mds2}]{\includegraphics[width=\maxwidth]{figure/mds-2} }\newline
+\subfloat[c\label{fig:mds3}]{\includegraphics[width=\maxwidth]{figure/mds-3} }
 
 }
 
@@ -242,7 +253,7 @@ Finally, we wanted to ensure that after normalisation there was no difference be
 
 \section{} % Group 3
 
-\subsection{Can genes recapitulate related immunohistochemistry tests} %3a)
+\subsection{How well can genes recapitulate related immunohistochemistry tests} %3a)
 
 We want to show how the gene expression for some genes relates to the binary classification for the related immunohistochemistry-based tests in the patient data. To do so, we produce 3 plots, showed in figure~\ref{fig:3a}.
 
