@@ -223,11 +223,12 @@ Finally, we wanted to ensure that after normalisation there was no difference be
 % TODO MACF different colours for 2 groups of genes with varying number read counts: produce histogram with the columns on the right in one color and the columns on the left another column (separate by mode/median=?). Then plotMDS using the same colours for the respetive marks.
 \todo{MACF: different colours for 2 groups of genes with varying number read counts: produce histogram with the columns on the right in one color and the columns on the left another column (separate by mode/median=?). Then plotMDS using the same colours for the respetive marks.}
 
-<<mds, fig.pos="ht", fig.width=5, fig.height=5, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing.", fig.ncol=1, fig.subcap=c("a", "b", "c"), cache=TRUE>>=
+<<mds, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing.", fig.ncol=1, fig.subcap=c("a", "b", "c"), cache=TRUE>>=
 normalized = colSums(read_counts) * dge$samples$norm.factors
 
+par(mar=c(4.25,4.25,.75,.75))
 plotMDS(dge, pch=20, col = brewer.pal(3, "Dark2")[as.numeric(normalized > median(normalized))+1], gene.selection = "common")
-legend("topleft", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
+legend("topleft", legend=c("#reads <= median", "#reads > median"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
 
 plotMDS(dge, pch=20, col = brewer.pal(3, "Dark2")[Tissue], gene.selection = "common")
 legend("topleft", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
@@ -293,8 +294,10 @@ v <- voom(dge,design,plot=TRUE)
 linearfit = lmFit(v$E,design)
 eBfit = eBayes(linearfit)
 volcanoplot(eBfit,coef=2,style="B-statistic")
+@
 
-kable(topTable(eBfit,coef=2), format = "latex", booktabs = TRUE)
+<<fig.pos="ht", fig.align='center', fig.env="figure*", fig.cap="Hello">>=
+kable(topTable(eBfit,coef=2), format = "latex", booktabs = TRUE, caption = "My table", table.envir = "table*")
 @
 
 \subsection{Classifying molecular subtype} %3d)
