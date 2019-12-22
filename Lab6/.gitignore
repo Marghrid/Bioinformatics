@@ -4,4 +4,9 @@
 *.out
 *.synctex.gz
 *.aux
-
+cache
+.RData
+report.tex
+report-concordance.tex
+*.fastq
+report-tikzDictionary
