@@ -79,6 +79,12 @@ library(ggfortify)
 library(knitr)
 library(tidyr)
 library(plotROC)
+library(e1071)
+library(caTools)
+library(MLmetrics)
+library(class)
+library(caret)
+library(reshape2)
 opts_chunk$set(echo=FALSE)
 options(digits=4)
 @
@@ -100,6 +106,7 @@ groups = as.numeric(substr(colnames(read_counts), nchar(colnames(read_counts))-1
 Tissue <- factor(groups)
 Patient <- factor(substr(colnames(read_counts), 0, 12))
 Estrogen <- addNA(annotations$Estrogen.Receptor[Patient])
+Estrogen_bin <- dplyr::recode_factor(Estrogen, "indeterminate" = NA_character_)
 Progesterone <- addNA(annotations$Progesterone.Receptor[Patient])
 Progesterone_bin <- dplyr::recode_factor(Progesterone, "indeterminate" = NA_character_)
 HER2 <- addNA(annotations$HER2[Patient])
@@ -264,6 +271,10 @@ Finally, in figure~\ref{fig:3a3} we use a similar histogram to show the relation
 
 <<estrogen, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Relation between ESR1/ESR2 expression and the presence of estrogen receptors.", fig.subcap=c('a', 'b'), warning=FALSE>>=
 ggplot(data_g3, aes(x=ESR1, y=ESR2, color=Estrogen)) + scale_color_brewer(palette="Dark2") + scale_y_log10() + scale_x_log10() + geom_point() + annotation_logticks() + theme_classic()
+
+tmp <- ggplot(data.frame(pred=ESR1[!is.na(Estrogen_bin)], truth=Estrogen_bin[!is.na(Estrogen_bin)]), aes(m=pred, d=truth)) + geom_roc(n.cuts=5) + geom_abline(color="black")
+
+tmp + style_roc(theme=theme_classic) + annotate("text", x=.75, y=.25, label=paste("AUC =", round(calc_auc(tmp)$AUC, 2))) #+ theme(panel.grid.major.y = element_line(colour = "grey", size = .25), panel.grid.minor.y = element_line(colour = "grey", size = .1), panel.grid.major.x = element_line(colour = "grey", size = .25), panel.grid.minor.x = element_line(colour = "grey", size = .1))
 @
 
 <<progesterone, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Relation between PGR expression and the presence of progesterone receptors.", fig.subcap=c('a', 'b'), warning=FALSE>>=
@@ -285,8 +296,6 @@ tmp <- ggplot(data.frame(pred=ERBB2[!is.na(HER2_bin)], truth=HER2_bin[!is.na(HER
 
 tmp + style_roc(theme=theme_classic) + annotate("text", x=.75, y=.25, label=paste("AUC =", round(calc_auc(tmp)$AUC, 2))) #+ theme(panel.grid.major.y = element_line(colour = "grey", size = .25), panel.grid.minor.y = element_line(colour = "grey", size = .1), panel.grid.major.x = element_line(colour = "grey", size = .25), panel.grid.minor.x = element_line(colour = "grey", size = .1))
 @
-
-\todo{MACF: try to add ROC curves to these plots, or alternatively create another plot with ROC curves.}
 
 \subsection{Survival analysis} %3b)
 Just do the survival analysis according to the PAM50 groups.
@@ -321,4 +330,28 @@ kable(topTable(eBfit,coef=2), format = "latex", booktabs = TRUE, caption = "My t
 @
 
 \subsection{Classifying molecular subtype} %3d)
+
+<<fig.pos="ht", fig.align='center', fig.cap="Hello">>=
+top_genes <- rownames(topTable(eBfit, number=20))
+
+reads <- as.data.frame(t(read_counts[top_genes,]))
+reads$PAM50 <- PAM50
+labeled <- reads[!is.na(PAM50),]
+unlabeled <- reads[is.na(PAM50),]
+
+sample = sample.split(labeled$PAM50, SplitRatio = .8)
+train = subset(labeled, sample == TRUE)
+test  = subset(labeled, sample == FALSE)
+
+model <- naiveBayes(PAM50 ~ ., data = train)
+results <- predict(model, test)
+ggplot(data = melt(confusionMatrix(results, test$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile()
+
+results <- knn(train[, names(train) != "PAM50"], test[, names(test) != "PAM50"], cl=train$PAM50, k=11)
+
+ggplot(data = melt(confusionMatrix(results, test$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile() + scale_fill_brewer(palette = "Spectral")
+
+summary(model)
+@
+
 \end{document}
