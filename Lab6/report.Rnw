@@ -13,6 +13,7 @@
 \usepackage{verbatim}
 \usepackage{booktabs}
 \usepackage{titlesec}
+\usepackage[section]{placeins}
 
 %argmin, argmax
 \usepackage{amsmath}
@@ -132,7 +133,7 @@ data_g3 <- data.frame(ESR1, ESR2, PGR, ERBB2, Estrogen, Progesterone, HER2)
 %paired end read -> reason why we have 2 FASTQ files.
 \section{}
 
-\subsection{Quality assessment of FASTQ}
+\subsection{Quality assessment of FASTQ} %1a)
 In figure~\ref{fig:sequence-quality} we present the per base sequence quality graphs obtained using the tool \textsc{FastQC}. The sequences have reasonably good quality scores, although there is some disparity between them. In particular the first sequence has slightly better quality than the second one, which is something one should be aware of.
 
 \begin{figure}[ht]
@@ -152,7 +153,7 @@ In figure~\ref{fig:sequence-quality} we present the per base sequence quality gr
         \label{fig:sequence-quality}
 \end{figure}
 
-\subsection{Estimated gene expression vs. provided read counts}
+\subsection{Estimated gene expression vs. provided read counts} %1b)
 We chose to use the aligner \textsc{Kallisto}, together with the annotated human transcriptome from Ensembl \footurl{ftp://ftp.ensembl.org/pub/release-98/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz}.
 We chose the cDNA sequences, as advised in the Kallisto FAQ \footurl{https://pachterlab.github.io/kallisto/faq}.
 
@@ -165,9 +166,9 @@ new_counts <- new_counts[which(new_counts[c("target")] >= 1), ]
 ggplot(new_counts, aes(x=est, y=target)) + geom_point(color=brewer.pal(3, "Dark2")[1]) + scale_x_log10() + geom_abline(color=brewer.pal(3, "Dark2")[2]) + scale_y_log10() + theme_classic()
 @
 
-\section{}
+\section{} % II
 
-\subsection{Read coverage and library complexity}
+\subsection{Read coverage and library complexity} % 2a)
 To analyse the read coverage, we created the histogram in figure~\ref{fig:read-coverage}. We can see that the count values range from roughly 40 million to 180 million.
 We can also see that most samples have more than 60 million reads, although a very small number has only around 40 million.
 This might mean that in these samples lowly expressed genes are below the detection threshold. We can also see that there are a lot more genes with read counts in the 60 to 100 million range than in the rest of the domain, which indicates that we will probably need some kind of normalisation of the data.
@@ -177,7 +178,7 @@ ggplot(counts_histogram, aes(x=counts)) + ylab("Absolute Frequency") + xlab("#re
 @
 
 Library complexity refers to the number of unique DNA fragments present in a given library. To compute library complexity, we used a sampling-based approach. For tissue sample, we sampled the genes with probability proportional to the read count of each gene for that patient. In figure~\ref{fig:library-complexity} we plot the library complexities for all samples.
-Analysing the figure we can see that, in general, in samples from normal tissues we hit more genes with fewer samples, which means that the genes are more uniformly represented. On the other hand, in deseased tissues, we get a lower percentage of all the detected genes with the same number of samples, showing that the read counts for the genes in deseased tissues is farther from a uniform distribution: there are a few genes with a much higher read count than the others.
+Analysing the figure we can see that, in general, in samples from normal tissues we hit more genes with fewer samples, which means that the genes are more uniformly represented. On the other hand, in deseased tissues, we get a lower percentage of all the detected genes with the same number of samples, showing that the read counts for the genes in deseased tissues is farther from a uniform distribution: there are a few genes with a much higher read count than the others. Finally, there is one outlier, a normal sample, for whom the gene coverage is a lot lower than that of the other samples, for the same number of random samples measured.
 
 
 <<library-complexity, fig.pos="ht", fig.asp=2/3, fig.align='center', fig.cap="Library complexity plot.", cache=TRUE>>=
@@ -208,14 +209,13 @@ for (person in colnames(read_counts)) {
   }
   lines(1:length(list) * increment, unlist(list), col=alpha(colors[groups[which(colnames(read_counts) == person)] + 1], 0.2), xlab="Number of Samples", ylab="Gene Coverage")
 }
-legend("bottomright", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
+legend("bottomright", legend=c("Tumour Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
 @
 
-\subsection{Normalisation of the data}
-To normalise the data, we used the Trimmed Mean of M (TMM) method. In order to evaluate our normalisation, we produced a series of plots which help us visualise how the data changed after the normalisation.
+\subsection{Normalisation of the data} % 2b)
+In order to make  gene expression profiles comparable between samples, we normalised the data using the Trimmed Mean of M (TMM) method. Then, to our normalisation, we produced a series of plots which help us visualise how the data changed after the normalisation.
 
-First, we plotted the histogram of the normalised read counts. When compared with the histogram resulting of the raw read counts (in figure~\ref{fig:read-coverage}), we can se that .....
-\todo{RMBB: say something about histogram of the normalised read counts (not really flatter)}
+First, we plotted the histogram of the normalised read counts, which can be seen in figure~\ref{fig:norm-read-coverage}. We can see a few differences in the distribution of normalised read counts when compared with that of the raw read counts (in figure~\ref{fig:read-coverage}). We can see that there is not such an accentuated ``tail'' on the right-side of the histogram (the higher read count values). While in the raw read counts the last bin was accounting for genes with a read count of around 180 million, in the normalised version we no longer have such high values: the last bin has read count of about 170 million read counts. Furthermore, we can identify in the normalised read counts a bimodal distribution: there are 2 peaks in the histogram, at around 75 million and 90 million normalized reads. These could not be seen in the original read count histogram where only one peak was discernible at around 85 million read counts.
 
 <<norm-read-coverage, fig.pos="ht", fig.width=5, fig.asp=1/2, fig.align='center', fig.cap="Read counts histogram.">>=
 dge <- DGEList(counts=data.matrix(read_counts))
@@ -228,11 +228,15 @@ dge <- calcNormFactors(dge)
 ggplot(counts_histogram, aes(x=counts * dge$samples$norm.factors)) + ylab("Absolute Frequency") + xlab("Normalized #reads") + geom_histogram(color="black", fill="white", position="dodge", bins=20, alpha=.5) + theme_classic()
 @
 
-We produced a plot where the distance between samples corresponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. The result can be seen in figure~\ref{fig:mds}. There is a clear separation between the samples of normal tissues and the samples taken from tumours. It also appears that there are two distinct groups of samples from tumours.
+We wanted to ensure that after normalisation the number of read counts we had for a sample was not a factor when analysing how the read counts of each gene affect the samples. We want to consider only the ratio between genes' read counts, not the number of read counts per sample.
+To that end, we produced a MultiDimensional Scaling (MDS) plot where each mark corresponds to a sample, and the distance between samples corresponds to the leading Biological Coefficient of Variation (BCV), using the function \texttt{plotMDS}. 
+In this plot, we coloured each mark according to the normalised read count of the respective sample, separating those that have a read count above the median (orange marks) from those that have it below the median (green marks). The result is shown in figure~\ref{fig:mds1}.
+We can see that there is no apparent distinction between the green and orange marks, which shows our normalisation is successful: the read counts do not contribute to the main axes of variance.
 
-Finally, we wanted to ensure that after normalisation there was no difference between the highly expressed and lowly expressed genes. To so so, we coloured the marks according to their read count.........
+Finally, we produced another MDS plot, this time to show the separation between normal and diseased tissue: we coloured the marks according to that classification.
+The result can be seen in figure~\ref{fig:mds2}. There is a clear separation between the samples of normal tissues and the samples taken from tumours. It also appears that there are two distinct groups of samples from tumours: one more to the upper right corner of the plot, and another that takes over the bottom left half. We will analyse these two clusters in more detail on exercise~\ref{sec:2c}.
 
-\todo{RMBB: say something about \autoref{fig:mds}.}
+We can also see that there are a few normal-sample outliers: some orange marks are detached from the orange cluster. These are a cause for concern. A naive classifier might label them as diseased, causing a false positive. There are also a few green marks within the orange cluster, and these are even more preoccupying: they may be classified as healthy when they are in fact diseased. A false negative such as this may result in a patient declared healthy when they, in fact, have cancer, which means they will not be getting the treatment they need.
 
 <<mds, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing.", fig.ncol=1, fig.subcap=c("a", "b", "c"), cache=TRUE>>=
 normalized = colSums(read_counts) * dge$samples$norm.factors
@@ -242,11 +246,13 @@ plotMDS(dge, pch=20, col = brewer.pal(3, "Dark2")[as.numeric(normalized > median
 legend("topleft", legend=c("#reads <= median", "#reads > median"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
 
 plotMDS(dge, pch=20, col = brewer.pal(3, "Dark2")[Tissue], gene.selection = "common")
-legend("topleft", legend=c("Tumor Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
+legend("topleft", legend=c("Tumour Sample", "Normal Sample"), col=brewer.pal(3, "Dark2"), fill=brewer.pal(3, "Dark2"), cex=0.8)
 @
 
-\subsection{Phenotypic traits and genes that dominate variance} % 2c)
-\todo{RMBB: write somthing about \autoref{fig:mds-2}.}
+\subsection{Phenotypic traits and genes that dominate variance}\label{sec:2c} % 2c) 
+In an effort to separate the 2 different clusters formed by deceased tissue samples in the MDS plot in figure~\ref{fig:mds2}, we produced a new MDS plot evidencing the PAM50 classification of each sample, by colouring the respective mark with a different colour for each class. We can see that there is a clear distinction between the clusters. The upper right cluster corresponds to tissue samples with Basal classification, while the group on the bottom left is comprised of the Luminal type samples (both A and B). We can also see that the HER2-enriched samples are positioned ``in the middle'' of these two groups. Finally, there are too few normal-like samples to discern any pattern. We conclude that the PAM50 genes are associated with the main axes of variance.
+
+\todo{Which phenotypic traits dominate data variance? Did you spot any non-biological batch effect worth acting on?}
 
 <<mds-2, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing, grouped by PAM50 classification.", cache=TRUE>>=
 par(mar=c(4.25,4.25,.75,.75))
@@ -257,6 +263,8 @@ legend("topleft", legend=levels(PAM50), col=brewer.pal(5, "Dark2"), fill=brewer.
 
 
 \subsection{} % 2d)
+\todo{What are the main differences in expressed genes and activated pathways between primary
+tumours and normal breast samples? How does the age of patients affect those differences?}
 
 \section{} % Group 3
 
