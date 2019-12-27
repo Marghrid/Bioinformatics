@@ -85,6 +85,7 @@ library(MLmetrics)
 library(class)
 library(caret)
 library(reshape2)
+library(ensr)
 opts_chunk$set(echo=FALSE)
 options(digits=4)
 @
@@ -326,32 +327,34 @@ volcanoplot(eBfit,coef=2,style="B-statistic")
 @
 
 <<fig.pos="ht", fig.align='center', fig.env="figure*", fig.cap="Hello">>=
-kable(topTable(eBfit,coef=2), format = "latex", booktabs = TRUE, caption = "My table", table.envir = "table*")
+kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "My table", table.envir = "table*")
 @
 
 \subsection{Classifying molecular subtype} %3d)
 
-<<fig.pos="ht", fig.align='center', fig.cap="Hello">>=
-top_genes <- rownames(topTable(eBfit, number=20))
+<<classifier, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE, message=FALSE>>=
+top_genes <- rownames(topTable(eBfit, number=5))
 
 reads <- as.data.frame(t(read_counts[top_genes,]))
 reads$PAM50 <- PAM50
 labeled <- reads[!is.na(PAM50),]
 unlabeled <- reads[is.na(PAM50),]
 
-sample = sample.split(labeled$PAM50, SplitRatio = .8)
-train = subset(labeled, sample == TRUE)
-test  = subset(labeled, sample == FALSE)
+results <- knn.cv(labeled[, names(labeled) != "PAM50"], cl=labeled$PAM50, k=5)
 
-model <- naiveBayes(PAM50 ~ ., data = train)
-results <- predict(model, test)
-ggplot(data = melt(confusionMatrix(results, test$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile()
+ggplot(data = melt(confusionMatrix(results, labeled$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile() + scale_fill_gradient(trans="sqrt") + theme(axis.text.x = element_text(angle = 45, margin=margin(25,0,0,0)))
 
-results <- knn(train[, names(train) != "PAM50"], test[, names(test) != "PAM50"], cl=train$PAM50, k=11)
+@
 
-ggplot(data = melt(confusionMatrix(results, test$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile() + scale_fill_brewer(palette = "Spectral")
+<<classifier-2, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE>>=
+results <- knn(labeled[, names(labeled) != "PAM50"], unlabeled[, names(unlabeled) != "PAM50"], cl=labeled$PAM50, k=5)
 
-summary(model)
+final_dge <- dge[,c(rownames(labeled), rownames(unlabeled))]
+final_labels <- unlist(list(labeled$PAM50, results))
+
+par(mar=c(4.25,4.25,.75,.75))
+plotMDS(final_dge, pch=20, col = brewer.pal(5, "Dark2")[final_labels], gene.selection = "common")
+legend("topleft", legend=levels(final_labels), col=brewer.pal(5, "Dark2"), fill=brewer.pal(5, "Dark2"), cex=0.8)
 @
 
 \end{document}
