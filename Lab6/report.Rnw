@@ -14,6 +14,7 @@
 \usepackage{booktabs}
 \usepackage{titlesec}
 \usepackage[section]{placeins}
+\usepackage{nth}
 
 %argmin, argmax
 \usepackage{amsmath}
@@ -121,6 +122,7 @@ LastFollowUp <- annotations$Days.to.last.follow.up[Patient]
 DaysToDeath <- annotations$Days.to.death[Patient]
 Menopause <- annotations$Menopausal.status[Patient]
 Ethnicity <- annotations$Ethnicity[Patient]
+Age <- annotations$Age.at.diagnosis..years.[Patient]
 
 data_g1 <- read_counts %>% gather() %>% extract(key, c("tissue"), regex="([01]).$", remove=FALSE, convert=TRUE)
 data_g1$tissue = factor(data_g1$tissue)
