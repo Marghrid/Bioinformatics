@@ -252,9 +252,7 @@ legend("topleft", legend=c("Tumour Sample", "Normal Sample"), col=brewer.pal(3, 
 @
 
 \subsection{Phenotypic traits and genes that dominate variance}\label{sec:2c} % 2c) 
-In an effort to separate the 2 different clusters formed by deceased tissue samples in the MDS plot in figure~\ref{fig:mds2}, we produced a new MDS plot evidencing the PAM50 classification of each sample, by colouring the respective mark with a different colour for each class. We can see that there is a clear distinction between the clusters. The upper right cluster corresponds to tissue samples with Basal classification, while the group on the bottom left is comprised of the Luminal type samples (both A and B). We can also see that the HER2-enriched samples are positioned ``in the middle'' of these two groups. Finally, there are too few normal-like samples to discern any pattern. We conclude that the PAM50 genes are associated with the main axes of variance.
-
-\todo{Which phenotypic traits dominate data variance? Did you spot any non-biological batch effect worth acting on?}
+In an effort to separate the 2 different clusters formed by diseased tissue samples in the MDS plot in figure~\ref{fig:mds2}, we produced a new MDS plot evidencing the PAM50 classification of each sample, by colouring the respective mark with a different colour for each class. We can see that there is a clear distinction between the clusters. The upper right cluster corresponds to tissue samples with Basal classification, while the group on the bottom left is comprised of the Luminal type samples (both A and B). We can also see that the HER2-enriched samples are positioned ``in the middle'' of these two groups. Finally, there are too few normal-like samples to discern any pattern. We conclude that PAM50 phenotype dominates data variance, and that the PAM50 genes are associated with the main axes of variance. Since we can explain all data variance using biological factors, we do not think there is any non-biological effect worth acting on.
 
 <<mds-2, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing, grouped by PAM50 classification.", cache=TRUE>>=
 par(mar=c(4.25,4.25,.75,.75))
@@ -264,9 +262,15 @@ legend("topleft", legend=levels(PAM50), col=brewer.pal(5, "Dark2"), fill=brewer.
 @
 
 
-\subsection{} % 2d)
+\subsection{Differentially expressed genes between tumour and normal samples}\label{sec:2d} % 2d)
+We used the \texttt{edgeR} package to compute the differential expression of each gene with respect to whether the sample is healthy or has a tumour. Then, we selected the top-5 most differentially expressed genes. The results are shown in table~\ref{tab:2d1}.
+
+Next, we repeated te proccess, but this time the differential expression of each gene was computed with respect not only to whether the sample is healthy or has a tumour but also to the age of the patient. The results are shown in table~\ref{tab:2d2}.
+
+We can see that the top 5 genes are exactly the same, from which we conclude that the age of the patient does not affect the differences in expressed genes between tumourtumours and normal breast samples.
+
 \todo{What are the main differences in expressed genes and activated pathways between primary
-tumours and normal breast samples? How does the age of patients affect those differences?}
+tumours and normal breast samples?}
 
 <<2d, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="", cache=TRUE>>=
 dge <- DGEList(counts=data.matrix(read_counts))
@@ -279,14 +283,14 @@ v <- voom(dge,design,plot=TRUE)
 linearfit = lmFit(v$E,design)
 eBfit = eBayes(linearfit)
 volcanoplot(eBfit,coef=2,style="B-statistic")
-kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "My table", table.envir = "table*")
+kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "Top 5 most differentially expressed genes between normal and tumour breast samples", table.envir = "table*", label="2d1")
 
 design <- model.matrix(~ Tissue + Age)
 v <- voom(dge,design,plot=TRUE)
 linearfit = lmFit(v$E,design)
 eBfit = eBayes(linearfit)
 volcanoplot(eBfit,coef=2,style="B-statistic")
-kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "My table", table.envir = "table*")
+kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "Top 5 most differentially expressed genes considering both the tumour classification of the tissue and the age of the patient", table.envir = "table*", lable="2d2")
 @
 
 \section{} % Group 3
@@ -300,7 +304,7 @@ First, in figure~\ref{fig:estrogen1} we have a scatter tissue sample the read co
 To confirm that hypothesis, we plotted a Receiver Operating Characteristic (ROC) curve. 
 It plots the True Positive Rate (TPR) on the y-axis against the False Positive Rate (TNR) on the x-axis, and shows how the performance of a binary classifier varies as its discrimination threshold is varied.
 A model has better accuracy at classifying samples (fewer false positives and false negatives) when the Area Under the Curve (AUC) value is higher, i.e., the curve is above and as far as possible from the \(y=x\) line. So, ideally, we want the curve to be as close as possible to upper left corner of the graph: All true positives, no false positives.
-The ROC curve for read counts of ESR1 gene is shown in figure~\ref{fig:estrogen2}. We can see that this classifier it is possible to get TPR \(\approx 90\%\) and \(TNR \approx 10\%\) using this classifier, which adds up to a very good classification accuracy.
+The ROC curve for read counts of ESR1 gene is shown in figure~\ref{fig:estrogen2}. We can see that it is possible to get a TPR \(\approx 90\%\) and a TNR \(\approx 10\%\) using this classifier, which adds up to a very good classification accuracy.
 
 We conclude ERS1's expression is very good at recapitulating the presence of estrogen receptors in a tissue sample, but the same is not true of ESR2.
 
@@ -328,7 +332,7 @@ tmp + style_roc(theme=theme_classic) + annotate("text", x=.75, y=.25, label=past
 
 Finally, in figure~\ref{fig:her2} we use a similar histogram to show the relation between the presence of HER2 protein in the tissue sample to the read count of ERBB2 gene, as well as the usual ROC curve.
 
-ERBB2's expressivity is not a very good indicator of the presence of HER2 protein in the sample. The AUC is now 0.77 wich is well below the other two values. We can see that we can keep a very low FPF, less than 5\%, but we always have a very unsatisfactory TPR, aroung 50\%. This means that using ERBB2's expressivity alone to classify, samples that test positive for HER2 protein will be classified as positive with the same probability that they will be classified negative: the classifier is wrong 50\% of the time. However, samples that test negative for HER2 protein will be classified as negative 95\% of the time.
+ERBB2's expressivity is not a very good indicator of the presence of HER2 protein in the sample. The AUC is now 0.77 wich is well below the other two values. We can see that we can keep a very low FPF, less than 5\%, but we always have a very unsatisfactory TPR, around 50\%. This means that using ERBB2's expressivity alone to classify, samples that test positive for HER2 protein will be classified as positive with the same probability that they will be classified negative: the classifier is wrong 50\% of the time. However, samples that test negative for HER2 protein will be classified as negative 95\% of the time.
 
 We conclude that another measure must be used to complement a classifier for the presence of HER2 protein on tissue samples, perhaps the expressivity of another gene. If a ERBB2-based classifier is used, we should be careful when handling its results. If it classifies a sample as `positive', we can safely trust that result, as it has only 5\% chance of being wrong; on the other hand, if the classifier returns `negative', we should not trust it because our classifier classifies half the positive samples as `negative'.
 
@@ -355,11 +359,13 @@ km_fit <- survfit(Surv(time, !is.na(DaysToDeath)) ~ PAM50, data=data)
 autoplot(km_fit, conf.int.alpha=0.1, ylab="survival", xlab="time (days)")+ scale_color_brewer(palette="Dark2") + scale_fill_brewer(palette="Dark2") + theme_classic()
 @
 
-This plot shows the probability of a patient surviving past a certain number of days depending on the sample's PAM50 classification. Analysing this plot, we conclude that Normal-like classification patients have the worst diagnosis: in this dataset, none survived past 2000 days. The second worst scenario is Luminal B: no patient suvived for longer than 4000 days after diagnosis, and only 25 \% suvived passt 2500 days. In \nth{3} place, we have HER2-enriched patients. Of these, around 70\% live up to 3000 days, but only around 30\% go past that date. Then, in \nth{4} place, we have patients with Luminal A type samples. These show a linear survival probability decay from day 0 to day 4500. By day 4500, only around 30-35\% are expected to have survived. Finally, the best prognostic is Basal-like. For these patients, we have again a approximately linear decay in survival until it hits 55\% at around 2500 days after diagnosal. After that, our data shows a survival rate past 7000 days of around 55\%.
+This plot shows the probability of a patient surviving past a certain number of days depending on the sample's PAM50 classification. Analysing this plot, we conclude that Normal-like classification patients have the worst diagnosis: in this dataset, none survived past 2000 days. The second worst scenario is Luminal B: no patient suvived for longer than 4000 days after diagnosis, and only 25 \% suvived past 2500 days. In \nth{3} place, we have HER2-enriched patients. Of these, around 70\% live up to 3000 days, but only around 30\% go past that date. Then, in \nth{4} place, we have patients with Luminal A type samples. These show a linear survival probability decay from day 0 to day 4500. By day 4500, only around 30-35\% are expected to have survived. Finally, the best prognostic is Basal-like. For these patients, we have again a approximately linear decay in survival until it hits 55\% at around 2500 days after diagnosal. After that, our data shows a survival rate past 7000 days of around 55\%.
 
 However, these results should be taken with a grain of salt. We can see that we have very large confidence intervals for most classes, which tell us we do not have enough data to make conclusive predictions, possibily due to the large amount of censored data. 
 
 \subsection{Gene signature that best classifies molecular subtypes} %3c)
+We compute once again the differencial gene expression, as in exercise \ref{sec:2d}, only this time it is with respect to the PAM50 classidication. We pick the top 5 most differentially expressed genes, which are shown in table~\ref{tab:dif-expr-pam50}. \todo{How many of the genes in your signature are
+part of the PAM50 gene list? See on PDF}
 
 <<fig.pos="ht", fig.align='center', fig.cap="Hello">>=
 dge <- DGEList(counts=data.matrix(read_counts))
@@ -375,13 +381,15 @@ eBfit = eBayes(linearfit)
 volcanoplot(eBfit,coef=2,style="B-statistic")
 @
 
-<<fig.pos="ht", fig.align='center', fig.env="figure*", fig.cap="Hello">>=
+<<dif-expr-pam50, fig.pos="ht", fig.align='center', fig.env="figure*", fig.cap="Hello">>=
 kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "My table", table.envir = "table*")
 @
 
-\subsection{Classifying molecular subtype} %3d)
+We use the read counts of these 5 genes as training data for a K-Nearest Neighbours (KNN) classifier, with k=5. This classifier, when given the read counts of a new sample, computes the distance for then new sample to the training samples (the distance is smaller when the read counts for the same genes are closer). Then, it picks the 5 training smaples that are closest to the new sample, i.e., the 5 neares neighbours. It will then classify the new sample with the most common class among those 5 neighbours.
 
-<<classifier, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE, message=FALSE>>=
+To test this classifier, we performed leave-one-out cross-validation: from our N classified samples, we used N\(-1\) as training data, and the remaining one as test data. We show the results of this in the form of a confusion matrix, in figure~\ref{fig:knn-conf}.
+
+<<knn-conf, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE, message=FALSE>>=
 top_genes <- rownames(topTable(eBfit, number=5))
 
 reads <- as.data.frame(t(read_counts[top_genes,]))
@@ -394,6 +402,9 @@ results <- knn.cv(labeled[, names(labeled) != "PAM50"], cl=labeled$PAM50, k=5)
 ggplot(data = melt(confusionMatrix(results, labeled$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile() + scale_fill_gradient(trans="sqrt") + theme(axis.text.x = element_text(angle = 45, margin=margin(25,0,0,0)))
 
 @
+\subsection{Classifying molecular subtype} %3d)
+
+
 
 <<classifier-2, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE>>=
 results <- knn(labeled[, names(labeled) != "PAM50"], unlabeled[, names(unlabeled) != "PAM50"], cl=labeled$PAM50, k=5)
