@@ -266,42 +266,71 @@ legend("topleft", legend=levels(PAM50), col=brewer.pal(5, "Dark2"), fill=brewer.
 \todo{What are the main differences in expressed genes and activated pathways between primary
 tumours and normal breast samples? How does the age of patients affect those differences?}
 
+<<2d, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="", cache=TRUE>>=
+dge <- DGEList(counts=data.matrix(read_counts))
+keep <- filterByExpr(dge)
+dge <- dge[keep, , keep.lib.sizes=FALSE]
+dge <- calcNormFactors(dge)
+
+design <- model.matrix(~ Tissue)
+v <- voom(dge,design,plot=TRUE)
+linearfit = lmFit(v$E,design)
+eBfit = eBayes(linearfit)
+volcanoplot(eBfit,coef=2,style="B-statistic")
+kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "My table", table.envir = "table*")
+
+design <- model.matrix(~ Tissue + Age)
+v <- voom(dge,design,plot=TRUE)
+linearfit = lmFit(v$E,design)
+eBfit = eBayes(linearfit)
+volcanoplot(eBfit,coef=2,style="B-statistic")
+kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "My table", table.envir = "table*")
+@
+
 \section{} % Group 3
 
 \subsection{How well can genes recapitulate related immunohistochemistry tests} %3a)
 
-We want to show how the gene expression for some genes relates to the binary classification for the related immunohistochemistry-based tests in the patient data. To do so, we produce 3 plots, showed in figure~\ref{fig:3a}.
+We want to show how the gene expression for some genes relates to the binary classification for the related immunohistochemistry-based tests in the patient data. To do so, we produce 3 plots, showed in figures \ref{fig:estrogen}, \ref{fig:progesterone} and \ref{fig:her2}.
 
-First, in figure~\ref{fig:3a1} we have a scatter tissue sample the read count of ESR1 on the x-axis and the read count of ERS2 on the y-axis. Each mark is colored according to the presence of estrogen receptors in the respective tissue sample. We can see by this graph that the expression of ESR1 is highly related to the presence of estrogen receptors: the tissue samples with estrogen receptors tend to have higher read counts of ESR1. On the other hand, ESR2 appears to have little influence on the presence of estrogen receptors. So we hypothesise that ERS1's expression is very good at recapitulating the presence of estrogen receptors in a tissue sample.
+First, in figure~\ref{fig:estrogen1} we have a scatter tissue sample the read count of ESR1 on the x-axis and the read count of ERS2 on the y-axis. Each mark is colored according to the presence of estrogen receptors in the respective tissue sample. We can see by this graph that the expression of ESR1 is highly related to the presence of estrogen receptors: the tissue samples with estrogen receptors tend to have higher read counts of ESR1. On the other hand, ESR2 appears to have little influence on the presence of estrogen receptors. So we hypothesise that ERS1's expression is very good at recapitulating the presence of estrogen receptors in a tissue sample.
 
-To confirm that hypotesis, we plotted a (Receiver Operating Characteristic) ROC curve
+To confirm that hypothesis, we plotted a Receiver Operating Characteristic (ROC) curve. 
+It plots the True Positive Rate (TPR) on the y-axis against the False Positive Rate (TNR) on the x-axis, and shows how the performance of a binary classifier varies as its discrimination threshold is varied.
+A model has better accuracy at classifying samples (fewer false positives and false negatives) when the Area Under the Curve (AUC) value is higher, i.e., the curve is above and as far as possible from the \(y=x\) line. So, ideally, we want the curve to be as close as possible to upper left corner of the graph: All true positives, no false positives.
+The ROC curve for read counts of ESR1 gene is shown in figure~\ref{fig:estrogen2}. We can see that this classifier it is possible to get TPR \(\approx 90\%\) and \(TNR \approx 10\%\) using this classifier, which adds up to a very good classification accuracy.
 
 We conclude ERS1's expression is very good at recapitulating the presence of estrogen receptors in a tissue sample, but the same is not true of ESR2.
 
-<<estrogen, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Relation between ESR1/ESR2 expression and the presence of estrogen receptors.", fig.subcap=c('a', 'b'), warning=FALSE>>=
-ggplot(data_g3, aes(x=ESR1, y=ESR2, color=Estrogen)) + scale_color_brewer(palette="Dark2") + scale_y_log10() + scale_x_log10() + geom_point() + annotation_logticks() + theme_classic()
+<<estrogen, fig.pos='ht', fig.width=4, fig.height=3.5, fig.ncol=1, fig.align='center', fig.cap="Relation between ESR1/ESR2 expression and the presence of estrogen receptors.", fig.subcap=c('a', 'b'), warning=FALSE>>=
+ggplot(data_g3, aes(x=ESR1, y=ESR2, color=Estrogen)) + scale_color_brewer(palette="Dark2") + scale_y_log10() + scale_x_log10() + geom_point() + annotation_logticks() + theme_classic() + theme(legend.position="top")
 
 tmp <- ggplot(data.frame(pred=ESR1[!is.na(Estrogen_bin)], truth=Estrogen_bin[!is.na(Estrogen_bin)]), aes(m=pred, d=truth)) + geom_roc(n.cuts=5) + geom_abline(color="black")
 
 tmp + style_roc(theme=theme_classic) + annotate("text", x=.75, y=.25, label=paste("AUC =", round(calc_auc(tmp)$AUC, 2))) #+ theme(panel.grid.major.y = element_line(colour = "grey", size = .25), panel.grid.minor.y = element_line(colour = "grey", size = .1), panel.grid.major.x = element_line(colour = "grey", size = .25), panel.grid.minor.x = element_line(colour = "grey", size = .1))
 @
 
-Secondly, in figure~\ref{fig:3a2} we want to evaluate how PGR relates to the presence of progesterone receptors in tissue samples. Since we only have one gene to evaluate, we adopt a different approach: we used a histogram to plot the number of tissue samples we have (in the y-axis) against the read count of PGR. As we can see, the trend is for the tissue samples that test positive for the presence of progesterone receptors to have a higher read count of PGR, and for the the negative samples to have lower values.  We conclude PGR's expression is very good at recapitulating the presence of progesterone receptors in a tissue sample.
+Secondly, in figure~\ref{fig:progesterone1} we want to evaluate how PGR relates to the presence of progesterone receptors in tissue samples. Since we only have one gene to evaluate, we adopt a different approach: we used a histogram to plot the number of tissue samples we have (in the y-axis) against the read count of PGR. As we can see, the trend is for the tissue samples that test positive for the presence of progesterone receptors to have a higher read count of PGR, and for the the negative samples to have lower values.
 
-Finally, in figure~\ref{fig:3a3} we use a similar histogram to show the relation between the presence of HER2 protein in the tissue sample to the read count of ERBB2 gene.
+Again, we plotted a ROC curve shown in figure~\ref{fig:progesterone2}, this time showing how well the read counts of PGR's expression classifies samples the presence of progesterone receptors in tissue samples. This time, the curve does not come as close to the upper left corner as with ESR1. However we can maintain the TPR as high as 90\% maintaining the FPR at 25\%. We still have AUC = 0.9, so we conclude PGR's expression is very good at recapitulating the presence of progesterone receptors in a tissue sample.
 
-
-<<progesterone, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Relation between PGR expression and the presence of progesterone receptors.", fig.subcap=c('a', 'b'), warning=FALSE>>=
+<<progesterone, fig.pos='ht', fig.width=4, fig.height=3.5, fig.ncol=1, fig.align='center', fig.cap="Relation between PGR expression and the presence of progesterone receptors.", fig.subcap=c('a', 'b'), warning=FALSE>>=
 gghistogram(data_g3, x = "PGR", bins = 20,
             add = "mean", rug = TRUE,
-            color = "Progesterone", fill = "Progesterone", xscale="log10", palette="Dark2") 
+            color = "Progesterone", fill="Progesterone", xscale="log10", palette="Dark2")
 
 tmp <- ggplot(data.frame(pred=PGR[!is.na(Progesterone_bin)], truth=Progesterone_bin[!is.na(Progesterone_bin)]), aes(m=pred, d=truth)) + geom_roc(n.cuts=5) + geom_abline(color="black")
 
 tmp + style_roc(theme=theme_classic) + annotate("text", x=.75, y=.25, label=paste("AUC =", round(calc_auc(tmp)$AUC, 2))) #+ theme(panel.grid.major.y = element_line(colour = "grey", size = .25), panel.grid.minor.y = element_line(colour = "grey", size = .1), panel.grid.major.x = element_line(colour = "grey", size = .25), panel.grid.minor.x = element_line(colour = "grey", size = .1))
 @
 
-<<her2, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Relation between ERBB2 expression and the presence of HER2 protein.", fig.subcap=c('a', 'b'), warning=FALSE>>=
+Finally, in figure~\ref{fig:her2} we use a similar histogram to show the relation between the presence of HER2 protein in the tissue sample to the read count of ERBB2 gene, as well as the usual ROC curve.
+
+ERBB2's expressivity is not a very good indicator of the presence of HER2 protein in the sample. The AUC is now 0.77 wich is well below the other two values. We can see that we can keep a very low FPF, less than 5\%, but we always have a very unsatisfactory TPR, aroung 50\%. This means that using ERBB2's expressivity alone to classify, samples that test positive for HER2 protein will be classified as positive with the same probability that they will be classified negative: the classifier is wrong 50\% of the time. However, samples that test negative for HER2 protein will be classified as negative 95\% of the time.
+
+We conclude that another measure must be used to complement a classifier for the presence of HER2 protein on tissue samples, perhaps the expressivity of another gene. If a ERBB2-based classifier is used, we should be careful when handling its results. If it classifies a sample as `positive', we can safely trust that result, as it has only 5\% chance of being wrong; on the other hand, if the classifier returns `negative', we should not trust it because our classifier classifies half the positive samples as `negative'.
+
+<<her2, fig.pos='ht', fig.width=4, fig.height=3.5, fig.ncol=1, fig.align='center', fig.cap="Relation between ERBB2 expression and the presence of HER2 protein.", fig.subcap=c('a', 'b'), warning=FALSE>>=
 gghistogram(data_g3, x = "ERBB2", bins = 20,
             add = "mean", rug = TRUE,
             color = "HER2", fill = "HER2", xscale="log10", palette="Dark2")
