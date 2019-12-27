@@ -173,7 +173,7 @@ ggplot(new_counts, aes(x=est, y=target)) + geom_point(color=brewer.pal(3, "Dark2
   ylab("Provided read counts") + xlab("Estimated read counts")
 @
 
-
+\clearpage
 \section{} % II
 
 \subsection{Read coverage and library complexity} % 2a)
@@ -273,30 +273,32 @@ We used the \texttt{edgeR} package to compute the differential expression of eac
 
 Next, we repeated te proccess, but this time the differential expression of each gene was computed with respect not only to whether the sample is healthy or has a tumour but also to the age of the patient. The results are shown in table~\ref{tab:2d2}.
 
-We can see that the top 5 genes are exactly the same, from which we conclude that the age of the patient does not affect the differences in expressed genes between tumourtumours and normal breast samples.
+We can see that the top 5 genes are exactly the same, from which we conclude that the age of the patient does not affect the differences in expressed genes between tumour and normal breast samples.
 
-<<2d, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Vooms?", cache=TRUE>>=
+<<fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Vooms?", cache=TRUE>>=
 dge <- DGEList(counts=data.matrix(read_counts))
 keep <- filterByExpr(dge)
 dge <- dge[keep, , keep.lib.sizes=FALSE]
 dge <- calcNormFactors(dge)
 
 design <- model.matrix(~ Tissue)
-v <- voom(dge,design,plot=TRUE)
+v <- voom(dge,design)#,plot=TRUE)
 linearfit = lmFit(v$E,design)
 eBfit = eBayes(linearfit)
-volcanoplot(eBfit,coef=2,style="B-statistic")
+#volcanoplot(eBfit,coef=2,style="B-statistic")
+
 kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "Top 5 most differentially expressed genes between normal and tumour breast samples", table.envir = "table*", label="2d1")
 
 design <- model.matrix(~ Tissue + Age)
-v <- voom(dge,design,plot=TRUE)
+v <- voom(dge,design)#,plot=TRUE)
 linearfit = lmFit(v$E,design)
 eBfit = eBayes(linearfit)
-volcanoplot(eBfit,coef=2,style="B-statistic")
+#volcanoplot(eBfit,coef=2,style="B-statistic")
+
 kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "Top 5 most differentially expressed genes considering both the tumour classification of the tissue and the age of the patient", table.envir = "table*", label="2d2")
 @
 
-
+\clearpage
 \section{} % Group 3
 
 \subsection{How well can genes recapitulate related immunohistochemistry tests} %3a)
@@ -350,16 +352,17 @@ tmp <- ggplot(data.frame(pred=ERBB2[!is.na(HER2_bin)], truth=HER2_bin[!is.na(HER
 tmp + style_roc(theme=theme_classic) + annotate("text", x=.75, y=.25, label=paste("AUC =", round(calc_auc(tmp)$AUC, 2))) #+ theme(panel.grid.major.y = element_line(colour = "grey", size = .25), panel.grid.minor.y = element_line(colour = "grey", size = .1), panel.grid.major.x = element_line(colour = "grey", size = .25), panel.grid.minor.x = element_line(colour = "grey", size = .1))
 @
 
+\clearpage
 \subsection{Survival analysis} %3b)
 First, we produced a typical survival analysis plot, shown in figure~\ref{fig:survival}.
 
-<<survival, fig.pos="ht", fig.asp=1/2, fig.align='center', fig.cap="Hello">>=
+<<survival, fig.pos="ht", fig.asp=3/4, fig.align='center', fig.cap="Hello">>=
 time <- ifelse(is.na(DaysToDeath), LastFollowUp, DaysToDeath)
 
 data = data.frame(Patient, Status, PAM50, DaysToDeath)
 
 km_fit <- survfit(Surv(time, !is.na(DaysToDeath)) ~ PAM50, data=data)
-autoplot(km_fit, conf.int.alpha=0.1, ylab="survival", xlab="time (days)")+ scale_color_brewer(palette="Dark2") + scale_fill_brewer(palette="Dark2") + theme_classic()
+autoplot(km_fit, conf.int.alpha=0.1, ylab="survival", xlab="time (days)")+ scale_color_brewer(palette="Dark2") + scale_fill_brewer(palette="Dark2") + theme_classic() + theme(legend.position="top")
 @
 
 This plot shows the probability of a patient surviving past a certain number of days depending on the sample's PAM50 classification. Analysing this plot, we conclude that Normal-like classification patients have the worst diagnosis: in this dataset, none survived past 2000 days. The second worst scenario is Luminal B: no patient suvived for longer than 4000 days after diagnosis, and only 25 \% suvived past 2500 days. In \nth{3} place, we have HER2-enriched patients. Of these, around 70\% live up to 3000 days, but only around 30\% go past that date. Then, in \nth{4} place, we have patients with Luminal A type samples. These show a linear survival probability decay from day 0 to day 4500. By day 4500, only around 30-35\% are expected to have survived. Finally, the best prognostic is Basal-like. For these patients, we have again a approximately linear decay in survival until it hits 55\% at around 2500 days after diagnosal. After that, our data shows a survival rate past 7000 days of around 55\%.
@@ -377,23 +380,26 @@ dge <- calcNormFactors(dge)
 
 design <- model.matrix(~ addNA(PAM50))
 
-v <- voom(dge,design,plot=TRUE)
+v <- voom(dge,design)#,plot=TRUE)
 linearfit = lmFit(v$E,design)
 eBfit = eBayes(linearfit)
-volcanoplot(eBfit,coef=2,style="B-statistic")
+#volcanoplot(eBfit,coef=2,style="B-statistic")
 @
 
 <<dif-expr-pam50, fig.pos="ht", fig.align='center', fig.env="figure*", fig.cap="Hello">>=
 kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "My table", table.envir = "table*")
 @
 
-We use the read counts of these 5 genes as training data for a K-Nearest Neighbours (KNN) classifier, with k=5. This classifier, when given the read counts of a new sample, computes the distance for then new sample to the training samples (the distance is smaller when the read counts for the same genes are closer). Then, it picks the 5 training smaples that are closest to the new sample, i.e., the 5 neares neighbours. It will then classify the new sample with the most common class among those 5 neighbours.
+We use the read counts of these 5 genes as training data for a k-Nearest Neighbours (kNN) classifier, with k=5. This classifier, when given the read counts of a new sample, computes the distance for then new sample to the training samples (the distance is smaller when the read counts for the same genes are closer). Then, it picks the 5 training smaples that are closest to the new sample, i.e., the 5 neares neighbours. It will then classify the new sample with the most common class among those 5 neighbours.
 
 To test this classifier, we performed leave-one-out cross-validation: from our N classified samples, we used N\(-1\) as training data, and the remaining one as test data. We show the results of this in the form of a confusion matrix, in figure~\ref{fig:knntop5-conf}.
 
-\todo{explain confusion}
+Each row of the matrix represents the instances in an actual class (according to reference values) while each column represents the instances in a predicted class. In this case we use a colour code to represent the number of instances in each cell: the darker the shade of green, the more intances in that cell. Ideally we would want our matrix to be dark in the anti-diagonal which would indicate a large number of samples classified correctly.
 
-<<knntop5-conf, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Confusion matrix of leave-one-out cross-validation 5-Nearest Neighbour classifier", cache=TRUE, message=FALSE>>=
+We can see that this is not the case for our classifier. We have a very good classification for Basal-like: the corresponding row has one square that is signifficantly darker than the others. For Luminal A and HER-2 enriched classes, we can see that even though the correct squase is darker than any other (meaning the classifier predicts the correct class more than any other), this is not as evident as for Basal-like samples. We can easily note that the classifier `confuses' Luminal A and Luminal B very often. This is consistent with our previous observation in the MDS plot in figure~\ref{fig:mds-2} from exercise~\ref{sec:2c}: the two clusters corresponding to these classes were overlapping. Finally, we observe that our classifier is almost completely unable to classify Normal-like samples. This is also in accordance to the MDS plot in figure~\ref{fig:mds-2}, as the Normal-like sample marks were mixed among the others, not showing up in a clear cluster of their own.
+
+
+<<knntop5-conf, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Confusion matrix of leave-one-out cross-validation 5-Nearest Neighbour classifier using the top 5 most differentially expressed genes' read counts as learning data", cache=TRUE, message=FALSE>>=
 top_genes <- rownames(topTable(eBfit, number=5))
 
 reads <- as.data.frame(t(read_counts[top_genes,]))
@@ -407,17 +413,15 @@ ggplot(data = melt(confusionMatrix(results, labeled$PAM50)$table), aes(x=Predict
 
 @
 
-We tried using different classifiers besides KNN: elastic nets (before we realised these are only fit of regression problems) and naive bayes.
+We tried using different classifiers besides kNN: elastic nets (before we realised these are only fit of regression problems) and naive bayes.
 We tried using more and fewer genes in our gene expression (always the most differentially expressed): 1, 2, 3, 4, 5, 10, 20, 50 and 100.
 We also tried different values for the number of neighbours (k) in KNN: 1, 3, 5, 7, 9, 11, 13 and 15.
 In the end, we concluded the best behaving model to be the KNN with k=5 and using only the top 5 most differentially expressed genes' read counts as training data.
 
-After, we evaluated the performance of a KNN classifier with k=5 that uses the PAM50 genes' read expressions as training data using the same cross validation method. 
-Despite all our efforts, the results are disheartening (and shown in figure~\ref{fig:knnpam50-conf}).
+After, we evaluated the performance of a kNN classifier with k=5 that uses the PAM50 genes' read expressions as training data using the same cross validation method. 
+The results are shown in figure~\ref{fig:knnpam50-conf}. We can see that they do not differ very greatly from our kNN using only the 5 genes: the Basal-like, HER-enriched and Luminal A samples are correctly classified for the main part, there confusion between Luminal A and Luminal B types (although to a less extent than with our 5 genes), and is is still unable to identify Normal-like samples. We conclude that our classifier is almost as good as one that uses the PAM50 gene signature, especially considering it has only one tenth of the data\footnote{This is especially relevant for kNN classifiers, as it has to go through all the data each time it classifies a new sample in order to compute all the distances.}.
 
-\todo{explain and compare confusion}
-
-<<knnpam50-conf, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE, message=FALSE>>=
+<<knnpam50-conf, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Confusion matrix of leave-one-out cross-validation 5-Nearest Neighbour classifier using the PAM50 genes' read counts as learning data", cache=TRUE, message=FALSE>>=
 pam50_genes <- c("UBE2T","BIRC5","NUF2","CDC6","CCNB1","TYMS","MYBL2","CEP55","MELK","NDC80","RRM2","UBE2C","CENPF","PTTG1","EXO1","ORC6L","ANLN","CCNE1","CDC20","MKI67","KIF2C","ACTR3B","MYC","EGFR","KRT5","PHGDH","CDH3","MIA","KRT17","FOXC1","SFRP1","KRT14","ESR1","SLC39A6","BAG1","MAPT","PGR","CXXC5","MLPH","BCL2","MDM2","NAT1","FOXA1","BLVRA","MMP11","GPR160","FGFR4","GRB7","TMEM45B","ERBB2")
 
 reads <- as.data.frame(t(read_counts[pam50_genes,]))
@@ -430,13 +434,12 @@ results <- knn.cv(labeled[, names(labeled) != "PAM50"], cl=labeled$PAM50, k=5)
 ggplot(data = melt(confusionMatrix(results, labeled$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile() + scale_fill_gradient(low = muted(brewer.pal(3, "Dark2")[1], l=90, c=30), high = muted(brewer.pal(3, "Dark2")[1]), trans="sqrt") + theme(axis.text.x = element_text(angle = 45, margin=margin(25,0,0,0)))
 @
 
-
 \subsection{Classifying molecular subtype} %3d)
 
-We used our KNN classifier from exercise~\ref{sec:3c}. To visualise the results we produced the MDS plot that can be seen in figure~\ref{fig:classifier-2}
+We used our kNN classifier from exercise~\ref{sec:3c}. To visualise the results we produced the MDS plot that can be seen in figure~\ref{fig:classifier-2}. In this plot we mixed our classification results for the samples that had `NA' in the PAM50 subtype column. We can see that newly classified samples are undistinguishable from the given PAM50 classifications, and that there are no new outliers. The distribution of the classes along the principal components (which remain unchanged) appears to be the same as it was. We can also see the results of the confusion our classifier makes between the 2 Luminal types: the purple and pink clusters seem to overlap even more than before. This is consistent with our previous assessment.
 
 
-<<classifier-2, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE>>=
+<<classifier-2, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="MDS plot of all samples grouped by PAM50 type (our classifier's output when it was `NA' in the patient annotation table).", cache=TRUE>>=
 results <- knn(labeled[, names(labeled) != "PAM50"], unlabeled[, names(unlabeled) != "PAM50"], cl=labeled$PAM50, k=5)
 
 final_dge <- dge[,c(rownames(labeled), rownames(unlabeled))]
