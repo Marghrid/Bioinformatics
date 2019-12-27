@@ -1,7 +1,7 @@
 \documentclass[10pt,twocolumn]{article}
 \usepackage[british]{babel}
 %\usepackage[utf8]{inputenc}
-\usepackage[margin=2.25cm]{geometry}
+\usepackage[margin=2cm]{geometry}
 \usepackage{graphicx}
 \usepackage{listings}
 \usepackage{subcaption}
@@ -13,7 +13,7 @@
 \usepackage{verbatim}
 \usepackage{booktabs}
 \usepackage{titlesec}
-\usepackage[section]{placeins}
+\usepackage{afterpage}
 \usepackage{nth}
 
 %argmin, argmax
@@ -137,7 +137,7 @@ data_g3 <- data.frame(ESR1, ESR2, PGR, ERBB2, Estrogen, Progesterone, HER2)
 \section{}
 
 \subsection{Quality assessment of FASTQ} %1a)
-In figure~\ref{fig:sequence-quality} we present the per base sequence quality graphs obtained using the tool \textsc{FastQC}. The sequences have reasonably good quality scores, although there is some disparity between them. In particular the first sequence has slightly better quality than the second one, which is something one should be aware of.
+In figure~\ref{fig:sequence-quality} we present the per base sequence quality graphs obtained using the tool \textsc{FastQC}. The sequences have reasonably good quality scores, although there is some disparity between them. In particular the first sequence has slightly better quality than the second one, which is something we should be aware of.
 
 \begin{figure}[ht]
      \centering
@@ -162,12 +162,17 @@ We chose the cDNA sequences, as advised in the Kallisto FAQ \footurl{https://pac
 
 To compare the transcript expression with the gene expression counts given, we downloaded a mapping from the Ensembl transcript identifiers to gene names. We used  Ensembl Biomart \footurl{http://www.ensembl.org/biomart/martview/a797838aa8255de1efa6fb6d11322eb5} to get this mapping. We then took the transcript count estimates and the mapping and created a summarised table containing the total estimated number of reads for each gene. Finally, comparing this table with the read count table we were given, results in the graph in figure~\ref{fig:count-comparison}. Figure~\ref{fig:count-comparison}a shows all the estimated and provided read counts plotted against each other: each black mark represents a gene, the value on the y-axis is the provided read count, while the value on the x axis is the estimated read count; therefore, the closer a mark is to the \(y=x\) line, the better the estimation. Analysing this graph, we can see that most genes are correctly estimated, as most marks lie within the \(y=x\) line. Most outliers are from read counts of 0 which most likely represents a mismatch between the transcript identifiers and the gene names. In Figure~\ref{fig:count-comparison}b we show the same data, this time plotted in logarithmic scale so the values are more easily seen. Note that, in order to plot in a logarithmic scale, all the zero-valued read counts must be removed. In this plot we can again see that most of the estimates are accurate, even though there are a few outliers. We can also see that it appears that the higher the read count the better the estimation. This however is no true: what we are seeing is a result of the logarithmic scale: the errors are of the same order of magnitude, but since the scale is much larger, they seem smaller when compared to the actual read count values.
 
-<<count-comparison, fig.pos='ht', fig.width=4, fig.height=3, fig.ncol=1, fig.align='center', fig.cap="Comparison between the estimated counts and the provided values.", fig.subcap=c("", "Log-log plot after removing 0 values.")>>=
-ggplot(counts_comparison, aes(x=est, y=target)) + geom_point(color=brewer.pal(3, "Dark2")[1]) + geom_abline(color=brewer.pal(3, "Dark2")[2]) + theme_classic()
+<<count-comparison, fig.pos='ht', fig.width=4, fig.height=3, fig.ncol=1, fig.align='center', fig.cap="Comparison between the estimated counts and the provided values.", fig.subcap=c("Scatter plot of estimated vs. provided read counts.", "Log-log scatter plot of estimated vs. provided read counts after removing 0 values.")>>=
+ggplot(counts_comparison, aes(x=est, y=target)) + geom_point(color=brewer.pal(3, "Dark2")[1]) + geom_abline(color=brewer.pal(3, "Dark2")[2]) + theme_classic() +
+  ylab("Provided read counts") + xlab("Estimated read counts")
+
 new_counts <- counts_comparison[which(counts_comparison[c("est")] >= 1), ]
 new_counts <- new_counts[which(new_counts[c("target")] >= 1), ]
-ggplot(new_counts, aes(x=est, y=target)) + geom_point(color=brewer.pal(3, "Dark2")[1]) + scale_x_log10() + geom_abline(color=brewer.pal(3, "Dark2")[2]) + scale_y_log10() + theme_classic()
+
+ggplot(new_counts, aes(x=est, y=target)) + geom_point(color=brewer.pal(3, "Dark2")[1]) + scale_x_log10() + geom_abline(color=brewer.pal(3, "Dark2")[2]) + scale_y_log10() + theme_classic()  +
+  ylab("Provided read counts") + xlab("Estimated read counts")
 @
+
 
 \section{} % II
 
@@ -184,7 +189,7 @@ Library complexity refers to the number of unique DNA fragments present in a giv
 Analysing the figure we can see that, in general, in samples from normal tissues we hit more genes with fewer samples, which means that the genes are more uniformly represented. On the other hand, in deseased tissues, we get a lower percentage of all the detected genes with the same number of samples, showing that the read counts for the genes in deseased tissues is farther from a uniform distribution: there are a few genes with a much higher read count than the others. Finally, there is one outlier, a normal sample, for whom the gene coverage is a lot lower than that of the other samples, for the same number of random samples measured.
 
 
-<<library-complexity, fig.pos="ht", fig.asp=2/3, fig.align='center', fig.cap="Library complexity plot.", cache=TRUE>>=
+<<library-complexity, fig.pos="ht", fig.asp=2/3, fig.align='center', fig.cap="Library complexity.", cache=TRUE>>=
 # ggplot(data_g1, aes(x = value, group=key, color=tissue)) + stat_ecdf(geom="line") + scale_x_log10() + coord_cartesian(xlim=c(0,2000))
 
 groups = as.numeric(substr(colnames(read_counts), nchar(colnames(read_counts))-1, nchar(colnames(read_counts))-1))
@@ -218,9 +223,9 @@ legend("bottomright", legend=c("Tumour Sample", "Normal Sample"), col=brewer.pal
 \subsection{Normalisation of the data} % 2b)
 In order to make  gene expression profiles comparable between samples, we normalised the data using the Trimmed Mean of M (TMM) method. Then, we produced a series of plots which help us visualise how the data changed after the normalisation.
 
-First, we plotted the histogram of the normalised read counts, which can be seen in figure~\ref{fig:norm-read-coverage}. We can see a few differences in the distribution of normalised read counts when compared with that of the raw read counts (in figure~\ref{fig:read-coverage}). We can see that there is no longer such an accentuated ``tail'' on the right-side of the histogram (the higher read count values). While in the raw read counts the last bin was accounting for genes with a read count of around 180 million, in the normalised version we no longer have such high values: the last bin has read count of about 170 million read counts. Furthermore, we can identify in the normalised read counts a bimodal distribution: there are 2 peaks in the histogram, at around 75 million and 90 million normalized reads. These could not be seen in the original read count histogram where only one peak was discernible at around 85 million read counts.
+First, we plotted the histogram of the normalised read counts, which can be seen in figure~\ref{fig:norm-read-coverage}. We can see a few differences in the distribution of normalised read counts when compared with that of the raw read counts (in figure~\ref{fig:read-coverage}). We can see that there is no longer such an accentuated ``tail'' on the right-side of the histogram (the higher read count values). While in the raw read counts the last bin was accounting for genes with a read count of around 180 million, in the normalised version we no longer have such high values: the last bin has read count of about 170 million read counts. Furthermore, we can identify in the normalised read counts a bimodal distribution: there are 2 peaks in the histogram, at around 75 million and 90 million normalised reads. These could not be seen in the original read count histogram where only one peak was discernible at around 85 million read counts.
 
-<<norm-read-coverage, fig.pos="ht", fig.width=5, fig.asp=1/2, fig.align='center', fig.cap="Read counts histogram.">>=
+<<norm-read-coverage, fig.pos="ht", fig.width=5, fig.asp=1/2, fig.align='center', fig.cap="Normalised read counts histogram.">>=
 dge <- DGEList(counts=data.matrix(read_counts))
 
 keep <- filterByExpr(dge)
@@ -228,7 +233,7 @@ dge <- dge[keep, , keep.lib.sizes=FALSE]
 
 dge <- calcNormFactors(dge)
 
-ggplot(counts_histogram, aes(x=counts * dge$samples$norm.factors)) + ylab("Absolute Frequency") + xlab("Normalized #reads") + geom_histogram(color="black", fill="white", position="dodge", bins=20, alpha=.5) + theme_classic()
+ggplot(counts_histogram, aes(x=counts * dge$samples$norm.factors)) + ylab("Absolute Frequency") + xlab("Normalised #reads") + geom_histogram(color="black", fill="white", position="dodge", bins=20, alpha=.5) + theme_classic()
 @
 
 We wanted to ensure that after normalisation the number of read counts we had for a sample was not a factor when analysing how the read counts of each gene affect the samples. We want to consider only the ratio between genes' read counts, not the number of read counts per sample.
@@ -241,7 +246,7 @@ The result can be seen in figure~\ref{fig:mds2}. There is a clear separation bet
 
 We can also see that there are a few normal-sample outliers: some orange marks are detached from the orange cluster. These are a cause for concern. A naive classifier might label them as diseased, causing a false positive. There are also a few green marks within the orange cluster, and these are even more preoccupying: they may be classified as healthy when they are in fact diseased. A false negative such as this may result in a patient declared healthy when they, in fact, have cancer, which means they will not be getting the treatment they need.
 
-<<mds, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing.", fig.ncol=1, fig.subcap=c("a", "b", "c"), cache=TRUE>>=
+<<mds, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Multidimensional Scaling (MDS) plots of the data after normalizing.", fig.ncol=1, fig.subcap=c("MDS plot of samples coloured according to normalised read counts.", "MDS plot with samples coloured according to whether they are from tumour or normal tissue."), cache=TRUE>>=
 normalized = colSums(read_counts) * dge$samples$norm.factors
 
 par(mar=c(4.25,4.25,.75,.75))
@@ -255,7 +260,7 @@ legend("topleft", legend=c("Tumour Sample", "Normal Sample"), col=brewer.pal(3, 
 \subsection{Phenotypic traits and genes that dominate variance}\label{sec:2c} % 2c) 
 In an effort to separate the 2 different clusters formed by diseased tissue samples in the MDS plot in figure~\ref{fig:mds2}, we produced a new MDS plot evidencing the PAM50 classification of each sample, by colouring the respective mark with a different colour for each class. We can see that there is a clear distinction between the clusters. The upper right cluster corresponds to tissue samples with Basal classification, while the group on the bottom left is comprised of the Luminal type samples (both A and B). We can also see that the HER2-enriched samples are positioned ``in the middle'' of these two groups. Finally, there are too few normal-like samples to discern any pattern. We conclude that PAM50 phenotype dominates data variance, and that the PAM50 genes are associated with the main axes of variance. Since we can explain all data variance using biological factors, we do not think there is any non-biological effect worth acting on.
 
-<<mds-2, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Multidimensional Scaling plot of the data after normalizing, grouped by PAM50 classification.", cache=TRUE>>=
+<<mds-2, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="MDS plot of the data after normalizing, grouped by PAM50 classification.", cache=TRUE>>=
 par(mar=c(4.25,4.25,.75,.75))
 
 plotMDS(dge, pch=20, col = brewer.pal(5, "Dark2")[PAM50], gene.selection = "common")
@@ -270,10 +275,7 @@ Next, we repeated te proccess, but this time the differential expression of each
 
 We can see that the top 5 genes are exactly the same, from which we conclude that the age of the patient does not affect the differences in expressed genes between tumourtumours and normal breast samples.
 
-\todo{What are the main differences in expressed genes and activated pathways between primary
-tumours and normal breast samples?}
-
-<<2d, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="", cache=TRUE>>=
+<<2d, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Vooms?", cache=TRUE>>=
 dge <- DGEList(counts=data.matrix(read_counts))
 keep <- filterByExpr(dge)
 dge <- dge[keep, , keep.lib.sizes=FALSE]
@@ -291,8 +293,9 @@ v <- voom(dge,design,plot=TRUE)
 linearfit = lmFit(v$E,design)
 eBfit = eBayes(linearfit)
 volcanoplot(eBfit,coef=2,style="B-statistic")
-kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "Top 5 most differentially expressed genes considering both the tumour classification of the tissue and the age of the patient", table.envir = "table*", lable="2d2")
+kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, caption = "Top 5 most differentially expressed genes considering both the tumour classification of the tissue and the age of the patient", table.envir = "table*", label="2d2")
 @
+
 
 \section{} % Group 3
 
@@ -300,7 +303,7 @@ kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, captio
 
 We want to show how the gene expression for some genes relates to the binary classification for the related immunohistochemistry-based tests in the patient data. To do so, we produce 3 plots, showed in figures \ref{fig:estrogen}, \ref{fig:progesterone} and \ref{fig:her2}.
 
-First, in figure~\ref{fig:estrogen1} we have a scatter tissue sample the read count of ESR1 on the x-axis and the read count of ERS2 on the y-axis. Each mark is colored according to the presence of estrogen receptors in the respective tissue sample. We can see by this graph that the expression of ESR1 is highly related to the presence of estrogen receptors: the tissue samples with estrogen receptors tend to have higher read counts of ESR1. On the other hand, ESR2 appears to have little influence on the presence of estrogen receptors. So we hypothesise that ERS1's expression is very good at recapitulating the presence of estrogen receptors in a tissue sample.
+First, in figure~\ref{fig:estrogen1} we have a scatter plot where each mark is a tissue sample, and it is placed according to the read count of ESR1 on the x-axis and the read count of ERS2 on the y-axis. Each mark is colored according to the presence of estrogen receptors in the respective tissue sample. We can see by this graph that the expression of ESR1 is highly related to the presence of estrogen receptors: the tissue samples with estrogen receptors tend to have higher read counts of ESR1. On the other hand, ESR2 appears to have little influence on the presence of estrogen receptors. So we hypothesise that ERS1's expression is very good at recapitulating the presence of estrogen receptors in a tissue sample.
 
 To confirm that hypothesis, we plotted a Receiver Operating Characteristic (ROC) curve. 
 It plots the True Positive Rate (TPR) on the y-axis against the False Positive Rate (TNR) on the x-axis, and shows how the performance of a binary classifier varies as its discrimination threshold is varied.
@@ -309,7 +312,7 @@ The ROC curve for read counts of ESR1 gene is shown in figure~\ref{fig:estrogen2
 
 We conclude ERS1's expression is very good at recapitulating the presence of estrogen receptors in a tissue sample, but the same is not true of ESR2.
 
-<<estrogen, fig.pos='ht', fig.width=4, fig.height=3.5, fig.ncol=1, fig.align='center', fig.cap="Relation between ESR1/ESR2 expression and the presence of estrogen receptors.", fig.subcap=c('a', 'b'), warning=FALSE>>=
+<<estrogen, fig.pos='ht', fig.width=4, fig.height=3.5, fig.ncol=1, fig.align='center', fig.cap="Relation between ESR1 and ESR2's expression and the presence of estrogen receptors on a tissue sample.", fig.subcap=c('Scatter plot of read counts of ESR1 and ERS2', 'ROC of ESR1 as a classifier of the presence of estrogen receptors.'), warning=FALSE>>=
 ggplot(data_g3, aes(x=ESR1, y=ESR2, color=Estrogen)) + scale_color_brewer(palette="Dark2") + scale_y_log10() + scale_x_log10() + geom_point() + annotation_logticks() + theme_classic() + theme(legend.position="top")
 
 tmp <- ggplot(data.frame(pred=ESR1[!is.na(Estrogen_bin)], truth=Estrogen_bin[!is.na(Estrogen_bin)]), aes(m=pred, d=truth)) + geom_roc(n.cuts=5) + geom_abline(color="black")
@@ -321,7 +324,7 @@ Secondly, in figure~\ref{fig:progesterone1} we want to evaluate how PGR relates 
 
 Again, we plotted a ROC curve shown in figure~\ref{fig:progesterone2}, this time showing how well the read counts of PGR's expression classifies samples the presence of progesterone receptors in tissue samples. This time, the curve does not come as close to the upper left corner as with ESR1. However we can maintain the TPR as high as 90\% maintaining the FPR at 25\%. We still have AUC = 0.9, so we conclude PGR's expression is very good at recapitulating the presence of progesterone receptors in a tissue sample.
 
-<<progesterone, fig.pos='ht', fig.width=4, fig.height=3.5, fig.ncol=1, fig.align='center', fig.cap="Relation between PGR expression and the presence of progesterone receptors.", fig.subcap=c('a', 'b'), warning=FALSE>>=
+<<progesterone, fig.pos='ht', fig.width=4, fig.height=3.5, fig.ncol=1, fig.align='center', fig.cap="Relation between PGR expression and the presence of progesterone receptors.", fig.subcap=c('histogram of tissue samples against the read count of PGR', 'ROC of PGR as a classifier of the presence of progesterone receptors.'), warning=FALSE>>=
 gghistogram(data_g3, x = "PGR", bins = 20,
             add = "mean", rug = TRUE,
             color = "Progesterone", fill="Progesterone", xscale="log10", palette="Dark2")
@@ -337,7 +340,7 @@ ERBB2's expressivity is not a very good indicator of the presence of HER2 protei
 
 We conclude that another measure must be used to complement a classifier for the presence of HER2 protein on tissue samples, perhaps the expressivity of another gene. If a ERBB2-based classifier is used, we should be careful when handling its results. If it classifies a sample as `positive', we can safely trust that result, as it has only 5\% chance of being wrong; on the other hand, if the classifier returns `negative', we should not trust it because our classifier classifies half the positive samples as `negative'.
 
-<<her2, fig.pos='ht', fig.width=4, fig.height=3.5, fig.ncol=1, fig.align='center', fig.cap="Relation between ERBB2 expression and the presence of HER2 protein.", fig.subcap=c('a', 'b'), warning=FALSE>>=
+<<her2, fig.pos='ht', fig.width=4, fig.height=3.5, fig.ncol=1, fig.align='center', fig.cap="Relation between ERBB2 expression and the presence of HER2 protein.", fig.subcap=c('histogram of tissue samples against the read count of ERBB2', 'ROC of ERBB2 as a classifier of the presence of HER2 protein.'), warning=FALSE>>=
 gghistogram(data_g3, x = "ERBB2", bins = 20,
             add = "mean", rug = TRUE,
             color = "HER2", fill = "HER2", xscale="log10", palette="Dark2")
@@ -347,7 +350,6 @@ tmp <- ggplot(data.frame(pred=ERBB2[!is.na(HER2_bin)], truth=HER2_bin[!is.na(HER
 tmp + style_roc(theme=theme_classic) + annotate("text", x=.75, y=.25, label=paste("AUC =", round(calc_auc(tmp)$AUC, 2))) #+ theme(panel.grid.major.y = element_line(colour = "grey", size = .25), panel.grid.minor.y = element_line(colour = "grey", size = .1), panel.grid.major.x = element_line(colour = "grey", size = .25), panel.grid.minor.x = element_line(colour = "grey", size = .1))
 @
 
-\FloatBarrier
 \subsection{Survival analysis} %3b)
 First, we produced a typical survival analysis plot, shown in figure~\ref{fig:survival}.
 
@@ -364,9 +366,8 @@ This plot shows the probability of a patient surviving past a certain number of 
 
 However, these results should be taken with a grain of salt. We can see that we have very large confidence intervals for most classes, which tell us we do not have enough data to make conclusive predictions, possibily due to the large amount of censored data. 
 
-\subsection{Gene signature that best classifies molecular subtypes} %3c)
-We compute once again the differencial gene expression, as in exercise \ref{sec:2d}, only this time it is with respect to the PAM50 classidication. We pick the top 5 most differentially expressed genes, which are shown in table~\ref{tab:dif-expr-pam50}. \todo{How many of the genes in your signature are
-part of the PAM50 gene list? See on PDF}
+\subsection{Gene signature that best classifies molecular subtypes}\label{sec:3c} %3c)
+We compute once again the differencial gene expression, as in exercise \ref{sec:2d}, only this time it is with respect to the PAM50 classidication. We pick the top 5 most differentially expressed genes, which are shown in table~\ref{tab:dif-expr-pam50}. Of these 5 genes, 3 (FOXA1, FOXC1, MLPH) are in PAM50 and the remaining 2 (SFRS13B, SIDT1) are not.
 
 <<fig.pos="ht", fig.align='center', fig.cap="Hello">>=
 dge <- DGEList(counts=data.matrix(read_counts))
@@ -388,23 +389,11 @@ kable(topTable(eBfit,coef=2,number=5), format = "latex", booktabs = TRUE, captio
 
 We use the read counts of these 5 genes as training data for a K-Nearest Neighbours (KNN) classifier, with k=5. This classifier, when given the read counts of a new sample, computes the distance for then new sample to the training samples (the distance is smaller when the read counts for the same genes are closer). Then, it picks the 5 training smaples that are closest to the new sample, i.e., the 5 neares neighbours. It will then classify the new sample with the most common class among those 5 neighbours.
 
-To test this classifier, we performed leave-one-out cross-validation: from our N classified samples, we used N\(-1\) as training data, and the remaining one as test data. We show the results of this in the form of a confusion matrix, in figure~\ref{fig:knn-conf}.
+To test this classifier, we performed leave-one-out cross-validation: from our N classified samples, we used N\(-1\) as training data, and the remaining one as test data. We show the results of this in the form of a confusion matrix, in figure~\ref{fig:knntop5-conf}.
 
-<<knn-pam50, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE, message=FALSE>>=
-pam50_genes <- c("UBE2T","BIRC5","NUF2","CDC6","CCNB1","TYMS","MYBL2","CEP55","MELK","NDC80","RRM2","UBE2C","CENPF","PTTG1","EXO1","ORC6L","ANLN","CCNE1","CDC20","MKI67","KIF2C","ACTR3B","MYC","EGFR","KRT5","PHGDH","CDH3","MIA","KRT17","FOXC1","SFRP1","KRT14","ESR1","SLC39A6","BAG1","MAPT","PGR","CXXC5","MLPH","BCL2","MDM2","NAT1","FOXA1","BLVRA","MMP11","GPR160","FGFR4","GRB7","TMEM45B","ERBB2")
+\todo{explain confusion}
 
-reads <- as.data.frame(t(read_counts[pam50_genes,]))
-reads$PAM50 <- PAM50
-labeled <- reads[!is.na(PAM50),]
-unlabeled <- reads[is.na(PAM50),]
-
-results <- knn.cv(labeled[, names(labeled) != "PAM50"], cl=labeled$PAM50, k=5)
-
-ggplot(data = melt(confusionMatrix(results, labeled$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile() + scale_fill_gradient(low = muted(brewer.pal(3, "Dark2")[1], l=90, c=30), high = muted(brewer.pal(3, "Dark2")[1]), trans="sqrt") + theme(axis.text.x = element_text(angle = 45, margin=margin(25,0,0,0)))
-
-@
-
-<<knn-conf, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE, message=FALSE>>=
+<<knntop5-conf, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="Confusion matrix of leave-one-out cross-validation 5-Nearest Neighbour classifier", cache=TRUE, message=FALSE>>=
 top_genes <- rownames(topTable(eBfit, number=5))
 
 reads <- as.data.frame(t(read_counts[top_genes,]))
@@ -418,9 +407,33 @@ ggplot(data = melt(confusionMatrix(results, labeled$PAM50)$table), aes(x=Predict
 
 @
 
+We tried using different classifiers besides KNN: elastic nets (before we realised these are only fit of regression problems) and naive bayes.
+We tried using more and fewer genes in our gene expression (always the most differentially expressed): 1, 2, 3, 4, 5, 10, 20, 50 and 100.
+We also tried different values for the number of neighbours (k) in KNN: 1, 3, 5, 7, 9, 11, 13 and 15.
+In the end, we concluded the best behaving model to be the KNN with k=5 and using only the top 5 most differentially expressed genes' read counts as training data.
+
+After, we evaluated the performance of a KNN classifier with k=5 that uses the PAM50 genes' read expressions as training data using the same cross validation method. 
+Despite all our efforts, the results are disheartening (and shown in figure~\ref{fig:knnpam50-conf}).
+
+\todo{explain and compare confusion}
+
+<<knnpam50-conf, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE, message=FALSE>>=
+pam50_genes <- c("UBE2T","BIRC5","NUF2","CDC6","CCNB1","TYMS","MYBL2","CEP55","MELK","NDC80","RRM2","UBE2C","CENPF","PTTG1","EXO1","ORC6L","ANLN","CCNE1","CDC20","MKI67","KIF2C","ACTR3B","MYC","EGFR","KRT5","PHGDH","CDH3","MIA","KRT17","FOXC1","SFRP1","KRT14","ESR1","SLC39A6","BAG1","MAPT","PGR","CXXC5","MLPH","BCL2","MDM2","NAT1","FOXA1","BLVRA","MMP11","GPR160","FGFR4","GRB7","TMEM45B","ERBB2")
+
+reads <- as.data.frame(t(read_counts[pam50_genes,]))
+reads$PAM50 <- PAM50
+labeled <- reads[!is.na(PAM50),]
+unlabeled <- reads[is.na(PAM50),]
+
+results <- knn.cv(labeled[, names(labeled) != "PAM50"], cl=labeled$PAM50, k=5)
+
+ggplot(data = melt(confusionMatrix(results, labeled$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile() + scale_fill_gradient(low = muted(brewer.pal(3, "Dark2")[1], l=90, c=30), high = muted(brewer.pal(3, "Dark2")[1]), trans="sqrt") + theme(axis.text.x = element_text(angle = 45, margin=margin(25,0,0,0)))
+@
+
 
 \subsection{Classifying molecular subtype} %3d)
 
+We used our KNN classifier from exercise~\ref{sec:3c}. To visualise the results we produced the MDS plot that can be seen in figure~\ref{fig:classifier-2}
 
 
 <<classifier-2, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE>>=
