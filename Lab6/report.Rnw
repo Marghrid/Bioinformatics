@@ -290,7 +290,7 @@ legend("topleft", legend=levels(PAM50), col=brewer.pal(5, "Dark2"), fill=brewer.
 
 
 \subsection{Differentially expressed genes between tumour and normal samples}\label{sec:2d} % 2d)
-We used the \texttt{edgeR} package to compute the differential expression of each gene with respect to whether the sample is healthy or has a tumour. Then, we selected the top-5 most differentially expressed genes. The results are shown in table~\ref{tab:2d1}.
+We used the \texttt{edgeR} package to compute the differential expression of each gene with respect to whether the sample is from healthy tissue or a tumour. Then, we selected the top-5 most differentially expressed genes. The results are shown in table~\ref{tab:2d1}.
 
 Next, we repeated te proccess, but this time the differential expression of each gene was computed with respect not only to whether the sample is from healthy tissue or a tumour but also to the age of the patient. The results are shown in table~\ref{tab:2d2}.
 
