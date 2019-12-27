@@ -272,11 +272,11 @@ tumours and normal breast samples? How does the age of patients affect those dif
 
 We want to show how the gene expression for some genes relates to the binary classification for the related immunohistochemistry-based tests in the patient data. To do so, we produce 3 plots, showed in figure~\ref{fig:3a}.
 
-First, in figure~\ref{fig:3a1} we have a scatter tissue sample the read count of ESR1 on the x-axis and the read count of ERS2 on the y-axis. Each mark is colored according to the presence of estrogen receptors in the respective tissue sample. We can see by this graph that the expression of ESR1 is highly related to the presence of estrogen receptors: the tissue samples with estrogen receptors tend to have higher read counts of ESR1. On the other hand, ESR2 appears to have little influence on the presence of estrogen receptors. We conclude ERS1's expression is very good at recapitulating the presence of estrogen receptors in a tissue sample, but the same is not true of ESR2.
+First, in figure~\ref{fig:3a1} we have a scatter tissue sample the read count of ESR1 on the x-axis and the read count of ERS2 on the y-axis. Each mark is colored according to the presence of estrogen receptors in the respective tissue sample. We can see by this graph that the expression of ESR1 is highly related to the presence of estrogen receptors: the tissue samples with estrogen receptors tend to have higher read counts of ESR1. On the other hand, ESR2 appears to have little influence on the presence of estrogen receptors. So we hypothesise that ERS1's expression is very good at recapitulating the presence of estrogen receptors in a tissue sample.
 
-Secondly, in figure~\ref{fig:3a2} we want to evaluate how PGR relates to the presence of progesterone receptors in tissue samples. Since we only have one gene to evaluate, we adopt a different approach: we used a histogram to plot the number of tissue samples we have (in the y-axis) against the read count of PGR. As we can see, the trend is for the tissue samples that test positive for the presence of progesterone receptors to have a higher read count of PGR, and for the the negative samples to have lower values.  We conclude PGR's expression is very good at recapitulating the presence of progesterone receptors in a tissue sample.
+To confirm that hypotesis, we plotted a (Receiver Operating Characteristic) ROC curve
 
-Finally, in figure~\ref{fig:3a3} we use a similar histogram to show the relation between the presence of HER2 protein in the tissue sample to the read count of ERBB2 gene.
+We conclude ERS1's expression is very good at recapitulating the presence of estrogen receptors in a tissue sample, but the same is not true of ESR2.
 
 <<estrogen, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Relation between ESR1/ESR2 expression and the presence of estrogen receptors.", fig.subcap=c('a', 'b'), warning=FALSE>>=
 ggplot(data_g3, aes(x=ESR1, y=ESR2, color=Estrogen)) + scale_color_brewer(palette="Dark2") + scale_y_log10() + scale_x_log10() + geom_point() + annotation_logticks() + theme_classic()
@@ -285,6 +285,11 @@ tmp <- ggplot(data.frame(pred=ESR1[!is.na(Estrogen_bin)], truth=Estrogen_bin[!is
 
 tmp + style_roc(theme=theme_classic) + annotate("text", x=.75, y=.25, label=paste("AUC =", round(calc_auc(tmp)$AUC, 2))) #+ theme(panel.grid.major.y = element_line(colour = "grey", size = .25), panel.grid.minor.y = element_line(colour = "grey", size = .1), panel.grid.major.x = element_line(colour = "grey", size = .25), panel.grid.minor.x = element_line(colour = "grey", size = .1))
 @
+
+Secondly, in figure~\ref{fig:3a2} we want to evaluate how PGR relates to the presence of progesterone receptors in tissue samples. Since we only have one gene to evaluate, we adopt a different approach: we used a histogram to plot the number of tissue samples we have (in the y-axis) against the read count of PGR. As we can see, the trend is for the tissue samples that test positive for the presence of progesterone receptors to have a higher read count of PGR, and for the the negative samples to have lower values.  We conclude PGR's expression is very good at recapitulating the presence of progesterone receptors in a tissue sample.
+
+Finally, in figure~\ref{fig:3a3} we use a similar histogram to show the relation between the presence of HER2 protein in the tissue sample to the read count of ERBB2 gene.
+
 
 <<progesterone, fig.pos='ht', fig.width=4.5, fig.height=2.5, fig.ncol=1, fig.align='center', fig.cap="Relation between PGR expression and the presence of progesterone receptors.", fig.subcap=c('a', 'b'), warning=FALSE>>=
 gghistogram(data_g3, x = "PGR", bins = 20,
@@ -315,7 +320,7 @@ time <- ifelse(is.na(DaysToDeath), LastFollowUp, DaysToDeath)
 data = data.frame(Patient, Status, PAM50, DaysToDeath)
 
 km_fit <- survfit(Surv(time, !is.na(DaysToDeath)) ~ PAM50, data=data)
-autoplot(km_fit, conf.int.alpha=0.2, ylab="survival")+ scale_color_brewer(palette="Dark2") + scale_fill_brewer(palette="Dark2") + theme_classic()
+autoplot(km_fit, conf.int.alpha=0.05, ylab="survival")+ scale_color_brewer(palette="Dark2") + scale_fill_brewer(palette="Dark2") + theme_classic()
 @
 
 \subsection{Gene signature that best classifies molecular subtypes} %3c)
