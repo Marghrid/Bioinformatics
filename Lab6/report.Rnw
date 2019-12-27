@@ -88,6 +88,7 @@ library(class)
 library(caret)
 library(reshape2)
 library(ensr)
+library(scales)
 opts_chunk$set(echo=FALSE)
 options(digits=4)
 @
@@ -389,6 +390,20 @@ We use the read counts of these 5 genes as training data for a K-Nearest Neighbo
 
 To test this classifier, we performed leave-one-out cross-validation: from our N classified samples, we used N\(-1\) as training data, and the remaining one as test data. We show the results of this in the form of a confusion matrix, in figure~\ref{fig:knn-conf}.
 
+<<knn-pam50, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE, message=FALSE>>=
+pam50_genes <- c("UBE2T","BIRC5","NUF2","CDC6","CCNB1","TYMS","MYBL2","CEP55","MELK","NDC80","RRM2","UBE2C","CENPF","PTTG1","EXO1","ORC6L","ANLN","CCNE1","CDC20","MKI67","KIF2C","ACTR3B","MYC","EGFR","KRT5","PHGDH","CDH3","MIA","KRT17","FOXC1","SFRP1","KRT14","ESR1","SLC39A6","BAG1","MAPT","PGR","CXXC5","MLPH","BCL2","MDM2","NAT1","FOXA1","BLVRA","MMP11","GPR160","FGFR4","GRB7","TMEM45B","ERBB2")
+
+reads <- as.data.frame(t(read_counts[pam50_genes,]))
+reads$PAM50 <- PAM50
+labeled <- reads[!is.na(PAM50),]
+unlabeled <- reads[is.na(PAM50),]
+
+results <- knn.cv(labeled[, names(labeled) != "PAM50"], cl=labeled$PAM50, k=5)
+
+ggplot(data = melt(confusionMatrix(results, labeled$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile() + scale_fill_gradient(low = muted(brewer.pal(3, "Dark2")[1], l=90, c=30), high = muted(brewer.pal(3, "Dark2")[1]), trans="sqrt") + theme(axis.text.x = element_text(angle = 45, margin=margin(25,0,0,0)))
+
+@
+
 <<knn-conf, fig.pos="ht", fig.width=5, fig.height=4, fig.align='center', fig.cap="a", cache=TRUE, message=FALSE>>=
 top_genes <- rownames(topTable(eBfit, number=5))
 
@@ -399,9 +414,11 @@ unlabeled <- reads[is.na(PAM50),]
 
 results <- knn.cv(labeled[, names(labeled) != "PAM50"], cl=labeled$PAM50, k=5)
 
-ggplot(data = melt(confusionMatrix(results, labeled$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile() + scale_fill_gradient(trans="sqrt") + theme(axis.text.x = element_text(angle = 45, margin=margin(25,0,0,0)))
+ggplot(data = melt(confusionMatrix(results, labeled$PAM50)$table), aes(x=Prediction, y=Reference, fill=value)) + geom_tile() + scale_fill_gradient(low = muted(brewer.pal(3, "Dark2")[1], l=90, c=30), high = muted(brewer.pal(3, "Dark2")[1]), trans="sqrt") + theme(axis.text.x = element_text(angle = 45, margin=margin(25,0,0,0)))
 
 @
+
+
 \subsection{Classifying molecular subtype} %3d)
 
 
